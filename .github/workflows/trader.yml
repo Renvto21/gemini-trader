@@ -1,0 +1,45 @@
+name: Gemini Autonomous Trader
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 15 minutos
+    - cron: '*/15 * * * *'
+  # Botón manual para ejecutarlo cuando quieras desde GitHub (web o app móvil)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-trader:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar entorno Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar dependencias
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ejecutar ciclo de análisis y trading con Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python -u main.py --run-once
+
+      - name: Guardar portafolio y log actualizados
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
+          git add portfolio.json trading.log
+          git diff --staged --quiet || (git commit -m "🤖 Actualización automática del portafolio [skip ci]" && git push)

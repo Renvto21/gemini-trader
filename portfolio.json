@@ -1,0 +1,21 @@
+{
+  "initial_capital": 20.0,
+  "cash": 14.0,
+  "positions": {
+    "AAPL": {
+      "shares": 0.017821605726675974,
+      "avg_price": 336.67
+    }
+  },
+  "history": [
+    {
+      "timestamp": "2026-10-07T23:09:58.250279",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "amount_usd": 6.0,
+      "shares": 0.017822,
+      "price": 336.67,
+      "reason": "AAPL es la opción más equilibrada del mercado actual: mantiene una tendencia alcista confirmada y un RSI saludable de 49.6, alejado de la sobrecompra de otros gigantes tecnológicos. Destinamos $6.00 USD a esta compra, cumpliendo con el límite de exposición por operación ($5.00 - $8.00 USD) y preservando $14.00 USD en efectivo como reserva de seguridad."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Claves y secretos privados (NUNCA subir a GitHub)
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales de test
+payload.json
+test_gemini.py
