@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 18:53:31`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 18:56:07`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$20.00 USD** | **$4.09 USD** | **$16.02 USD** | **$20.12 USD** | 🟢 **+0.59%** ($+0.12) |
+| **$20.00 USD** | **$4.09 USD** | **$16.04 USD** | **$20.14 USD** | 🟢 **+0.69%** ($+0.14) |
 
 ---
 
@@ -16,19 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.017822 | $336.67 | $336.75 | $6.00 | 📈 +0.02% |
-| `SPY` | 0.006458 | $774.29 | $778.46 | $5.03 | 📈 +0.54% |
-| `NVDA` | 0.021772 | $229.65 | $229.44 | $5.00 | 📉 -0.09% |
+| `AAPL` | 0.017822 | $336.67 | $337.53 | $6.02 | 📈 +0.26% |
+| `SPY` | 0.006458 | $774.29 | $778.83 | $5.03 | 📈 +0.59% |
+| `NVDA` | 0.021772 | $229.65 | $229.57 | $5.00 | 📉 -0.03% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado de renta variable estadounidense (SPY, QQQ) mantiene una tendencia técnica alcista sólida por encima de sus medias móviles de 20 días con osciladores RSI en terreno neutral y saludable (47 a 58), a excepción de MSFT que muestra signos de sobrecompra (RSI 72.6). En contraste, el sector cripto y el oro permanecen bajo presión técnica con tendencias bajistas debajo de la SMA20. Dado que el efectivo disponible ($4.09 USD) debe mantener un colchón mínimo de seguridad de $3.00 USD, el capital libre operable es de apenas $1.09 USD, insuficiente para una nueva asignación responsable sin desbalancear la cartera."*
+> *"Error al consultar Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD."*
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 85%): AAPL mantiene una estructura alcista por encima de su SMA20 con un RSI neutral de 47.4. La posición se encuentra prácticamente a precio de entrada sin justificación técnica ni fundamental para tomar pérdidas o cerrar la posición.
-- **[HOLD] SPY** (Confianza: 90%): SPY continúa marcando tendencia positiva por encima de la SMA20 con un RSI saludable de 55.5 y leve rendimiento acumulado a favor. Actúa como el pilar diversificado del portafolio, por lo que se mantiene la posición.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error de conexión o API, manteniendo posiciones.
 
 ---
 
