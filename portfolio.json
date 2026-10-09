@@ -1,11 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.0947182600000005,
+  "cash": 4.0941836118282,
   "positions": {
-    "AAPL": {
-      "shares": 0.017821605726675974,
-      "avg_price": 336.67
-    },
     "SPY": {
       "shares": 0.006457528832866239,
       "avg_price": 774.29
@@ -23,8 +19,8 @@
       "avg_price": 109.08
     },
     "ETH-USD": {
-      "shares": 0.002014731718324388,
-      "avg_price": 2481.7200000000003
+      "shares": 0.0044330529197463605,
+      "avg_price": 2481.3599564765336
     }
   },
   "history": [
@@ -108,6 +104,24 @@
       "shares": 0.002015,
       "price": 2481.72,
       "reason": "ETH-USD muestra un RSI de 24.9, confirmando una capitulación de corto plazo en el mercado cripto. Entramos con una posición estándar de $5.00 USD para capturar el rebote técnico coordinado con el resto del mercado de activos digitales."
+    },
+    {
+      "timestamp": "2026-10-09T18:31:09.591212-03:00",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "amount_usd": 6.0,
+      "shares": 0.017822,
+      "price": 336.64,
+      "reason": "Rotación estratégica de capital. AAPL se encuentra estancada con un rendimiento de -0.01% y un RSI neutral de 47.3. Liquidamos la posición para liberar $6.00 USD de capital y redirigirlos a un activo con mayor momentum y descuento técnico."
+    },
+    {
+      "timestamp": "2026-10-09T18:31:09.591970-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 6.0,
+      "shares": 0.002418,
+      "price": 2481.06,
+      "reason": "Oportunidad de alta convicción por sobreventa extrema (RSI de 24.8). Con los $6.00 USD liberados de AAPL, incrementamos nuestra exposición en ETH-USD para buscar un rebote rápido del +2.5% al +6.0%, acumulando una posición total de alta convicción cercana a los $11.00 USD."
     }
   ]
 }
