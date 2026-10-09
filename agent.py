@@ -26,7 +26,10 @@ class TradingAgent:
             raise ValueError(
                 "No se encontró GEMINI_API_KEY. Asegúrate de configurarla en tu archivo .env o variable de entorno."
             )
-        self.client = genai.Client(api_key=self.api_key)
+        self.client = genai.Client(
+            api_key=self.api_key,
+            http_options=types.HttpOptions(timeout=30)
+        )
         self.model_name = model_name
 
     def evaluate_market_and_decide(
@@ -34,13 +37,14 @@ class TradingAgent:
         portfolio_summary: Dict[str, Any],
         market_snapshot: Dict[str, Any]
     ) -> AgentDecision:
+        initial_cap = portfolio_summary.get('initial_capital', 40.0)
         prompt = f"""
-Eres un gestor de inversiones cuantitativo y prudente. Tu objetivo es hacer crecer de manera sostenible un pequeño portafolio experimental de inversión inicial de $20.00 USD.
+Eres un gestor de inversiones cuantitativo y prudente. Tu objetivo es hacer crecer de manera sostenible un portafolio experimental de inversión con capital base de ${initial_cap:.2f} USD.
 
 REGLAS DE GESTIÓN DE RIESGO:
-1. Capital inicial muy pequeño: $20.00 USD. Máxima prudencia.
+1. Capital administrado: ${initial_cap:.2f} USD. Máxima prudencia.
 2. NUNCA arriesgues todo el capital en un solo activo. Máximo $5.00 a $8.00 USD por compra.
-3. Mantén siempre una reserva de efectivo (cash) de al menos $3.00 USD para imprevistos o caídas.
+3. Mantén siempre una reserva de efectivo (cash) de al menos $5.00 USD para imprevistos o caídas.
 4. Si el mercado está indeciso, sobrecalentado (RSI > 70) o las noticias son negativas, la decisión más inteligente es HOLD.
 5. Solo compra activos con tendencia favorable, RSI en niveles atractivos o catalizadores positivos claros.
 6. Si una posición tiene ganancias considerables o el activo rompe soporte a la baja, puedes decidir SELL para tomar ganancias o cortar pérdidas.
