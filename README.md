@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 19:24:03`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 19:33:45`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.11 USD** | **$35.98 USD** | **$40.09 USD** | 🟢 **+0.22%** ($+0.09) |
+| **$40.00 USD** | **$4.11 USD** | **$36.01 USD** | **$40.12 USD** | 🟢 **+0.30%** ($+0.12) |
 
 ---
 
@@ -16,8 +16,8 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.183448 | $109.02 | $108.88 | $19.97 | 📉 -0.13% |
-| `ETH-USD` | 0.006448 | $2481.58 | $2482.21 | $16.00 | 📈 +0.03% |
+| `SOL-USD` | 0.183448 | $109.02 | $108.97 | $19.99 | 📉 -0.05% |
+| `ETH-USD` | 0.006448 | $2481.58 | $2484.53 | $16.02 | 📈 +0.12% |
 
 ---
 
