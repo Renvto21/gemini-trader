@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 18:56:07`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 16:06:57`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$20.00 USD** | **$4.09 USD** | **$16.04 USD** | **$20.14 USD** | 🟢 **+0.69%** ($+0.14) |
+| **$40.00 USD** | **$24.09 USD** | **$16.05 USD** | **$40.15 USD** | 🟢 **+0.37%** ($+0.15) |
 
 ---
 
@@ -16,18 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.017822 | $336.67 | $337.53 | $6.02 | 📈 +0.26% |
-| `SPY` | 0.006458 | $774.29 | $778.83 | $5.03 | 📈 +0.59% |
-| `NVDA` | 0.021772 | $229.65 | $229.57 | $5.00 | 📉 -0.03% |
+| `AAPL` | 0.017822 | $336.67 | $337.92 | $6.02 | 📈 +0.37% |
+| `SPY` | 0.006458 | $774.29 | $779.04 | $5.03 | 📈 +0.61% |
+| `NVDA` | 0.021772 | $229.65 | $229.74 | $5.00 | 📈 +0.04% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"Error al consultar Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD."*
+> *"Consulta manual del estado del portafolio."*
 
 **Operaciones del ciclo:**
-- **[HOLD] PORTFOLIO** (Confianza: 100%): Error de conexión o API, manteniendo posiciones.
+- *Sin cambios en este ciclo (HOLD)*
 
 ---
 
@@ -35,11 +35,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-09 19:07` | 💵 DEPOSIT | `CASH` | $20.00 | $1.00 | Inyección adicional de $20.00 USD de efectivo para ampliar la capacidad operativa y permit... |
 | `2026-10-09 18:37` | 🟢 BUY | `NVDA` | $5.00 | $229.65 | Iniciamos posición en NVDA con $5.00 USD. El activo mantiene una tendencia alcista sólida ... |
 | `2026-10-09 18:37` | 🔴 SELL | `GLD` | $5.09 | $384.42 | Rotamos fuera de GLD debido a su tendencia bajista actual por debajo de la SMA20. Aprovech... |
 | `2026-10-08 15:41` | 🟢 BUY | `GLD` | $5.00 | $377.27 | GLD presenta un RSI de 27.3, lo que indica condiciones de sobreventa extrema en un activo ... |
 | `2026-10-08 15:23` | 🟢 BUY | `SPY` | $5.00 | $774.29 | SPY presenta una tendencia alcista sólida sobre su SMA20 y un RSI de 62.1, lo que indica q... |
-| `2026-10-07 23:09` | 🟢 BUY | `AAPL` | $6.00 | $336.67 | AAPL es la opción más equilibrada del mercado actual: mantiene una tendencia alcista confi... |
 
 ---
 

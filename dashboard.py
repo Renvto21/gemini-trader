@@ -39,7 +39,14 @@ def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, acti
         for h in recent_history:
             t = h.get("timestamp", "")[:16].replace("T", " ")
             act = h.get("action", "")
-            badge = "🟢 BUY" if act == "BUY" else "🔴 SELL"
+            if act == "BUY":
+                badge = "🟢 BUY"
+            elif act == "SELL":
+                badge = "🔴 SELL"
+            elif act == "DEPOSIT":
+                badge = "💵 DEPOSIT"
+            else:
+                badge = f"ℹ️ {act}"
             hist_rows.append(
                 f"| `{t}` | {badge} | `{h.get('ticker')}` | ${h.get('amount_usd', 0):.2f} | ${h.get('price', 0):.2f} | {h.get('reason', '')[:90]}... |"
             )

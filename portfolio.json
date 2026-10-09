@@ -1,6 +1,6 @@
 {
-  "initial_capital": 20.0,
-  "cash": 4.0947182600000005,
+  "initial_capital": 40.0,
+  "cash": 24.0947182600000005,
   "positions": {
     "AAPL": {
       "shares": 0.017821605726675974,
@@ -60,6 +60,15 @@
       "shares": 0.021772,
       "price": 229.65,
       "reason": "Iniciamos posición en NVDA con $5.00 USD. El activo mantiene una tendencia alcista sólida sobre la SMA20 y un RSI saludable de 53.4, ofreciendo un excelente punto de entrada en comparación con otros gigantes tecnológicos sobrecomprados."
+    },
+    {
+      "timestamp": "2026-10-09T19:07:00.000000",
+      "action": "DEPOSIT",
+      "ticker": "CASH",
+      "amount_usd": 20.0,
+      "shares": 0.0,
+      "price": 1.0,
+      "reason": "Inyección adicional de $20.00 USD de efectivo para ampliar la capacidad operativa y permitir nuevas compras sin comprometer la reserva."
     }
   ]
 }
