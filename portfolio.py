@@ -51,7 +51,14 @@ class PortfolioManager:
         for ticker, pos in self.positions.items():
             shares = pos.get("shares", 0.0)
             avg_price = pos.get("avg_price", 0.0)
-            current_price = current_prices.get(ticker, avg_price)
+            raw_price = current_prices.get(ticker)
+            
+            # Si el precio no está disponible o es NaN, usar precio de compra o anterior
+            if raw_price is None or (isinstance(raw_price, float) and (raw_price != raw_price or raw_price <= 0)):
+                current_price = avg_price
+            else:
+                current_price = raw_price
+
             curr_val = shares * current_price
             cost_val = shares * avg_price
             pnl = curr_val - cost_val

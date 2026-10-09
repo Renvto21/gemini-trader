@@ -20,6 +20,7 @@ load_dotenv()
 from portfolio import PortfolioManager
 from market_data import get_market_snapshot, DEFAULT_WATCHLIST
 from agent import TradingAgent
+from dashboard import update_readme_dashboard, trim_trading_log
 
 def log_message(msg: str):
     print(msg, flush=True)
@@ -120,6 +121,16 @@ def run_trading_cycle(agent: TradingAgent, portfolio: PortfolioManager):
 
     # Guardar y mostrar resumen actualizado
     updated_summary = portfolio.get_summary(current_prices)
+    
+    # Actualizar panel visual en README.md y recortar log antiguo
+    update_readme_dashboard(
+        summary=updated_summary,
+        decision_summary=decision.market_analysis,
+        actions=decision.actions,
+        history=portfolio.data.get("history", [])
+    )
+    trim_trading_log(max_lines=150)
+
     log_message("\n🏁 Fin del ciclo.")
     log_message(f"Balance final del ciclo: ${updated_summary['total_equity']:.2f} USD (Cash: ${updated_summary['cash']:.2f} USD)")
 
@@ -128,7 +139,7 @@ def main():
     parser.add_argument("--status", action="store_true", help="Muestra el estado del portafolio y sale")
     parser.add_argument("--run-once", action="store_true", help="Ejecuta un ciclo de trading y sale")
     parser.add_argument("--loop", action="store_true", help="Ejecuta el bot en bucle continuo")
-    parser.add_argument("--interval", type=int, default=3600, help="Intervalo en segundos para el bucle (default: 3600 = 1 hora)")
+    parser.add_argument("--interval", type=int, default=600, help="Intervalo en segundos para el bucle (default: 600 = 10 mins)")
     args = parser.parse_args()
 
     portfolio = PortfolioManager()
@@ -137,7 +148,14 @@ def main():
         # Precios aproximados o directos
         snapshot = get_market_snapshot(list(portfolio.positions.keys()) or ["SPY"])
         prices = {k: v["current_price"] for k, v in snapshot.items()}
-        display_portfolio(portfolio.get_summary(prices))
+        summary = portfolio.get_summary(prices)
+        display_portfolio(summary)
+        update_readme_dashboard(
+            summary=summary,
+            decision_summary="Consulta manual del estado del portafolio.",
+            actions=[],
+            history=portfolio.data.get("history", [])
+        )
         return
 
     api_key = os.getenv("GEMINI_API_KEY")

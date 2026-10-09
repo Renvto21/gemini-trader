@@ -40,10 +40,25 @@ def get_market_snapshot(watchlist: List[str] = None) -> Dict[str, Any]:
             ticker = yf.Ticker(ticker_symbol)
             # Historial de 1 mes en velas diarias
             hist = ticker.history(period="1mo", interval="1d")
-            if hist.empty or len(hist) < 2:
+            if hist.empty:
                 continue
 
-            close_prices = hist['Close'].tolist()
+            # Limpiar filas con NaN o precios inválidos
+            hist = hist.dropna(subset=['Close'])
+            close_prices = [float(p) for p in hist['Close'].tolist() if p == p and p > 0]
+            
+            # Si no hay suficientes precios en history, intentar fast_info
+            if len(close_prices) < 2:
+                try:
+                    last_p = getattr(ticker.fast_info, 'last_price', None)
+                    if last_p and last_p == last_p and last_p > 0:
+                        close_prices.append(float(last_p))
+                except Exception:
+                    pass
+
+            if len(close_prices) < 2:
+                continue
+
             current_price = close_prices[-1]
             prev_price = close_prices[-2]
             change_24h = ((current_price - prev_price) / prev_price) * 100
