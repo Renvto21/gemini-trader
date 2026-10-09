@@ -1,11 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.0941836118282,
+  "cash": 4.121821835232868,
   "positions": {
-    "SPY": {
-      "shares": 0.006457528832866239,
-      "avg_price": 774.29
-    },
     "NVDA": {
       "shares": 0.021772262138036142,
       "avg_price": 229.65
@@ -15,8 +11,8 @@
       "avg_price": 751.7
     },
     "SOL-USD": {
-      "shares": 0.09167583425009168,
-      "avg_price": 109.08
+      "shares": 0.1375389786272702,
+      "avg_price": 109.05999266324284
     },
     "ETH-USD": {
       "shares": 0.0044330529197463605,
@@ -122,6 +118,24 @@
       "shares": 0.002418,
       "price": 2481.06,
       "reason": "Oportunidad de alta convicción por sobreventa extrema (RSI de 24.8). Con los $6.00 USD liberados de AAPL, incrementamos nuestra exposición en ETH-USD para buscar un rebote rápido del +2.5% al +6.0%, acumulando una posición total de alta convicción cercana a los $11.00 USD."
+    },
+    {
+      "timestamp": "2026-10-09T18:40:50.197940-03:00",
+      "action": "SELL",
+      "ticker": "SPY",
+      "amount_usd": 5.03,
+      "shares": 0.006458,
+      "price": 778.57,
+      "reason": "Liberamos capital de SPY, un activo de bajo beta y lento movimiento, para financiar una operación de alta convicción y volatilidad en cripto que ofrece un potencial de rebote mucho mayor."
+    },
+    {
+      "timestamp": "2026-10-09T18:40:50.198769-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 5.0,
+      "shares": 0.045863,
+      "price": 109.02,
+      "reason": "SOL-USD está extremadamente sobrevendido con un RSI de 20.3. Ejecutamos una compra agresiva para promediar y capturar un rebote técnico rápido del +2% al +6% hacia su media móvil."
     }
   ]
 }
