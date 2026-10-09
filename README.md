@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 16:30:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 16:40:57`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.09 USD** | **$21.03 USD** | **$40.13 USD** | 🟢 **+0.32%** ($+0.13) |
+| **$40.00 USD** | **$19.09 USD** | **$21.02 USD** | **$40.12 USD** | 🟢 **+0.29%** ($+0.12) |
 
 ---
 
@@ -16,16 +16,16 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.017822 | $336.67 | $336.83 | $6.00 | 📈 +0.05% |
-| `SPY` | 0.006458 | $774.29 | $778.87 | $5.03 | 📈 +0.59% |
-| `NVDA` | 0.021772 | $229.65 | $229.83 | $5.00 | 📈 +0.08% |
-| `QQQ` | 0.006652 | $751.70 | $751.36 | $5.00 | 📉 -0.05% |
+| `AAPL` | 0.017822 | $336.67 | $336.64 | $6.00 | 📉 -0.01% |
+| `SPY` | 0.006458 | $774.29 | $778.74 | $5.03 | 📈 +0.57% |
+| `NVDA` | 0.021772 | $229.65 | $229.59 | $5.00 | 📉 -0.03% |
+| `QQQ` | 0.006652 | $751.70 | $750.82 | $4.99 | 📉 -0.12% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"Aviso temporal de Gemini (_ssl.c:999: The handshake operation timed out). Se aplica regla de seguridad HOLD para proteger posiciones."*
+> *"Aviso temporal de Gemini (The read operation timed out). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
 - **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
