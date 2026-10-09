@@ -1,18 +1,14 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.121821835232868,
+  "cash": 4.118961651648991,
   "positions": {
     "NVDA": {
       "shares": 0.021772262138036142,
       "avg_price": 229.65
     },
-    "QQQ": {
-      "shares": 0.006651589729945457,
-      "avg_price": 751.7
-    },
     "SOL-USD": {
-      "shares": 0.1375389786272702,
-      "avg_price": 109.05999266324284
+      "shares": 0.18344844515926909,
+      "avg_price": 109.02245577844006
     },
     "ETH-USD": {
       "shares": 0.0044330529197463605,
@@ -136,6 +132,24 @@
       "shares": 0.045863,
       "price": 109.02,
       "reason": "SOL-USD está extremadamente sobrevendido con un RSI de 20.3. Ejecutamos una compra agresiva para promediar y capturar un rebote técnico rápido del +2% al +6% hacia su media móvil."
+    },
+    {
+      "timestamp": "2026-10-09T18:50:46.794851-03:00",
+      "action": "SELL",
+      "ticker": "QQQ",
+      "amount_usd": 5.0,
+      "shares": 0.006652,
+      "price": 751.27,
+      "reason": "Rotación de capital activo. QQQ se encuentra estancado con rendimiento plano (-0.06%) y sin momentum claro. Liberamos estos $5.00 USD para asignarlos a un activo con un RSI extremadamente deprimido que ofrece un ratio riesgo/beneficio mucho más explosivo en el corto plazo."
+    },
+    {
+      "timestamp": "2026-10-09T18:50:46.795783-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 5.0,
+      "shares": 0.045909,
+      "price": 108.91,
+      "reason": "Oportunidad de alta convicción por sobreventa extrema. SOL-USD tiene un RSI de 20.2 tras una caída del -8.97% en los últimos 7 días. Con el efectivo liberado de QQQ, incrementamos nuestra exposición buscando capturar un rebote técnico rápido de entre +3% y +6%."
     }
   ]
 }
