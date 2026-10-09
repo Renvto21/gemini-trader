@@ -1,18 +1,14 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.118961651648991,
+  "cash": 4.110845811648991,
   "positions": {
-    "NVDA": {
-      "shares": 0.021772262138036142,
-      "avg_price": 229.65
-    },
     "SOL-USD": {
       "shares": 0.18344844515926909,
       "avg_price": 109.02245577844006
     },
     "ETH-USD": {
-      "shares": 0.0044330529197463605,
-      "avg_price": 2481.3599564765336
+      "shares": 0.006447500538064942,
+      "avg_price": 2481.5818014343286
     }
   },
   "history": [
@@ -150,6 +146,24 @@
       "shares": 0.045909,
       "price": 108.91,
       "reason": "Oportunidad de alta convicción por sobreventa extrema. SOL-USD tiene un RSI de 20.2 tras una caída del -8.97% en los últimos 7 días. Con el efectivo liberado de QQQ, incrementamos nuestra exposición buscando capturar un rebote técnico rápido de entre +3% y +6%."
+    },
+    {
+      "timestamp": "2026-10-09T19:00:54.583209-03:00",
+      "action": "SELL",
+      "ticker": "NVDA",
+      "amount_usd": 4.99,
+      "shares": 0.021772,
+      "price": 229.28,
+      "reason": "Rotación activa de capital. NVDA se encuentra estancada con un rendimiento de -0.16% y un RSI neutral de 52.8 sin momentum claro. Liquidamos la posición para liberar $4.99 USD de efectivo y financiar una jugada de mayor convicción y potencial de rebote en cripto."
+    },
+    {
+      "timestamp": "2026-10-09T19:00:54.584102-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 5.0,
+      "shares": 0.002014,
+      "price": 2482.07,
+      "reason": "ETH-USD se encuentra en una zona de sobreventa extrema con un RSI de 25.0. Utilizando el capital liberado de NVDA, incrementamos nuestra posición para capturar un rebote técnico rápido hacia la media, manteniendo la reserva de liquidez por encima del mínimo de $4.00 USD."
     }
   ]
 }
