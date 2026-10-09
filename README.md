@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 18:01:05`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 18:10:49`
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"Aviso temporal de Gemini (The read operation timed out). Se aplica regla de seguridad HOLD para proteger posiciones."*
+> *"Aviso temporal de Gemini (400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Manually set deadline 1s is too short. Minimum allowed deadline is 10s.', 'status': 'INVALID_ARGUMENT'}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
 - **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
