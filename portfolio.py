@@ -3,6 +3,14 @@ import os
 from datetime import datetime
 from typing import Dict, Any, List
 
+def get_chile_now():
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.now(ZoneInfo("America/Santiago"))
+    except Exception:
+        from datetime import timezone, timedelta
+        return datetime.now(timezone(timedelta(hours=-3)))
+
 PORTFOLIO_FILE = "portfolio.json"
 
 class PortfolioManager:
@@ -111,7 +119,7 @@ class PortfolioManager:
         }
 
         self.data["history"].append({
-            "timestamp": datetime.now().isoformat(),
+            "timestamp": get_chile_now().isoformat(),
             "action": "BUY",
             "ticker": ticker,
             "amount_usd": round(amount_usd, 2),
@@ -143,7 +151,7 @@ class PortfolioManager:
             self.data["positions"][ticker]["shares"] = remaining_shares
 
         self.data["history"].append({
-            "timestamp": datetime.now().isoformat(),
+            "timestamp": get_chile_now().isoformat(),
             "action": "SELL",
             "ticker": ticker,
             "amount_usd": round(proceeds, 2),

@@ -2,12 +2,20 @@ import os
 from datetime import datetime
 from typing import Dict, Any, List
 
+def get_chile_now():
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.now(ZoneInfo("America/Santiago"))
+    except Exception:
+        from datetime import timezone, timedelta
+        return datetime.now(timezone(timedelta(hours=-3)))
+
 def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, actions: List[Any], history: List[Dict[str, Any]]):
     pnl = summary.get('total_pnl_usd', 0.0)
     pnl_pct = summary.get('total_pnl_pct', 0.0)
     pnl_icon = "🟢" if pnl >= 0 else "🔴"
     
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    now_str = get_chile_now().strftime("%Y-%m-%d %H:%M:%S")
     
     positions = summary.get("positions", [])
     if positions:

@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 19.09471826,
+  "cash": 24.0947182600000005,
   "positions": {
     "AAPL": {
       "shares": 0.017821605726675974,
@@ -13,15 +13,11 @@
     "NVDA": {
       "shares": 0.021772262138036142,
       "avg_price": 229.65
-    },
-    "QQQ": {
-      "shares": 0.006655928435457462,
-      "avg_price": 751.21
     }
   },
   "history": [
     {
-      "timestamp": "2026-10-07T23:09:58.250279",
+      "timestamp": "2026-10-07T20:09:58.250279",
       "action": "BUY",
       "ticker": "AAPL",
       "amount_usd": 6.0,
@@ -30,7 +26,7 @@
       "reason": "AAPL es la opción más equilibrada del mercado actual: mantiene una tendencia alcista confirmada y un RSI saludable de 49.6, alejado de la sobrecompra de otros gigantes tecnológicos. Destinamos $6.00 USD a esta compra, cumpliendo con el límite de exposición por operación ($5.00 - $8.00 USD) y preservando $14.00 USD en efectivo como reserva de seguridad."
     },
     {
-      "timestamp": "2026-10-08T15:23:33.985268",
+      "timestamp": "2026-10-08T12:23:33.985268",
       "action": "BUY",
       "ticker": "SPY",
       "amount_usd": 5.0,
@@ -39,7 +35,7 @@
       "reason": "SPY presenta una tendencia alcista sólida sobre su SMA20 y un RSI de 62.1, lo que indica que aún tiene margen de subida sin estar críticamente sobrecomprado como el QQQ. Invertir $5.00 USD nos permite diversificar el portafolio manteniendo una reserva de efectivo muy saludable de $9.00 USD, muy por encima del mínimo requerido de $3.00 USD."
     },
     {
-      "timestamp": "2026-10-08T15:41:45.934031",
+      "timestamp": "2026-10-08T12:41:45.934031",
       "action": "BUY",
       "ticker": "GLD",
       "amount_usd": 5.0,
@@ -48,7 +44,7 @@
       "reason": "GLD presenta un RSI de 27.3, lo que indica condiciones de sobreventa extrema en un activo históricamente defensivo. Destinar $5.00 USD nos permite diversificar el portafolio hacia refugio de valor a un precio descontado, manteniendo $4.00 USD en efectivo, lo cual respeta el límite mínimo de reserva de $3.00 USD."
     },
     {
-      "timestamp": "2026-10-09T18:37:04.413348",
+      "timestamp": "2026-10-09T15:37:04.413348",
       "action": "SELL",
       "ticker": "GLD",
       "amount_usd": 5.09,
@@ -57,7 +53,7 @@
       "reason": "Rotamos fuera de GLD debido a su tendencia bajista actual por debajo de la SMA20. Aprovechamos para asegurar una ganancia del 1.9% y liberar liquidez para activos con mejor momentum."
     },
     {
-      "timestamp": "2026-10-09T18:37:04.414005",
+      "timestamp": "2026-10-09T15:37:04.414005",
       "action": "BUY",
       "ticker": "NVDA",
       "amount_usd": 5.0,
@@ -66,22 +62,13 @@
       "reason": "Iniciamos posición en NVDA con $5.00 USD. El activo mantiene una tendencia alcista sólida sobre la SMA20 y un RSI saludable de 53.4, ofreciendo un excelente punto de entrada en comparación con otros gigantes tecnológicos sobrecomprados."
     },
     {
-      "timestamp": "2026-10-09T19:07:00.000000",
+      "timestamp": "2026-10-09T16:07:00.000000",
       "action": "DEPOSIT",
       "ticker": "CASH",
       "amount_usd": 20.0,
       "shares": 0.0,
       "price": 1.0,
       "reason": "Inyección adicional de $20.00 USD de efectivo para ampliar la capacidad operativa y permitir nuevas compras sin comprometer la reserva."
-    },
-    {
-      "timestamp": "2026-10-09T19:13:08.944340",
-      "action": "BUY",
-      "ticker": "QQQ",
-      "amount_usd": 5.0,
-      "shares": 0.006656,
-      "price": 751.21,
-      "reason": "QQQ se encuentra en una tendencia alcista sólida sobre su SMA20 y con un RSI de 57.8, lo que representa un punto de entrada técnicamente favorable y sin riesgo inminente de sobrecompra. Esta adquisición de $5.00 USD nos permite diversificar el portafolio en el sector tecnológico de manera indexada, complementando nuestras posiciones individuales en AAPL y NVDA, mientras mantenemos una reserva de efectivo muy superior al mínimo requerido de $3.00 USD."
     }
   ]
 }
