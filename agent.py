@@ -90,7 +90,7 @@ Analiza la información y genera tu decisión estructurada (BUY, SELL o HOLD).
                 except Exception as e:
                     last_error = e
                     error_str = str(e).lower()
-                    if any(k in error_str for k in ["503", "unavailable", "timed out", "timeout", "handshake"]):
+                    if any(k in error_str for k in ["503", "504", "deadline", "unavailable", "timed out", "timeout", "handshake"]):
                         print(f"   ⚠️ Congestión/Red en {m} (intento {attempt+1}): {e}. Esperando 3s y reintentando...", flush=True)
                         time.sleep(3)
                     else:
