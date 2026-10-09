@@ -1,6 +1,6 @@
 {
   "initial_capital": 20.0,
-  "cash": 4.0,
+  "cash": 4.0947182600000005,
   "positions": {
     "AAPL": {
       "shares": 0.017821605726675974,
@@ -10,9 +10,9 @@
       "shares": 0.006457528832866239,
       "avg_price": 774.29
     },
-    "GLD": {
-      "shares": 0.013253107853791714,
-      "avg_price": 377.27
+    "NVDA": {
+      "shares": 0.021772262138036142,
+      "avg_price": 229.65
     }
   },
   "history": [
@@ -42,6 +42,24 @@
       "shares": 0.013253,
       "price": 377.27,
       "reason": "GLD presenta un RSI de 27.3, lo que indica condiciones de sobreventa extrema en un activo históricamente defensivo. Destinar $5.00 USD nos permite diversificar el portafolio hacia refugio de valor a un precio descontado, manteniendo $4.00 USD en efectivo, lo cual respeta el límite mínimo de reserva de $3.00 USD."
+    },
+    {
+      "timestamp": "2026-10-09T18:37:04.413348",
+      "action": "SELL",
+      "ticker": "GLD",
+      "amount_usd": 5.09,
+      "shares": 0.013253,
+      "price": 384.42,
+      "reason": "Rotamos fuera de GLD debido a su tendencia bajista actual por debajo de la SMA20. Aprovechamos para asegurar una ganancia del 1.9% y liberar liquidez para activos con mejor momentum."
+    },
+    {
+      "timestamp": "2026-10-09T18:37:04.414005",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "amount_usd": 5.0,
+      "shares": 0.021772,
+      "price": 229.65,
+      "reason": "Iniciamos posición en NVDA con $5.00 USD. El activo mantiene una tendencia alcista sólida sobre la SMA20 y un RSI saludable de 53.4, ofreciendo un excelente punto de entrada en comparación con otros gigantes tecnológicos sobrecomprados."
     }
   ]
 }
