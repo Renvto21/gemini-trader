@@ -1,5 +1,7 @@
 import os
+import sys
 import json
+import time
 from typing import Dict, Any, List, Literal, Optional
 from pydantic import BaseModel, Field
 from google import genai
@@ -60,26 +62,33 @@ Analiza la información y genera tu decisión estructurada.
 
         last_error = None
         for m in models:
-            try:
-                print(f"   [Consultando modelo: {m}]...", flush=True)
-                response = self.client.models.generate_content(
-                    model=m,
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        response_mime_type="application/json",
-                        response_schema=AgentDecision,
-                        temperature=0.2,
-                    ),
-                )
-                data = json.loads(response.text)
-                return AgentDecision(**data)
-            except Exception as e:
-                last_error = e
-                print(f"   ⚠️ Modelo {m} no disponible ({e}), intentando siguiente...", flush=True)
+            for attempt in range(2):
+                try:
+                    print(f"   [Consultando modelo: {m} (intento {attempt+1})]...", flush=True)
+                    response = self.client.models.generate_content(
+                        model=m,
+                        contents=prompt,
+                        config=types.GenerateContentConfig(
+                            response_mime_type="application/json",
+                            response_schema=AgentDecision,
+                            temperature=0.2,
+                        ),
+                    )
+                    data = json.loads(response.text)
+                    return AgentDecision(**data)
+                except Exception as e:
+                    last_error = e
+                    error_str = str(e)
+                    if "503" in error_str or "UNAVAILABLE" in error_str:
+                        print(f"   ⚠️ Pico de demanda (503) en {m}. Esperando 4 segundos...", flush=True)
+                        time.sleep(4)
+                    else:
+                        print(f"   ⚠️ Modelo {m} no disponible ({e}), pasando al siguiente...", flush=True)
+                        break
 
         # Fallback seguro: HOLD si todos fallan
         print(f"[Error en Gemini API]: {last_error}")
         return AgentDecision(
-            market_analysis=f"Error al consultar Gemini ({last_error}). Se aplica regla de seguridad HOLD.",
-            actions=[TradeAction(action="HOLD", ticker="PORTFOLIO", confidence=1.0, reasoning="Error de conexión o API, manteniendo posiciones.")]
+            market_analysis=f"Aviso temporal de Gemini ({last_error}). Se aplica regla de seguridad HOLD para proteger posiciones.",
+            actions=[TradeAction(action="HOLD", ticker="PORTFOLIO", confidence=1.0, reasoning="Error temporal de conexión, manteniendo posiciones de forma segura.")]
         )

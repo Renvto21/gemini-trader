@@ -44,6 +44,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main || true
           git add portfolio.json trading.log README.md
-          git diff --staged --quiet || (git commit -m "🤖 Actualización automática del portafolio [skip ci]" && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Actualización automática del portafolio [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase origin main || true
+              git push && break || sleep 3
+            done
+          fi
