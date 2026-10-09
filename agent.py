@@ -28,7 +28,7 @@ class TradingAgent:
             )
         self.client = genai.Client(
             api_key=self.api_key,
-            http_options=types.HttpOptions(timeout=60)
+            http_options=types.HttpOptions(timeout=60000)
         )
         self.model_name = model_name
 
