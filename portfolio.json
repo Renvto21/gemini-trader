@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 19.09471826,
+  "cash": 4.0947182600000005,
   "positions": {
     "AAPL": {
       "shares": 0.017821605726675974,
@@ -17,6 +17,14 @@
     "QQQ": {
       "shares": 0.006651589729945457,
       "avg_price": 751.7
+    },
+    "SOL-USD": {
+      "shares": 0.09167583425009168,
+      "avg_price": 109.08
+    },
+    "ETH-USD": {
+      "shares": 0.002014731718324388,
+      "avg_price": 2481.7200000000003
     }
   },
   "history": [
@@ -82,6 +90,24 @@
       "shares": 0.006652,
       "price": 751.7,
       "reason": "QQQ se encuentra en una tendencia alcista clara sobre su SMA20 y con un RSI de 58.1 que sugiere espacio para continuar al alza. La compra de $5.00 USD respeta los límites de gestión de riesgo, diversifica nuestra exposición tecnológica y mantiene un nivel de efectivo muy saludable de $19.09 USD, muy por encima del mínimo requerido de $3.00 USD."
+    },
+    {
+      "timestamp": "2026-10-09T18:25:26.191841-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.0,
+      "shares": 0.091676,
+      "price": 109.08,
+      "reason": "SOL-USD se encuentra en una condición de sobreventa extrema con un RSI de 20.3 tras caer un 8.83% en la última semana. Al ser un activo de alto beta y fuerte momentum histórico, la probabilidad de un rebote técnico violento hacia la media es sumamente alta. Asignamos $10.00 USD (alta convicción) para maximizar el retorno rápido."
+    },
+    {
+      "timestamp": "2026-10-09T18:25:26.192521-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 5.0,
+      "shares": 0.002015,
+      "price": 2481.72,
+      "reason": "ETH-USD muestra un RSI de 24.9, confirmando una capitulación de corto plazo en el mercado cripto. Entramos con una posición estándar de $5.00 USD para capturar el rebote técnico coordinado con el resto del mercado de activos digitales."
     }
   ]
 }
