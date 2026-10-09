@@ -1,10 +1,7 @@
 name: Gemini Autonomous Trader
 
 on:
-  schedule:
-    # Se ejecuta automáticamente cada 10 minutos
-    - cron: '*/10 * * * *'
-  # Botón manual para ejecutarlo cuando quieras desde GitHub (web o app móvil)
+  # Disparado exclusivamente por cron-job.org (o manualmente con botón)
   workflow_dispatch:
 
 concurrency:
