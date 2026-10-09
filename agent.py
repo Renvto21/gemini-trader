@@ -28,7 +28,7 @@ class TradingAgent:
             )
         self.client = genai.Client(
             api_key=self.api_key,
-            http_options=types.HttpOptions(timeout=30)
+            http_options=types.HttpOptions(timeout=60)
         )
         self.model_name = model_name
 
@@ -89,12 +89,12 @@ Analiza la información y genera tu decisión estructurada (BUY, SELL o HOLD).
                     return AgentDecision(**data)
                 except Exception as e:
                     last_error = e
-                    error_str = str(e)
-                    if "503" in error_str or "UNAVAILABLE" in error_str:
-                        print(f"   ⚠️ Pico de demanda (503) en {m}. Esperando 4 segundos...", flush=True)
-                        time.sleep(4)
+                    error_str = str(e).lower()
+                    if any(k in error_str for k in ["503", "unavailable", "timed out", "timeout", "handshake"]):
+                        print(f"   ⚠️ Congestión/Red en {m} (intento {attempt+1}): {e}. Esperando 3s y reintentando...", flush=True)
+                        time.sleep(3)
                     else:
-                        print(f"   ⚠️ Modelo {m} no disponible ({e}), pasando al siguiente...", flush=True)
+                        print(f"   ⚠️ Modelo {m} incompatible ({e}), pasando al siguiente...", flush=True)
                         break
 
         # Fallback seguro: HOLD si todos fallan
