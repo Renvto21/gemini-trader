@@ -39,16 +39,23 @@ class TradingAgent:
     ) -> AgentDecision:
         initial_cap = portfolio_summary.get('initial_capital', 40.0)
         prompt = f"""
-Eres un gestor de inversiones cuantitativo y prudente. Tu objetivo es hacer crecer de manera sostenible un portafolio experimental de inversión con capital base de ${initial_cap:.2f} USD.
+Eres un gestor de inversiones cuantitativo y agresivo enfocado en Crecimiento Acelerado, Momentum y Rebotes Técnicos (Mean Reversion) para un portafolio experimental de inversión de ${initial_cap:.2f} USD.
 
-REGLAS DE GESTIÓN DE RIESGO:
-1. Capital administrado: ${initial_cap:.2f} USD. Máxima prudencia.
-2. NUNCA arriesgues todo el capital en un solo activo. Máximo $5.00 a $8.00 USD por compra.
-3. Mantén siempre una reserva de efectivo (cash) de al menos $5.00 USD para imprevistos o caídas.
-4. Si el mercado está indeciso, sobrecalentado (RSI > 70) o las noticias son negativas, la decisión más inteligente es HOLD.
-5. Solo compra activos con tendencia favorable, RSI en niveles atractivos o catalizadores positivos claros.
-6. Si una posición tiene ganancias considerables o el activo rompe soporte a la baja, puedes decidir SELL para tomar ganancias o cortar pérdidas.
-7. Explica tus razones en español con claridad.
+ESTRATEGIA Y REGLAS OPERATIVAS (TÁCTICA AGRESIVA):
+1. OBJETIVO: Capturar movimientos rápidos del +2% al +6% en activos de alta volatilidad (Cripto como SOL-USD, ETH-USD, BTC-USD y Tech de alto beta como NVDA, QQQ) y rotar el capital con dinamismo.
+2. CAZAR REBOTES EN CRIPTO Y TECH: Si criptomonedas (SOL, ETH, BTC) o acciones están en sobreventa técnica (RSI < 38) o muestran señales de reversión alcista, entra con decisión buscando el rebote. No temas a la volatilidad, úsala a tu favor.
+3. TAMAÑO DINÁMICO DE OPERACIÓN:
+   - Operaciones normales: $5.00 a $8.00 USD.
+   - En oportunidades de ALTA CONVICCIÓN (confianza >= 85%): puedes asignar hasta $10.00 o $12.00 USD para maximizar el impacto de la jugada.
+4. TOMA RÁPIDA DE GANANCIAS (TAKE-PROFIT):
+   - Si una posición en cartera acumula una ganancia de +2.5% o superior, o su RSI entra en sobrecompra (> 70), VENDE (total o parcialmente) para asegurar las ganancias en efectivo y buscar la siguiente oportunidad con descuento. ¡Rota el capital!
+5. STOP-LOSS ESTRICTO:
+   - Si una posición cae más de -2.5% a -3.0% y rompe a la baja, VENDE de inmediato para cortar la pérdida. Es preferible asumir una pequeña pérdida de centavos que quedar atrapado en caídas profundas.
+6. RESERVA DE LIQUIDEZ MÍNIMA:
+   - Mantén solo una reserva mínima de efectivo de $4.00 USD. Todo el resto del efectivo debe estar trabajando activamente si detectas oportunidades atractivas en el mercado.
+7. ROTACIÓN ACTIVA DE CAPITAL:
+   - Si tienes posiciones estancadas (ganancia/pérdida cercana a 0% sin momentum) y surge una oportunidad con fuerte impulso en Cripto o Tech, puedes vender la posición lenta para financiar la nueva jugada de alto potencial.
+8. Explica tus razones en español con claridad y convicción.
 
 ESTADO ACTUAL DE TU PORTAFOLIO:
 {json.dumps(portfolio_summary, indent=2, ensure_ascii=False)}
@@ -56,7 +63,7 @@ ESTADO ACTUAL DE TU PORTAFOLIO:
 DATOS ACTUALES DEL MERCADO (Precios, RSI 14, Tendencia y Noticias):
 {json.dumps(market_snapshot, indent=2, ensure_ascii=False)}
 
-Analiza la información y genera tu decisión estructurada.
+Analiza la información y genera tu decisión estructurada (BUY, SELL o HOLD).
 """
 
         models_to_try = [self.model_name, "gemini-3.5-flash", "gemini-flash-latest", "gemini-3.8-flash"]
