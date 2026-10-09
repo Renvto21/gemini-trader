@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 24.0947182600000005,
+  "cash": 19.09471826,
   "positions": {
     "AAPL": {
       "shares": 0.017821605726675974,
@@ -13,6 +13,10 @@
     "NVDA": {
       "shares": 0.021772262138036142,
       "avg_price": 229.65
+    },
+    "QQQ": {
+      "shares": 0.006651589729945457,
+      "avg_price": 751.7
     }
   },
   "history": [
@@ -69,6 +73,15 @@
       "shares": 0.0,
       "price": 1.0,
       "reason": "Inyección adicional de $20.00 USD de efectivo para ampliar la capacidad operativa y permitir nuevas compras sin comprometer la reserva."
+    },
+    {
+      "timestamp": "2026-10-09T16:26:58.498715-03:00",
+      "action": "BUY",
+      "ticker": "QQQ",
+      "amount_usd": 5.0,
+      "shares": 0.006652,
+      "price": 751.7,
+      "reason": "QQQ se encuentra en una tendencia alcista clara sobre su SMA20 y con un RSI de 58.1 que sugiere espacio para continuar al alza. La compra de $5.00 USD respeta los límites de gestión de riesgo, diversifica nuestra exposición tecnológica y mantiene un nivel de efectivo muy saludable de $19.09 USD, muy por encima del mínimo requerido de $3.00 USD."
     }
   ]
 }
