@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 20:51:22`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 21:00:45`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.11 USD** | **$36.07 USD** | **$40.18 USD** | 🟢 **+0.46%** ($+0.18) |
+| **$40.00 USD** | **$4.11 USD** | **$36.02 USD** | **$40.13 USD** | 🟢 **+0.33%** ($+0.13) |
 
 ---
 
@@ -16,18 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.183448 | $109.02 | $109.23 | $20.04 | 📈 +0.19% |
-| `ETH-USD` | 0.006448 | $2481.58 | $2487.17 | $16.04 | 📈 +0.23% |
+| `SOL-USD` | 0.183448 | $109.02 | $109.00 | $20.00 | 📉 -0.02% |
+| `ETH-USD` | 0.006448 | $2481.58 | $2485.24 | $16.02 | 📈 +0.15% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado de renta variable tradicional (QQQ, SPY, MSFT) muestra fortaleza alcista con MSFT entrando en zona de sobrecompra (RSI 72.3), mientras que el sector cripto continúa en niveles de sobreventa extrema tras correcciones semanales pronunciadas. SOL-USD (RSI 20.5) y ETH-USD (RSI 25.9) ofrecen configuraciones ideales de reversión a la media con signos tempranos de estabilización técnica. Con una liquidez actual de $4.11 USD que resguarda el colchón mínimo de seguridad de $4.00 USD, las posiciones existentes mantienen un ratio riesgo-beneficio asimétrico a favor del rebote esperado hacia los objetivos de +2.5% a +6.0%."*
+> *"Aviso temporal de Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\nPlease retry in 23h59m14.466750614s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '86354s'}]}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 88%): SOL-USD presenta un RSI 14 extremo de 20.5 en territorio de fuerte capitulación. La posición se encuentra en leve territorio positivo (+0.19%) y estructurándose para un rebote técnico rápido. Se mantiene para buscar el objetivo de toma de ganancias de +2.5% a +5.0% sin arriesgar capital prematuramente.
-- **[HOLD] ETH-USD** (Confianza: 84%): ETH-USD muestra reversión incipiente (+0.62% 24h) tras tocar soporte con RSI de 25.9. Con el PnL actual en +0.23%, se mantiene la posición para capturar el impulso de mean reversion antes de ejecutar rotación de capital o toma de ganancias táctica.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
