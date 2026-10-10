@@ -20,7 +20,7 @@ class AgentDecision(BaseModel):
     actions: List[TradeAction] = Field(description="Lista de acciones a tomar (máximo 1 o 2 operaciones por ciclo)")
 
 class TradingAgent:
-    def __init__(self, api_key: Optional[str] = None, model_name: str = "gemini-2.5-flash"):
+    def __init__(self, api_key: Optional[str] = None, model_name: str = "gemini-flash-latest"):
         self.api_key = api_key or os.getenv("GEMINI_API_KEY")
         if not self.api_key:
             raise ValueError(
@@ -67,9 +67,9 @@ Analiza la información y genera tu decisión estructurada (BUY, SELL o HOLD).
 """
 
         models_to_try = [
-            "gemini-2.5-flash",        # 1° opción: mejor análisis y razonamiento
-            "gemini-3.5-flash-lite",   # 2° opción: si hay congestión, responde rápido y tiene cuota de sobra
-            "gemini-flash-latest"      # 3° opción: comodín oficial
+            "gemini-flash-latest",     # 1° opción: máxima inteligencia y alta cuota diaria
+            "gemini-2.0-flash",        # 2° opción: excelente razonamiento cuantitativo (1,500 peticiones/día)
+            "gemini-3.5-flash-lite"    # 3° opción: red de seguridad rápida y alta disponibilidad
         ]
         # Eliminar duplicados manteniendo orden
         seen = set()
