@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-10 12:00:50`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-10 12:10:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$40.52 USD** | **$40.52 USD** | 🟢 **+1.31%** ($+0.52) |
+| **$40.00 USD** | **$4.11 USD** | **$36.42 USD** | **$40.53 USD** | 🟢 **+1.33%** ($+0.53) |
 
 ---
 
@@ -16,19 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.183448 | $109.02 | $110.39 | $20.25 | 📈 +1.25% |
-| `ETH-USD` | 0.006448 | $2481.58 | $2506.90 | $16.16 | 📈 +1.02% |
-| `MSFT` | 0.007681 | $535.07 | $535.07 | $4.11 | 📈 +0.00% |
+| `SOL-USD` | 0.183448 | $109.02 | $110.41 | $20.25 | 📈 +1.27% |
+| `ETH-USD` | 0.006448 | $2481.58 | $2507.32 | $16.17 | 📈 +1.04% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto muestra condiciones de sobreventa extrema (RSI de SOL en 25.3 y ETH en 28.4), lo que presenta una oportunidad clásica de mean reversion para capturar rebotes técnicos rápidos. GLD se encuentra estancado y sin momentum, por lo que rotaremos su capital hacia MSFT, que presenta un fuerte impulso alcista con un RSI en sobrecompra moderada pero confirmando tendencia alcista."*
+> *"El mercado muestra un tono mixto con sesgo alcista en los índices tradicionales (SPY, QQQ) y en tecnológicas clave como MSFT, cuyo RSI ha entrado en sobrecompra (72.3) tras un buen rendimiento reciente. En contraste, las criptomonedas (SOL-USD y ETH-USD) continúan con caídas acumuladas en 7 días pero presentan niveles de RSI extremadamente bajos en zona de sobreventa profunda (SOL en 25.4 y ETH en 28.5), lo que activa nuestra estrategia de captura de rebotes por reversión a la media (mean reversion). Dado que no hay efectivo disponible actualmente, debemos rotar capital vendiendo la posición de MSFT que ha alcanzado sobrecompra para asegurar valor y financiar nuevas oportunidades tácticas."*
 
 **Operaciones del ciclo:**
-- **[SELL] GLD** (Confianza: 85%): Liberamos la totalidad de la posición en GLD ya que se encuentra estancada con 0% de PnL y sin momentum, permitiendo rotar este capital hacia oportunidades de mayor crecimiento en tech y cripto.
-- **[BUY] MSFT** (Confianza: 88%): Aprovechamos el capital liberado de GLD para entrar en MSFT, que muestra un fuerte momentum alcista con un incremento del 2.38% en 24h y tendencia clara sobre la SMA20, alineándose con nuestra estrategia de alta convicción.
+- **[SELL] MSFT** (Confianza: 90%): MSFT ha alcanzado un RSI de 72.3 (sobrecompra) cumpliendo con la regla táctica de toma de ganancias rápida. Vendemos la totalidad de la posición para liberar $4.11 USD en efectivo y poder rotar el capital hacia oportunidades con mayor impulso o descuento en cripto.
 
 ---
 
@@ -36,11 +34,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-10 12:10` | 🔴 SELL | `MSFT` | $4.11 | $535.07 | MSFT ha alcanzado un RSI de 72.3 (sobrecompra) cumpliendo con la regla táctica de toma de ... |
 | `2026-10-10 12:00` | 🟢 BUY | `MSFT` | $4.11 | $535.07 | Aprovechamos el capital liberado de GLD para entrar en MSFT, que muestra un fuerte momentu... |
 | `2026-10-10 12:00` | 🔴 SELL | `GLD` | $4.11 | $384.58 | Liberamos la totalidad de la posición en GLD ya que se encuentra estancada con 0% de PnL y... |
 | `2026-10-10 11:50` | 🟢 BUY | `GLD` | $4.11 | $384.58 | Aprovechamos el efectivo disponible para cazar un rebote por sobreventa en GLD, cuyo RSI s... |
 | `2026-10-09 19:00` | 🟢 BUY | `ETH-USD` | $5.00 | $2482.07 | ETH-USD se encuentra en una zona de sobreventa extrema con un RSI de 25.0. Utilizando el c... |
-| `2026-10-09 19:00` | 🔴 SELL | `NVDA` | $4.99 | $229.28 | Rotación activa de capital. NVDA se encuentra estancada con un rendimiento de -0.16% y un ... |
 
 ---
 

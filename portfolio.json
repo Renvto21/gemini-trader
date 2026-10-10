@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.0008458116489906686,
+  "cash": 4.110718481648991,
   "positions": {
     "SOL-USD": {
       "shares": 0.18344844515926909,
@@ -9,10 +9,6 @@
     "ETH-USD": {
       "shares": 0.006447500538064942,
       "avg_price": 2481.5818014343286
-    },
-    "MSFT": {
-      "shares": 0.007681237968863887,
-      "avg_price": 535.07
     }
   },
   "history": [
@@ -195,6 +191,15 @@
       "shares": 0.007681,
       "price": 535.07,
       "reason": "Aprovechamos el capital liberado de GLD para entrar en MSFT, que muestra un fuerte momentum alcista con un incremento del 2.38% en 24h y tendencia clara sobre la SMA20, alineándose con nuestra estrategia de alta convicción."
+    },
+    {
+      "timestamp": "2026-10-10T12:10:39.101556-03:00",
+      "action": "SELL",
+      "ticker": "MSFT",
+      "amount_usd": 4.11,
+      "shares": 0.007681,
+      "price": 535.07,
+      "reason": "MSFT ha alcanzado un RSI de 72.3 (sobrecompra) cumpliendo con la regla táctica de toma de ganancias rápida. Vendemos la totalidad de la posición para liberar $4.11 USD en efectivo y poder rotar el capital hacia oportunidades con mayor impulso o descuento en cripto."
     }
   ]
 }
