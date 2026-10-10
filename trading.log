@@ -1,36 +1,3 @@
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $0.00 USD
- Valor en Activos:     $40.52 USD
- Balance Total:        $40.52 USD
- Ganancia/Pérdida:     🟢 $+0.52 USD (+1.31%)
-
- 💼 Posiciones Abiertas:
-   • SOL-USD: 0.183448 u. | Compra: $109.02 | Actual: $110.39 | Total: $20.25 📈 (+1.25%)
-   • ETH-USD: 0.006448 u. | Compra: $2481.58 | Actual: $2506.9 | Total: $16.16 📈 (+1.02%)
-   • GLD: 0.010687 u. | Compra: $384.58 | Actual: $384.58 | Total: $4.11 📈 (+0.00%)
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado cripto muestra condiciones de sobreventa extrema (RSI de SOL en 25.3 y ETH en 28.4), lo que presenta una oportunidad clásica de mean reversion para capturar rebotes técnicos rápidos. GLD se encuentra estancado y sin momentum, por lo que rotaremos su capital hacia MSFT, que presenta un fuerte impulso alcista con un RSI en sobrecompra moderada pero confirmando tendencia alcista."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [SELL] GLD (Confianza: 85%)
-    Razón: Liberamos la totalidad de la posición en GLD ya que se encuentra estancada con 0% de PnL y sin momentum, permitiendo rotar este capital hacia oportunidades de mayor crecimiento en tech y cripto.
-    ✅ Venta ejecutada: 0.010687 de GLD a $384.58
-  • Acción: [BUY] MSFT (Confianza: 88%)
-    Razón: Aprovechamos el capital liberado de GLD para entrar en MSFT, que muestra un fuerte momentum alcista con un incremento del 2.38% en 24h y tendencia clara sobre la SMA20, alineándose con nuestra estrategia de alta convicción.
-    ✅ Compra ejecutada: $4.11 en MSFT a $535.07
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $40.52 USD (Cash: $0.00 USD)
-
-[2026-10-10 12:10:33] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones para 9 activos...
-
 =======================================================
  📊 ESTADO ACTUAL DEL PORTAFOLIO
 =======================================================
@@ -147,6 +114,39 @@ Balance final del ciclo: $40.54 USD (Cash: $4.11 USD)
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] SOL-USD (Confianza: 80%)
     Razón: SOL-USD se encuentra en una fuerte sobreventa con un RSI de 25.5, mostrando un intento de rebote en las últimas 24 horas (+1.18%). Mantenemos la posición para capturar el movimiento hacia el objetivo de take-profit del +2.5%.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $40.54 USD (Cash: $4.11 USD)
+
+[2026-10-10 12:50:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $4.11 USD
+ Valor en Activos:     $36.43 USD
+ Balance Total:        $40.54 USD
+ Ganancia/Pérdida:     🟢 $+0.54 USD (+1.34%)
+
+ 💼 Posiciones Abiertas:
+   • SOL-USD: 0.183448 u. | Compra: $109.02 | Actual: $110.41 | Total: $20.25 📈 (+1.27%)
+   • ETH-USD: 0.006448 u. | Compra: $2481.58 | Actual: $2508.06 | Total: $16.17 📈 (+1.07%)
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado cripto muestra condiciones de sobreventa extrema con SOL-USD (RSI 25.4) y ETH-USD (RSI 28.6) listos para un rebote técnico inminente tras fuertes caídas semanales, mientras que los índices y tech se mantienen estables. Nuestras posiciones actuales están en verde pero aún no alcanzan el take-profit del +2.5%. Mantendremos las posiciones actuales para capturar la extensión del rebote alcista en cripto."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] SOL-USD (Confianza: 85%)
+    Razón: SOL-USD se encuentra profundamente en sobreventa técnica con un RSI de 25.4, lo que presenta una oportunidad clara de rebote por mean reversion. Mantenemos la posición para capturar el movimiento alcista hacia nuestro objetivo de take-profit.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] ETH-USD (Confianza: 80%)
+    Razón: ETH-USD muestra un RSI de 28.6 en zona de sobreventa, acompañando el potencial de recuperación del sector cripto. Mantenemos la posición actual para maximizar el rendimiento del rebote técnico.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.
