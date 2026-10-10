@@ -1,33 +1,3 @@
- Valor en Activos:     $36.05 USD
- Balance Total:        $40.16 USD
- Ganancia/Pérdida:     🟢 $+0.16 USD (+0.41%)
-
- 💼 Posiciones Abiertas:
-   • SOL-USD: 0.183448 u. | Compra: $109.02 | Actual: $109.14 | Total: $20.02 📈 (+0.11%)
-   • ETH-USD: 0.006448 u. | Compra: $2481.58 | Actual: $2486.56 | Total: $16.03 📈 (+0.20%)
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado general muestra fortaleza en índices bursátiles (SPY, QQQ en tendencia alcista), mientras que el sector cripto atraviesa una condición extrema de sobreventa técnica tras fuertes retrocesos semanales. SOL-USD (RSI 20.4) y ETH-USD (RSI 25.8) presentan condiciones ideales de reversión a la media (Mean Reversion), con BTC-USD comenzando a estabilizarse (+1.07% en 24h). Con la liquidez en $4.11 USD justo en el límite de la reserva obligatoria ($4.00 USD), la estrategia cuantitativa óptima es mantener posiciones para capturar el rebote proyectado del +2% al +6% antes de ejecutar tomas de ganancias."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] SOL-USD (Confianza: 88%)
-    Razón: SOL se encuentra en niveles de extrema sobreventa con un RSI de 20.4 tras caer -8.78% en 7 días. La posición está en verde (+0.11%) y el ratio riesgo/beneficio favorece mantener con convicción alta para capitalizar el rebote técnico hacia la zona de take-profit (+2.5% a +5%).
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 85%)
-    Razón: ETH muestra señales tempranas de giro alcista diario (+0.59%) con un RSI de 25.8 en zona de capitulación. Mantener es la táctica correcta para permitir que el momentum alcista se desarrolle sin forzar rotación prematura antes de alcanzar el objetivo de ganancia rápida.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $40.16 USD (Cash: $4.11 USD)
-
-[2026-10-09 20:40:36] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
 =======================================================
  Capital Inicial:      $40.00 USD
  Efectivo Disponible:  $4.11 USD
@@ -151,3 +121,33 @@ Balance final del ciclo: $40.13 USD (Cash: $4.11 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $40.13 USD (Cash: $4.11 USD)
+
+[2026-10-09 21:20:39] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $4.11 USD
+ Valor en Activos:     $36.06 USD
+ Balance Total:        $40.17 USD
+ Ganancia/Pérdida:     🟢 $+0.17 USD (+0.43%)
+
+ 💼 Posiciones Abiertas:
+   • SOL-USD: 0.183448 u. | Compra: $109.02 | Actual: $109.14 | Total: $20.02 📈 (+0.11%)
+   • ETH-USD: 0.006448 u. | Compra: $2481.58 | Actual: $2487.81 | Total: $16.04 📈 (+0.25%)
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"Aviso temporal de Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\nPlease retry in 23h39m13.852842761s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '85153s'}]}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] PORTFOLIO (Confianza: 100%)
+    Razón: Error temporal de conexión, manteniendo posiciones de forma segura.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $40.17 USD (Cash: $4.11 USD)
