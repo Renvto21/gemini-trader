@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 22:10:50`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-09 22:20:40`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.11 USD** | **$36.13 USD** | **$40.24 USD** | 🟢 **+0.61%** ($+0.24) |
+| **$40.00 USD** | **$4.11 USD** | **$36.12 USD** | **$40.23 USD** | 🟢 **+0.57%** ($+0.23) |
 
 ---
 
@@ -16,18 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.183448 | $109.02 | $109.50 | $20.09 | 📈 +0.44% |
-| `ETH-USD` | 0.006448 | $2481.58 | $2488.38 | $16.04 | 📈 +0.27% |
+| `SOL-USD` | 0.183448 | $109.02 | $109.45 | $20.08 | 📈 +0.39% |
+| `ETH-USD` | 0.006448 | $2481.58 | $2487.35 | $16.04 | 📈 +0.23% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto presenta una fuerte condición de sobreventa técnica con SOL-USD (RSI 20.9) y ETH-USD (RSI 26.1) en niveles extremos, sugiriendo un inminente rebote por reversión a la media. El sector tecnológico (QQQ, NVDA) se mantiene alcista pero extendido. Mantendremos la exposición máxima actual en SOL y ETH para capturar el rebote violento esperado, respetando el límite de reserva de efectivo."*
+> *"Aviso temporal de Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\nPlease retry in 22h39m19.883693077s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '81559s'}]}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 90%): SOL-USD se encuentra en una sobreventa extrema con un RSI de 20.9. Actualmente nuestra posición está ligeramente en positivo (+0.44%). Dado que ya tenemos una asignación fuerte ($20.09) y el efectivo está al límite de la reserva mínima ($4.11), mantenemos la posición para capturar el rebote técnico esperado hacia la SMA20.
-- **[HOLD] ETH-USD** (Confianza: 85%): ETH-USD muestra un RSI de 26.1, lo que indica un claro agotamiento de la fuerza vendedora. Con un PnL plano (+0.27%) y sin liquidez extra para promediar (reserva en $4.11), la mejor decisión táctica es mantener la posición para maximizar el retorno del rebote inminente.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
