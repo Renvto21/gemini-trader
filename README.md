@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 04:40:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 04:50:36`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.02 USD** | **$40.25 USD** | **$40.27 USD** | 🟢 **+0.68%** ($+0.27) |
+| **$40.00 USD** | **$4.14 USD** | **$36.14 USD** | **$40.28 USD** | 🟢 **+0.70%** ($+0.28) |
 
 ---
 
@@ -16,18 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.220708 | $109.23 | $109.38 | $24.14 | 📈 +0.14% |
-| `ETH-USD` | 0.006448 | $2481.58 | $2498.52 | $16.11 | 📈 +0.68% |
+| `SOL-USD` | 0.330438 | $109.27 | $109.36 | $36.14 | 📈 +0.08% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra señales mixtas, con un sesgo alcista moderado en los índices tradicionales (SPY, QQQ) y valores tecnológicos como MSFT, mientras que las criptomonedas principales se encuentran profundamente en zona de sobreventa técnica (RSI de SOL-USD en 21.2 y ETH-USD en 28.1). Esto presenta una oportunidad clásica de reversión a la media (mean reversion) para capturar rebotes agresivos en cripto tras fuertes caídas semanales, a pesar de la tendencia bajista temporal a corto plazo."*
+> *"El mercado cripto muestra condiciones de extrema sobreventa técnica con SOL (RSI 21.2) y ETH (RSI 28.2) golpeados en la última semana, pero listos para un rebote de reversión a la media. Por otro lado, MSFT ha entrado en zona de sobrecompra (RSI 72.3) y los índices generales (SPY, QQQ) muestran estabilidad alcista. Nuestro efectivo es de apenas 0.02 USD, por lo que debemos realizar una rotación táctica."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 88%): SOL-USD se encuentra en extrema sobreventa con un RSI de 21.2 tras una caída semanal del -9.42%. Mantenemos la posición para capturar el inminente rebote técnico hacia la media, alineado con nuestra estrategia agresiva de buscar retornos rápidos del 2% al 6%.
-- **[HOLD] ETH-USD** (Confianza: 85%): ETH-USD muestra un RSI profundamente deprimido en 28.1 y una caída acumulada semanal de -7.84%. Al igual que Solana, presenta una excelente oportunidad de rebote técnico y esperamos que recupere valor en las próximas sesiones sin necesidad de liquidar con ganancias mínimas.
+- **[SELL] ETH-USD** (Confianza: 88%): Rotamos capital fuera de ETH-USD para asegurar una pequeña ganancia del +0.75% y liberar liquidez inmediata, aprovechando que SOL-USD ofrece un potencial de rebote por sobreventa mucho más agresivo (RSI en 21.2).
+- **[BUY] SOL-USD** (Confianza: 90%): Alta convicción en el rebote técnico de Solana tras una caída semanal del -9.43% y un RSI crítico de 21.2. Aprovechamos los fondos liberados para incrementar la posición y maximizar la captura del movimiento alcista inminente.
 
 ---
 
@@ -35,11 +34,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-11 04:50` | 🟢 BUY | `SOL-USD` | $12.00 | $109.36 | Alta convicción en el rebote técnico de Solana tras una caída semanal del -9.43% y un RSI ... |
+| `2026-10-11 04:50` | 🔴 SELL | `ETH-USD` | $16.12 | $2500.30 | Rotamos capital fuera de ETH-USD para asegurar una pequeña ganancia del +0.75% y liberar l... |
 | `2026-10-11 03:20` | 🟢 BUY | `SOL-USD` | $12.00 | $109.35 | SOL-USD se encuentra en una situación de sobreventa técnica masiva con un RSI de 14 en 21.... |
 | `2026-10-11 03:20` | 🔴 SELL | `MSFT` | $12.00 | $535.07 | MSFT ha entrado en zona de sobrecompra técnica con un RSI de 72.3. Aplicando la regla táct... |
 | `2026-10-11 03:10` | 🟢 BUY | `MSFT` | $12.00 | $535.07 | Aprovechando la fuerte subida de MSFT (2.38% en 24h y RSI de 72.3 en zona de aceleración d... |
-| `2026-10-11 03:10` | 🔴 SELL | `SOL-USD` | $12.02 | $109.29 | Liberando parcialmente capital de SOL-USD para aprovechar una rotación táctica hacia activ... |
-| `2026-10-11 02:20` | 🟢 BUY | `SOL-USD` | $4.11 | $109.54 | SOL-USD se encuentra en extrema sobreventa técnica con un RSI de 22.4 y una caída semanal ... |
 
 ---
 

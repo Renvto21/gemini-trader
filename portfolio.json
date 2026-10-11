@@ -1,14 +1,10 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.022618481648990496,
+  "cash": 4.143304076972765,
   "positions": {
     "SOL-USD": {
-      "shares": 0.22070835459974508,
-      "avg_price": 109.22949978671254
-    },
-    "ETH-USD": {
-      "shares": 0.006447500538064942,
-      "avg_price": 2481.5818014343286
+      "shares": 0.33043768890845027,
+      "avg_price": 109.27283534440416
     }
   },
   "history": [
@@ -245,6 +241,24 @@
       "shares": 0.109739,
       "price": 109.35,
       "reason": "SOL-USD se encuentra en una situación de sobreventa técnica masiva con un RSI de 14 en 21.7 tras una caída semanal del -10.02%. Esto activa nuestra estrategia agresiva de caza de rebordes por reversión a la media, asignando un tamaño de alta convicción para capturar el rebote alcista inminente."
+    },
+    {
+      "timestamp": "2026-10-11T04:50:36.188434-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 16.12,
+      "shares": 0.006448,
+      "price": 2500.3,
+      "reason": "Rotamos capital fuera de ETH-USD para asegurar una pequeña ganancia del +0.75% y liberar liquidez inmediata, aprovechando que SOL-USD ofrece un potencial de rebote por sobreventa mucho más agresivo (RSI en 21.2)."
+    },
+    {
+      "timestamp": "2026-10-11T04:50:36.188961-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 12.0,
+      "shares": 0.109729,
+      "price": 109.36,
+      "reason": "Alta convicción en el rebote técnico de Solana tras una caída semanal del -9.43% y un RSI crítico de 21.2. Aprovechamos los fondos liberados para incrementar la posición y maximizar la captura del movimiento alcista inminente."
     }
   ]
 }
