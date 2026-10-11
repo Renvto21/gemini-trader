@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 17:20:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 17:30:45`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.00 USD** | **$37.00 USD** | **$41.00 USD** | 🟢 **+2.50%** ($+1.00) |
+| **$40.00 USD** | **$4.00 USD** | **$36.97 USD** | **$40.97 USD** | 🟢 **+2.43%** ($+0.97) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.004740 | $2531.44 | $2534.64 | $12.02 | 📈 +0.13% |
-| `SOL-USD` | 0.224836 | $111.90 | $111.14 | $24.99 | 📉 -0.68% |
+| `ETH-USD` | 0.004740 | $2531.44 | $2532.65 | $12.01 | 📈 +0.05% |
+| `SOL-USD` | 0.224836 | $111.90 | $111.05 | $24.97 | 📉 -0.76% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sentimiento mixto con el sector tech en tendencia alcista general, mientras que las criptomonedas presentan una marcada sobreventa (ETH con RSI de 33.3 y SOL con RSI extremadamente bajo de 25.7). Mantengo la liquidez cerca del mínimo requerido y mis posiciones actuales estables mientras observo oportunidades de rebote técnico."*
+> *"El mercado muestra un tono mixto con sesgo alcista en índices y tecnológicas, mientras que criptomonedas como ETH y SOL presentan condiciones extremas de sobreventa técnica con RSI en 33.0 y 25.4 respectivamente, lo cual activa nuestra estrategia agresiva de captura de rebotes (mean reversion). Mantendremos nuestras posiciones actuales ya que están listas para rebotar desde estos niveles de soporte."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD se encuentra en zona de sobreventa extrema con un RSI de 25.7, cumpliendo nuestra tesis de cazar rebotes. Mantenemos la posición actual para capturar el potencial movimiento alcista del +2% al +6% sin sobreexponer el portafolio.
+- **[HOLD] SOL-USD** (Confianza: 85%): SOL se encuentra en extrema sobreventa con un RSI de 25.4 y tras una caída semanal del 8.03%. Mantenemos la posición para capturar el rebote técnico inminente hacia la zona de recuperación rápida.
 
 ---
 
