@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 09:20:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 09:30:40`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$40.37 USD** | **$40.37 USD** | 🟢 **+0.93%** ($+0.37) |
+| **$40.00 USD** | **$0.00 USD** | **$40.31 USD** | **$40.31 USD** | 🟢 **+0.78%** ($+0.31) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.330438 | $109.27 | $109.62 | $36.22 | 📈 +0.32% |
-| `ETH-USD` | 0.001656 | $2500.14 | $2504.07 | $4.15 | 📈 +0.16% |
+| `SOL-USD` | 0.330438 | $109.27 | $109.45 | $36.17 | 📈 +0.16% |
+| `ETH-USD` | 0.001656 | $2500.14 | $2502.93 | $4.14 | 📈 +0.11% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un tono mixto con sesgo alcista en indices y tech tradicionales, mientras que las criptomonedas (SOL y ETH) se encuentran en condiciones extremas de sobreventa con RSI de 21.5 y 28.5 respectivamente, tras caídas semanales significativas. El portafolio actual se encuentra completamente invertido sin liquidez en efectivo, manteniendo posiciones estables en SOL-USD y ETH-USD."*
+> *"Aviso temporal de Gemini (403 Forbidden. {'message': '<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">\n  <title>Error 403 (Forbidden)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>403.</b> <ins>That’s an error.</ins>\n  <p>Your client does not have permission to get URL <code>/v1beta/models/gemini-flash-latest:generateContent</code> from this server.  <ins>That’s all we know.</ins>\n', 'status': 'Forbidden'}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD se encuentra en una situación de sobreventa extrema (RSI 21.5) tras una caída semanal del -9.22%. Aunque la tendencia es bajista a corto plazo, el nivel actual presenta un potencial claro de rebote técnico (mean reversion) hacia la zona de resistencia superior, por lo que se mantiene la posición para capturar el movimiento alcista inminente.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
