@@ -1,10 +1,14 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.143304076972765,
+  "cash": 0.0033040769727650243,
   "positions": {
     "SOL-USD": {
       "shares": 0.33043768890845027,
       "avg_price": 109.27283534440416
+    },
+    "ETH-USD": {
+      "shares": 0.0016562716285470815,
+      "avg_price": 2499.59
     }
   },
   "history": [
@@ -259,6 +263,15 @@
       "shares": 0.109729,
       "price": 109.36,
       "reason": "Alta convicción en el rebote técnico de Solana tras una caída semanal del -9.43% y un RSI crítico de 21.2. Aprovechamos los fondos liberados para incrementar la posición y maximizar la captura del movimiento alcista inminente."
+    },
+    {
+      "timestamp": "2026-10-11T05:00:53.104071-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 4.14,
+      "shares": 0.001656,
+      "price": 2499.59,
+      "reason": "ETH-USD presenta un RSI de 28.2, lo que indica una clara condición de sobreventa técnica tras una caída semanal del 7.8%. Aprovechamos todo el efectivo disponible para capturar este inminente rebote alcista de corto plazo."
     }
   ]
 }
