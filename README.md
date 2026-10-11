@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 10:40:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 10:50:44`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.15 USD** | **$36.15 USD** | **$40.30 USD** | 🟢 **+0.75%** ($+0.30) |
+| **$40.00 USD** | **$5.08 USD** | **$35.19 USD** | **$40.27 USD** | 🟢 **+0.68%** ($+0.27) |
 
 ---
 
@@ -16,16 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.330438 | $109.27 | $109.41 | $36.15 | 📈 +0.13% |
+| `SOL-USD` | 0.230438 | $109.27 | $109.32 | $25.19 | 📈 +0.04% |
+| `ETH-USD` | 0.003999 | $2500.42 | $2500.42 | $10.00 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sesgo mixto con criptomonedas fuertemente castigadas pero en zonas de sobreventa extrema (SOL-USD con RSI de 21.3 y ETH-USD con RSI de 28.4), lo cual representa una oportunidad clara de rebote técnico por mean reversion. Por otro lado, activos tecnológicos y el mercado general se mantienen resilientes o alcistas, destacando MSFT en sobrecompra (RSI 72.3). Nuestra posición actual en SOL-USD se mantiene estable con una pequeña ganancia del 0.13%, por lo que decidimos mantenerla para capturar el esperado rebote desde niveles de sobreventa."*
+> *"El mercado cripto muestra condiciones extremas de sobreventa con SOL-USD registrando un RSI de 21.2 y ETH-USD en 28.2, lo cual representa una oportunidad ideal de rebote por reversión a la media según nuestra táctica agresiva. Nuestra posición actual en SOL-USD se encuentra estancada con un PnL cercano a 0% y, dado que detectamos una oportunidad aún más atractiva en ETH-USD por su fuerte caída semanal, procedemos a rotar parte del capital."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 88%): SOL-USD se encuentra en una condición técnica de sobreventa extrema con un RSI de 21.3 tras una caída semanal del 9.39%. Aunque la tendencia de corto plazo es bajista, las reglas de nuestra táctica agresiva buscan cazar rebotes en cripto sobrevendidas. Mantenemos la posición actual para capturar el movimiento de recuperación hacia la media sin violar nuestro stop-loss estricto.
+- **[SELL] SOL-USD** (Confianza: 85%): Liberamos liquidez de SOL-USD que se encuentra estancada para aprovechar la oportunidad de alta convicción en ETH-USD, manteniendo una posición equilibrada pero agresiva.
+- **[BUY] ETH-USD** (Confianza: 90%): ETH-USD presenta un RSI de 28.2 en profunda sobreventa y una caída semanal del 7.77%, cumpliendo perfectamente con la regla de cazar rebotes en cripto de alta volatilidad para buscar un movimiento rápido del +2% al +6%.
 
 ---
 
@@ -33,11 +35,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-11 10:50` | 🟢 BUY | `ETH-USD` | $10.00 | $2500.42 | ETH-USD presenta un RSI de 28.2 en profunda sobreventa y una caída semanal del 7.77%, cump... |
+| `2026-10-11 10:50` | 🔴 SELL | `SOL-USD` | $10.93 | $109.32 | Liberamos liquidez de SOL-USD que se encuentra estancada para aprovechar la oportunidad de... |
 | `2026-10-11 10:20` | 🔴 SELL | `ETH-USD` | $4.15 | $2504.04 | Vendemos la posición completa en ETH-USD para liberar liquidez. Aunque tiene sobreventa, c... |
 | `2026-10-11 08:40` | 🟢 BUY | `ETH-USD` | $4.14 | $2500.14 | ETH-USD se encuentra en clara sobreventa con un RSI de 28.2 y una caída de 7.78% en los úl... |
 | `2026-10-11 08:00` | 🔴 SELL | `ETH-USD` | $4.14 | $2498.90 | Vendemos la posición completa de ETH-USD para liberar 4.14 USD en efectivo. Aunque está en... |
-| `2026-10-11 05:00` | 🟢 BUY | `ETH-USD` | $4.14 | $2499.59 | ETH-USD presenta un RSI de 28.2, lo que indica una clara condición de sobreventa técnica t... |
-| `2026-10-11 04:50` | 🟢 BUY | `SOL-USD` | $12.00 | $109.36 | Alta convicción en el rebote técnico de Solana tras una caída semanal del -9.43% y un RSI ... |
 
 ---
 
