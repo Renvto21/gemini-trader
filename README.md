@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 14:50:37`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 15:00:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.00 USD** | **$37.28 USD** | **$41.28 USD** | 🟢 **+3.20%** ($+1.28) |
+| **$40.00 USD** | **$4.00 USD** | **$37.26 USD** | **$41.26 USD** | 🟢 **+3.14%** ($+1.26) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.004740 | $2531.44 | $2541.73 | $12.05 | 📈 +0.41% |
-| `SOL-USD` | 0.224836 | $111.90 | $112.23 | $25.23 | 📈 +0.29% |
+| `ETH-USD` | 0.004740 | $2531.44 | $2537.37 | $12.03 | 📈 +0.23% |
+| `SOL-USD` | 0.224836 | $111.90 | $112.21 | $25.23 | 📈 +0.27% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra una recuperación moderada en criptomonedas tras caídas recientes, destacando a SOL-USD en profunda sobreventa técnica con un RSI de 29.2 y mostrando un rebote en 24 horas del 2.0%. ETH-USD también se encuentra en sobreventa con un RSI de 34.3. Por otro lado, en el sector tecnológico, MSFT ha entrado en fuerte sobrecompra con un RSI de 72.3, presentando una excelente oportunidad de rotación hacia activos con mayor potencial de rebote o para asegurar liquidez."*
+> *"El mercado muestra un sesgo alcista general en los principales índices como QQQ y SPY, mientras que las criptomonedas como ETH-USD y SOL-USD se encuentran en zonas de profunda sobreventa técnica con RSI en 33.7 y 29.1 respectivamente, ideales para capturar rebotes agresivos de mean reversion. Por otro lado, MSFT ha entrado en sobrecompra clara con un RSI de 72.3, lo que indica un excelente momento técnico para mantener o buscar oportunidades con mayor descuento."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 90%): SOL-USD se encuentra en una clara oportunidad de rebote por sobreventa (RSI de 29.2) y mantiene un impulso positivo en las últimas 24 horas (+2.0%). Mantenemos la posición para capturar el movimiento alcista esperado hacia el objetivo de +2% a +6%.
+- **[HOLD] SOL-USD** (Confianza: 90%): SOL-USD muestra un RSI en nivel de sobreventa extrema (29.1) y está comenzando a rebotar con un cambio positivo del 1.98% en 24 horas. Mantendremos la posición para capturar el movimiento alcista esperado hacia la resistencia inmediata.
 
 ---
 
