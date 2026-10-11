@@ -1,10 +1,10 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.110718481648991,
+  "cash": 0.0007184816489909096,
   "positions": {
     "SOL-USD": {
-      "shares": 0.18344844515926909,
-      "avg_price": 109.02245577844006
+      "shares": 0.22096898560111683,
+      "avg_price": 109.11033480292241
     },
     "ETH-USD": {
       "shares": 0.006447500538064942,
@@ -200,6 +200,15 @@
       "shares": 0.007681,
       "price": 535.07,
       "reason": "MSFT ha alcanzado un RSI de 72.3 (sobrecompra) cumpliendo con la regla táctica de toma de ganancias rápida. Vendemos la totalidad de la posición para liberar $4.11 USD en efectivo y poder rotar el capital hacia oportunidades con mayor impulso o descuento en cripto."
+    },
+    {
+      "timestamp": "2026-10-11T02:20:45.950119-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 4.11,
+      "shares": 0.037521,
+      "price": 109.54,
+      "reason": "SOL-USD se encuentra en extrema sobreventa técnica con un RSI de 22.4 y una caída semanal del -9.86%. Aprovechamos todo el efectivo disponible restante ($4.11) para maximizar la posición en este activo de alta beta buscando un rebote técnico inminente."
     }
   ]
 }
