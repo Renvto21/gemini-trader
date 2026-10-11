@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 16:20:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 16:30:47`
 
 ---
 
@@ -16,17 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.004740 | $2531.44 | $2533.11 | $12.01 | 📈 +0.07% |
+| `ETH-USD` | 0.004740 | $2531.44 | $2532.64 | $12.01 | 📈 +0.05% |
 | `SOL-USD` | 0.224836 | $111.90 | $111.26 | $25.02 | 📉 -0.58% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto muestra condiciones de sobreventa extrema, destacando SOL-USD con un RSI de 26.1 y caídas recientes del 7.86%, lo cual presenta una oportunidad ideal para cazar un rebote técnico por reversión a la media. Ethereum (ETH-USD) también se encuentra en niveles de sobreventa con RSI en 33.1. Mantendremos la posición en ETH ya que apenas se mueve y muestra un intento de recuperación, pero nos enfocaremos en capitalizar el fuerte descuento en Solana."*
+> *"El mercado general muestra un tono mixto con sesgo alcista moderado en índices tradicionales (SPY, QQQ), mientras que las criptomonedas (SOL, ETH) han sufrido caídas recientes en los últimos 7 días pero presentan condiciones técnicas claras de sobreventa extrema (RSI de SOL en 26.1 y ETH en 33.0). Mantenemos nuestra tesis de cazar rebotes en estos activos altamente volátiles para capturar movimientos rápidos de recuperación."*
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD tiene un RSI de 33.1 en zona de sobreventa y muestra un ligero avance del 1.16% en 24h. Mantenemos la posición para dejar que complete su rebote técnico hacia la media.
+- **[HOLD] SOL-USD** (Confianza: 85%): A pesar de una ligera baja, SOL-USD se encuentra en clara sobreventa técnica con un RSI de 26.1, lo que activa nuestra regla de cazar rebotes por mean reversion. Mantenemos la posición para capturar el rebote alcista inminente hacia nuestro objetivo de take-profit.
+- **[HOLD] ETH-USD** (Confianza: 80%): ETH-USD muestra un RSI de 33.0 en zona de sobreventa y un ligero repunte del 1.14% en 24 horas. La posición está prácticamente plana y esperamos la continuación del rebote técnico para rotar capital o asegurar beneficios.
 
 ---
 
