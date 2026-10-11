@@ -1,10 +1,14 @@
 {
   "initial_capital": 40.0,
-  "cash": 29.158212540714356,
+  "cash": 19.158212540714356,
   "positions": {
     "ETH-USD": {
       "shares": 0.004740384919255444,
       "avg_price": 2531.44
+    },
+    "SOL-USD": {
+      "shares": 0.08945343948474818,
+      "avg_price": 111.79
     }
   },
   "history": [
@@ -394,6 +398,15 @@
       "shares": 0.170099,
       "price": 111.95,
       "reason": "SOL-USD ha alcanzado un rendimiento cercano a nuestra meta de take-profit del 2.5% (+2.43%). Siguiendo la regla de rotación y toma rápida de ganancias, vendemos la posición completa para asegurar los beneficios y liberar liquidez con el fin de capturar nuevas oportunidades de momentum en el mercado."
+    },
+    {
+      "timestamp": "2026-10-11T13:40:39.528860-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.0,
+      "shares": 0.089453,
+      "price": 111.79,
+      "reason": "SOL-USD presenta una excelente oportunidad de rebote técnico de alta convicción al encontrarse en condición de sobreventa profunda (RSI de 27.8) y acumulando una caída semanal de -7.42%. Aplicamos una asignación agresiva de $10.00 USD para capturar el movimiento alcista de corto plazo."
     }
   ]
 }
