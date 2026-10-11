@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 03:00:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 03:10:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$40.28 USD** | **$40.28 USD** | 🟢 **+0.71%** ($+0.28) |
+| **$40.00 USD** | **$0.02 USD** | **$40.25 USD** | **$40.28 USD** | 🟢 **+0.69%** ($+0.28) |
 
 ---
 
@@ -16,18 +16,19 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.220969 | $109.11 | $109.28 | $24.15 | 📈 +0.16% |
-| `ETH-USD` | 0.006448 | $2481.58 | $2502.51 | $16.13 | 📈 +0.84% |
+| `SOL-USD` | 0.110969 | $109.11 | $109.29 | $12.13 | 📈 +0.16% |
+| `ETH-USD` | 0.006448 | $2481.58 | $2501.17 | $16.13 | 📈 +0.79% |
+| `MSFT` | 0.022427 | $535.07 | $535.07 | $12.00 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado general muestra un tono mixto con soporte en los índices tecnológicos y SPY, mientras que las criptomonedas experimentan una fuerte presión bajista semanal previa pero presentan condiciones extremas de sobreventa técnica (RSI inferior a 30 en SOL y ETH), lo cual activa nuestra estrategia táctica de mean reversion y captura de rebotes rápidos."*
+> *"El mercado muestra un sesgo alcista moderado en índices principales como SPY y QQQ, mientras que las criptomonedas (SOL-USD y ETH-USD) se encuentran en condiciones de sobreventa extrema con niveles de RSI de 21.5 y 27.5 respectivamente, tras caídas semanales significativas. El portafolio actual está completamente invertido y estancado con ganancias mínimas en cripto, lo que abre una ventana perfecta para rotar capital hacia valores tecnológicos con momentum alcista confirmado como MSFT, cuyo RSI se encuentra en zona de sobrecompra técnica (72.3) y muestra un fuerte rendimiento diario del 2.38%."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD se encuentra en un estado extremo de sobreventa con un RSI de 21.5 tras una caída semanal del 10%. Aunque está bajo la SMA20, la regla de cazar rebotes en cripto nos indica mantener y esperar la consolidación del rebote alcista hacia nuestro objetivo de take-profit sin vender prematuramente.
-- **[HOLD] ETH-USD** (Confianza: 80%): ETH-USD muestra un RSI de 27.7, también en zona de sobreventa profunda, manteniendo una leve ganancia positiva del 0.84%. Mantenemos la posición para capturar el impulso de recuperación alcista esperado en activos digitales sobrevendidos.
+- **[SELL] SOL-USD** (Confianza: 85%): Liberando parcialmente capital de SOL-USD para aprovechar una rotación táctica hacia activos con momentum alcista superior, asegurando el poco beneficio y manteniendo exposición reducida en el activo.
+- **[BUY] MSFT** (Confianza: 90%): Aprovechando la fuerte subida de MSFT (2.38% en 24h y RSI de 72.3 en zona de aceleración de momentum) para capturar ganancias rápidas bajo la estrategia de crecimiento y alta convicción.
 
 ---
 
@@ -35,11 +36,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-11 03:10` | 🟢 BUY | `MSFT` | $12.00 | $535.07 | Aprovechando la fuerte subida de MSFT (2.38% en 24h y RSI de 72.3 en zona de aceleración d... |
+| `2026-10-11 03:10` | 🔴 SELL | `SOL-USD` | $12.02 | $109.29 | Liberando parcialmente capital de SOL-USD para aprovechar una rotación táctica hacia activ... |
 | `2026-10-11 02:20` | 🟢 BUY | `SOL-USD` | $4.11 | $109.54 | SOL-USD se encuentra en extrema sobreventa técnica con un RSI de 22.4 y una caída semanal ... |
 | `2026-10-10 12:10` | 🔴 SELL | `MSFT` | $4.11 | $535.07 | MSFT ha alcanzado un RSI de 72.3 (sobrecompra) cumpliendo con la regla táctica de toma de ... |
 | `2026-10-10 12:00` | 🟢 BUY | `MSFT` | $4.11 | $535.07 | Aprovechamos el capital liberado de GLD para entrar en MSFT, que muestra un fuerte momentu... |
-| `2026-10-10 12:00` | 🔴 SELL | `GLD` | $4.11 | $384.58 | Liberamos la totalidad de la posición en GLD ya que se encuentra estancada con 0% de PnL y... |
-| `2026-10-10 11:50` | 🟢 BUY | `GLD` | $4.11 | $384.58 | Aprovechamos el efectivo disponible para cazar un rebote por sobreventa en GLD, cuyo RSI s... |
 
 ---
 
