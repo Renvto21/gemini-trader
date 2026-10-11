@@ -1,14 +1,10 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.0033040769727650243,
+  "cash": 4.141482476972765,
   "positions": {
     "SOL-USD": {
       "shares": 0.33043768890845027,
       "avg_price": 109.27283534440416
-    },
-    "ETH-USD": {
-      "shares": 0.0016562716285470815,
-      "avg_price": 2499.59
     }
   },
   "history": [
@@ -272,6 +268,15 @@
       "shares": 0.001656,
       "price": 2499.59,
       "reason": "ETH-USD presenta un RSI de 28.2, lo que indica una clara condición de sobreventa técnica tras una caída semanal del 7.8%. Aprovechamos todo el efectivo disponible para capturar este inminente rebote alcista de corto plazo."
+    },
+    {
+      "timestamp": "2026-10-11T08:00:47.142818-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 4.14,
+      "shares": 0.001656,
+      "price": 2498.9,
+      "reason": "Vendemos la posición completa de ETH-USD para liberar 4.14 USD en efectivo. Aunque está en sobreventa, SOL-USD ofrece un perfil de beta más alto y mayor potencial de rebote rápido, permitiéndonos rotar este capital hacia oportunidades más dinámicas o cumplir con la estrategia de agilidad de cartera."
     }
   ]
 }
