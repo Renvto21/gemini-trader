@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 19:40:36`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 19:50:36`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.02 USD** | **$37.00 USD** | **$41.02 USD** | 🟢 **+2.56%** ($+1.02) |
+| **$40.00 USD** | **$4.02 USD** | **$37.00 USD** | **$41.02 USD** | 🟢 **+2.54%** ($+1.02) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.260810 | $111.80 | $111.06 | $28.97 | 📉 -0.66% |
-| `ETH-USD` | 0.003174 | $2520.20 | $2531.24 | $8.04 | 📈 +0.44% |
+| `SOL-USD` | 0.260810 | $111.80 | $111.04 | $28.96 | 📉 -0.68% |
+| `ETH-USD` | 0.003174 | $2520.20 | $2531.22 | $8.03 | 📈 +0.44% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sentimiento mixto con el sector tecnológico y los índices principales (SPY, QQQ) manteniendo una tendencia alcista moderada, mientras que las criptomonedas (SOL-USD, ETH-USD) han sufrido caídas recientes pero presentan condiciones técnicas de sobreventa extrema (RSI de 25.5 para SOL y 32.8 para ETH), lo que activa nuestra estrategia de búsqueda de rebotes por reversión a la media."*
+> *"El mercado muestra un sentimiento mixto con sesgo alcista en los índices principales y acciones de tecnología, mientras que las criptomonedas como SOL y ETH se encuentran en niveles de sobreventa extrema (RSI de 25.4 y 32.8 respectivamente) tras caídas semanales, lo que representa una clara oportunidad de rebote técnico (Mean Reversion) según nuestra estrategia agresiva."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD presenta un RSI extremadamente bajo de 25.5 en zona de clara sobreventa técnica, lo que ofrece un potencial de rebote inminente. Aunque muestra un pequeño PnL negativo de -0.66%, mantenemos la posición para capturar el impulso alcista esperado en el corto plazo.
+- **[HOLD] SOL-USD** (Confianza: 88%): SOL-USD está en una fuerte sobreventa técnica con un RSI de 25.4. Mantenemos la posición actual para capturar el inminente rebote alcista hacia el objetivo de +2% a +6% sin sobreexponer el capital disponible.
 
 ---
 
