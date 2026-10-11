@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 15:00:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 15:10:45`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.00 USD** | **$37.26 USD** | **$41.26 USD** | 🟢 **+3.14%** ($+1.26) |
+| **$40.00 USD** | **$4.00 USD** | **$37.23 USD** | **$41.23 USD** | 🟢 **+3.08%** ($+1.23) |
 
 ---
 
@@ -16,17 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.004740 | $2531.44 | $2537.37 | $12.03 | 📈 +0.23% |
-| `SOL-USD` | 0.224836 | $111.90 | $112.21 | $25.23 | 📈 +0.27% |
+| `ETH-USD` | 0.004740 | $2531.44 | $2538.10 | $12.03 | 📈 +0.26% |
+| `SOL-USD` | 0.224836 | $111.90 | $112.09 | $25.20 | 📈 +0.17% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sesgo alcista general en los principales índices como QQQ y SPY, mientras que las criptomonedas como ETH-USD y SOL-USD se encuentran en zonas de profunda sobreventa técnica con RSI en 33.7 y 29.1 respectivamente, ideales para capturar rebotes agresivos de mean reversion. Por otro lado, MSFT ha entrado en sobrecompra clara con un RSI de 72.3, lo que indica un excelente momento técnico para mantener o buscar oportunidades con mayor descuento."*
+> *"El mercado muestra un sesgo mixto con recuperación moderada en criptomonedas tras caídas recientes y fortaleza continua en tech y índices generales. ETH-USD (RSI 33.8) y SOL-USD (RSI 28.7) se encuentran en zonas de sobreventa técnica clara, mostrando indicios de rebote de corto plazo con ganancias en las últimas 24 horas. Mantenemos nuestras posiciones en cripto mientras muestran momentum de recuperación y conservamos la liquidez alineada con nuestra estrategia."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 90%): SOL-USD muestra un RSI en nivel de sobreventa extrema (29.1) y está comenzando a rebotar con un cambio positivo del 1.98% en 24 horas. Mantendremos la posición para capturar el movimiento alcista esperado hacia la resistencia inmediata.
+- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD se encuentra en zona de fuerte sobreventa técnica con un RSI de 28.7 y comienza a mostrar un rebote intradía del 1.87%. Mantenemos la posición para capturar la reversión a la media tal como dicta nuestra estrategia de alta volatilidad.
+- **[HOLD] ETH-USD** (Confianza: 82%): ETH-USD presenta un RSI de 33.8 en clara condición de sobreventa y un avance del 1.36% en 24 horas. Conservamos la posición para aprovechar el impulso técnico de recuperación hacia la media.
 
 ---
 
