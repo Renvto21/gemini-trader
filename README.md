@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 12:10:45`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 12:20:41`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$7.42 USD** | **$32.78 USD** | **$40.20 USD** | 🟢 **+0.50%** ($+0.20) |
+| **$40.00 USD** | **$4.00 USD** | **$36.19 USD** | **$40.19 USD** | 🟢 **+0.47%** ($+0.19) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.001175 | $2553.82 | $2525.66 | $2.97 | 📉 -1.10% |
-| `SOL-USD` | 0.273653 | $109.63 | $108.93 | $29.81 | 📉 -0.64% |
+| `ETH-USD` | 0.001175 | $2553.82 | $2521.21 | $2.96 | 📉 -1.28% |
+| `SOL-USD` | 0.305055 | $109.55 | $108.91 | $33.22 | 📉 -0.59% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un tono mixto con presión bajista en criptomonedas y tecnológicas de alto beta, generando excelentes oportunidades de sobreventa (Mean Reversion). SOL-USD presenta un RSI muy deprimido en 27.2, lo que activa nuestra estrategia de cazar rebotes agresivos para capitalizar un fuerte movimiento alcista de recuperación, mientras mantenemos la disciplina de stop-loss estricto."*
+> *"El mercado muestra un sesgo bajista de corto plazo en criptomonedas y algunos activos tecnológicos de alto beta, con SOL-USD en profunda sobreventa con un RSI de 27.1 y ETH-USD en zona atractiva de rebote con RSI de 32.1. Mantenemos una postura agresiva buscando capturar rebotes por mean reversion aprovechando la alta volatilidad actual."*
 
 **Operaciones del ciclo:**
-- **[BUY] SOL-USD** (Confianza: 88%): SOL-USD se encuentra en una clara condición de sobreventa técnica con un RSI de 27.2 y una caída del -9.82% en los últimos 7 días. Aplicando nuestra estrategia agresiva de cazar rebotes y aprovechando la alta convicción, destinamos capital para promediar la posición y capturar el próximo rebote técnico hacia la media.
+- **[BUY] SOL-USD** (Confianza: 88%): SOL-USD se encuentra en clara sobreventa técnica con un RSI de 27.1 y una caída acumulada del 9.83% en 7 días. Esto representa una oportunidad ideal de rebote por mean reversion. Agotamos casi la totalidad del efectivo disponible dejando únicamente la reserva mínima requerida para maximizar la exposición al activo.
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-12 12:20` | 🟢 BUY | `SOL-USD` | $3.42 | $108.91 | SOL-USD se encuentra en clara sobreventa técnica con un RSI de 27.1 y una caída acumulada ... |
 | `2026-10-12 12:10` | 🟢 BUY | `SOL-USD` | $10.00 | $108.93 | SOL-USD se encuentra en una clara condición de sobreventa técnica con un RSI de 27.2 y una... |
 | `2026-10-12 12:01` | 🟢 BUY | `SOL-USD` | $10.00 | $109.96 | SOL-USD se encuentra en clara sobreventa técnica con un RSI de 28.5 y una caída semanal de... |
 | `2026-10-12 11:50` | 🟢 BUY | `SOL-USD` | $10.00 | $110.00 | SOL-USD presenta un RSI de 28.6 indicando sobreventa extrema y una caída acumulada semanal... |
 | `2026-10-12 11:40` | 🔴 SELL | `SOL-USD` | $37.42 | $108.72 | Activación del stop-loss estricto debido a que la posición ha caído un -2.58%, rompiendo e... |
-| `2026-10-12 11:10` | 🟢 BUY | `SOL-USD` | $4.00 | $110.16 | SOL-USD presenta un RSI extremadamente bajo de 28.8 y una caída acumulada del 8.8% en 7 dí... |
 
 ---
 
