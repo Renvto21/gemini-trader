@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 10:00:51`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 10:10:44`
 
 ---
 
@@ -17,16 +17,16 @@
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | `SOL-USD` | 0.307862 | $111.77 | $110.14 | $33.91 | 📉 -1.46% |
-| `ETH-USD` | 0.001175 | $2553.82 | $2527.96 | $2.97 | 📉 -1.01% |
+| `ETH-USD` | 0.001175 | $2553.82 | $2526.63 | $2.97 | 📉 -1.06% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un comportamiento mixto con el S&P 500 y QQQ manteniendo una tendencia alcista moderada, mientras que las criptomonedas (SOL-USD y ETH-USD) se encuentran en zonas de marcada sobreventa con RSI de 28.8 y 32.6 respectivamente. Dado nuestro enfoque agresivo y de búsqueda de rebotes técnicos, mantenemos nuestras posiciones actuales esperando el rebote desde estos niveles extremos de sobreventa, ya que el efectivo disponible se encuentra en el límite de la reserva mínima."*
+> *"El mercado cripto muestra condiciones extremas de sobreventa con SOL-USD en un RSI de 28.8 y ETH-USD en 32.5, ofreciendo una oportunidad clara de reversión a la media. Por otro lado, MSFT ha entrado en sobrecompra con un RSI de 72.3. Mantendremos las posiciones actuales en cripto para cazar el rebote técnico y cumpliremos estrictamente con la rotación de capital si es necesario."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD está en condición de extrema sobreventa con un RSI de 28.8 y acumulando una caída del 8.82% en 7 días. Mantenemos la posición para capturar el rebote técnico esperado hacia la media, sin activar el stop-loss ya que la caída actual es de -1.46%, manteniéndose dentro del margen de tolerancia.
+- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD está en territorio de sobreventa extrema con un RSI de 28.8 y una caída semanal del 8.82%. Mantenemos la posición para capturar el rebote técnico inminente hacia la media, respetando los límites de stop-loss estricto.
 
 ---
 
