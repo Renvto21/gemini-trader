@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 05:40:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 05:50:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$6.00 USD** | **$35.48 USD** | **$41.48 USD** | 🟢 **+3.71%** ($+1.48) |
+| **$40.00 USD** | **$6.00 USD** | **$35.43 USD** | **$41.43 USD** | 🟢 **+3.58%** ($+1.43) |
 
 ---
 
@@ -16,16 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.316736 | $111.79 | $112.02 | $35.48 | 📈 +0.21% |
+| `SOL-USD` | 0.272036 | $111.79 | $111.85 | $30.43 | 📈 +0.05% |
+| `ETH-USD` | 0.001958 | $2553.65 | $2553.65 | $5.00 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sesgo mixto con los índices principales como SPY y QQQ manteniendo una tendencia alcista moderada, mientras que las criptomonedas como SOL y ETH se encuentran en zonas de sobreventa técnica (RSI de 33.1 y 36.3 respectivamente), ofreciendo una excelente oportunidad de rebote por reversión a la media. Mantengo mi posición actual en SOL-USD buscando el impulso alcista y aprovecho la liquidez para incrementar exposición o mantener la rotación táctica."*
+> *"El mercado muestra un sesgo mixto con soporte general en los índices principales (QQQ, SPY alcistas), mientras que las criptomonedas y algunos activos tecnológicos experimentan correcciones temporales. Destaca ETH-USD con un RSI de 35.7 en zona de sobreventa técnica, ideal para una jugada de rebote agresivo por mean reversion. SOL-USD se mantiene lateral en cartera sin momentum fuerte, por lo que rotaremos parte de su capital para capturar la oportunidad en ETH."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD se encuentra en zona de sobreventa técnica con un RSI de 33.1, lo cual activa nuestra estrategia de captura de rebotes en cripto. Aunque se mantiene plano en el corto plazo, el potencial de recuperación hacia la media justifica mantener la posición actual sin realizar ventas prematuras.
+- **[SELL] SOL-USD** (Confianza: 85%): Liberamos una pequeña porción de SOL-USD para rescatar liquidez y financiar una entrada táctica en ETH-USD, aprovechando la rotación dinámica de capital en cripto.
+- **[BUY] ETH-USD** (Confianza: 88%): ETH-USD presenta un RSI de 35.7 en clara zona de sobreventa técnica tras una caída semanal del -5.33%. Activamos una compra de alto impulso buscando un rebote rápido del 3% al 5%.
 
 ---
 
@@ -33,11 +35,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-12 05:50` | 🟢 BUY | `ETH-USD` | $5.00 | $2553.65 | ETH-USD presenta un RSI de 35.7 en clara zona de sobreventa técnica tras una caída semanal... |
+| `2026-10-12 05:50` | 🔴 SELL | `SOL-USD` | $5.00 | $111.85 | Liberamos una pequeña porción de SOL-USD para rescatar liquidez y financiar una entrada tá... |
 | `2026-10-12 05:30` | 🔴 SELL | `ETH-USD` | $5.98 | $2553.85 | Rotación activa de capital. ETH se encuentra estancado y bajo su SMA20 con un PnL de -0.33... |
 | `2026-10-12 05:20` | 🟢 BUY | `SOL-USD` | $4.00 | $111.70 | SOL-USD se encuentra en clara zona de sobreventa con un RSI de 32 y una caída semanal de -... |
 | `2026-10-12 04:50` | 🟢 BUY | `ETH-USD` | $6.00 | $2562.29 | ETH-USD presenta condiciones ideales de sobreventa con un RSI de 36.9 y un descuento del 5... |
-| `2026-10-12 04:30` | 🔴 SELL | `ETH-USD` | $10.02 | $2567.68 | Rotación activa de capital. ETH muestra una ganancia marginal del 0.23% sin momentum fuert... |
-| `2026-10-12 03:40` | 🟢 BUY | `SOL-USD` | $4.00 | $112.34 | SOL-USD se encuentra en clara sobreventa técnica con un RSI de 29.5 y una caída semanal de... |
 
 ---
 
