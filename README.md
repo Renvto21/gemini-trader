@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 21:40:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 21:50:41`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$41.13 USD** | **$41.13 USD** | 🟢 **+2.83%** ($+1.13) |
+| **$40.00 USD** | **$0.01 USD** | **$41.23 USD** | **$41.24 USD** | 🟢 **+3.10%** ($+1.24) |
 
 ---
 
@@ -16,16 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.369416 | $111.58 | $111.33 | $41.13 | 📉 -0.23% |
+| `SOL-USD` | 0.289416 | $111.58 | $111.63 | $32.31 | 📈 +0.04% |
+| `ETH-USD` | 0.003508 | $2542.73 | $2542.73 | $8.92 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sesgo mixto con los índices principales y tech (QQQ, SPY) con tendencias alcistas saludables, mientras que las criptomonedas experimentan una fuerte sobreventa tras caídas semanales (SOL-USD con RSI de 26.4 y ETH-USD con RSI de 34.4). Mantenemos nuestra posición en SOL-USD ya que se encuentra en una zona clásica de rebote técnico por sobreventa extrema, esperando el impulso alcista para capturar ganancias rápidas."*
+> *"El mercado muestra un sesgo mixto con oportunidades claras de rebote técnico en criptomonedas fuertemente castigadas durante la semana. SOL-USD mantiene un RSI en zona de extrema sobreventa (27.3), pero se encuentra estancado cerca de su precio de entrada sin momentum inmediato. Por otro lado, ETH-USD presenta una excelente oportunidad de entrada por mean reversion con un RSI de 34.5 y una fuerte caída semanal del -6.21%. Dado que operamos con capital limitado y requerimos rotación dinámica, venderemos parcialmente SOL-USD para liberar liquidez y cazar el rebote de alta convicción en ETH-USD."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): La posición en SOL-USD tiene una pérdida marginal del -0.23% pero su RSI está en 26.4 (sobreventa extrema), lo que indica una alta probabilidad de un rebote técnico a corto plazo cumpliendo nuestra estrategia de mean reversion. No ha tocado el stop-loss estricto del -2.5% o -3.0%, por lo que debemos mantenerla para capturar el movimiento alcista.
+- **[SELL] SOL-USD** (Confianza: 85%): Liberamos una fracción de la posición en SOL-USD que se encuentra estancada con rendimiento cercano a 0% para capitalizar liquidez y financiar la entrada en ETH-USD que muestra mejores condiciones de rebote inminente.
+- **[BUY] ETH-USD** (Confianza: 90%): ETH-USD está en condiciones de clara sobreventa técnica (RSI de 34.5) tras una caída semanal del -6.21%, ideal para una estrategia agresiva de mean reversion buscando un rebote rápido del 3% al 5%.
 
 ---
 
@@ -33,11 +35,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-11 21:50` | 🟢 BUY | `ETH-USD` | $8.92 | $2542.73 | ETH-USD está en condiciones de clara sobreventa técnica (RSI de 34.5) tras una caída seman... |
+| `2026-10-11 21:50` | 🔴 SELL | `SOL-USD` | $8.93 | $111.63 | Liberamos una fracción de la posición en SOL-USD que se encuentra estancada con rendimient... |
 | `2026-10-11 21:20` | 🟢 BUY | `SOL-USD` | $4.24 | $111.11 | Aprovechamos el capital liberado para incrementar la exposición en SOL-USD. Se encuentra e... |
 | `2026-10-11 21:20` | 🔴 SELL | `ETH-USD` | $4.24 | $2534.63 | Vendemos la totalidad de la posición en ETH-USD (valorada en aproximadamente 4.24 USD) par... |
 | `2026-10-11 21:10` | 🟢 BUY | `SOL-USD` | $3.82 | $111.13 | SOL-USD se encuentra en clara sobreventa técnica con un RSI de 25.7 y una caída semanal de... |
-| `2026-10-11 21:10` | 🔴 SELL | `MSFT` | $3.82 | $535.07 | MSFT ha alcanzado un RSI de 72.3 en zona de sobrecompra y acumula un avance sólido. Ejecut... |
-| `2026-10-11 21:00` | 🟢 BUY | `MSFT` | $3.82 | $535.07 | MSFT muestra un fuerte momentum alcista con un incremento de 2.38% en 24 horas y un RSI en... |
 
 ---
 
