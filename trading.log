@@ -1,34 +1,4 @@
 
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $4.00 USD
- Valor en Activos:     $36.89 USD
- Balance Total:        $40.89 USD
- Ganancia/Pérdida:     🟢 $+0.89 USD (+2.23%)
-
- 💼 Posiciones Abiertas:
-   • SOL-USD: 0.307862 u. | Compra: $111.77 | Actual: $110.16 | Total: $33.91 📉 (-1.44%)
-   • ETH-USD: 0.001175 u. | Compra: $2553.82 | Actual: $2531.67 | Total: $2.97 📉 (-0.87%)
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado cripto se encuentra en una fase de corrección de corto plazo pero con activos como SOL-USD y ETH-USD en clara zona de sobreventa técnica con RSI de 28.8 y 32.8 respectivamente. Nuestra estrategia exige cazar rebotes en sobreventa. Mantenemos posiciones actuales bajo control de riesgo, y aunque SOL-USD muestra un PnL de -1.44%, aún no toca el stop-loss estricto de -2.5% a -3.0%. El efectivo disponible es de $4.00 USD (nuestra reserva mínima requerida), por lo que para realizar cualquier nueva entrada táctica agresiva requeriríamos liquidar parte de las posiciones actuales o esperar flujos. Dado que las posiciones actuales están cercanas a la zona de rebote y no han alcanzado pérdidas críticas ni take-profit, optamos por mantener y monitorear."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] SOL-USD (Confianza: 80%)
-    Razón: El activo se encuentra en profunda sobreventa con un RSI de 28.8, alineándose perfectamente con nuestra estrategia de buscar rebotes por Mean Reversion. El PnL actual es de -1.44%, el cual está muy por encima de nuestro stop-loss estricto (-2.5% a -3.0%). Mantenemos la posición esperando el impulso alcista hacia el objetivo de ganancia.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 75%)
-    Razón: ETH-USD muestra un RSI de 32.8, acercándose a la zona ideal de sobreventa para capturar un rebote técnico rápido. Al no haber alcanzado el límite de stop-loss (-0.87% actual) y con una liquidez en efectivo al límite mínimo de $4.00, es óptimo mantener y dejar que el precio desarrolle su movimiento.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $40.89 USD (Cash: $4.00 USD)
-
 [2026-10-12 11:00:45] 🔍 Iniciando ciclo de análisis...
 📡 Descargando cotizaciones para 9 activos...
 
@@ -151,3 +121,33 @@ Balance final del ciclo: $40.77 USD (Cash: $0.00 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $40.87 USD (Cash: $0.00 USD)
+
+[2026-10-12 11:40:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $0.00 USD
+ Valor en Activos:     $40.38 USD
+ Balance Total:        $40.38 USD
+ Ganancia/Pérdida:     🟢 $+0.38 USD (+0.95%)
+
+ 💼 Posiciones Abiertas:
+   • SOL-USD: 0.344173 u. | Compra: $111.6 | Actual: $108.72 | Total: $37.42 📉 (-2.58%)
+   • ETH-USD: 0.001175 u. | Compra: $2553.82 | Actual: $2517.68 | Total: $2.96 📉 (-1.42%)
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado cripto presenta condiciones de sobreventa extrema, destacando SOL-USD con un RSI de 26.9 y una caída acumulada del 9.99% en 7 días, lo que activa nuestra regla de caza de rebrotes por Mean Reversion. La posición actual en SOL-USD ha tocado el límite del stop-loss estricto (-2.58%), por lo que es imperativo liquidarla para cortar pérdidas y reasignar el capital de manera más eficiente hacia nuevas oportunidades o mantener la disciplina de riesgo. ETH-USD muestra también un RSI bajo (31.8), pero decidimos mantener una postura neutral mientras rotamos liquidez."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [SELL] SOL-USD (Confianza: 90%)
+    Razón: Activación del stop-loss estricto debido a que la posición ha caído un -2.58%, rompiendo el nivel crítico de tolerancia al riesgo. Vendemos la totalidad para evitar caídas mayores y liberar efectivo para futuras operaciones tácticas.
+    ✅ Venta ejecutada: 0.344173 de SOL-USD a $108.72
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $40.38 USD (Cash: $37.42 USD)
