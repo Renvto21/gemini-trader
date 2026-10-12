@@ -1,10 +1,10 @@
 {
   "initial_capital": 40.0,
-  "cash": 9.526574624436336,
+  "cash": 3.9965746244363354,
   "positions": {
     "SOL-USD": {
-      "shares": 0.16867212436063517,
-      "avg_price": 106.71591448931116
+      "shares": 0.2207436874491474,
+      "avg_price": 106.59421463828085
     },
     "ETH-USD": {
       "shares": 0.004837909861676094,
@@ -848,6 +848,15 @@
       "shares": 0.075188,
       "price": 106.4,
       "reason": "SOL-USD se encuentra en clara sobreventa con un RSI de 24.3 y una caída de -11.91% en 7 días. Siguiendo nuestra estrategia de cazar rebotes técnicos en cripto con alta convicción (mayor al 85%), incrementamos la exposición para promediar a la baja y capturar el movimiento de recuperación a corto plazo."
+    },
+    {
+      "timestamp": "2026-10-12T20:10:42.025909-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 5.53,
+      "shares": 0.052072,
+      "price": 106.2,
+      "reason": "SOL-USD presenta una condición de sobreventa extrema con un RSI de 24.1 y una caída de 7 días del -12.08%. Esto representa una oportunidad clásica de rebote técnico (Mean Reversion) bajo nuestra estrategia agresiva. Asignamos $5.53 USD para capitalizar este movimiento alcista inminente, manteniendo el efectivo operativo al límite mínimo requerido."
     }
   ]
 }
