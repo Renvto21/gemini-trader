@@ -3,16 +3,12 @@
   "cash": 0.0,
   "positions": {
     "SOL-USD": {
-      "shares": 0.296859399432961,
-      "avg_price": 111.69669077027959
+      "shares": 0.3312555372895254,
+      "avg_price": 111.63784805925334
     },
     "ETH-USD": {
       "shares": 0.0016743512419649235,
       "avg_price": 2520.2
-    },
-    "MSFT": {
-      "shares": 0.007143818192012262,
-      "avg_price": 535.07
     }
   },
   "history": [
@@ -483,6 +479,24 @@
       "shares": 0.007144,
       "price": 535.07,
       "reason": "MSFT muestra un fuerte momentum alcista con un incremento de 2.38% en 24 horas y un RSI en zona de sobrecompra técnica (72.3), alineado con nuestra estrategia de capturar movimientos rápidos de crecimiento acelerado y alta beta."
+    },
+    {
+      "timestamp": "2026-10-11T21:10:42.402675-03:00",
+      "action": "SELL",
+      "ticker": "MSFT",
+      "amount_usd": 3.82,
+      "shares": 0.007144,
+      "price": 535.07,
+      "reason": "MSFT ha alcanzado un RSI de 72.3 en zona de sobrecompra y acumula un avance sólido. Ejecutamos la toma de ganancias según las reglas operativas para liberar efectivo y rotar capital."
+    },
+    {
+      "timestamp": "2026-10-11T21:10:42.403785-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 3.82,
+      "shares": 0.034396,
+      "price": 111.13,
+      "reason": "SOL-USD se encuentra en clara sobreventa técnica con un RSI de 25.7 y una caída semanal del 7.97%. Aprovechamos el efectivo recién liberado para cazar un rebote agresivo por mean reversion."
     }
   ]
 }
