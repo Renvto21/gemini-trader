@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 10:20:44`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 10:31:15`
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.307862 | $111.77 | $110.00 | $33.86 | 📉 -1.59% |
-| `ETH-USD` | 0.001175 | $2553.82 | $2523.95 | $2.96 | 📉 -1.17% |
+| `SOL-USD` | 0.307862 | $111.77 | $109.99 | $33.86 | 📉 -1.60% |
+| `ETH-USD` | 0.001175 | $2553.82 | $2523.80 | $2.96 | 📉 -1.18% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto se encuentra en zona de sobreventa extrema (SOL-USD con RSI de 28.6 y ETH-USD con RSI de 32.3), lo cual representa una oportunidad ideal de mean reversion. Por otro lado, MSFT ha entrado en sobrecompra con un RSI de 72.3 y un excelente rendimiento, pero dado que nuestro portafolio está invertido en criptoactivos, mantendremos la posición actual en SOL-USD aprovechando su bajo costo y alta probabilidad de rebote técnico rápido, mientras evaluamos la gestión de liquidez."*
+> *"El mercado cripto muestra condiciones de sobreventa extrema, destacando SOL-USD con un RSI de 28.6 y ETH-USD con RSI de 32.3, lo cual activa nuestra estrategia de búsqueda de rebotes por reversión a la media (Mean Reversion). Dado que el capital en efectivo es escaso ($4.00), debemos mantener nuestras posiciones actuales que están cerca del soporte y prepararnos para rotar o mantener según la evolución de la volatilidad."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD muestra un RSI de 28.6 en profunda sobreventa y una caída semanal de casi 9%. Estamos cerca del gatillo de stop-loss pero la alta probabilidad de un rebote técnico a corto plazo nos invita a mantener y sostener la posición para capturar el movimiento alcista.
+- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD se encuentra en zona de profunda sobreventa con un RSI de 28.6. Aunque registra una pérdida temporal del -1.6%, las reglas tácticas de rebote técnico nos exigen mantener la posición para capturar el inminente movimiento alcista de recuperación, evitando vender en el suelo.
 
 ---
 
