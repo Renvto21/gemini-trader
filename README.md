@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 08:01:02`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 08:12:45`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.00 USD** | **$37.33 USD** | **$41.34 USD** | 🟢 **+3.34%** ($+1.34) |
+| **$40.00 USD** | **$4.00 USD** | **$37.23 USD** | **$41.24 USD** | 🟢 **+3.09%** ($+1.24) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.307862 | $111.77 | $111.52 | $34.33 | 📉 -0.23% |
-| `ETH-USD` | 0.001175 | $2553.82 | $2554.06 | $3.00 | 📈 +0.01% |
+| `SOL-USD` | 0.307862 | $111.77 | $111.21 | $34.24 | 📉 -0.50% |
+| `ETH-USD` | 0.001175 | $2553.82 | $2549.77 | $3.00 | 📉 -0.16% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sentimiento mixto con sesgo alcista en índices y tecnológicas principales, destacando QQQ y SPY sobre sus medias móviles. En el sector cripto, SOL-USD (RSI 31.4) y ETH-USD (RSI 35.8) se encuentran en zona de sobreventa técnica tras caídas semanales, lo que activa nuestra estrategia de captura de rebotes por reversión a la media. Mantendremos las posiciones actuales ya que están cerca de la zona de soporte y acumulación."*
+> *"Aviso temporal de Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD muestra un RSI de 31.4 indicando clara sobreventa técnica. Aunque ha tenido un descenso semanal del 7.67%, el precio actual está consolidando y esperamos un rebote táctico a corto plazo para buscar ganancias del 3-5%.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 

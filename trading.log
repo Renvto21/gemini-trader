@@ -1,33 +1,3 @@
-📡 Descargando cotizaciones para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $0.00 USD
- Valor en Activos:     $41.30 USD
- Balance Total:        $41.31 USD
- Ganancia/Pérdida:     🟢 $+1.31 USD (+3.27%)
-
- 💼 Posiciones Abiertas:
-   • SOL-USD: 0.307862 u. | Compra: $111.77 | Actual: $111.42 | Total: $34.3 📉 (-0.32%)
-   • ETH-USD: 0.002742 u. | Compra: $2553.19 | Actual: $2553.88 | Total: $7.0 📈 (+0.03%)
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado muestra un sesgo mixto con los índices principales y la tecnología con buen soporte alcista, mientras que las criptomonedas continúan sufriendo caídas semanales pero presentan condiciones técnicas claras de sobreventa (ETH con RSI 35.8 y SOL con RSI 31.0). Mantengo la postura de gestión táctica rotando capital para aprovechar los rebotes en cripto y maximizar la eficiencia del portafolio."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] SOL-USD (Confianza: 82%)
-    Razón: SOL-USD se encuentra en clara sobreventa con un RSI de 31.0 tras una caída semanal del -7.76%. Aunque está bajo la SMA20, esperamos un rebote técnico inminente de corto plazo para capturar ganancias del 2% al 4%.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 78%)
-    Razón: ETH-USD muestra un RSI de 35.8 en zona de atractiva sobreventa técnica. Mantenemos la posición actual para aprovechar la reversión a la media junto con el impulso general del ecosistema cripto.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
 Balance final del ciclo: $41.31 USD (Cash: $0.00 USD)
 
 [2026-10-12 07:30:34] 🔍 Iniciando ciclo de análisis...
@@ -151,3 +121,33 @@ Balance final del ciclo: $41.40 USD (Cash: $4.00 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $41.34 USD (Cash: $4.00 USD)
+
+[2026-10-12 08:10:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $4.00 USD
+ Valor en Activos:     $37.23 USD
+ Balance Total:        $41.24 USD
+ Ganancia/Pérdida:     🟢 $+1.24 USD (+3.09%)
+
+ 💼 Posiciones Abiertas:
+   • SOL-USD: 0.307862 u. | Compra: $111.77 | Actual: $111.21 | Total: $34.24 📉 (-0.50%)
+   • ETH-USD: 0.001175 u. | Compra: $2553.82 | Actual: $2549.77 | Total: $3.0 📈 (-0.16%)
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"Aviso temporal de Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] PORTFOLIO (Confianza: 100%)
+    Razón: Error temporal de conexión, manteniendo posiciones de forma segura.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $41.24 USD (Cash: $4.00 USD)
