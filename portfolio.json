@@ -1,10 +1,14 @@
 {
   "initial_capital": 40.0,
-  "cash": 37.42258334445999,
+  "cash": 27.422583344459987,
   "positions": {
     "ETH-USD": {
       "shares": 0.0011747108253518258,
       "avg_price": 2553.82
+    },
+    "SOL-USD": {
+      "shares": 0.09090909090909091,
+      "avg_price": 110.0
     }
   },
   "history": [
@@ -745,6 +749,15 @@
       "shares": 0.344173,
       "price": 108.72,
       "reason": "Activación del stop-loss estricto debido a que la posición ha caído un -2.58%, rompiendo el nivel crítico de tolerancia al riesgo. Vendemos la totalidad para evitar caídas mayores y liberar efectivo para futuras operaciones tácticas."
+    },
+    {
+      "timestamp": "2026-10-12T11:50:38.835711-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.0,
+      "shares": 0.090909,
+      "price": 110.0,
+      "reason": "SOL-USD presenta un RSI de 28.6 indicando sobreventa extrema y una caída acumulada semanal del 8.93%. Bajo nuestra estrategia agresiva de mean reversion, este es un punto de entrada excelente para cazar un rebote rápido del 3% al 5%."
     }
   ]
 }
