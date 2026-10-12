@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 02:30:54`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 02:40:37`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.01 USD** | **$41.51 USD** | **$41.52 USD** | 🟢 **+3.80%** ($+1.52) |
+| **$40.00 USD** | **$0.01 USD** | **$41.55 USD** | **$41.56 USD** | 🟢 **+3.90%** ($+1.56) |
 
 ---
 
@@ -16,17 +16,16 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.369306 | $111.68 | $112.41 | $41.51 | 📈 +0.65% |
+| `SOL-USD` | 0.369306 | $111.68 | $112.52 | $41.55 | 📈 +0.75% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sentimiento mixto con sesgo alcista moderado en los principales índices como SPY y QQQ, mientras que el sector cripto (SOL y ETH) intenta consolidar un rebote técnico tras caídas semanales recientes. SOL-USD presenta una clara condición de sobreventa con un RSI de 29.7, lo que activa nuestra estrategia de caza de rebotes (mean reversion). Nuestro portafolio se encuentra totalmente invertido y con ganancias generales de +3.8%, por lo que ejecutaremos una ligera toma de beneficios en ETH-USD para liberar liquidez y rotar capital hacia una mayor acumulación en SOL-USD."*
+> *"El mercado muestra un sesgo alcista moderado en índices tecnológicos y grandes capitalizaciones como SPY y QQQ, mientras que el sector cripto presenta oportunidades tácticas de rebote tras fuertes caídas semanales. SOL-USD y ETH-USD muestran niveles de RSI cercanos o inferiores a 36, ideales para capturar rebotes por sobreventa según la estrategia de reversión a la media."*
 
 **Operaciones del ciclo:**
-- **[SELL] ETH-USD** (Confianza: 85%): Tomamos beneficios totales en ETH-USD ya que se encuentra mostrando un rebote positivo pero queremos liberar efectivo para concentrar el capital en oportunidades de mayor asimetría y sobreventa.
-- **[BUY] SOL-USD** (Confianza: 90%): SOL-USD mantiene un RSI en zona crítica de sobreventa (29.7) y un cambio positivo de 2.16% en las últimas 24 horas, indicando el inicio de un rebote técnico alcista ideal para capturar ganancias rápidas.
+- **[BUY] ETH-USD** (Confianza: 86%): ETH-USD muestra un RSI de 36.2 en zona de clara sobreventa técnica y un rebote diario del 2.05%, lo que activa nuestra estrategia de cazar rebotes en cripto con alta convicción para rotar y maximizar rendimiento.
 
 ---
 
