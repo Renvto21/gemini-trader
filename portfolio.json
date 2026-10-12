@@ -1,14 +1,18 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.021682800000000668,
+  "cash": 0.0,
   "positions": {
     "SOL-USD": {
       "shares": 0.296859399432961,
       "avg_price": 111.69669077027959
     },
     "ETH-USD": {
-      "shares": 0.0031743512419649235,
+      "shares": 0.0016743512419649235,
       "avg_price": 2520.2
+    },
+    "MSFT": {
+      "shares": 0.007143818192012262,
+      "avg_price": 535.07
     }
   },
   "history": [
@@ -461,6 +465,24 @@
       "shares": 0.036049,
       "price": 110.96,
       "reason": "SOL-USD se encuentra en una clara condicion de sobreventa tecnica profunda con un RSI de 25.1 tras una caida semanal del -8.11%. Cumple perfectamente con la regla de cazar rebotes en cripto de alta volatilidad para capturar un movimiento rapido al alza utilizando la liquidez disponible."
+    },
+    {
+      "timestamp": "2026-10-11T21:00:49.771539-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 3.8,
+      "shares": 0.0015,
+      "price": 2533.84,
+      "reason": "Tomamos una ganancia parcial en ETH-USD (que muestra un PnL de +0.54%) para liberar capital en efectivo y financiar nuevas oportunidades de alto rendimiento o asegurar liquidez."
+    },
+    {
+      "timestamp": "2026-10-11T21:00:49.773082-03:00",
+      "action": "BUY",
+      "ticker": "MSFT",
+      "amount_usd": 3.82,
+      "shares": 0.007144,
+      "price": 535.07,
+      "reason": "MSFT muestra un fuerte momentum alcista con un incremento de 2.38% en 24 horas y un RSI en zona de sobrecompra técnica (72.3), alineado con nuestra estrategia de capturar movimientos rápidos de crecimiento acelerado y alta beta."
     }
   ]
 }
