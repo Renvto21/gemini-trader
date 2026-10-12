@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 18:40:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 18:50:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.01 USD** | **$39.86 USD** | **$39.87 USD** | 🔴 **-0.33%** ($-0.13) |
+| **$40.00 USD** | **$0.01 USD** | **$39.50 USD** | **$39.51 USD** | 🔴 **-1.23%** ($-0.49) |
 
 ---
 
@@ -16,16 +16,16 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.369549 | $109.24 | $107.86 | $39.86 | 📉 -1.26% |
+| `SOL-USD` | 0.369549 | $109.24 | $106.89 | $39.50 | 📉 -2.15% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto presenta condiciones de sobreventa extrema lideradas por SOL-USD con un RSI de 25.9, lo que activa nuestra estrategia de Mean Reversion para buscar un rebote técnico rápido. Nuestra posición actual en SOL-USD registra una pérdida leve del -1.26%, manteniéndose muy por encima de nuestro stop-loss estricto del -3.0%. Dado que el efectivo disponible es prácticamente nulo ($0.01) y no hemos alcanzado el take-profit, la decisión óptima bajo nuestra táctica agresiva es mantener la posición actual para permitir que se complete el rebote técnico."*
+> *"El mercado cripto se encuentra bajo presión bajista a corto plazo, destacando SOL-USD con un RSI extremadamente de sobreventa en 24.8 y una caída del -11.51% en 7 días, rozando nuestro límite de stop-loss estricto (-2.15%). ETH-USD también muestra sobreventa con RSI de 30.2. En el sector tecnológico, MSFT está en sobrecompra (RSI 77.9), mientras que QQQ y NVDA se mantienen neutrales con sesgo bajista. Mantendremos la posición en SOL buscando su rebote técnico o ejecutaremos el stop-loss si profundiza la caída, sin realizar nuevas compras en este ciclo para preservar liquidez."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 82%): SOL-USD se encuentra en zona de sobreventa extrema (RSI 14 en 25.9) tras una caída semanal del -10.7%. La pérdida actual de -1.26% está lejos de activar nuestro stop-loss estricto (-3.0%). Mantenemos la posición para capturar el esperado rebote técnico hacia la resistencia inmediata, rotando el capital una vez alcancemos el take-profit del +2.5%.
+- **[HOLD] SOL-USD** (Confianza: 75%): La posición actual en SOL-USD registra un PnL de -2.15%, acercándose al límite de stop-loss (-2.5% a -3.0%). Sin embargo, su RSI de 24.8 indica una sobreventa masiva que históricamente precede a fuertes rebotes por reversión a la media. Mantendremos la posición para capturar el rebote técnico esperado, vigilando de cerca el nivel de pérdida para cortar de inmediato si perfora el soporte.
 
 ---
 
