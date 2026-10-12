@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.007004564436335681,
-  "positions": {
-    "SOL-USD": {
-      "shares": 0.36954931970271787,
-      "avg_price": 109.24116984567974
-    }
-  },
+  "cash": 39.526574624436336,
+  "positions": {},
   "history": [
     {
       "timestamp": "2026-10-07T20:09:58.250279",
@@ -808,6 +803,15 @@
       "shares": 0.027312,
       "price": 108.01,
       "reason": "Aprovechamos el capital liberado de Ethereum para incrementar la exposición en SOL-USD. Su RSI en 26.1 indica una clara condición de sobreventa extrema, ideal para capturar un rebote rápido del 2% al 6% según la estrategia de crecimiento acelerado."
+    },
+    {
+      "timestamp": "2026-10-12T19:20:38.886107-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 39.52,
+      "shares": 0.369549,
+      "price": 106.94,
+      "reason": "La posición actual en SOL-USD acumula un PnL de -2.11% acercándose peligrosamente al stop-loss estricto de -2.5% a -3.0%. Dado que el activo mantiene una tendencia bajista fuerte bajo la SMA20, es mejor cortar la pérdida de inmediato y liberar liquidez para cazar un rebote más limpio o rotar hacia activos con mejor momentum técnico."
     }
   ]
 }

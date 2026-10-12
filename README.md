@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 19:10:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 19:20:38`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.01 USD** | **$39.62 USD** | **$39.63 USD** | 🔴 **-0.93%** ($-0.37) |
+| **$40.00 USD** | **$39.53 USD** | **$0.00 USD** | **$39.53 USD** | 🔴 **-1.18%** ($-0.47) |
 
 ---
 
@@ -16,16 +16,16 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.369549 | $109.24 | $107.21 | $39.62 | 📉 -1.86% |
+| *(Ninguna posición abierta - 100% en efectivo)* | - | - | - | - | - |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra una corrección moderada en criptomonedas y activos de alto beta, con SOL-USD en profunda sobreventa técnica (RSI 25.2) acumulando un retroceso de -1.86% en nuestra cartera. Dado que no ha alcanzado el stop-loss estricto de -2.5% y presenta condiciones extremas de sobreventa, mantenemos la posición para capturar el rebote por reversión a la media, mientras el efectivo actual es casi nulo."*
+> *"El mercado cripto y de alto beta experimenta una presión bajista a corto plazo, con SOL-USD registrando un RSI extremadamente sobrevendido de 24.9 y una caída del -2.11% en nuestra posición actual. Sin embargo, nuestra estrategia táctica de crecimiento acelerado y rebotes técnicos nos dicta proteger el capital cuando las pérdidas se acercan a los límites de stop-loss (-2.5%) y rotar hacia oportunidades más sólidas o esperar mejores puntos de entrada."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): La posición en SOL-USD se mantiene ya que su RSI de 25.2 indica una sobreventa muy fuerte ideal para un rebote técnico inminente. La pérdida actual es de -1.86%, lo cual está por debajo de nuestro límite de stop-loss de -2.5%, por lo que respetamos la regla de gestión de riesgo y esperamos el impulso alcista.
+- **[SELL] SOL-USD** (Confianza: 88%): La posición actual en SOL-USD acumula un PnL de -2.11% acercándose peligrosamente al stop-loss estricto de -2.5% a -3.0%. Dado que el activo mantiene una tendencia bajista fuerte bajo la SMA20, es mejor cortar la pérdida de inmediato y liberar liquidez para cazar un rebote más limpio o rotar hacia activos con mejor momentum técnico.
 
 ---
 
@@ -33,11 +33,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-12 19:20` | 🔴 SELL | `SOL-USD` | $39.52 | $106.94 | La posición actual en SOL-USD acumula un PnL de -2.11% acercándose peligrosamente al stop-... |
 | `2026-10-12 16:40` | 🟢 BUY | `SOL-USD` | $2.95 | $108.01 | Aprovechamos el capital liberado de Ethereum para incrementar la exposición en SOL-USD. Su... |
 | `2026-10-12 16:40` | 🔴 SELL | `ETH-USD` | $2.95 | $2515.02 | Vendemos la posición completa en ETH-USD para liberar liquidez y concentrar el capital dis... |
 | `2026-10-12 15:40` | 🟢 BUY | `SOL-USD` | $4.00 | $107.58 | SOL-USD se encuentra en clara sobreventa técnica con un RSI de 25.6 y una caída acumulada ... |
 | `2026-10-12 12:20` | 🟢 BUY | `SOL-USD` | $3.42 | $108.91 | SOL-USD se encuentra en clara sobreventa técnica con un RSI de 27.1 y una caída acumulada ... |
-| `2026-10-12 12:10` | 🟢 BUY | `SOL-USD` | $10.00 | $108.93 | SOL-USD se encuentra en una clara condición de sobreventa técnica con un RSI de 27.2 y una... |
 
 ---
 
