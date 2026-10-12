@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 03:50:57`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 04:02:00`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$41.54 USD** | **$41.54 USD** | 🟢 **+3.85%** ($+1.54) |
+| **$40.00 USD** | **$0.00 USD** | **$41.66 USD** | **$41.66 USD** | 🟢 **+4.14%** ($+1.66) |
 
 ---
 
@@ -16,18 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.280926 | $111.80 | $112.26 | $31.54 | 📈 +0.41% |
-| `ETH-USD` | 0.003904 | $2561.78 | $2562.67 | $10.00 | 📈 +0.03% |
+| `SOL-USD` | 0.280926 | $111.80 | $112.59 | $31.63 | 📈 +0.70% |
+| `ETH-USD` | 0.003904 | $2561.78 | $2568.86 | $10.03 | 📈 +0.28% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sentimiento mixto con señales claras de sobreventa en criptoactivos principales como SOL-USD, cuyo RSI se encuentra en un nivel de 29.3, indicando una clara oportunidad de rebote técnico por mean reversion. Ethereum también muestra un RSI bajo en 37.2. Por otro lado, acciones tecnológicas y índices como QQQ y SPY se mantienen estables o con sesgo alcista, pero la estrategia agresiva actual dicta priorizar la rotación hacia las mayores caídas en cripto para capturar el rebote rápido."*
+> *"Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD presenta un RSI profundamente sobrevendido de 29.3 y un cambio de 7 días de -7.03%. Aunque está en tendencia bajista a corto plazo, el setup técnico es ideal para buscar un rebote rápido del 2% al 6% manteniendo la posición actual intacta.
-- **[HOLD] ETH-USD** (Confianza: 80%): ETH-USD muestra un RSI de 37.2 en zona de posible sobreventa y un intento de recuperación en 24h (+2.34%). Mantenemos la posición para capturar el momentum alcista de corto plazo alineado con la estrategia de rebotes.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
