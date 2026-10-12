@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 09:40:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 09:50:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.00 USD** | **$36.85 USD** | **$40.85 USD** | 🟢 **+2.13%** ($+0.85) |
+| **$40.00 USD** | **$4.00 USD** | **$36.95 USD** | **$40.96 USD** | 🟢 **+2.39%** ($+0.96) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.307862 | $111.77 | $110.04 | $33.88 | 📉 -1.55% |
-| `ETH-USD` | 0.001175 | $2553.82 | $2527.70 | $2.97 | 📉 -1.02% |
+| `SOL-USD` | 0.307862 | $111.77 | $110.36 | $33.98 | 📉 -1.27% |
+| `ETH-USD` | 0.001175 | $2553.82 | $2534.10 | $2.98 | 📉 -0.77% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto muestra condiciones de sobreventa profunda (SOL-USD con RSI de 28.6 y ETH-USD con RSI de 32.5), lo que activa nuestra estrategia táctica de mean reversion para buscar rebotes técnicos rápidos. Por otro lado, MSFT ha entrado en fuerte sobrecompra con un RSI de 72.3, y las posiciones actuales de cripto se mantienen operando cerca de los umbrales de stop-loss, pero el potencial de rebote en Solana sigue intacto dada la sobreventa extrema. Mantendremos la disciplina con la liquidez y las posiciones."*
+> *"El mercado cripto muestra condiciones de clara sobreventa con SOL-USD (RSI en 29.1) y ETH-USD (RSI en 33.0) cerca de niveles de soporte clave, presentando una oportunidad táctica de rebote técnico. Por otro lado, MSFT ha entrado en zona de sobrecompra (RSI 72.3). Mantendremos nuestras posiciones actuales en cripto aprovechando la sobreventa y la liquidez actual se encuentra al límite mínimo requerido."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD se encuentra en clara sobreventa con un RSI de 28.6 y una caída acumulada de -8.9% en 7 días. Aunque acumula una pequeña pérdida de -1.55%, no ha alcanzado el stop-loss estricto de -2.5% a -3.0%, y las condiciones técnicas favorecen un rebote inminente de corto plazo.
+- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD se encuentra en clara sobreventa técnica con un RSI de 29.1 y una fuerte caída semanal del -8.63%. Aunque tiene una pérdida leve del -1.27%, la estrategia de caza de rebotas dicta mantener para capturar el inevitable rebote de reversión a la media sin vender con pérdidas.
 
 ---
 
