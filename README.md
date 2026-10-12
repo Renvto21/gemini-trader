@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 02:50:33`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 03:01:00`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.01 USD** | **$41.64 USD** | **$41.64 USD** | 🟢 **+4.11%** ($+1.64) |
+| **$40.00 USD** | **$6.92 USD** | **$34.72 USD** | **$41.64 USD** | 🟢 **+4.10%** ($+1.64) |
 
 ---
 
@@ -16,16 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.369306 | $111.68 | $112.75 | $41.64 | 📈 +0.96% |
+| `SOL-USD` | 0.219306 | $111.68 | $112.74 | $24.72 | 📈 +0.95% |
+| `ETH-USD` | 0.003904 | $2561.78 | $2561.78 | $10.00 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un repunte técnico en el sector cripto con SOL-USD y ETH-USD mostrando condiciones de sobreventa previa y comenzando rebotes alcistas de corto plazo (RSI de 30.7 y 37.1 respectivamente). SOL-USD se mantiene en cartera con ganancias moderadas, mientras que MSFT muestra signos de sobrecompra (RSI en 72.3). La liquidez actual es muy baja y mantenemos una posición activa para capturar más impulso."*
+> *"El mercado muestra un tono mixto con sesgo alcista moderado en los índices principales (SPY y QQQ con tendencias firmes sobre sus medias móviles). En el sector cripto, observamos señales claras de sobreventa en ETH-USD (RSI 37) y SOL-USD (RSI 30.7) tras caídas semanales, lo que presenta una oportunidad ideal de rebote técnico. Nuestra posición actual en SOL-USD muestra un modesto beneficio del +0.95%, pero sin el impulso necesario a corto plazo. Conviene vender parte de SOL-USD para liberar liquidez y capturar una oportunidad fresca en ETH-USD, que muestra mayor fuerza en 24h (+2.31%) y está en zona óptima de reversión."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD muestra un RSI en zona de rebote alcista (30.7) y un cambio positivo en 24 horas del 2.47%. Aunque la ganancia actual es del 0.96%, el activo tiene espacio para continuar su recuperación técnica hacia la resistencia inmediata, por lo que decidimos mantener la posición.
+- **[SELL] SOL-USD** (Confianza: 82%): Vendemos parcialmente SOL-USD para capitalizar una pequeña ganancia y liberar efectivo, permitiendo la rotación dinámica de capital hacia un activo con mejor configuración de rebote técnico.
+- **[BUY] ETH-USD** (Confianza: 88%): ETH-USD se encuentra en clara sobreventa técnica (RSI de 37) y muestra un repunte del 2.31% en las últimas 24 horas, lo que cumple perfectamente con nuestra estrategia de cazar rebotes en cripto con alta convicción.
 
 ---
 
@@ -33,11 +35,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-12 03:01` | 🟢 BUY | `ETH-USD` | $10.00 | $2561.78 | ETH-USD se encuentra en clara sobreventa técnica (RSI de 37) y muestra un repunte del 2.31... |
+| `2026-10-12 03:01` | 🔴 SELL | `SOL-USD` | $16.91 | $112.74 | Vendemos parcialmente SOL-USD para capitalizar una pequeña ganancia y liberar efectivo, pe... |
 | `2026-10-12 02:30` | 🟢 BUY | `SOL-USD` | $4.95 | $112.41 | SOL-USD mantiene un RSI en zona crítica de sobreventa (29.7) y un cambio positivo de 2.16%... |
 | `2026-10-12 02:30` | 🔴 SELL | `ETH-USD` | $4.95 | $2553.65 | Tomamos beneficios totales en ETH-USD ya que se encuentra mostrando un rebote positivo per... |
 | `2026-10-12 00:40` | 🟢 BUY | `SOL-USD` | $4.00 | $111.56 | SOL-USD muestra un RSI de 27.1, indicando una condición de sobreventa profunda tras una ca... |
-| `2026-10-12 00:30` | 🟢 BUY | `ETH-USD` | $4.93 | $2542.03 | ETH-USD se encuentra en zona de clara sobreventa técnica con un RSI de 34.4 tras una caída... |
-| `2026-10-12 00:20` | 🔴 SELL | `ETH-USD` | $4.93 | $2542.39 | ETH-USD se encuentra estancado con una ganancia marginal del 0.04% y bajo momentum inmedia... |
 
 ---
 
