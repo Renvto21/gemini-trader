@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 02:20:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 02:30:54`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$41.66 USD** | **$41.67 USD** | 🟢 **+4.17%** ($+1.67) |
+| **$40.00 USD** | **$0.01 USD** | **$41.51 USD** | **$41.52 USD** | 🟢 **+3.80%** ($+1.52) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.325271 | $111.58 | $112.82 | $36.70 | 📈 +1.11% |
-| `ETH-USD` | 0.001939 | $2542.03 | $2561.41 | $4.97 | 📈 +0.76% |
+| `SOL-USD` | 0.369306 | $111.68 | $112.41 | $41.51 | 📈 +0.65% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sesgo técnico mixto con criptomonedas repuntando desde zonas de sobreventa (SOL con RSI en 30.9 y ETH en 37.0), lo cual activa nuestras señales de rebote (mean reversion). Ambas posiciones actuales tienen ganancias modestas pero estables, y dado que buscamos una rotación dinámica y toma de beneficios rápida, mantendremos SOL-USD mientras evaluamos el mercado o liberamos liquidez si es necesario. No se realizan ventas masivas porque las criptos están mostrando un impulso positivo de 24 horas interesante (+2.53% en SOL y +2.29% en ETH), alineándose con nuestra estrategia agresiva."*
+> *"El mercado muestra un sentimiento mixto con sesgo alcista moderado en los principales índices como SPY y QQQ, mientras que el sector cripto (SOL y ETH) intenta consolidar un rebote técnico tras caídas semanales recientes. SOL-USD presenta una clara condición de sobreventa con un RSI de 29.7, lo que activa nuestra estrategia de caza de rebotes (mean reversion). Nuestro portafolio se encuentra totalmente invertido y con ganancias generales de +3.8%, por lo que ejecutaremos una ligera toma de beneficios en ETH-USD para liberar liquidez y rotar capital hacia una mayor acumulación en SOL-USD."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): La posición en SOL-USD muestra un rebote técnico incipiente tras estar en sobreventa extrema (RSI 30.9). Mantenemos la posición para capturar el objetivo del +2.5% a +6% de ganancia rápida según la estrategia de momentum.
+- **[SELL] ETH-USD** (Confianza: 85%): Tomamos beneficios totales en ETH-USD ya que se encuentra mostrando un rebote positivo pero queremos liberar efectivo para concentrar el capital en oportunidades de mayor asimetría y sobreventa.
+- **[BUY] SOL-USD** (Confianza: 90%): SOL-USD mantiene un RSI en zona crítica de sobreventa (29.7) y un cambio positivo de 2.16% en las últimas 24 horas, indicando el inicio de un rebote técnico alcista ideal para capturar ganancias rápidas.
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-12 02:30` | 🟢 BUY | `SOL-USD` | $4.95 | $112.41 | SOL-USD mantiene un RSI en zona crítica de sobreventa (29.7) y un cambio positivo de 2.16%... |
+| `2026-10-12 02:30` | 🔴 SELL | `ETH-USD` | $4.95 | $2553.65 | Tomamos beneficios totales en ETH-USD ya que se encuentra mostrando un rebote positivo per... |
 | `2026-10-12 00:40` | 🟢 BUY | `SOL-USD` | $4.00 | $111.56 | SOL-USD muestra un RSI de 27.1, indicando una condición de sobreventa profunda tras una ca... |
 | `2026-10-12 00:30` | 🟢 BUY | `ETH-USD` | $4.93 | $2542.03 | ETH-USD se encuentra en zona de clara sobreventa técnica con un RSI de 34.4 tras una caída... |
 | `2026-10-12 00:20` | 🔴 SELL | `ETH-USD` | $4.93 | $2542.39 | ETH-USD se encuentra estancado con una ganancia marginal del 0.04% y bajo momentum inmedia... |
-| `2026-10-11 23:10` | 🟢 BUY | `ETH-USD` | $4.93 | $2541.27 | ETH-USD se encuentra en zona de sobreventa técnica con un RSI de 34.2 y una caída semanal ... |
-| `2026-10-11 23:00` | 🔴 SELL | `ETH-USD` | $3.92 | $2541.25 | La posicion en ETH-USD esta estancada y representa un monto muy pequeno ($3.92) sin sufici... |
 
 ---
 
