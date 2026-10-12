@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 16:50:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 17:00:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.01 USD** | **$39.96 USD** | **$39.97 USD** | 🔴 **-0.07%** ($-0.03) |
+| **$40.00 USD** | **$0.01 USD** | **$39.99 USD** | **$40.00 USD** | 🟢 **-0.00%** ($-0.00) |
 
 ---
 
@@ -16,16 +16,16 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.369549 | $109.24 | $108.14 | $39.96 | 📉 -1.01% |
+| `SOL-USD` | 0.369549 | $109.24 | $108.22 | $39.99 | 📉 -0.93% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra una corrección moderada con activos cripto y tecnológicos bajo presión a corto plazo. SOL-USD se encuentra en clara sobreventa técnica con un RSI de 26.2, lo cual activa nuestra estrategia de mean reversion para buscar un rebote rápido a pesar de la tendencia bajista actual. Mantenemos nuestra posición actual mientras evaluamos el comportamiento del precio."*
+> *"El mercado muestra un tono de corrección moderada, con criptomonedas como ETH-USD y SOL-USD en zonas de sobreventa técnica profunda (RSI de 32 y 26.3 respectivamente). Nuestra posición actual en SOL-USD registra una pequeña pérdida no realizada del -0.93%, manteniéndose muy por encima de nuestro límite de stop-loss estricto (-2.5% a -3.0%). Dado que el RSI de SOL-USD se encuentra en niveles extremos de sobreventa, mantenemos la posición para capturar el rebote técnico esperado."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 75%): La posición actual en SOL-USD registra una pérdida leve del -1.01%, muy lejos de nuestro stop-loss estricto de -2.5% a -3.0%. Con un RSI de 26.2 en zona de profunda sobreventa, el activo mantiene altas probabilidades de un rebote técnico inminente, por lo que decidimos mantener la posición para capturar el movimiento alcista.
+- **[HOLD] SOL-USD** (Confianza: 80%): La posición actual en SOL-USD muestra un RSI de 26.3 indicando sobreventa extrema. La pérdida actual es de -0.93%, lo cual está dentro de los límites de tolerancia y lejos del stop-loss. Esperamos el rebote técnico para buscar un take-profit cercano al +2.5%.
 
 ---
 
