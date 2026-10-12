@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 22:00:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-11 22:10:37`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$5.01 USD** | **$36.20 USD** | **$41.21 USD** | 🟢 **+3.03%** ($+1.21) |
+| **$40.00 USD** | **$5.01 USD** | **$36.18 USD** | **$41.20 USD** | 🟢 **+2.99%** ($+1.20) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.289416 | $111.58 | $111.53 | $32.28 | 📉 -0.05% |
-| `ETH-USD` | 0.001542 | $2542.73 | $2542.93 | $3.92 | 📈 +0.01% |
+| `SOL-USD` | 0.289416 | $111.58 | $111.48 | $32.26 | 📉 -0.09% |
+| `ETH-USD` | 0.001542 | $2542.73 | $2541.12 | $3.92 | 📉 -0.06% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sesgo alcista moderado en índices tradicionales como QQQ y SPY, mientras que las criptomonedas (SOL y ETH) muestran condiciones de sobreventa técnica con RSI en niveles de 27.0 y 34.5 respectivamente, lo cual presenta una oportunidad ideal para buscar un rebote por mean reversion. El portafolio actual está completamente invertido (liquidez casi en cero) y las posiciones en SOL y ETH se encuentran estancadas cerca del 0% de PnL. Rotaremos una parte pequeña para liberar efectivo y cumplir con la estrategia."*
+> *"El mercado muestra un tono mixto con sesgo alcista en indices tech y acciones como QQQ y MSFT, pero con criptomonedas (SOL, ETH) experimentando caidas semanales significativas aunque presentando condiciones tecnicas de sobreventa extrema (RSI de SOL en 26.8 y ETH en 34.2). Esto activa nuestra estrategia de Mean Reversion para cazar rebotes rapidos."*
 
 **Operaciones del ciclo:**
-- **[SELL] ETH-USD** (Confianza: 85%): Vendemos parcialmente la posición en ETH-USD para liberar efectivo y cumplir con la regla de reserva mínima de liquidez, permitiendo capitalizar la fuerte sobreventa en SOL-USD y mantener rotación dinámica en el portafolio.
+- **[HOLD] SOL-USD** (Confianza: 82%): SOL se encuentra en condicion de sobreventa extrema con un RSI de 26.8 tras caidas semanales. Aunque esta bajo la SMA20, mantiene un ligero repunte en 24h (+1.31%) y estamos listos para capturar el rebote tecnico esperado segun la regla de Mean Reversion.
 
 ---
 
