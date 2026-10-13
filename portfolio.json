@@ -1123,7 +1123,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones de SOL-USD y ETH-USD vigentes buscando el objetivo de take-profit entre +2.0% y +3.5% o protegiendo capital ante un quiebre del stop-loss estricto en -2.0%. Estar alerta a un incremento en el RSI de 1 hora por encima de 70 para realizar tomas de beneficios y liberar capital.",
-    "updated_at": "2026-10-13T19:10:36.718359-03:00"
+    "notes": "Mantener SOL-USD y ETH-USD vigiladas estrechamente. El tiempo de tenencia de SOL-USD supera las 5 horas sin el rebote esperado; si el RSI de 1 hora perfora soportes o las pérdidas se acercan al -2.0%, se procederá a vender para liberar liquidez. Si surge un repunte en el RSI por encima de 60-70, se buscará la toma de beneficios.",
+    "updated_at": "2026-10-13T19:20:42.960606-03:00"
   }
 }
