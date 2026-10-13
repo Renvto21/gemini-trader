@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 22:00:50`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-12 22:10:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$8.61 USD** | **$29.93 USD** | **$38.55 USD** | 🔴 **-3.64%** ($-1.45) |
+| **$40.00 USD** | **$8.61 USD** | **$30.10 USD** | **$38.71 USD** | 🔴 **-3.22%** ($-1.29) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.193324 | $103.45 | $103.02 | $19.92 | 📉 -0.42% |
-| `ETH-USD` | 0.004136 | $2417.81 | $2421.93 | $10.02 | 📈 +0.17% |
+| `SOL-USD` | 0.193324 | $103.45 | $103.68 | $20.04 | 📈 +0.22% |
+| `ETH-USD` | 0.004136 | $2417.81 | $2431.61 | $10.06 | 📈 +0.57% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto muestra condiciones de sobreventa extrema lideradas por caídas recientes en SOL-USD (RSI de 21.3) y ETH-USD (RSI de 26.5), lo cual activa nuestra estrategia táctica de mean reversion para cazar rebotes técnicos rápidos. Mantenemos nuestras posiciones actuales dado que muestran un comportamiento defensivo razonable frente a la caída general, y utilizaremos el efectivo disponible para promediar o capturar un activo adicional con descuento."*
+> *"El mercado cripto presenta una fuerte corrección con Ethereum y Solana en niveles de sobreventa extrema (RSI de 26.9 y 21.9 respectivamente), lo cual activa nuestra estrategia táctica de reverso a la media para cazar rebotes agresivos de corto plazo. Mantenemos nuestras posiciones actuales esperando el rebote técnico y conservamos la liquidez operativa."*
 
 **Operaciones del ciclo:**
-- **[BUY] SOL-USD** (Confianza: 88%): SOL-USD presenta un RSI extremadamente bajo de 21.3 tras una caída del -7.39% en 24 horas. Esta es una oportunidad clásica de sobreventa para capturar un rebote técnico rápido del 3% al 5% aprovechando la alta volatilidad, cumpliendo con la regla de alta convicción.
+- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD muestra un RSI de 21.9 indicando una sobreventa extrema tras una caída de -6.8% en 24 horas. Mantenemos la posición para capturar el rebote técnico inminente hacia la media, respetando nuestro stop-loss estricto en caso de mayor deterioro.
 
 ---
 
