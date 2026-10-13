@@ -1123,7 +1123,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD durante este ciclo ya que el holding time aún es razonable y no se han activado los stop-loss (-2.0%). Continuar monitoreando el RSI de 1 hora para buscar salidas hacia la zona de take-profit entre +2.0% y +3.5% (o RSI > 70). Si persisten laterales en el próximo ciclo, evaluaremos rotar hacia BTC-USD.",
-    "updated_at": "2026-10-13T18:20:44.713604-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD ya que se encuentran dentro de un rango de pérdida aceptable (lejos del stop-loss de -2.0%). El efectivo disponible se mantendrá intacto ($4.68 USD) cumpliendo con la reserva mínima. Monitorear de cerca el RSI de 1 hora en busca de un cruce alcista que permita capturar la zona de take-profit entre +2.0% y +3.5%.",
+    "updated_at": "2026-10-13T18:30:46.474810-03:00"
   }
 }
