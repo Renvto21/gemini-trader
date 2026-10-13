@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 13:42:29`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 13:51:30`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.72 USD** | **$39.72 USD** | 🔴 **-0.70%** ($-0.28) |
+| **$40.00 USD** | **$0.00 USD** | **$39.73 USD** | **$39.73 USD** | 🔴 **-0.68%** ($-0.27) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.295191 | $107.17 | $107.49 | $31.73 | 📈 +0.30% |
-| `ETH-USD` | 0.003177 | $2505.44 | $2514.21 | $7.99 | 📈 +0.35% |
+| `SOL-USD` | 0.295191 | $107.17 | $107.53 | $31.74 | 📈 +0.33% |
+| `ETH-USD` | 0.003177 | $2505.44 | $2513.71 | $7.99 | 📈 +0.33% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un sesgo mixto con criptomonedas repuntando levemente tras caídas recientes y encontrándose en zonas de sobreventa técnica. SOL-USD (RSI 28.4) y ETH-USD (RSI 36.5) están rebotando desde mínimos de 7 días, cumpliendo la estrategia de mean reversion. El efectivo actual es de 0.0 USD, por lo que para capturar nuevas oportunidades o reequilibrar es necesario mantener las posiciones actuales en optimización con ganancias marginales."*
+> *"El mercado muestra señales mixtas con presión bajista previa en cripto pero con intentos claros de rebote técnico. SOL-USD presenta un RSI muy comprimido en 28.5 (sobreventa extrema) con un rebote en 24h del 1.87%, y ETH-USD también muestra un RSI de 36.5 y un incremento diario de 2.84%, indicando que las condiciones para la reversión a la media están activas. Mantenemos posiciones actuales mientras evaluamos la exposición total para mantener la reserva de efectivo."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD muestra un RSI de 28.4 en sobreventa profunda y un rebote del 1.83% en 24h. Mantenemos la posición para capturar el objetivo de +2.5% a +6% según la estrategia de rebote técnico.
+- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD se encuentra en zona de sobreventa extrema con un RSI de 28.5 y comenzando un rebote técnico del 1.87% en 24h. Mantenemos la posición para capturar el movimiento alcista esperado hacia la media.
 
 ---
 
