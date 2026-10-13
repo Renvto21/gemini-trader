@@ -1,14 +1,10 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.0009721600000007768,
+  "cash": 0.0,
   "positions": {
     "SOL-USD": {
-      "shares": 0.29519126806907264,
-      "avg_price": 107.17281354650123
-    },
-    "ETH-USD": {
-      "shares": 0.003177086659429082,
-      "avg_price": 2505.44
+      "shares": 0.36946585032277757,
+      "avg_price": 107.1963718127708
     }
   },
   "history": [
@@ -1064,6 +1060,24 @@
       "shares": 0.003177,
       "price": 2505.44,
       "reason": "ETH-USD muestra un RSI de 35.6 en zona de sobreventa y un cambio positivo de 2.45% en 24 horas, lo que activa nuestra estrategia de cazar rebotes por mean reversion con alta convicción para buscar un rendimiento rápido del +3% al +5%."
+    },
+    {
+      "timestamp": "2026-10-13T14:01:32.853022-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 7.97,
+      "shares": 0.003177,
+      "price": 2508.01,
+      "reason": "Liberamos la totalidad de la posición en ETH-USD para consolidar efectivo y rotar hacia una oportunidad de mayor impulso y convicción en el corto plazo."
+    },
+    {
+      "timestamp": "2026-10-13T14:01:32.855246-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 7.97,
+      "shares": 0.074275,
+      "price": 107.29,
+      "reason": "SOL-USD presenta una condición de sobreventa extrema con un RSI de 27.9 y un desplome semanal del -7.69%. Aplicamos la regla de alta convicción para cazar un rebote técnico rápido buscando un objetivo de ganancia del +3% al +5%."
     }
   ]
 }
