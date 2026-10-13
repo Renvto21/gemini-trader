@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 01:00:45`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 01:10:41`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$2.09 USD** | **$37.60 USD** | **$39.70 USD** | 🔴 **-0.76%** ($-0.30) |
+| **$40.00 USD** | **$10.23 USD** | **$29.56 USD** | **$39.79 USD** | 🔴 **-0.53%** ($-0.21) |
 
 ---
 
@@ -16,17 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.350407 | $106.82 | $107.31 | $37.60 | 📈 +0.46% |
+| `SOL-USD` | 0.200407 | $106.82 | $107.57 | $21.56 | 📈 +0.70% |
+| `ETH-USD` | 0.003192 | $2506.03 | $2506.03 | $8.00 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto muestra condiciones de sobreventa extrema, destacando SOL-USD con un RSI de 25.3 y ETH-USD con un RSI de 31.0, lo cual presenta una oportunidad ideal para cazar un rebote por reversión a la media. Nuestras posiciones actuales están estancadas con ganancias mínimas y necesitamos optimizar liquidez para capitalizar estas caídas en activos de alta volatilidad. El efectivo disponible es escaso, por lo que rotaremos una posición para maximizar la agresividad de la táctica."*
+> *"El mercado cripto muestra condiciones de fuerte sobreventa, destacando a ETH-USD con un RSI de 31.1 y una caída semanal del 7.1%, y SOL-USD con un RSI extremo de 25.6 tras una fuerte corrección. Nuestra posición actual en SOL-USD se mantiene estable con una pequeña ganancia del 0.7%, pero las condiciones de sobreventa generalizadas en cripto abren una excelente oportunidad de rotación táctica para capturar un rebote inminente en ETH-USD, aprovechando la alta volatilidad para buscar ganancias rápidas."*
 
 **Operaciones del ciclo:**
-- **[SELL] ETH-USD** (Confianza: 85%): Vendemos la totalidad de ETH-USD para liberar capital líquido de inmediato y redirigirlo hacia la oportunidad de mayor potencial de rebote en el ecosistema cripto, manteniendo nuestra disciplina de rotación activa de capital.
-- **[BUY] SOL-USD** (Confianza: 90%): Aprovechamos la sobreventa extrema de SOL-USD (RSI 25.3 y caída semanal de -11.16%) para incrementar posición con alta convicción. Buscamos capturar el rebote técnico rápido del 3% al 5% apoyados en el fuerte impulso de reversión a la media.
+- **[SELL] SOL-USD** (Confianza: 85%): Vendemos parcialmente SOL-USD para liberar liquidez y poder financiar la entrada en ETH-USD, cumpliendo con la regla de rotación activa de capital hacia oportunidades con fuerte potencial de rebote técnico.
+- **[BUY] ETH-USD** (Confianza: 88%): ETH-USD se encuentra en clara sobreventa técnica con un RSI de 31.1 tras una caída semanal del 7.1%. Esto activa nuestra estrategia agresiva de Mean Reversion para cazar un rebote rápido del 2% al 6%.
 
 ---
 
@@ -34,11 +35,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-13 01:10` | 🟢 BUY | `ETH-USD` | $8.00 | $2506.03 | ETH-USD se encuentra en clara sobreventa técnica con un RSI de 31.1 tras una caída semanal... |
+| `2026-10-13 01:10` | 🔴 SELL | `SOL-USD` | $16.14 | $107.57 | Vendemos parcialmente SOL-USD para liberar liquidez y poder financiar la entrada en ETH-US... |
 | `2026-10-13 01:00` | 🟢 BUY | `SOL-USD` | $12.00 | $107.31 | Aprovechamos la sobreventa extrema de SOL-USD (RSI 25.3 y caída semanal de -11.16%) para i... |
 | `2026-10-13 01:00` | 🔴 SELL | `ETH-USD` | $10.10 | $2504.55 | Vendemos la totalidad de ETH-USD para liberar capital líquido de inmediato y redirigirlo h... |
 | `2026-10-13 00:40` | 🟢 BUY | `SOL-USD` | $3.43 | $107.26 | SOL-USD se encuentra en profunda sobreventa técnica con un RSI de 25.2 y una caída del 11.... |
-| `2026-10-13 00:10` | 🟢 BUY | `SOL-USD` | $10.00 | $106.61 | SOL-USD se encuentra en una clara condición de sobreventa con un RSI de 24.5 y una caída d... |
-| `2026-10-12 23:50` | 🟢 BUY | `ETH-USD` | $10.00 | $2480.01 | Ethereum se encuentra en clara sobreventa con un RSI de 29.5 y una caída semanal del 8.06%... |
 
 ---
 

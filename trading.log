@@ -1,35 +1,3 @@
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $7.43 USD
- Valor en Activos:     $32.00 USD
- Balance Total:        $39.43 USD
- Ganancia/Pérdida:     🔴 $-0.57 USD (-1.43%)
-
- 💼 Posiciones Abiertas:
-   • SOL-USD: 0.206603 u. | Compra: $106.48 | Actual: $106.42 | Total: $21.99 📉 (-0.06%)
-   • ETH-USD: 0.004032 u. | Compra: $2480.01 | Actual: $2484.0 | Total: $10.02 📈 (+0.16%)
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado cripto muestra condiciones extremas de sobreventa con SOL-USD (RSI 24.3) y ETH-USD (RSI 29.7) tocando niveles atractivos para un rebote técnico inminente bajo la estrategia de reversión a la media. Mantenemos nuestras posiciones actuales esperando el rebote y conservamos $3.43 en efectivo libre, cerca de nuestra reserva mínima de $4.00, manteniendo todo el capital disponible trabajando activamente en alta volatilidad."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] SOL-USD (Confianza: 85%)
-    Razón: SOL-USD se encuentra en clara sobreventa técnica con un RSI de 24.3 y una caída semanal del -11.89%. Estamos listos para cazar el rebote técnico agresivo en busca de un retorno rápido del +3% al +5%.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 82%)
-    Razón: ETH-USD registra un RSI de 29.7, también en zona de sobreventa. La posición se mantiene estable con una ganancia marginal del +0.16%, esperando el impulso alcista del mercado cripto para tomar beneficios parciales.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.43 USD (Cash: $7.43 USD)
-
-[2026-10-13 00:30:41] 🔍 Iniciando ciclo de análisis...
 📡 Descargando cotizaciones para 9 activos...
 
 =======================================================
@@ -151,3 +119,35 @@ Balance final del ciclo: $39.70 USD (Cash: $4.00 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.70 USD (Cash: $2.09 USD)
+
+[2026-10-13 01:10:34] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $2.09 USD
+ Valor en Activos:     $37.69 USD
+ Balance Total:        $39.79 USD
+ Ganancia/Pérdida:     🔴 $-0.21 USD (-0.53%)
+
+ 💼 Posiciones Abiertas:
+   • SOL-USD: 0.350407 u. | Compra: $106.82 | Actual: $107.57 | Total: $37.69 📈 (+0.70%)
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado cripto muestra condiciones de fuerte sobreventa, destacando a ETH-USD con un RSI de 31.1 y una caída semanal del 7.1%, y SOL-USD con un RSI extremo de 25.6 tras una fuerte corrección. Nuestra posición actual en SOL-USD se mantiene estable con una pequeña ganancia del 0.7%, pero las condiciones de sobreventa generalizadas en cripto abren una excelente oportunidad de rotación táctica para capturar un rebote inminente en ETH-USD, aprovechando la alta volatilidad para buscar ganancias rápidas."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [SELL] SOL-USD (Confianza: 85%)
+    Razón: Vendemos parcialmente SOL-USD para liberar liquidez y poder financiar la entrada en ETH-USD, cumpliendo con la regla de rotación activa de capital hacia oportunidades con fuerte potencial de rebote técnico.
+    ✅ Venta ejecutada: 0.15 de SOL-USD a $107.57
+  • Acción: [BUY] ETH-USD (Confianza: 88%)
+    Razón: ETH-USD se encuentra en clara sobreventa técnica con un RSI de 31.1 tras una caída semanal del 7.1%. Esto activa nuestra estrategia agresiva de Mean Reversion para cazar un rebote rápido del 2% al 6%.
+    ✅ Compra ejecutada: $8.00 en ETH-USD a $2506.03
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.79 USD (Cash: $10.23 USD)
