@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 16:20:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 16:30:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.78 USD** | **$39.78 USD** | 🔴 **-0.54%** ($-0.22) |
+| **$40.00 USD** | **$0.01 USD** | **$39.76 USD** | **$39.77 USD** | 🔴 **-0.57%** ($-0.23) |
 
 ---
 
@@ -16,16 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.369466 | $107.20 | $107.68 | $39.78 | 📈 +0.45% |
+| `SOL-USD` | 0.279466 | $107.20 | $107.65 | $30.08 | 📈 +0.42% |
+| `ETH-USD` | 0.003860 | $2507.92 | $2507.92 | $9.68 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un rebote técnico interesante en el sector cripto. SOL-USD presenta una condición de sobreventa profunda con un RSI de 28.9, y ya se encuentra en cartera con una ligera ganancia actual del 0.45%. Por otro lado, ETH-USD muestra un RSI de 35.6 con un momentum diario positivo del +2.51%, lo que indica un fuerte potencial de rebote alcista. Mantendremos la posición en SOL-USD mientras consolida su recuperación y buscaremos capitalizar el impulso de ETH-USD."*
+> *"El mercado muestra oportunidades claras de rebote técnico en activos de criptomonedas. SOL-USD se mantiene en cartera con una ligera ganancia tras un rebote incipiente, mientras ETH-USD muestra condiciones de sobreventa extrema (RSI de 35.8) con un rendimiento positivo en 24 horas (+2.6%), lo que indica un fuerte potencial de reversión a la media. En el sector tecnológico, MSFT ha entrado en zona de sobrecompra clara (RSI de 78.4). El capital actual está totalmente desplegado en SOL-USD y el efectivo es nulo, por lo que para capturar la nueva oportunidad en ETH-USD realizaremos una rotación parcial vendiendo una fracción de SOL-USD."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): La posición en SOL-USD se encuentra en terreno positivo (+0.45%) y su RSI de 28.9 sugiere que el movimiento de recuperación desde la zona de sobreventa apenas comienza. Mantenemos para buscar el objetivo del +2.5% a +5%.
+- **[SELL] SOL-USD** (Confianza: 85%): Realizamos una toma parcial de beneficios y rotación de capital liberando aproximadamente 9.68 USD de SOL-USD para financiar la entrada en ETH-USD, aprovechando que SOL se encuentra con una ganancia actual del 0.42% y manteniendo la mayor parte de la posición principal.
+- **[BUY] ETH-USD** (Confianza: 88%): ETH-USD muestra un RSI de 35.8 en zona de fuerte sobreventa y un impulso alcista diario del 2.6%. Conforme a nuestra estrategia agresiva de mean reversion y captura de rebotes rápidos, asignamos este capital para aprovechar el momentum de recuperación técnica.
 
 ---
 
@@ -33,11 +35,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-13 16:30` | 🟢 BUY | `ETH-USD` | $9.68 | $2507.92 | ETH-USD muestra un RSI de 35.8 en zona de fuerte sobreventa y un impulso alcista diario de... |
+| `2026-10-13 16:30` | 🔴 SELL | `SOL-USD` | $9.69 | $107.65 | Realizamos una toma parcial de beneficios y rotación de capital liberando aproximadamente ... |
 | `2026-10-13 14:01` | 🟢 BUY | `SOL-USD` | $7.97 | $107.29 | SOL-USD presenta una condición de sobreventa extrema con un RSI de 27.9 y un desplome sema... |
 | `2026-10-13 14:01` | 🔴 SELL | `ETH-USD` | $7.97 | $2508.01 | Liberamos la totalidad de la posición en ETH-USD para consolidar efectivo y rotar hacia un... |
 | `2026-10-13 08:30` | 🟢 BUY | `ETH-USD` | $7.96 | $2505.44 | ETH-USD muestra un RSI de 35.6 en zona de sobreventa y un cambio positivo de 2.45% en 24 h... |
-| `2026-10-13 08:30` | 🔴 SELL | `NVDA` | $7.96 | $226.32 | Liberamos capital de NVDA que se encuentra lateral y bajo su SMA20 sin momentum claro, par... |
-| `2026-10-13 08:10` | 🟢 BUY | `NVDA` | $7.96 | $226.32 | Aprovechamos la corrección reciente de NVDA (caída de 7 días del -3.26% con un RSI de 46.4... |
 
 ---
 
