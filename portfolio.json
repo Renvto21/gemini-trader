@@ -1,14 +1,10 @@
 {
   "initial_capital": 40.0,
-  "cash": 3.995433500790838,
+  "cash": 2.0937791007908384,
   "positions": {
     "SOL-USD": {
-      "shares": 0.2385813599638637,
-      "avg_price": 106.58837724729085
-    },
-    "ETH-USD": {
-      "shares": 0.004032241805476591,
-      "avg_price": 2480.01
+      "shares": 0.3504069121025274,
+      "avg_price": 106.81866911645898
     }
   },
   "history": [
@@ -974,6 +970,24 @@
       "shares": 0.031978,
       "price": 107.26,
       "reason": "SOL-USD se encuentra en profunda sobreventa técnica con un RSI de 25.2 y una caída del 11.2% en 7 días, cumpliendo perfectamente la estrategia agresiva de cazar rebotes en cripto. Añadimos capital para promediar y capturar el próximo movimiento alcista hacia la resistencia inmediata."
+    },
+    {
+      "timestamp": "2026-10-13T01:00:45.808958-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 10.1,
+      "shares": 0.004032,
+      "price": 2504.55,
+      "reason": "Vendemos la totalidad de ETH-USD para liberar capital líquido de inmediato y redirigirlo hacia la oportunidad de mayor potencial de rebote en el ecosistema cripto, manteniendo nuestra disciplina de rotación activa de capital."
+    },
+    {
+      "timestamp": "2026-10-13T01:00:45.811373-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 12.0,
+      "shares": 0.111826,
+      "price": 107.31,
+      "reason": "Aprovechamos la sobreventa extrema de SOL-USD (RSI 25.3 y caída semanal de -11.16%) para incrementar posición con alta convicción. Buscamos capturar el rebote técnico rápido del 3% al 5% apoyados en el fuerte impulso de reversión a la media."
     }
   ]
 }
