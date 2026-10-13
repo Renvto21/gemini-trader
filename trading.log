@@ -1,35 +1,3 @@
- Efectivo Disponible:  $4.68 USD
- Valor en Activos:     $34.86 USD
- Balance Total:        $39.54 USD
- Ganancia/Pérdida:     🔴 $-0.46 USD (-1.14%)
-
- 💼 Posiciones Abiertas:
-   • SOL-USD: 0.279466 u. | Compra: $107.2 | Actual: $106.84 | Total: $29.86 📉 (-0.33%) [Tiempo: 5h 39m]
-   • ETH-USD: 0.001993 u. | Compra: $2508.37 | Actual: $2510.98 | Total: $5.01 📈 (+0.10%) [Tiempo: 2h 29m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado tradicional se encuentra cerrado por lo que la liquidez activa se concentra en criptomonedas. SOL-USD lleva más de 5 horas abierto con un rendimiento lateral y bajo la SMA20, mostrando un RSI diario de 26.6 y un cambio de 1h negativo (-0.16%). ETH-USD se mantiene estable con un pequeño beneficio marginal del 0.1%. Dado que SOL-USD no muestra el dinamismo esperado tras varias horas, se procederá a rotar el capital para asegurar eficiencia."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Se ha ejecutado la rotación de SOL-USD tras persistir en rango sin momentum de rebote. La liquidez obtenida se mantiene junto con el efectivo disponible para cazar rupturas con mayor fuerza en BTC-USD o ETH-USD en los siguientes ciclos, operando con stop-loss estrictos del -2.0% y buscando tomas de ganancias entre +2.0% y +3.5%."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [SELL] SOL-USD (Confianza: 85%)
-    Razón: SOL-USD lleva más de 5 horas de holding sin mostrar el rebote esperado, operando bajo la SMA20 con un RSI diario de 26.6 y un débil cambio de 1h de -0.16%. Se rota el capital para evitar estancamiento y liberar liquidez hacia mejores oportunidades.
-    ✅ Venta ejecutada: 0.279466 de SOL-USD a $106.84
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.54 USD (Cash: $34.54 USD)
-
-[2026-10-13 19:50:36] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
  Capital Inicial:      $40.00 USD
  Efectivo Disponible:  $34.54 USD
  Valor en Activos:     $5.01 USD
@@ -147,6 +115,38 @@ Balance final del ciclo: $39.52 USD (Cash: $34.54 USD)
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] ETH-USD (Confianza: 75%)
     Razón: La posición en ETH-USD lleva poco más de 3 horas abierta con una pérdida marginal del -0.46%, manteniendo un comportamiento estable sobre su soporte crítico. Dado que no ha alcanzado el stop-loss de -2.0% ni presenta un fallo de momentum prolongado, se decide mantener para permitir que se desarrolle el rebote técnico esperado hacia la zona de take-profit.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.52 USD (Cash: $34.54 USD)
+
+[2026-10-13 20:30:38] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $34.54 USD
+ Valor en Activos:     $4.98 USD
+ Balance Total:        $39.52 USD
+ Ganancia/Pérdida:     🔴 $-0.48 USD (-1.21%)
+
+ 💼 Posiciones Abiertas:
+   • ETH-USD: 0.001993 u. | Compra: $2508.37 | Actual: $2496.13 | Total: $4.98 📉 (-0.49%) [Tiempo: 3h 20m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado tradicional se encuentra cerrado y sus precios están congelados, por lo que toda la atención táctica se centra en los activos de criptomonedas (24/7). ETH-USD muestra un comportamiento lateral con un leve descenso en la última hora (-0.51%), manteniendo una pérdida flotante mínima (-0.49%) tras más de 3 horas de retención. BTC-USD y SOL-USD operan bajo su SMA20 pero muestran resiliencia en su cambio de 24 horas. La liquidez debe mantenerse parcialmente o asignarse selectivamente si se detecta un momentum claro."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendremos la posición actual en ETH-USD vigilando que no rompa el soporte crítico. El stop-loss se mantiene estricto en -2.0% y buscaremos la toma de beneficios si alcanza el rango de +2.0% a +3.5% o si el RSI de 1H supera los 70 puntos. Si la posición continúa estancada sin volumen o rebote en las próximas horas, rotaremos el capital hacia liquidez o hacia otra oportunidad en cripto."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] ETH-USD (Confianza: 70%)
+    Razón: La posición actual en ETH-USD registra una pérdida leve de -0.49% con un tiempo de tenencia de poco más de 3 horas. No ha alcanzado el stop-loss estricto de -2.0% ni el objetivo de take-profit, y el RSI de 1H se mantiene en un nivel neutral (40.6). Se prefiere mantener la posición a la espera de un impulso alcista que active la toma de beneficios.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.

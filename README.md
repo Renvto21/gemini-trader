@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 20:20:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 20:30:51`
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.001993 | $2508.37 | $2496.71 | $4.98 | 📉 -0.46% | 3h 10m |
+| `ETH-USD` | 0.001993 | $2508.37 | $2496.13 | $4.98 | 📉 -0.49% | 3h 20m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado y operando con precios congelados. En el mercado cripto (abierto 24/7), el impulso alcista reciente se ha enfriado ligeramente con correcciones menores en la última hora tanto para BTC-USD como para ETH-USD. La posición actual en ETH-USD muestra una leve pérdida del -0.46% tras un holding de más de 3 horas sin romper al alza de forma contundente, pero se mantiene estable muy cerca del precio de entrada y lejos del stop-loss estricto."
+> "El mercado tradicional se encuentra cerrado y sus precios están congelados, por lo que toda la atención táctica se centra en los activos de criptomonedas (24/7). ETH-USD muestra un comportamiento lateral con un leve descenso en la última hora (-0.51%), manteniendo una pérdida flotante mínima (-0.49%) tras más de 3 horas de retención. BTC-USD y SOL-USD operan bajo su SMA20 pero muestran resiliencia en su cambio de 24 horas. La liquidez debe mantenerse parcialmente o asignarse selectivamente si se detecta un momentum claro."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 75%): La posición en ETH-USD lleva poco más de 3 horas abierta con una pérdida marginal del -0.46%, manteniendo un comportamiento estable sobre su soporte crítico. Dado que no ha alcanzado el stop-loss de -2.0% ni presenta un fallo de momentum prolongado, se decide mantener para permitir que se desarrolle el rebote técnico esperado hacia la zona de take-profit.
+- **[HOLD] ETH-USD** (Confianza: 70%): La posición actual en ETH-USD registra una pérdida leve de -0.49% con un tiempo de tenencia de poco más de 3 horas. No ha alcanzado el stop-loss estricto de -2.0% ni el objetivo de take-profit, y el RSI de 1H se mantiene en un nivel neutral (40.6). Se prefiere mantener la posición a la espera de un impulso alcista que active la toma de beneficios.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la posición actual en ETH-USD mientras respete el soporte de 2470 USD y vigilar el comportamiento del RSI de 1H. El stop-loss se mantiene estricto en -2.0% y buscaremos la toma de beneficios si alcanza el rango de +2.0% a +3.5% o si el RSI de 1H supera los 70 puntos. Mantener la liquidez disponible y no realizar nuevas entradas en cripto hasta que se observe un nuevo patrón de sobreventa extrema con cambio de tendencia alcista en el corto plazo."
+> "Mantendremos la posición actual en ETH-USD vigilando que no rompa el soporte crítico. El stop-loss se mantiene estricto en -2.0% y buscaremos la toma de beneficios si alcanza el rango de +2.0% a +3.5% o si el RSI de 1H supera los 70 puntos. Si la posición continúa estancada sin volumen o rebote en las próximas horas, rotaremos el capital hacia liquidez o hacia otra oportunidad en cripto."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
