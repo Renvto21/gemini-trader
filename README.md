@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 05:20:42`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 05:30:42`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$40.12 USD** | **$40.12 USD** | 🟢 **+0.30%** ($+0.12) |
+| **$40.00 USD** | **$0.00 USD** | **$40.06 USD** | **$40.06 USD** | 🟢 **+0.15%** ($+0.06) |
 
 ---
 
@@ -16,18 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.295191 | $107.17 | $108.56 | $32.05 | 📈 +1.29% |
-| `ETH-USD` | 0.003192 | $2506.03 | $2529.04 | $8.07 | 📈 +0.92% |
+| `SOL-USD` | 0.295191 | $107.17 | $108.35 | $31.98 | 📈 +1.10% |
+| `ETH-USD` | 0.003192 | $2506.03 | $2529.56 | $8.08 | 📈 +0.94% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra un rebote técnico interesante en el sector cripto. SOL-USD y ETH-USD están recuperando terreno tras caídas semanales, con SOL registrando un RSI de 31.2 y ETH en 38.0, lo que confirma oportunidades de sobreventa. Por otro lado, MSFT presenta un RSI de 77.9 (sobrecompra clara), pero no lo tenemos en cartera. Mantendremos la exposición actual en criptomonedas ya que están generando un momentum positivo a corto plazo y acercándose a nuestros objetivos de take-profit."*
+> *"El mercado muestra un sesgo mixto con recuperación moderada en criptomonedas (SOL-USD y ETH-USD rebotando con más de 2.5% en 24h tras lecturas previas de sobreventa) y fortaleza en grandes tecnológicas como MSFT, aunque con ciertos indicadores técnicos mixtos. Mantengo mi enfoque táctico de rotación y captura de rebotes."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD muestra un incremento del 2.84% en 24h y un RSI de 31.2 tras una fuerte caída semanal, ideal para cazar rebotes. Está cerca de la zona de take-profit (+2.5%), por lo que decidimos mantener para maximizar la ganancia.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD sube un 3.46% en 24h con un RSI de 38.0. La posición está ganando tracción alcista tras tocar niveles de sobreventa, por lo que merece la pena mantenerla en busca de un mayor recorrido.
+- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD muestra un rebote positivo del 2.64% en 24h saliendo de zona de sobreventa técnica (RSI 30.6). La ganancia actual es del 1.1%, por debajo del umbral estricto de take-profit del 2.5%. Mantenemos la posición para permitir que el momentum alcista continúe.
+- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD registra una subida del 3.49% en 24h con un RSI de 38.1 recuperándose desde niveles bajos. La posición está con un PnL de 0.94%, cerca de la zona objetivo, por lo que es óptimo mantener para buscar el objetivo completo de ganancia rápida.
 
 ---
 
