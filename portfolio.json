@@ -1123,7 +1123,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en SOL-USD y ETH-USD ya que se encuentran estables y dentro del rango de tolerancia al riesgo antes del stop-loss de -2.0%. El efectivo disponible se encuentra en el límite mínimo operativo. Monitorear de cerca la evolución del RSI de 1 hora para ejecutar tomas de beneficios (take-profit) si alcanzan el rango de +2.0% a +3.5%, o recortar de inmediato si la tendencia bajista se acelera superando los límites de pérdida permitidos.",
-    "updated_at": "2026-10-13T18:40:42.770441-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD dado que no han alcanzado el objetivo de take-profit (+2.0% a +3.5%) ni han violado el stop-loss (-2.0%). Esperar a que el RSI de 1 hora supere niveles de sobrecompra o que se alcance el objetivo de ganancia para ejecutar ventas parciales o totales y rotar capital si surge una mayor aceleración.",
+    "updated_at": "2026-10-13T18:50:38.601224-03:00"
   }
 }
