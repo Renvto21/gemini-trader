@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 11:31:55`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 11:42:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.90 USD** | **$39.90 USD** | 🔴 **-0.26%** ($-0.10) |
+| **$40.00 USD** | **$0.00 USD** | **$39.78 USD** | **$39.78 USD** | 🔴 **-0.55%** ($-0.22) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.295191 | $107.17 | $108.03 | $31.89 | 📈 +0.80% |
-| `ETH-USD` | 0.003177 | $2505.44 | $2519.97 | $8.01 | 📈 +0.58% |
+| `SOL-USD` | 0.295191 | $107.17 | $107.66 | $31.78 | 📈 +0.45% |
+| `ETH-USD` | 0.003177 | $2505.44 | $2518.09 | $8.00 | 📈 +0.50% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"Aviso temporal de Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\nPlease retry in 9h28m4.45806633s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34084s'}]}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
+> *"El mercado cripto muestra señales claras de rebote técnico desde niveles de sobreventa. Solana (SOL-USD) registra un RSI de 28.9 con un impulso de +1.99% en 24h, mientras que Ethereum (ETH-USD) presenta un RSI de 36.9 y un alza de +3.02%. Ambas posiciones en cartera tienen ganancias modestas (+0.45% y +0.50%) pero aún no alcanzan la meta de take-profit del +2.5%. Dado que estamos completamente in invested y la prioridad es la rotación y captura de momentum rápido, mantendremos las posiciones actuales ya que muestran el rebote esperado tras caídas semanales."*
 
 **Operaciones del ciclo:**
-- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
+- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD está rebotando desde una zona de sobreventa extrema (RSI 28.9). Mantiene un impulso positivo reciente del +1.99% en 24h, por lo que esperamos que continúe su camino hacia la zona objetivo de take-profit.
 
 ---
 
