@@ -1,16 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 3.9965746244363354,
-  "positions": {
-    "SOL-USD": {
-      "shares": 0.2207436874491474,
-      "avg_price": 106.59421463828085
-    },
-    "ETH-USD": {
-      "shares": 0.004837909861676094,
-      "avg_price": 2480.41
-    }
-  },
+  "cash": 38.6122255493899,
+  "positions": {},
   "history": [
     {
       "timestamp": "2026-10-07T20:09:58.250279",
@@ -857,6 +848,24 @@
       "shares": 0.052072,
       "price": 106.2,
       "reason": "SOL-USD presenta una condición de sobreventa extrema con un RSI de 24.1 y una caída de 7 días del -12.08%. Esto representa una oportunidad clásica de rebote técnico (Mean Reversion) bajo nuestra estrategia agresiva. Asignamos $5.53 USD para capitalizar este movimiento alcista inminente, manteniendo el efectivo operativo al límite mínimo requerido."
+    },
+    {
+      "timestamp": "2026-10-12T21:30:44.553915-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 22.91,
+      "shares": 0.220744,
+      "price": 103.78,
+      "reason": "La posición ha acumulado una pérdida del -2.64%, acercándose peligrosamente al stop-loss estricto (-3.0%), y el activo muestra una caída sostenida con un RSI de 22.0. Es imperativo cortar la pérdida de inmediato para evitar un daño mayor al portafolio y preservar capital."
+    },
+    {
+      "timestamp": "2026-10-12T21:30:44.555728-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 11.71,
+      "shares": 0.004838,
+      "price": 2419.82,
+      "reason": "La posición registra una pérdida del -2.44% bajo una tendencia bajista marcada y un RSI de sobreventa extrema en 26.4. Aplicamos el stop-loss estricto para mitigar riesgos y liberar efectivo hacia oportunidades con mejor momentum técnico."
     }
   ]
 }
