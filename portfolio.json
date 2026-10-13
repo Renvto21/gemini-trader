@@ -1123,7 +1123,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener SOL-USD y ETH-USD en cartera mientras no alcancen la zona de take-profit del +2.0% al +3.5% o rompan el stop-loss del -2.0%. Estar atento a un incremento en el RSI de 1 hora por encima de 70 para asegurar ganancias parciales o totales y rotar el capital libre hacia nuevas oportunidades de momentum.",
-    "updated_at": "2026-10-13T19:00:53.129186-03:00"
+    "notes": "Mantener posiciones de SOL-USD y ETH-USD vigentes buscando el objetivo de take-profit entre +2.0% y +3.5% o protegiendo capital ante un quiebre del stop-loss estricto en -2.0%. Estar alerta a un incremento en el RSI de 1 hora por encima de 70 para realizar tomas de beneficios y liberar capital.",
+    "updated_at": "2026-10-13T19:10:36.718359-03:00"
   }
 }
