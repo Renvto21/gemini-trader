@@ -1129,7 +1129,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la posición de ETH-USD buscando la toma de beneficios en el rango de +2.0% a +3.5% o ante un RSI de 1H superior a 70. Mantener el stop-loss estricto en -2.0%. Vigilar de cerca a BTC-USD y SOL-USD por si surge una oportunidad de ruptura con alto volumen en los próximos ciclos.",
-    "updated_at": "2026-10-13T19:50:43.054138-03:00"
+    "notes": "Mantener la posición actual en ETH-USD buscando toma de beneficios en el rango de +2.0% a +3.5% o si el RSI de 1H supera 70. Mantener el stop-loss estricto en -2.0%. Vigilar de cerca a SOL-USD ante un posible cruce alcista en intradiario que permita reingresar aprovechando su sobreventa diaria extrema.",
+    "updated_at": "2026-10-13T20:00:43.615218-03:00"
   }
 }
