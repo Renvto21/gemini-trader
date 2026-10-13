@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 08:20:38`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 08:30:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.16 USD** | **$39.16 USD** | 🔴 **-2.10%** ($-0.84) |
+| **$40.00 USD** | **$0.00 USD** | **$39.50 USD** | **$39.50 USD** | 🔴 **-1.24%** ($-0.50) |
 
 ---
 
@@ -16,17 +16,18 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.295191 | $107.17 | $105.69 | $31.20 | 📉 -1.38% |
-| `NVDA` | 0.035171 | $226.32 | $226.32 | $7.96 | 📈 -0.00% |
+| `SOL-USD` | 0.295191 | $107.17 | $106.85 | $31.54 | 📉 -0.30% |
+| `ETH-USD` | 0.003177 | $2505.44 | $2505.44 | $7.96 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra condiciones mixtas con un sesgo bajista temporal en varios activos principales, pero destacan oportunidades de sobreventa extrema en criptomonedas como SOL-USD con un RSI en 23.2, lo que representa una clara oportunidad de rebote técnico (Mean Reversion) para capturar movimientos alcistas rápidos. Mantenemos nuestras posiciones actuales esperando el impulso y gestionando estrictamente el riesgo."*
+> *"El mercado muestra oportunidades claras de rebote en el sector cripto debido a condiciones de sobreventa extrema, destacando ETH-USD con un RSI de 35.6 y un rendimiento alcista diario del 2.5%, lo que indica un fuerte potencial de mean reversion a corto plazo. Mantenemos SOL-USD ya que se encuentra en un RSI de 26.6 consolidando para un rebote inminente. NVDA se mantiene sin cambios significativos con una pérdida neutral cercana a cero, mientras que MSFT muestra un RSI de sobrecompra (>77) perfecto para evaluar tomas de ganancias si estuviera en cartera. Rotamos parte de la posición estancada en NVDA para capitalizar la fuerte recuperación técnica que está comenzando en ETH-USD."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 90%): SOL-USD se encuentra en una situación de sobreventa extrema con un RSI de 23.2 tras una caída semanal del 9.06%. Mantenemos la posición actual para cazar el inminente rebote técnico hacia la resistencia inmediata, cumpliendo con nuestra estrategia agresiva de buscar retornos rápidos.
+- **[SELL] NVDA** (Confianza: 82%): Liberamos capital de NVDA que se encuentra lateral y bajo su SMA20 sin momentum claro, para financiar la entrada en un activo de cripto con mayor velocidad de rebote.
+- **[BUY] ETH-USD** (Confianza: 88%): ETH-USD muestra un RSI de 35.6 en zona de sobreventa y un cambio positivo de 2.45% en 24 horas, lo que activa nuestra estrategia de cazar rebotes por mean reversion con alta convicción para buscar un rendimiento rápido del +3% al +5%.
 
 ---
 
@@ -34,11 +35,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-13 08:30` | 🟢 BUY | `ETH-USD` | $7.96 | $2505.44 | ETH-USD muestra un RSI de 35.6 en zona de sobreventa y un cambio positivo de 2.45% en 24 h... |
+| `2026-10-13 08:30` | 🔴 SELL | `NVDA` | $7.96 | $226.32 | Liberamos capital de NVDA que se encuentra lateral y bajo su SMA20 sin momentum claro, par... |
 | `2026-10-13 08:10` | 🟢 BUY | `NVDA` | $7.96 | $226.32 | Aprovechamos la corrección reciente de NVDA (caída de 7 días del -3.26% con un RSI de 46.4... |
 | `2026-10-13 08:10` | 🔴 SELL | `ETH-USD` | $7.96 | $2494.07 | Ejecutamos rotación activa de capital vendiendo la posición completa de ETH-USD para liber... |
 | `2026-10-13 02:30` | 🟢 BUY | `SOL-USD` | $4.00 | $108.19 | SOL-USD presenta un RSI extremadamente bajo de 26.3, lo que indica sobreventa técnica seve... |
-| `2026-10-13 01:30` | 🟢 BUY | `SOL-USD` | $6.23 | $107.75 | SOL-USD se encuentra en una zona de sobreventa extrema con un RSI de 25.8 tras una caída s... |
-| `2026-10-13 01:10` | 🟢 BUY | `ETH-USD` | $8.00 | $2506.03 | ETH-USD se encuentra en clara sobreventa técnica con un RSI de 31.1 tras una caída semanal... |
 
 ---
 

@@ -1,14 +1,14 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.0010714400000004787,
+  "cash": 0.0009721600000007768,
   "positions": {
     "SOL-USD": {
       "shares": 0.29519126806907264,
       "avg_price": 107.17281354650123
     },
-    "NVDA": {
-      "shares": 0.035171438670908446,
-      "avg_price": 226.32000000000002
+    "ETH-USD": {
+      "shares": 0.003177086659429082,
+      "avg_price": 2505.44
     }
   },
   "history": [
@@ -1046,6 +1046,24 @@
       "shares": 0.035171,
       "price": 226.32,
       "reason": "Aprovechamos la corrección reciente de NVDA (caída de 7 días del -3.26% con un RSI de 46.4) para cazar un rebote táctico de corto plazo dentro del sector tech, utilizando el capital rotado desde ETH-USD."
+    },
+    {
+      "timestamp": "2026-10-13T08:30:46.299483-03:00",
+      "action": "SELL",
+      "ticker": "NVDA",
+      "amount_usd": 7.96,
+      "shares": 0.035171,
+      "price": 226.32,
+      "reason": "Liberamos capital de NVDA que se encuentra lateral y bajo su SMA20 sin momentum claro, para financiar la entrada en un activo de cripto con mayor velocidad de rebote."
+    },
+    {
+      "timestamp": "2026-10-13T08:30:46.301359-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 7.96,
+      "shares": 0.003177,
+      "price": 2505.44,
+      "reason": "ETH-USD muestra un RSI de 35.6 en zona de sobreventa y un cambio positivo de 2.45% en 24 horas, lo que activa nuestra estrategia de cazar rebotes por mean reversion con alta convicción para buscar un rendimiento rápido del +3% al +5%."
     }
   ]
 }
