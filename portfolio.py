@@ -11,6 +11,35 @@ def get_chile_now():
         from datetime import timezone, timedelta
         return datetime.now(timezone(timedelta(hours=-3)))
 
+def parse_iso_datetime(dt_str: str) -> datetime:
+    try:
+        dt = datetime.fromisoformat(dt_str)
+        if dt.tzinfo is None:
+            from datetime import timezone, timedelta
+            dt = dt.replace(tzinfo=timezone(timedelta(hours=-3)))
+        return dt
+    except Exception:
+        return get_chile_now()
+
+def format_duration(opened_at_str: Optional[str]) -> str:
+    if not opened_at_str:
+        return "Reciente"
+    try:
+        opened_dt = parse_iso_datetime(opened_at_str)
+        now = get_chile_now()
+        total_seconds = max(0, int((now - opened_dt).total_seconds()))
+        hours = total_seconds // 3600
+        minutes = (total_seconds % 3600) // 60
+        if hours >= 24:
+            days = hours // 24
+            return f"{days}d {hours % 24}h"
+        elif hours > 0:
+            return f"{hours}h {minutes}m"
+        else:
+            return f"{minutes}m"
+    except Exception:
+        return "Reciente"
+
 PORTFOLIO_FILE = "portfolio.json"
 
 class PortfolioManager:
@@ -72,6 +101,15 @@ class PortfolioManager:
             pnl = curr_val - cost_val
             pnl_pct = (pnl / cost_val * 100) if cost_val > 0 else 0.0
 
+            opened_at = pos.get("opened_at")
+            if not opened_at:
+                for h in reversed(self.data.get("history", [])):
+                    if h.get("ticker") == ticker and h.get("action") == "BUY":
+                        opened_at = h.get("timestamp")
+                        pos["opened_at"] = opened_at
+                        break
+            hold_time = format_duration(opened_at)
+
             positions_value += curr_val
             positions_detail.append({
                 "ticker": ticker,
@@ -80,7 +118,9 @@ class PortfolioManager:
                 "current_price": round(current_price, 2),
                 "current_value": round(curr_val, 2),
                 "pnl_usd": round(pnl, 2),
-                "pnl_pct": round(pnl_pct, 2)
+                "pnl_pct": round(pnl_pct, 2),
+                "opened_at": opened_at,
+                "holding_time": hold_time
             })
 
         total_equity = cash + positions_value
@@ -98,6 +138,27 @@ class PortfolioManager:
             "positions": positions_detail
         }
 
+    def get_memory(self) -> str:
+        mem = self.data.get("memory")
+        if isinstance(mem, dict):
+            return mem.get("notes", "Sin notas previas. Inicio de bitácora.")
+        elif isinstance(mem, str):
+            return mem
+        return "Sin notas previas. Inicio de bitácora."
+
+    def update_memory(self, notes: str):
+        if not notes:
+            return
+        self.data["memory"] = {
+            "notes": notes.strip(),
+            "updated_at": get_chile_now().isoformat()
+        }
+        self.save()
+
+    def get_recent_history(self, n: int = 3) -> List[Dict[str, Any]]:
+        history = self.data.get("history", [])
+        return history[-n:] if history else []
+
     def execute_buy(self, ticker: str, amount_usd: float, current_price: float, reason: str = "") -> bool:
         if amount_usd <= 0 or current_price <= 0:
             return False
@@ -109,13 +170,16 @@ class PortfolioManager:
         self.data["cash"] -= amount_usd
 
         pos = self.data["positions"].get(ticker, {"shares": 0.0, "avg_price": 0.0})
+        is_new = pos.get("shares", 0.0) <= 0
         total_shares = pos["shares"] + shares_to_buy
         total_cost = (pos["shares"] * pos["avg_price"]) + amount_usd
         new_avg_price = total_cost / total_shares if total_shares > 0 else current_price
+        opened_at = pos.get("opened_at") or get_chile_now().isoformat() if not is_new else get_chile_now().isoformat()
 
         self.data["positions"][ticker] = {
             "shares": total_shares,
-            "avg_price": new_avg_price
+            "avg_price": new_avg_price,
+            "opened_at": opened_at
         }
 
         self.data["history"].append({

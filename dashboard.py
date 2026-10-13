@@ -10,7 +10,7 @@ def get_chile_now():
         from datetime import timezone, timedelta
         return datetime.now(timezone(timedelta(hours=-3)))
 
-def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, actions: List[Any], history: List[Dict[str, Any]]):
+def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, actions: List[Any], history: List[Dict[str, Any]], memory_notes: str = ""):
     pnl = summary.get('total_pnl_usd', 0.0)
     pnl_pct = summary.get('total_pnl_pct', 0.0)
     pnl_icon = "🟢" if pnl >= 0 else "🔴"
@@ -23,12 +23,13 @@ def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, acti
         for p in positions:
             p_pnl = p.get('pnl_pct', 0.0)
             p_icon = "📈" if p_pnl >= 0 else "📉"
+            holding = p.get('holding_time', 'Reciente')
             pos_rows.append(
-                f"| `{p['ticker']}` | {p['shares']:.6f} | ${p['avg_price']:.2f} | ${p['current_price']:.2f} | ${p['current_value']:.2f} | {p_icon} {p_pnl:+.2f}% |"
+                f"| `{p['ticker']}` | {p['shares']:.6f} | ${p['avg_price']:.2f} | ${p['current_price']:.2f} | ${p['current_value']:.2f} | {p_icon} {p_pnl:+.2f}% | {holding} |"
             )
         pos_table = "\n".join(pos_rows)
     else:
-        pos_table = "| *(Ninguna posición abierta - 100% en efectivo)* | - | - | - | - | - |"
+        pos_table = "| *(Ninguna posición abierta - 100% en efectivo)* | - | - | - | - | - | - |"
 
     # Acciones decididas en este ciclo
     action_texts = []
@@ -62,6 +63,15 @@ def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, acti
     else:
         hist_table = "| *(Sin movimientos aún)* | - | - | - | - | - |"
 
+    memory_section = ""
+    if memory_notes:
+        memory_section = f"""---
+
+### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
+
+> \"{memory_notes}\"
+"""
+
     readme_content = f"""# 🤖 Gemini Autonomous Trader
 
 > **Estado:** 🟢 Activo en la Nube | **Última revisión:** `{now_str}`
@@ -78,20 +88,20 @@ def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, acti
 
 ### 💼 Posiciones Actuales
 
-| Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
-| :--- | :---: | :---: | :---: | :---: | :---: |
+| Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 {pos_table}
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"{decision_summary}"*
+> \"{decision_summary}\"
 
 **Operaciones del ciclo:**
 {actions_formatted}
 
----
+{memory_section}---
 
 ### 📜 Últimos Movimientos
 

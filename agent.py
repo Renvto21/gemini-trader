@@ -17,6 +17,9 @@ class TradeAction(BaseModel):
 
 class AgentDecision(BaseModel):
     market_analysis: str = Field(description="Resumen del estado general del mercado y sentimiento macro")
+    memory_notes: str = Field(
+        description="Bitácora mental para los siguientes ciclos: tu plan táctico, objetivos de salida o stop-loss de posiciones abiertas, y qué evento o confirmación estás esperando."
+    )
     actions: List[TradeAction] = Field(description="Lista de acciones a tomar (máximo 1 o 2 operaciones por ciclo)")
 
 class TradingAgent:
@@ -35,9 +38,23 @@ class TradingAgent:
     def evaluate_market_and_decide(
         self,
         portfolio_summary: Dict[str, Any],
-        market_snapshot: Dict[str, Any]
+        market_snapshot: Dict[str, Any],
+        memory_context: Optional[Dict[str, Any]] = None
     ) -> AgentDecision:
         initial_cap = portfolio_summary.get('initial_capital', 40.0)
+        
+        mem_notes = memory_context.get("previous_notes", "Sin notas previas. Primera ejecución con bitácora.") if memory_context else "Sin notas previas."
+        recent_trades = memory_context.get("recent_trades", []) if memory_context else []
+        
+        if recent_trades:
+            trades_lines = []
+            for t in recent_trades:
+                ts = t.get("timestamp", "")[:16].replace("T", " ")
+                trades_lines.append(f"- [{ts}] {t.get('action')} {t.get('ticker')}: ${t.get('amount_usd', 0):.2f} @ ${t.get('price', 0):.2f}. Motivo: {t.get('reason', '')[:100]}")
+            trades_text = "\n".join(trades_lines)
+        else:
+            trades_text = "No hay operaciones recientes registradas."
+
         prompt = f"""
 Eres un gestor de inversiones cuantitativo y agresivo enfocado en Crecimiento Acelerado, Momentum y Rebotes Técnicos (Mean Reversion) para un portafolio experimental de inversión de ${initial_cap:.2f} USD.
 
@@ -55,20 +72,30 @@ ESTRATEGIA Y REGLAS OPERATIVAS (TÁCTICA AGRESIVA):
    - Mantén solo una reserva mínima de efectivo de $4.00 USD. Todo el resto del efectivo debe estar trabajando activamente si detectas oportunidades atractivas en el mercado.
 7. ROTACIÓN ACTIVA DE CAPITAL:
    - Si tienes posiciones estancadas (ganancia/pérdida cercana a 0% sin momentum) y surge una oportunidad con fuerte impulso en Cripto o Tech, puedes vender la posición lenta para financiar la nueva jugada de alto potencial.
-8. Explica tus razones en español con claridad y convicción.
+8. GESTIÓN DEL TIEMPO Y CONTINUIDAD (MEMORIA Y BITÁCORA OPERATIVA):
+   - Revisa tu BITÁCORA DEL CICLO ANTERIOR. Evalúa si tus expectativas se cumplieron o si debes ajustar el plan.
+   - Revisa el campo 'holding_time' de las posiciones abiertas: si una posición lleva varias horas/ciclos abierta sin mostrar el rebote esperado, no repitas la misma justificación en bucle; asume que el impulso falló y considera rotar el capital hacia activos con mayor dinamismo.
+   - En 'memory_notes', redacta tu bitácora actualizada para tu próximo ciclo: anota tus precios objetivo (take-profit/stop-loss), qué catalizador esperas, o qué condición te haría salir o rotar.
+9. Explica tus razones en español con claridad y convicción.
 
-ESTADO ACTUAL DE TU PORTAFOLIO:
+BITÁCORA / MEMORIA DE TU CICLO ANTERIOR:
+"{mem_notes}"
+
+ÚLTIMAS OPERACIONES REGISTRADAS:
+{trades_text}
+
+ESTADO ACTUAL DE TU PORTAFOLIO (incluye tiempo abierto 'holding_time' por posición):
 {json.dumps(portfolio_summary, indent=2, ensure_ascii=False)}
 
 DATOS ACTUALES DEL MERCADO (Precios, RSI 14, Tendencia y Noticias):
 {json.dumps(market_snapshot, indent=2, ensure_ascii=False)}
 
-Analiza la información y genera tu decisión estructurada (BUY, SELL o HOLD).
+Analiza la información y genera tu decisión estructurada (BUY, SELL o HOLD) junto con tu actualización de bitácora ('memory_notes').
 """
 
         models_to_try = [
-            "gemini-3.5-flash-lite",   # 1° opción: titular con alta cuota diaria (144 ejecuciones/día)
-            "gemini-flash-latest"      # 2° opción: respaldo de emergencia si el primero llega a fallar
+            self.model_name,
+            "gemini-flash-latest"
         ]
         # Eliminar duplicados manteniendo orden
         seen = set()
@@ -104,5 +131,6 @@ Analiza la información y genera tu decisión estructurada (BUY, SELL o HOLD).
         print(f"[Error en Gemini API]: {last_error}")
         return AgentDecision(
             market_analysis=f"Aviso temporal de Gemini ({last_error}). Se aplica regla de seguridad HOLD para proteger posiciones.",
+            memory_notes="Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini.",
             actions=[TradeAction(action="HOLD", ticker="PORTFOLIO", confidence=1.0, reasoning="Error temporal de conexión, manteniendo posiciones de forma segura.")]
         )

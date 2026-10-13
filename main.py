@@ -49,7 +49,8 @@ def display_portfolio(summary: dict):
         for p in positions:
             pnl_pos = p['pnl_usd']
             p_icon = "📈" if pnl_pos >= 0 else "📉"
-            lines.append(f"   • {p['ticker']}: {p['shares']} u. | Compra: ${p['avg_price']} | Actual: ${p['current_price']} | Total: ${p['current_value']} {p_icon} ({p['pnl_pct']:+.2f}%)")
+            hold_info = f" [Tiempo: {p['holding_time']}]" if 'holding_time' in p else ""
+            lines.append(f"   • {p['ticker']}: {p['shares']} u. | Compra: ${p['avg_price']} | Actual: ${p['current_price']} | Total: ${p['current_value']} {p_icon} ({p['pnl_pct']:+.2f}%){hold_info}")
     else:
         lines.append("\n 💼 Posiciones Abiertas: (Ninguna, 100% en efectivo)")
     lines.append("=" * 55 + "\n")
@@ -73,12 +74,21 @@ def run_trading_cycle(agent: TradingAgent, portfolio: PortfolioManager):
     summary = portfolio.get_summary(current_prices)
     display_portfolio(summary)
 
-    # 3. Consultar al agente Gemini
+    # 3. Consultar al agente Gemini con memoria y bitácora operativa
+    memory_context = {
+        "previous_notes": portfolio.get_memory(),
+        "recent_trades": portfolio.get_recent_history(3)
+    }
     log_message("🤖 Consultando a Gemini para análisis y toma de decisiones...")
-    decision = agent.evaluate_market_and_decide(summary, snapshot)
+    decision = agent.evaluate_market_and_decide(summary, snapshot, memory_context=memory_context)
 
     log_message("\n🧠 ANÁLISIS DE MERCADO DE GEMINI:")
     log_message(f"\"{decision.market_analysis}\"\n")
+
+    if decision.memory_notes:
+        log_message("📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:")
+        log_message(f"\"{decision.memory_notes}\"\n")
+        portfolio.update_memory(decision.memory_notes)
 
     # 4. Procesar y ejecutar decisiones
     log_message("⚡ ACCIONES DECIDIDAS:")
@@ -127,7 +137,8 @@ def run_trading_cycle(agent: TradingAgent, portfolio: PortfolioManager):
         summary=updated_summary,
         decision_summary=decision.market_analysis,
         actions=decision.actions,
-        history=portfolio.data.get("history", [])
+        history=portfolio.data.get("history", []),
+        memory_notes=portfolio.get_memory()
     )
     trim_trading_log(max_lines=150)
 
@@ -154,7 +165,8 @@ def main():
             summary=summary,
             decision_summary="Consulta manual del estado del portafolio.",
             actions=[],
-            history=portfolio.data.get("history", [])
+            history=portfolio.data.get("history", []),
+            memory_notes=portfolio.get_memory()
         )
         return
 
