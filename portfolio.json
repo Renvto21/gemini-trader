@@ -1123,7 +1123,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener SOL-USD y ETH-USD vigiladas estrechamente. El tiempo de tenencia de SOL-USD supera las 5 horas sin el rebote esperado; si el RSI de 1 hora perfora soportes o las pérdidas se acercan al -2.0%, se procederá a vender para liberar liquidez. Si surge un repunte en el RSI por encima de 60-70, se buscará la toma de beneficios.",
-    "updated_at": "2026-10-13T19:20:42.960606-03:00"
+    "notes": "Mantener la posición en ETH-USD vigilando de cerca su RSI y estableciendo un stop-loss estricto en -2.0%. Dado que SOL-USD lleva más de 5 horas sin mostrar el rebote esperado y su RSI diario se mantiene bajo (26.6), se mantendrá en observación cercana por un ciclo más, pero lista para rotar si perfora soportes para asegurar la liquidez y buscar un mejor setup.",
+    "updated_at": "2026-10-13T19:30:41.927417-03:00"
   }
 }
