@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 09:41:12`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 09:53:06`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.33 USD** | **$39.34 USD** | 🔴 **-1.66%** ($-0.66) |
+| **$40.00 USD** | **$0.00 USD** | **$39.41 USD** | **$39.41 USD** | 🔴 **-1.48%** ($-0.59) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.295191 | $107.17 | $106.35 | $31.39 | 📉 -0.77% |
-| `ETH-USD` | 0.003177 | $2505.44 | $2499.37 | $7.94 | 📉 -0.24% |
+| `SOL-USD` | 0.295191 | $107.17 | $106.56 | $31.46 | 📉 -0.57% |
+| `ETH-USD` | 0.003177 | $2505.44 | $2502.61 | $7.95 | 📉 -0.11% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto presenta condiciones extremas de sobreventa con SOL-USD mostrando un RSI profundamente deprimido en 25.2 tras una caída semanal del 8.49%, lo cual representa una oportunidad ideal de rebote por reversión a la media (Mean Reversion). ETH-USD también muestra debilidad en las últimas sesiones con un RSI de 34.9, pero mantenemos nuestra posición actual operando sin exceder el riesgo ya que estamos casi fully invested. En el sector tecnológico, MSFT se encuentra en clara sobrecompra con un RSI de 77.9. Dado que nuestro capital está completamente desplegado y el efectivo actual es 0.0 USD, no realizaremos nuevas compras hasta asegurar liquidez, manteniendo nuestras posiciones actuales en cripto a la espera del rebote técnico."*
+> *"Aviso temporal de Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD está en condiciones de extrema sobreventa (RSI 25.2), lo que aumenta considerablemente la probabilidad de un rebote técnico rápido del 2% al 6%. Mantenemos la posición para capturar el movimiento alcista sin vender en el suelo.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
