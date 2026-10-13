@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.681629605410061,
+  "cash": 34.53976105389562,
   "positions": {
-    "SOL-USD": {
-      "shares": 0.2794658503227776,
-      "avg_price": 107.1963718127708,
-      "opened_at": "2026-10-13T14:01:32.855246-03:00"
-    },
     "ETH-USD": {
       "shares": 0.0019933263434022894,
       "avg_price": 2508.37,
@@ -1120,10 +1115,21 @@
       "shares": 0.001993,
       "price": 2508.37,
       "reason": "ETH-USD se encuentra en zona de sobreventa técnica con un RSI de 35.9 y un cambio positivo en 24 horas del 2.62%, indicando el inicio de un rebote alcista que podemos capitalizar de manera agresiva."
+    },
+    {
+      "timestamp": "2026-10-13T19:40:37.672907-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 29.86,
+      "shares": 0.279466,
+      "price": 106.84,
+      "pnl_usd": -0.1,
+      "pnl_pct": -0.33,
+      "reason": "SOL-USD lleva más de 5 horas de holding sin mostrar el rebote esperado, operando bajo la SMA20 con un RSI diario de 26.6 y un débil cambio de 1h de -0.16%. Se rota el capital para evitar estancamiento y liberar liquidez hacia mejores oportunidades."
     }
   ],
   "memory": {
-    "notes": "Mantener la posición en ETH-USD vigilando de cerca su RSI y estableciendo un stop-loss estricto en -2.0%. Dado que SOL-USD lleva más de 5 horas sin mostrar el rebote esperado y su RSI diario se mantiene bajo (26.6), se mantendrá en observación cercana por un ciclo más, pero lista para rotar si perfora soportes para asegurar la liquidez y buscar un mejor setup.",
-    "updated_at": "2026-10-13T19:30:41.927417-03:00"
+    "notes": "Se ha ejecutado la rotación de SOL-USD tras persistir en rango sin momentum de rebote. La liquidez obtenida se mantiene junto con el efectivo disponible para cazar rupturas con mayor fuerza en BTC-USD o ETH-USD en los siguientes ciclos, operando con stop-loss estrictos del -2.0% y buscando tomas de ganancias entre +2.0% y +3.5%.",
+    "updated_at": "2026-10-13T19:40:37.671026-03:00"
   }
 }
