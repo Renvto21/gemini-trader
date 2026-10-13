@@ -1,7 +1,12 @@
 {
   "initial_capital": 40.0,
-  "cash": 38.6122255493899,
-  "positions": {},
+  "cash": 28.612225549389898,
+  "positions": {
+    "SOL-USD": {
+      "shares": 0.0962556550197324,
+      "avg_price": 103.89
+    }
+  },
   "history": [
     {
       "timestamp": "2026-10-07T20:09:58.250279",
@@ -866,6 +871,15 @@
       "shares": 0.004838,
       "price": 2419.82,
       "reason": "La posición registra una pérdida del -2.44% bajo una tendencia bajista marcada y un RSI de sobreventa extrema en 26.4. Aplicamos el stop-loss estricto para mitigar riesgos y liberar efectivo hacia oportunidades con mejor momentum técnico."
+    },
+    {
+      "timestamp": "2026-10-12T21:40:41.540733-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.0,
+      "shares": 0.096256,
+      "price": 103.89,
+      "reason": "SOL-USD se encuentra en una situación clara de sobreventa extrema (RSI de 22.0) tras caer un 6.61% en las últimas 24 horas y casi un 14% en la semana. Aplicando nuestra estrategia de cazar rebotes por mean reversion en cripto de alta volatilidad, asignamos una alta convicción para buscar un movimiento rápido al alza del 3% al 5%."
     }
   ]
 }
