@@ -1123,7 +1123,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras se evalúa el desarrollo del momentum durante las próximas horas. Vigilar de cerca el objetivo de take-profit entre +2.0% y +3.5% o la superación de un RSI de 1 hora por encima de 70. Mantener el stop-loss estricto en -2.0% para proteger el capital. Si SOL-USD o ETH-USD no muestran un repunte dinámico y continúan laterales, se procederá a rotar el capital hacia una oportunidad con mayor tracción en el próximo ciclo.",
-    "updated_at": "2026-10-13T18:10:39.277082-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD durante este ciclo ya que el holding time aún es razonable y no se han activado los stop-loss (-2.0%). Continuar monitoreando el RSI de 1 hora para buscar salidas hacia la zona de take-profit entre +2.0% y +3.5% (o RSI > 70). Si persisten laterales en el próximo ciclo, evaluaremos rotar hacia BTC-USD.",
+    "updated_at": "2026-10-13T18:20:44.713604-03:00"
   }
 }
