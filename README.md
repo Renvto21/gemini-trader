@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 14:01:32`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 14:10:54`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.64 USD** | **$39.64 USD** | 🔴 **-0.90%** ($-0.36) |
+| **$40.00 USD** | **$0.00 USD** | **$39.61 USD** | **$39.61 USD** | 🔴 **-0.98%** ($-0.39) |
 
 ---
 
@@ -16,17 +16,16 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.369466 | $107.20 | $107.29 | $39.64 | 📈 +0.09% |
+| `SOL-USD` | 0.369466 | $107.20 | $107.20 | $39.61 | 📈 +0.00% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto muestra condiciones claras de sobreventa tras caídas semanales, destacando ETH-USD con un RSI de 35.8 y SOL-USD con un RSI de 27.9, lo cual activa nuestra estrategia de Mean Reversion para cazar rebotes técnicos agresivos. Dado que nuestras posiciones actuales se encuentran estancadas cerca del 0% de PnL y requerimos liquidez para optimizar la rotación de capital, ejecutaremos una venta parcial para aprovechar la oportunidad en activos de alta beta."*
+> *"El mercado muestra una dinámica mixta con oportunidades claras de sobreventa en criptomonedas clave. SOL-USD mantiene una fuerte condición de sobreventa con un RSI de 27.6 tras una caída semanal del 7.76%, lo que activa nuestra estrategia de rebote por reversión a la media. ETH-USD también presenta un RSI atractivo de 35.4 con un incremento diario del 2.45%. Mantenemos nuestra posición actual en SOL-USD ya que se encuentra en zona crítica de rebote y no ha roto los niveles de stop-loss, prefiriendo conservar la exposición para capturar el movimiento alcista esperado sin realizar ventas innecesarias en este momento."*
 
 **Operaciones del ciclo:**
-- **[SELL] ETH-USD** (Confianza: 85%): Liberamos la totalidad de la posición en ETH-USD para consolidar efectivo y rotar hacia una oportunidad de mayor impulso y convicción en el corto plazo.
-- **[BUY] SOL-USD** (Confianza: 90%): SOL-USD presenta una condición de sobreventa extrema con un RSI de 27.9 y un desplome semanal del -7.69%. Aplicamos la regla de alta convicción para cazar un rebote técnico rápido buscando un objetivo de ganancia del +3% al +5%.
+- **[HOLD] SOL-USD** (Confianza: 85%): La posición en SOL-USD se mantiene intacta con un RSI de 27.6 que indica extrema sobreventa. Estamos listos para cazar el rebote técnico de +2% a +6% previsto por nuestra estrategia de alta volatilidad, por lo que no es momento de vender con una PnL neutral sino de esperar la recuperación.
 
 ---
 
