@@ -1129,7 +1129,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición actual en ETH-USD vigilando que no rompa el soporte crítico. El stop-loss se mantiene estricto en -2.0% y buscaremos la toma de beneficios si alcanza el rango de +2.0% a +3.5% o si el RSI de 1H supera los 70 puntos. Si la posición continúa estancada sin volumen o rebote en las próximas horas, rotaremos el capital hacia liquidez o hacia otra oportunidad en cripto.",
-    "updated_at": "2026-10-13T20:30:51.854519-03:00"
+    "notes": "Mantendremos la posición en ETH-USD mientras respete el soporte actual y no alcance el stop-loss del -2.0%. Buscaremos la toma de beneficios si el precio rebota hacia el rango de +2.0% a +3.5% o si el RSI de 1H supera los 70 puntos. Si la posición permanece estancada sin volumen de compra en las próximas horas, rotaremos el capital hacia liquidez o hacia otra oportunidad en activos abiertos.",
+    "updated_at": "2026-10-13T20:40:41.612901-03:00"
   }
 }
