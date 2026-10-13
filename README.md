@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 10:01:01`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 10:11:06`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.39 USD** | **$39.39 USD** | 🔴 **-1.51%** ($-0.61) |
+| **$40.00 USD** | **$0.00 USD** | **$39.33 USD** | **$39.33 USD** | 🔴 **-1.67%** ($-0.67) |
 
 ---
 
@@ -16,18 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.295191 | $107.17 | $106.53 | $31.45 | 📉 -0.60% |
-| `ETH-USD` | 0.003177 | $2505.44 | $2501.37 | $7.95 | 📉 -0.16% |
+| `SOL-USD` | 0.295191 | $107.17 | $106.34 | $31.39 | 📉 -0.78% |
+| `ETH-USD` | 0.003177 | $2505.44 | $2499.68 | $7.94 | 📉 -0.23% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto muestra condiciones claras de sobreventa extrema, especialmente en Solana (SOL-USD) con un RSI de 25.7, ofreciendo una oportunidad clásica de rebote por reversión a la media. Ethereum también muestra un RSI bajo de 35.1 pero con un intento de recuperación en las últimas 24 horas (+2.33%). Dado nuestro enfoque de crecimiento acelerado y la regla de cazar rebotes en cripto, mantenemos nuestras posiciones actuales para permitirles capitalizar el rebote técnico y no realizamos ventas ya que las pérdidas están controladas y lejos de los límites estrictos de stop-loss."*
+> *"Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 85%): SOL-USD se encuentra en un estado de sobreventa extrema con un RSI de 25.7 y una caída semanal del -8.34%. Cumple perfectamente con la estrategia de cazar rebotes por mean reversion. Mantenemos la posición para capturar el movimiento alcista inminente hacia la media.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD muestra un RSI de 35.1 y un impulso positivo de 2.33% en las últimas 24 horas, lo que sugiere que el rebote técnico ya ha comenzado a gestarse. La mantenemos para acompañar el momentum.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
