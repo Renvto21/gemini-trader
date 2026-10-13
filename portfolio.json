@@ -1129,7 +1129,7 @@
     }
   ],
   "memory": {
-    "notes": "Se ha ejecutado la rotación de SOL-USD tras persistir en rango sin momentum de rebote. La liquidez obtenida se mantiene junto con el efectivo disponible para cazar rupturas con mayor fuerza en BTC-USD o ETH-USD en los siguientes ciclos, operando con stop-loss estrictos del -2.0% y buscando tomas de ganancias entre +2.0% y +3.5%.",
-    "updated_at": "2026-10-13T19:40:37.671026-03:00"
+    "notes": "Mantener la posición de ETH-USD buscando la toma de beneficios en el rango de +2.0% a +3.5% o ante un RSI de 1H superior a 70. Mantener el stop-loss estricto en -2.0%. Vigilar de cerca a BTC-USD y SOL-USD por si surge una oportunidad de ruptura con alto volumen en los próximos ciclos.",
+    "updated_at": "2026-10-13T19:50:43.054138-03:00"
   }
 }
