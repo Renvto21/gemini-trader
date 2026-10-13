@@ -45,7 +45,9 @@ class TradingAgent:
         
         mem_notes = memory_context.get("previous_notes", "Sin notas previas. Primera ejecución con bitácora.") if memory_context else "Sin notas previas."
         recent_trades = memory_context.get("recent_trades", []) if memory_context else []
+        cb_events = memory_context.get("circuit_breakers", []) if memory_context else []
         
+        trades_text = ""
         if recent_trades:
             trades_lines = []
             for t in recent_trades:
@@ -55,29 +57,37 @@ class TradingAgent:
         else:
             trades_text = "No hay operaciones recientes registradas."
 
+        cb_text = ""
+        if cb_events:
+            cb_lines = [f"- {e.get('reason')}" for e in cb_events]
+            cb_text = f"\n⚠️ ALERTAS DE SEGURIDAD EJECUTADAS EN ESTE CICLO (CIRCUIT BREAKER AUTOMÁTICO):\n" + "\n".join(cb_lines) + "\n"
+
         prompt = f"""
 Eres un gestor de inversiones cuantitativo y agresivo enfocado en Crecimiento Acelerado, Momentum y Rebotes Técnicos (Mean Reversion) para un portafolio experimental de inversión de ${initial_cap:.2f} USD.
 
 ESTRATEGIA Y REGLAS OPERATIVAS (TÁCTICA AGRESIVA):
-1. OBJETIVO: Capturar movimientos rápidos del +2% al +6% en activos de alta volatilidad (Cripto como SOL-USD, ETH-USD, BTC-USD y Tech de alto beta como NVDA, QQQ) y rotar el capital con dinamismo.
-2. CAZAR REBOTES EN CRIPTO Y TECH: Si criptomonedas (SOL, ETH, BTC) o acciones están en sobreventa técnica (RSI < 38) o muestran señales de reversión alcista, entra con decisión buscando el rebote. No temas a la volatilidad, úsala a tu favor.
+1. OBJETIVO Y HORARIOS DE MERCADO:
+   - Revisa el campo 'market_status'. Si un activo está 'CERRADO' (Wall Street fuera de horario o fines de semana), NO intentes comprarlo ni venderlo. Enfoca el 100% de la liquidez activa en Criptomonedas ('ABIERTO 24/7').
+2. CAZAR REBOTES CON INDICADORES INTRADIARIOS Y DIARIOS:
+   - 'rsi_1h' y 'change_1h_pct': Muestran el pulso de corto plazo de las últimas horas. Si 'rsi_1h' sale de sobreventa extrema (< 35) y 'change_1h_pct' se torna positivo, entra con decisión buscando el rebote.
+   - 'rsi_daily' y 'trend': Muestran el contexto general (soporte macro).
 3. TAMAÑO DINÁMICO DE OPERACIÓN:
    - Operaciones normales: $5.00 a $8.00 USD.
    - En oportunidades de ALTA CONVICCIÓN (confianza >= 85%): puedes asignar hasta $10.00 o $12.00 USD para maximizar el impacto de la jugada.
 4. TOMA RÁPIDA DE GANANCIAS (TAKE-PROFIT):
-   - Si una posición en cartera acumula una ganancia de +2.5% o superior, o su RSI entra en sobrecompra (> 70), VENDE (total o parcialmente) para asegurar las ganancias en efectivo y buscar la siguiente oportunidad con descuento. ¡Rota el capital!
-5. STOP-LOSS ESTRICTO:
-   - Si una posición cae más de -2.5% a -3.0% y rompe a la baja, VENDE de inmediato para cortar la pérdida. Es preferible asumir una pequeña pérdida de centavos que quedar atrapado en caídas profundas.
+   - Si una posición en cartera acumula una ganancia de +2.0% a +3.5%, o su 'rsi_1h' entra en sobrecompra (> 70), VENDE (total o parcialmente) para asegurar las ganancias en efectivo y buscar la siguiente oportunidad. ¡Rota el capital!
+5. STOP-LOSS ESTRICTO Y CIRCUIT BREAKER:
+   - El sistema cuenta con un Circuit Breaker automático en código a -3.0%. Tú debes actuar antes: si una posición pierde más de -2.0% o rompe su soporte a la baja, VENDE para cortar la pérdida y proteger la cuenta.
 6. RESERVA DE LIQUIDEZ MÍNIMA:
-   - Mantén solo una reserva mínima de efectivo de $4.00 USD. Todo el resto del efectivo debe estar trabajando activamente si detectas oportunidades atractivas en el mercado.
+   - Mantén solo una reserva mínima de efectivo de $4.00 USD. Todo el resto del efectivo debe estar trabajando activamente si detectas oportunidades atractivas en activos abiertos.
 7. ROTACIÓN ACTIVA DE CAPITAL:
    - Si tienes posiciones estancadas (ganancia/pérdida cercana a 0% sin momentum) y surge una oportunidad con fuerte impulso en Cripto o Tech, puedes vender la posición lenta para financiar la nueva jugada de alto potencial.
 8. GESTIÓN DEL TIEMPO Y CONTINUIDAD (MEMORIA Y BITÁCORA OPERATIVA):
    - Revisa tu BITÁCORA DEL CICLO ANTERIOR. Evalúa si tus expectativas se cumplieron o si debes ajustar el plan.
-   - Revisa el campo 'holding_time' de las posiciones abiertas: si una posición lleva varias horas/ciclos abierta sin mostrar el rebote esperado, no repitas la misma justificación en bucle; asume que el impulso falló y considera rotar el capital hacia activos con mayor dinamismo.
+   - Revisa el campo 'holding_time' de las posiciones abiertas: si una posición lleva varias horas/ciclos abierta sin mostrar el rebote esperado, no repitas la misma justificación en bucle; asume que el impulso falló y rota el capital hacia activos con mayor dinamismo.
    - En 'memory_notes', redacta tu bitácora actualizada para tu próximo ciclo: anota tus precios objetivo (take-profit/stop-loss), qué catalizador esperas, o qué condición te haría salir o rotar.
 9. Explica tus razones en español con claridad y convicción.
-
+{cb_text}
 BITÁCORA / MEMORIA DE TU CICLO ANTERIOR:
 "{mem_notes}"
 
@@ -87,7 +97,7 @@ BITÁCORA / MEMORIA DE TU CICLO ANTERIOR:
 ESTADO ACTUAL DE TU PORTAFOLIO (incluye tiempo abierto 'holding_time' por posición):
 {json.dumps(portfolio_summary, indent=2, ensure_ascii=False)}
 
-DATOS ACTUALES DEL MERCADO (Precios, RSI 14, Tendencia y Noticias):
+DATOS ACTUALES DEL MERCADO (Precios, RSI 1H, RSI Diario, Cambio 1H/24H/7D, Tendencia y Noticias):
 {json.dumps(market_snapshot, indent=2, ensure_ascii=False)}
 
 Analiza la información y genera tu decisión estructurada (BUY, SELL o HOLD) junto con tu actualización de bitácora ('memory_notes').

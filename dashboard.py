@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
 
 def get_chile_now():
     try:
@@ -10,7 +10,14 @@ def get_chile_now():
         from datetime import timezone, timedelta
         return datetime.now(timezone(timedelta(hours=-3)))
 
-def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, actions: List[Any], history: List[Dict[str, Any]], memory_notes: str = ""):
+def update_readme_dashboard(
+    summary: Dict[str, Any],
+    decision_summary: str,
+    actions: List[Any],
+    history: List[Dict[str, Any]],
+    memory_notes: str = "",
+    stats: Optional[Dict[str, Any]] = None
+):
     pnl = summary.get('total_pnl_usd', 0.0)
     pnl_pct = summary.get('total_pnl_pct', 0.0)
     pnl_icon = "🟢" if pnl >= 0 else "🔴"
@@ -41,6 +48,34 @@ def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, acti
         action_texts.append(f"- **[{act}] {ticker}** (Confianza: {conf*100:.0f}%): {reason}")
     actions_formatted = "\n".join(action_texts) if action_texts else "- *Sin cambios en este ciclo (HOLD)*"
 
+    # Sección de bitácora / memoria para próximos ciclos
+    memory_section = ""
+    if memory_notes:
+        memory_section = f"""---
+
+### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
+
+> \"{memory_notes}\"
+"""
+
+    # Sección de estadísticas quant
+    stats_section = ""
+    if stats:
+        best = stats.get("best_trade")
+        worst = stats.get("worst_trade")
+        best_str = f"+${best['pnl_usd']:.2f} ({best['pnl_pct']:+.1f}%) en {best['ticker']}" if best else "-"
+        worst_str = f"${worst['pnl_usd']:.2f} ({worst['pnl_pct']:+.1f}%) en {worst['ticker']}" if worst else "-"
+        realized_icon = "🟢" if stats['realized_pnl_usd'] >= 0 else "🔴"
+        
+        stats_section = f"""---
+
+### 📈 Rendimiento Histórico & Estadísticas Quant
+
+| Operaciones Cerradas | Tasa de Acierto (Win Rate) | Beneficio Realizado | Mejor Trade | Peor Trade |
+| :---: | :---: | :---: | :---: | :---: |
+| **{stats['total_closed_trades']}** | 🎯 **{stats['win_rate_pct']:.1f}%** ({stats['wins']}W / {stats['losses']}L / {stats['breakevens']}BE) | {realized_icon} **${stats['realized_pnl_usd']:+.2f} USD** | 🏆 `{best_str}` | 🛡️ `{worst_str}` |
+"""
+
     # Historial de últimos 5 movimientos
     recent_history = list(reversed(history))[:5]
     if recent_history:
@@ -51,7 +86,8 @@ def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, acti
             if act == "BUY":
                 badge = "🟢 BUY"
             elif act == "SELL":
-                badge = "🔴 SELL"
+                pnl_u = h.get("pnl_usd")
+                badge = f"🔴 SELL ({pnl_u:+.2f}$)" if pnl_u is not None else "🔴 SELL"
             elif act == "DEPOSIT":
                 badge = "💵 DEPOSIT"
             else:
@@ -62,15 +98,6 @@ def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, acti
         hist_table = "\n".join(hist_rows)
     else:
         hist_table = "| *(Sin movimientos aún)* | - | - | - | - | - |"
-
-    memory_section = ""
-    if memory_notes:
-        memory_section = f"""---
-
-### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
-
-> \"{memory_notes}\"
-"""
 
     readme_content = f"""# 🤖 Gemini Autonomous Trader
 
@@ -101,7 +128,7 @@ def update_readme_dashboard(summary: Dict[str, Any], decision_summary: str, acti
 **Operaciones del ciclo:**
 {actions_formatted}
 
-{memory_section}---
+{memory_section}{stats_section}---
 
 ### 📜 Últimos Movimientos
 

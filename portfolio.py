@@ -1,7 +1,7 @@
 import json
 import os
 from datetime import datetime
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
 
 def get_chile_now():
     try:
@@ -43,7 +43,7 @@ def format_duration(opened_at_str: Optional[str]) -> str:
 PORTFOLIO_FILE = "portfolio.json"
 
 class PortfolioManager:
-    def __init__(self, file_path: str = PORTFOLIO_FILE, initial_cash: float = 20.0):
+    def __init__(self, file_path: str = PORTFOLIO_FILE, initial_cash: float = 40.0):
         self.file_path = file_path
         self.initial_cash = initial_cash
         self.data = self._load()
@@ -60,7 +60,11 @@ class PortfolioManager:
             "initial_capital": self.initial_cash,
             "cash": self.initial_cash,
             "positions": {}, # ticker -> {"shares": float, "avg_price": float}
-            "history": []
+            "history": [],
+            "memory": {
+                "notes": "Sin notas previas. Inicio de bitácora.",
+                "updated_at": get_chile_now().isoformat()
+            }
         }
         self._save_data(default_data)
         return default_data
@@ -200,12 +204,17 @@ class PortfolioManager:
             print(f"[Error] No posees acciones de {ticker}.")
             return False
 
-        current_shares = self.data["positions"][ticker]["shares"]
+        pos = self.data["positions"][ticker]
+        current_shares = pos["shares"]
+        avg_price = pos.get("avg_price", current_price)
         if shares_to_sell <= 0 or shares_to_sell > current_shares:
-            # Vender todo si excede levemente por redondeo
             shares_to_sell = current_shares
 
         proceeds = shares_to_sell * current_price
+        cost_basis = shares_to_sell * avg_price
+        pnl_trade = proceeds - cost_basis
+        pnl_trade_pct = (pnl_trade / cost_basis * 100) if cost_basis > 0 else 0.0
+
         self.data["cash"] += proceeds
         remaining_shares = current_shares - shares_to_sell
 
@@ -221,8 +230,118 @@ class PortfolioManager:
             "amount_usd": round(proceeds, 2),
             "shares": round(shares_to_sell, 6),
             "price": round(current_price, 2),
+            "pnl_usd": round(pnl_trade, 2),
+            "pnl_pct": round(pnl_trade_pct, 2),
             "reason": reason
         })
 
         self.save()
         return True
+
+    def check_and_execute_circuit_breakers(
+        self,
+        current_prices: Dict[str, float],
+        stop_loss_pct: float = -3.0,
+        take_profit_pct: float = 4.0
+    ) -> List[Dict[str, Any]]:
+        """Verifica automáticamente si alguna posición superó los límites estrictos de Stop-Loss o Take-Profit y la liquida."""
+        triggered = []
+        for ticker in list(self.positions.keys()):
+            pos = self.positions.get(ticker)
+            if not pos:
+                continue
+            shares = pos.get("shares", 0.0)
+            avg_price = pos.get("avg_price", 0.0)
+            current_price = current_prices.get(ticker)
+            if not current_price or avg_price <= 0 or shares <= 0:
+                continue
+
+            pnl_pct = ((current_price - avg_price) / avg_price) * 100
+
+            if pnl_pct <= stop_loss_pct:
+                reason = f"🚨 STOP-LOSS AUTOMÁTICO (CIRCUIT BREAKER): Pérdida de {pnl_pct:+.2f}% superó el límite de seguridad de {stop_loss_pct:.1f}%. Venta ejecutada por código para proteger capital."
+                self.execute_sell(ticker, shares, current_price, reason)
+                triggered.append({
+                    "ticker": ticker,
+                    "action": "SELL",
+                    "type": "STOP_LOSS",
+                    "pnl_pct": pnl_pct,
+                    "reason": reason
+                })
+            elif pnl_pct >= take_profit_pct:
+                reason = f"🎯 TAKE-PROFIT AUTOMÁTICO (CIRCUIT BREAKER): Ganancia de {pnl_pct:+.2f}% superó el objetivo de +{take_profit_pct:.1f}%. Venta ejecutada por código para asegurar ganancias en efectivo."
+                self.execute_sell(ticker, shares, current_price, reason)
+                triggered.append({
+                    "ticker": ticker,
+                    "action": "SELL",
+                    "type": "TAKE_PROFIT",
+                    "pnl_pct": pnl_pct,
+                    "reason": reason
+                })
+
+        return triggered
+
+    def get_performance_stats(self) -> Dict[str, Any]:
+        """Calcula estadísticas cuantitativas de todas las operaciones cerradas en el historial."""
+        history = self.data.get("history", [])
+        trades = []
+        buys = {}
+        for h in history:
+            act = h.get("action")
+            ticker = h.get("ticker")
+            if act == "BUY":
+                if ticker not in buys:
+                    buys[ticker] = []
+                buys[ticker].append({
+                    "shares": float(h.get("shares", 0.0)),
+                    "price": float(h.get("price", 0.0))
+                })
+            elif act == "SELL":
+                shares_to_sell = float(h.get("shares", 0.0))
+                sell_price = float(h.get("price", 0.0))
+                cost = 0.0
+                rem = shares_to_sell
+                while rem > 0 and ticker in buys and buys[ticker]:
+                    b = buys[ticker][0]
+                    take = min(rem, b["shares"])
+                    cost += take * b["price"]
+                    b["shares"] -= take
+                    rem -= take
+                    if b["shares"] <= 1e-6:
+                        buys[ticker].pop(0)
+
+                if "pnl_usd" in h and h["pnl_usd"] is not None:
+                    pnl_usd = float(h["pnl_usd"])
+                    pnl_pct = float(h.get("pnl_pct", 0.0))
+                else:
+                    pnl_usd = (shares_to_sell * sell_price) - cost if cost > 0 else 0.0
+                    pnl_pct = (pnl_usd / cost * 100) if cost > 0 else 0.0
+
+                trades.append({
+                    "ticker": ticker,
+                    "amount_usd": round(shares_to_sell * sell_price, 2),
+                    "pnl_usd": round(pnl_usd, 2),
+                    "pnl_pct": round(pnl_pct, 2),
+                    "timestamp": h.get("timestamp", "")
+                })
+
+        total_closed = len(trades)
+        wins = [t for t in trades if t["pnl_usd"] > 0]
+        losses = [t for t in trades if t["pnl_usd"] < 0]
+        breakevens = [t for t in trades if t["pnl_usd"] == 0]
+        total_pnl = sum(t["pnl_usd"] for t in trades)
+        win_rate = (len(wins) / total_closed * 100) if total_closed > 0 else 0.0
+
+        best_trade = max(trades, key=lambda x: x["pnl_usd"]) if trades else None
+        worst_trade = min(trades, key=lambda x: x["pnl_usd"]) if trades else None
+
+        return {
+            "total_closed_trades": total_closed,
+            "wins": len(wins),
+            "losses": len(losses),
+            "breakevens": len(breakevens),
+            "win_rate_pct": round(win_rate, 1),
+            "realized_pnl_usd": round(total_pnl, 2),
+            "best_trade": best_trade,
+            "worst_trade": worst_trade
+        }

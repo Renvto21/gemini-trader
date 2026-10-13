@@ -1123,7 +1123,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales en SOL-USD y ETH-USD supervisando de cerca el take-profit en caso de alcanzar un +2.5% o cruzar RSI de sobrecompra. Stop-loss estricto en -2.5%. Si SOL-USD no muestra aceleración en las próximas horas, rotar el capital hacia activos con mayor momentum.",
-    "updated_at": "2026-10-13T17:40:24.053435-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD durante este ciclo ya que se encuentran con pérdidas mínimas y operando de manera estable. Monitorear de cerca los objetivos de take-profit entre +2.0% y +3.5% o cruce de RSI de 1 hora por encima de 70. Activar stop-loss estricto si alguna posición cae más de -2.0%. Si el momentum continúa lateral, rotar capital en el siguiente ciclo.",
+    "updated_at": "2026-10-13T18:04:37.142194-03:00"
   }
 }
