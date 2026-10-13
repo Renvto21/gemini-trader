@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 10:33:23`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 10:41:58`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.49 USD** | **$39.49 USD** | 🔴 **-1.27%** ($-0.51) |
+| **$40.00 USD** | **$0.00 USD** | **$39.60 USD** | **$39.60 USD** | 🔴 **-0.99%** ($-0.40) |
 
 ---
 
@@ -16,18 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.295191 | $107.17 | $106.79 | $31.52 | 📉 -0.36% |
-| `ETH-USD` | 0.003177 | $2505.44 | $2507.37 | $7.97 | 📈 +0.08% |
+| `SOL-USD` | 0.295191 | $107.17 | $107.11 | $31.62 | 📉 -0.06% |
+| `ETH-USD` | 0.003177 | $2505.44 | $2512.83 | $7.98 | 📈 +0.29% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado muestra divergencia con consolidación en índices tradicionales y tech (NVDA -0.80%, QQQ -0.83%), mientras que el sector cripto exhibe señales incipientes de rebote técnico desde niveles de sobreventa severa. SOL-USD presenta un RSI 14 extremo de 26.5 con un giro positivo en 24h (+1.17%), y ETH-USD consolida en RSI 35.8 con avance de +2.58%. Ambos activos ofrecen una configuración clásica de reversión a la media con alto potencial de alcanzar el objetivo del +2% al +6%."*
+> *"Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 88%): SOL-USD se encuentra en sobreventa extrema (RSI 26.5) y muestra inicio de rebote (+1.17% en 24h). Con un PnL controlado de -0.36%, no activa stop-loss (-2.5%). Mantener es óptimo para capturar la expansión alcista hacia el target de toma de beneficios del +2.5% a +6%.
-- **[HOLD] ETH-USD** (Confianza: 82%): ETH-USD se sitúa en zona de reversión alcista (RSI 35.8) con fuerte impulso de +2.58% en las últimas 24h. La posición está en terreno positivo (+0.08%) y con momentum favorable hacia el umbral de take-profit.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
