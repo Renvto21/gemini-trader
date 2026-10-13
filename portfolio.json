@@ -1129,7 +1129,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición en ETH-USD mientras respete el soporte actual y no alcance el stop-loss del -2.0%. Buscaremos la toma de beneficios si el precio rebota hacia el rango de +2.0% a +3.5% o si el RSI de 1H supera los 70 puntos. Si la posición permanece estancada sin volumen de compra en las próximas horas, rotaremos el capital hacia liquidez o hacia otra oportunidad en activos abiertos.",
-    "updated_at": "2026-10-13T20:40:41.612901-03:00"
+    "notes": "Mantendré la posición abierta en ETH-USD evaluando su desempeño en las próximas horas. Si el RSI de 1H cae por debajo de 35 o el precio rompe el soporte con una pérdida cercana al -2.0%, procederé a vender para cortar pérdidas. Si se presenta un impulso alcista hacia el rango de +2.0% a +3.5% o el RSI supera los 70 puntos, tomaré beneficios inmediatamente.",
+    "updated_at": "2026-10-13T20:50:39.225079-03:00"
   }
 }
