@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 09:01:01`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 09:13:55`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$39.24 USD** | **$39.24 USD** | 🔴 **-1.89%** ($-0.76) |
+| **$40.00 USD** | **$0.00 USD** | **$39.28 USD** | **$39.28 USD** | 🔴 **-1.81%** ($-0.72) |
 
 ---
 
@@ -16,17 +16,17 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.295191 | $107.17 | $106.07 | $31.31 | 📉 -1.03% |
-| `ETH-USD` | 0.003177 | $2505.44 | $2496.33 | $7.93 | 📉 -0.36% |
+| `SOL-USD` | 0.295191 | $107.17 | $106.17 | $31.34 | 📉 -0.94% |
+| `ETH-USD` | 0.003177 | $2505.44 | $2497.50 | $7.93 | 📉 -0.32% |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> *"El mercado cripto muestra condiciones extremas de sobreventa técnica con SOL-USD (RSI en 24.4) y ETH-USD (RSI en 34.6), lo cual representa una oportunidad clara de rebote por reversión a la media según nuestra estrategia táctica agresiva. Dado que mantenemos el 100% del capital invertido y cero efectivo actual, mantendremos las posiciones actuales para permitirles completar el rebote técnico hacia la zona objetivo del +2% al +6%, aprovechando la recuperación reciente de 24 horas en ambos activos."*
+> *"Aviso temporal de Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Se aplica regla de seguridad HOLD para proteger posiciones."*
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 88%): SOL-USD se encuentra en un estado de sobreventa extrema con un RSI de 24.4, lo que aumenta drásticamente la probabilidad de un rebote técnico alcista a corto plazo. A pesar de una pequeña pérdida flotante de -1.03%, la estrategia exige mantener o cazar este tipo de oportunidades con alto potencial de recuperación rápida.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
