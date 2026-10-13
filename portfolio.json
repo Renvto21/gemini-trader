@@ -1,14 +1,14 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.0,
+  "cash": 0.0010714400000004787,
   "positions": {
     "SOL-USD": {
       "shares": 0.29519126806907264,
       "avg_price": 107.17281354650123
     },
-    "ETH-USD": {
-      "shares": 0.0031923001719851717,
-      "avg_price": 2506.03
+    "NVDA": {
+      "shares": 0.035171438670908446,
+      "avg_price": 226.32000000000002
     }
   },
   "history": [
@@ -1028,6 +1028,24 @@
       "shares": 0.036965,
       "price": 108.19,
       "reason": "SOL-USD presenta un RSI extremadamente bajo de 26.3, lo que indica sobreventa técnica severa bajo la estrategia de Mean Reversion. Al estar el efectivo al límite mínimo requerido, desplegamos los últimos $4.00 USD para incrementar exposición y capitalizar el rebote esperado hacia la media."
+    },
+    {
+      "timestamp": "2026-10-13T08:10:48.215649-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 7.96,
+      "shares": 0.003192,
+      "price": 2494.07,
+      "reason": "Ejecutamos rotación activa de capital vendiendo la posición completa de ETH-USD para liberar los 7.96 USD en efectivo y financiar una nueva entrada con mayor potencial de rebote técnico en el sector tecnológico de alto beta."
+    },
+    {
+      "timestamp": "2026-10-13T08:10:48.217672-03:00",
+      "action": "BUY",
+      "ticker": "NVDA",
+      "amount_usd": 7.96,
+      "shares": 0.035171,
+      "price": 226.32,
+      "reason": "Aprovechamos la corrección reciente de NVDA (caída de 7 días del -3.26% con un RSI de 46.4) para cazar un rebote táctico de corto plazo dentro del sector tech, utilizando el capital rotado desde ETH-USD."
     }
   ]
 }
