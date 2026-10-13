@@ -1,14 +1,10 @@
 {
   "initial_capital": 40.0,
-  "cash": 8.612225549389898,
+  "cash": 27.425541350790837,
   "positions": {
-    "SOL-USD": {
-      "shares": 0.19332418540218244,
-      "avg_price": 103.45317094388864
-    },
-    "ETH-USD": {
-      "shares": 0.004135974290783808,
-      "avg_price": 2417.81
+    "GLD": {
+      "shares": 0.03140128221902395,
+      "avg_price": 382.15
     }
   },
   "history": [
@@ -902,6 +898,33 @@
       "shares": 0.097069,
       "price": 103.02,
       "reason": "SOL-USD presenta un RSI extremadamente bajo de 21.3 tras una caída del -7.39% en 24 horas. Esta es una oportunidad clásica de sobreventa para capturar un rebote técnico rápido del 3% al 5% aprovechando la alta volatilidad, cumpliendo con la regla de alta convicción."
+    },
+    {
+      "timestamp": "2026-10-12T23:30:47.126163-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 20.56,
+      "shares": 0.193324,
+      "price": 106.33,
+      "reason": "La posición ha alcanzado una ganancia del +2.78%, cumpliendo con la regla de Take-Profit (+2.5%). Vendemos el total para asegurar ganancias en efectivo y rotar el capital hacia nuevas oportunidades."
+    },
+    {
+      "timestamp": "2026-10-12T23:30:47.127704-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 10.26,
+      "shares": 0.004136,
+      "price": 2479.99,
+      "reason": "La posición registra un beneficio del +2.57%, alcanzando el objetivo de toma rápida de ganancias. Ejecutamos la venta total para liberar liquidez y maximizar la rotación del portafolio."
+    },
+    {
+      "timestamp": "2026-10-12T23:30:47.129216-03:00",
+      "action": "BUY",
+      "ticker": "GLD",
+      "amount_usd": 12.0,
+      "shares": 0.031401,
+      "price": 382.15,
+      "reason": "Aprovechamos la liquidez liberada y el efectivo disponible para cazar un rebote técnico en GLD, el cual se encuentra en clara sobreventa con un RSI de 34.6. Asignamos una entrada de alta convicción para capturar el movimiento de reversión alcista."
     }
   ]
 }
