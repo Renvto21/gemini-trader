@@ -1,39 +1,3 @@
-"Mantener BTC-USD y SOL-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5%. Si BTC-USD se acerca al objetivo o su RSI de 1H cruza por encima de 70, realizaremos toma de ganancias parcial o total. Para SOL-USD, evaluaremos su comportamiento en los próximos ciclos; si no muestra un repunte claro hacia terreno positivo y rompe soporte, rotaremos el capital hacia oportunidades con mayor inercia alcista. Mantener la reserva mínima de efectivo."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] BTC-USD (Confianza: 75%)
-    Razón: La posición en BTC-USD se encuentra con un rendimiento ligeramente positivo (+0.27%) y un RSI de 1H en 57.1, lo que indica un comportamiento estable tras el rebote. Mantenemos la posición esperando alcanzar la zona de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 65%)
-    Razón: SOL-USD muestra un PnL ligeramente negativo (-0.48%) con un RSI diario extremo en 28.0. Daremos un ciclo adicional para que desarrolle el rebote técnico esperado desde la zona de sobreventa antes de considerar una rotación de capital.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.51 USD (Cash: $27.53 USD)
-
-[2026-10-14 06:10:35] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $27.53 USD
- Valor en Activos:     $12.00 USD
- Balance Total:        $39.53 USD
- Ganancia/Pérdida:     🔴 $-0.47 USD (-1.18%)
-
- 💼 Posiciones Abiertas:
-   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $83424.2 | Total: $6.02 📈 (+0.36%) [Tiempo: 9h 9m]
-   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $107.13 | Total: $5.98 📉 (-0.30%) [Tiempo: 6h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado de criptomonedas se mantiene abierto y operando en un rango lateral estrecho con ligeros sesgos positivos. BTC-USD muestra estabilidad con un RSI de 1H en 55.3 y una ligera ganancia del 0.36% en cartera, mientras que SOL-USD se mantiene cerca de su precio de entrada con un PnL de -0.30% y un RSI diario profundamente deprimido en 28.6. Los activos tradicionales se encuentran cerrados, por lo que toda la atención táctica se centra en gestionar y rotar el capital dentro de los criptoactivos disponibles."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
 "Mantener las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5%. Si BTC-USD se acerca al objetivo o su RSI de 1H cruza por encima de 70, realizaremos toma de ganancias. Para SOL-USD, evaluaremos su comportamiento en los próximos ciclos; si no muestra un repunte claro hacia terreno positivo y rompe soporte, rotaremos el capital hacia oportunidades con mayor inercia alcista. Mantener la reserva mínima de efectivo."
 
 ⚡ ACCIONES DECIDIDAS:
@@ -151,3 +115,39 @@ Balance final del ciclo: $39.48 USD (Cash: $27.53 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.49 USD (Cash: $27.53 USD)
+
+[2026-10-14 06:50:37] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $27.53 USD
+ Valor en Activos:     $11.95 USD
+ Balance Total:        $39.48 USD
+ Ganancia/Pérdida:     🔴 $-0.52 USD (-1.30%)
+
+ 💼 Posiciones Abiertas:
+   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $83192.55 | Total: $6.0 📈 (+0.08%) [Tiempo: 9h 49m]
+   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $106.55 | Total: $5.95 📉 (-0.84%) [Tiempo: 7h 39m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado de criptomonedas opera 24/7 pero se encuentra en una fase de consolidación lateral con sesgo ligeramente bajista en el corto plazo. Los activos tradicionales están cerrados. BTC-USD y SOL-USD se mantienen en rangos estrechos sin romper al alza ni activar stops agresivos, con un RSI de 1H neutralizado alrededor de 40-50."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener BTC-USD y SOL-USD por el momento mientras no rompan soportes críticos. Si BTC-USD se acerca al take-profit (+2.0%) o SOL-USD rebota hacia el rango objetivo, realizaremos ganancias. Vigilar de cerca el efectivo disponible y buscar oportunidades de entrada rápida si el RSI de 1H cae por debajo de 35 en cripto."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] BTC-USD (Confianza: 60%)
+    Razón: La posición se mantiene estable con un PnL cercano a cero tras casi 10 horas. El RSI de 1H está en 49.7 sin momentum direccional claro, por lo que prefiero mantener la exposición esperando una ruptura.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] SOL-USD (Confianza: 60%)
+    Razón: La posición registra una ligera pérdida de -0.84%, manteniéndose muy por encima del límite de stop-loss de -2.0%. El RSI diario en niveles de sobreventa extrema (27.2) respalda mantener la posición a la espera del rebote.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.48 USD (Cash: $27.53 USD)
