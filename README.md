@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 13:00:58`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 13:11:04`
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.92 | $9.96 | 📉 -0.36% | 2h 10m |
-| `SOL-USD` | 0.095511 | $104.70 | $103.86 | $9.92 | 📉 -0.80% | 30m |
+| `AAPL` | 0.028889 | $346.15 | $344.31 | $9.95 | 📉 -0.53% | 2h 20m |
+| `SOL-USD` | 0.095511 | $104.70 | $104.03 | $9.94 | 📉 -0.64% | 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sentimiento general bajista en gran parte de los activos tradicionales y criptomonedas, con múltiples índices y criptos cotizando por debajo de su SMA20 y presentando RSI de 1 hora extremadamente bajos en niveles de sobreventa profunda, lo que sugiere un posible escenario de rebote por reversión a la media pero con alta volatilidad."
+> "El mercado general muestra presión bajista con la mayoría de los activos cotizando por debajo de su SMA20 y RSI de 1 hora deprimidos en varios sectores. Sin embargo, las criptomonedas y algunos activos tecnológicos específicos siguen operando 24/7 con oportunidades tácticas de rebote. AAPL mantiene una tendencia alcista a nivel diario pero muestra un ligero retroceso en la última hora, mientras que SOL-USD se mantiene en vigilancia estrecha ante posibles oscilaciones de corto plazo."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 75%): AAPL se mantiene estable con un PnL de -0.36% y un RSI de 1h en 63.4, acercándose a la zona de sobrecompra para buscar el take-profit objetivo.
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD muestra un RSI de 1h muy bajo (19.7) pero un cambio de 1h positivo, mantendremos la posición vigilando estrictamente el stop-loss de -2.0%.
+- **[HOLD] AAPL** (Confianza: 70%): AAPL mantiene una estructura alcista diaria saludable (por encima de SMA20) a pesar del leve retroceso de 1h. El RSI diario está en 59.1 y no ha alcanzado el objetivo de take-profit, por lo que se mantiene la posición actual protegiendo el stop-loss.
+- **[HOLD] SOL-USD** (Confianza: 65%): SOL-USD muestra un cambio de 1h positivo ligero (+0.27%) aunque con un RSI de 1h bajo en 21.7. Dado que el tiempo abierto es corto (40m), se le dará margen para desarrollar el rebote técnico esperado sin incurrir en pérdidas prematuras.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos AAPL vigilando de cerca la zona de take-profit entre +2.0% y +3.5% ya que su RSI 1h se encuentra en 63.4. Mantendremos SOL-USD monitoreando su soporte a pesar de la debilidad macro, aplicando un stop-loss estricto a -2.0% si el impulso falla. Conservamos el efectivo disponible ($19.31) esperando una mayor confirmación de volumen antes de arriesgar capital adicional en nuevos activos."
+> "Mantendremos AAPL y SOL-USD bajo estrecha supervisión aplicando un stop-loss estricto a -2.0% si el impulso falla o los soportes ceden. Conservaremos el efectivo disponible ($19.31) para asegurar una liquidez prudente, esperando confirmaciones adicionales de volumen y RSI antes de incrementar la exposición o abrir nuevas posiciones."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

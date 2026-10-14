@@ -1203,7 +1203,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos AAPL vigilando de cerca la zona de take-profit entre +2.0% y +3.5% ya que su RSI 1h se encuentra en 63.4. Mantendremos SOL-USD monitoreando su soporte a pesar de la debilidad macro, aplicando un stop-loss estricto a -2.0% si el impulso falla. Conservamos el efectivo disponible ($19.31) esperando una mayor confirmación de volumen antes de arriesgar capital adicional en nuevos activos.",
-    "updated_at": "2026-10-14T13:00:58.250540-03:00"
+    "notes": "Mantendremos AAPL y SOL-USD bajo estrecha supervisión aplicando un stop-loss estricto a -2.0% si el impulso falla o los soportes ceden. Conservaremos el efectivo disponible ($19.31) para asegurar una liquidez prudente, esperando confirmaciones adicionales de volumen y RSI antes de incrementar la exposición o abrir nuevas posiciones.",
+    "updated_at": "2026-10-14T13:11:04.921844-03:00"
   }
 }
