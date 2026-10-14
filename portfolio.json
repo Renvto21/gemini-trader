@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de BTC-USD y SOL-USD por unas horas más para evaluar si logran consolidar un rebote técnico desde los niveles de soporte diario, ya que el RSI diario de SOL se mantiene en sobreventa extrema (26.7). Si el holding time supera las 20 horas sin momentum o si las pérdidas se acercan al límite del -2.0%, procederemos a cortar las posiciones para proteger capital. Monitorearemos la evolución del RSI de 1H en busca de señales de giro alcista superior a 50 para asegurar ganancias parciales.",
-    "updated_at": "2026-10-14T09:30:47.233694-03:00"
+    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD por unas horas adicionales, monitoreando de cerca el límite de pérdida del -2.0% y esperando señales claras de rebote con un RSI de 1H superando los 50 puntos. Si las pérdidas se aproximan al umbral crítico o si el holding time supera las 20 horas sin momentum positivo, procederemos a liquidar para proteger el efectivo y buscar nuevas oportunidades de rotación.",
+    "updated_at": "2026-10-14T09:40:47.271369-03:00"
   }
 }
