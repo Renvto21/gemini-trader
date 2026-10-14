@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 14:10:45`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 14:20:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.31 USD** | **$19.97 USD** | **$39.28 USD** | 🔴 **-1.81%** ($-0.72) |
+| **$40.00 USD** | **$19.31 USD** | **$19.95 USD** | **$39.25 USD** | 🔴 **-1.87%** ($-0.75) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.06 | $9.94 | 📉 -0.60% | 3h 20m |
-| `SOL-USD` | 0.095511 | $104.70 | $105.00 | $10.03 | 📈 +0.29% | 1h 39m |
+| `AAPL` | 0.028889 | $346.15 | $343.19 | $9.91 | 📉 -0.86% | 3h 30m |
+| `SOL-USD` | 0.095511 | $104.70 | $105.03 | $10.03 | 📈 +0.32% | 1h 50m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado se encuentra en un contexto mayormente bajista con la mayoría de los índices y activos cotizando por debajo de su SMA20 y presentando RSI diarios débiles o en zonas de sobreventa. Sin embargo, AAPL se mantiene fuerte con tendencia alcista y un RSI de 1h en 62.4, mientras que SOL-USD muestra indicios de consolidación y soporte tras haber salido de sobreventa extrema en ciclos anteriores. La liquidez disponible es reducida, por lo que la gestión actual se centra en proteger posiciones con momentum y mantener la disciplina táctica."
+> "El mercado muestra un sesgo general bajista por debajo de las medias móviles SMA20 en la mayoría de los activos, con condiciones de sobreventa profunda en varios índices y commodities (RSI de 1h muy bajos). Sin embargo, nuestros activos en cartera muestran resiliencia: SOL-USD se mantiene estable con un leve beneficio tras su rebote y AAPL opera de forma lateral con pérdidas menores al 1%. Mantenemos la disciplina táctica sin realizar cierres precipitados ni compras impulsivas, esperando mejores confirmaciones de momentum."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 80%): AAPL mantiene una tendencia alcista firme sobre la SMA20 y un RSI de 1h en 62.4, mostrando resiliencia frente al contexto bajista general. Se mantiene la posición para buscar acercarse a la zona de take-profit cerca de sobrecompra.
-- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD se mantiene estable con una pequeña ganancia tras el rebote inicial. Se conserva la posición vigilando de cerca el soporte y esperando un incremento adicional en el momentum intradiario.
+- **[HOLD] SOL-USD** (Confianza: 80%): La posición muestra un PnL positivo del 0.32% tras su reciente entrada. El RSI de 1h está en 31.5 saliendo de zona de sobreventa, por lo que mantenemos la posición buscando la extensión del rebote técnico.
+- **[HOLD] AAPL** (Confianza: 75%): La posición en AAPL registra una pérdida menor del -0.86%, muy lejos de nuestro stop-loss estricto del -2.0%. El RSI de 1h se encuentra en un nivel neutral-saludable de 59.7, por lo que esperamos que continúe su tendencia alcista.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la posición de SOL-USD y vigilar su comportamiento en torno al soporte actual, estableciendo un stop-loss estricto si pierde el nivel de entrada. Monitorear de cerca a AAPL para asegurar beneficios si el RSI de 1h se aproxima a la zona de sobrecompra (>70). Mantener una reserva de efectivo estricta y buscar nuevas oportunidades de rebote intradiario solo si se confirma un cambio claro de tendencia."
+> "Mantener las posiciones actuales en AAPL y SOL-USD vigilando de cerca sus niveles de stop-loss (-2.0%) y take-profit (+2.5% a +3.5%). Monitorear a ETH-USD y BTC-USD en busca de una ruptura al alza de su RSI de 1h por encima de 35 acompañada de un cambio porcentual positivo de 1h antes de comprometer más liquidez de la reserva. Proteger estrictamente el capital disponible."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

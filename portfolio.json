@@ -1203,7 +1203,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la posición de SOL-USD y vigilar su comportamiento en torno al soporte actual, estableciendo un stop-loss estricto si pierde el nivel de entrada. Monitorear de cerca a AAPL para asegurar beneficios si el RSI de 1h se aproxima a la zona de sobrecompra (>70). Mantener una reserva de efectivo estricta y buscar nuevas oportunidades de rebote intradiario solo si se confirma un cambio claro de tendencia.",
-    "updated_at": "2026-10-14T14:10:45.025344-03:00"
+    "notes": "Mantener las posiciones actuales en AAPL y SOL-USD vigilando de cerca sus niveles de stop-loss (-2.0%) y take-profit (+2.5% a +3.5%). Monitorear a ETH-USD y BTC-USD en busca de una ruptura al alza de su RSI de 1h por encima de 35 acompañada de un cambio porcentual positivo de 1h antes de comprometer más liquidez de la reserva. Proteger estrictamente el capital disponible.",
+    "updated_at": "2026-10-14T14:20:49.839361-03:00"
   }
 }
