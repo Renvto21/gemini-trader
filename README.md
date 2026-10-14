@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 10:40:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 10:50:41`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$33.41 USD** | **$5.98 USD** | **$39.39 USD** | 🔴 **-1.52%** ($-0.61) |
+| **$40.00 USD** | **$23.41 USD** | **$15.98 USD** | **$39.40 USD** | 🔴 **-1.51%** ($-0.60) |
 
 ---
 
@@ -16,22 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $82826.20 | $5.98 | 📉 -0.36% | 13h 39m |
+| `BTC-USD` | 0.000072 | $83128.62 | $82885.89 | $5.98 | 📉 -0.29% | 13h 49m |
+| `AAPL` | 0.028889 | $346.15 | $346.15 | $10.00 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se encuentra operando en un rango lateral con sesgo bajista en temporalidades diarias, aunque con leves intentos de recuperación intradiaria. Los mercados tradicionales de EE.UU. están abiertos, destacando AAPL con un sólido impulso alcista (cambio 1h del 1.49% y RSI diario de 60.9) y QQQ mostrando debilidad de corto plazo con un RSI de 1h en 32.6, abriendo posibles ventanas de rebote técnico. BTC-USD mantiene una postura estable pero estancada tras casi 14 horas."
+> "El mercado general muestra una sesgo bajista en varios activos principales, pero AAPL destaca con un fuerte momentum alcista intradiario (+1.4% en 1h y RSI saludable de 62.4) en mercado abierto. En cripto, BTC-USD mantiene una estabilidad lateral con un PnL plano tras casi 14 horas, mientras que los mercados bursátiles abren oportunidades claras en acciones con tendencia fuerte."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 60%): La posición en BTC-USD lleva más de 13 horas abierta con una pérdida marginal de -0.36%. El precio respeta el soporte actual y no ha activado el stop-loss, por lo que se mantiene para permitir que desarrolle el rebote esperado.
+- **[BUY] AAPL** (Confianza: 88%): AAPL se encuentra con un excelente momentum alcista intradiario, un incremento de 1.4% en la última hora y un RSI de 1H en 62.4 con tendencia alcista sobre la SMA20. Cumple perfectamente con los criterios de alta convicción para capturar impulso de crecimiento acelerado.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendré la posición actual en BTC-USD monitoreando que no rompa el soporte crítico ni supere el stop-loss del -2.0%. Dado que AAPL muestra un fuerte momentum alcista en mercado abierto con un RSI saludable, evaluaré tomar una posición en el próximo ciclo si mantiene el empuje, mientras mantengo el resto del efectivo en reserva táctica."
+> "Mantendré la posición actual en BTC-USD vigilando de cerca el soporte y el stop-loss estricto del -2.0%. Aprovecharé la liquidez disponible para abrir una posición táctica en AAPL aprovechando su fuerte impulso alcista intradiario y tendencia diaria positiva. Estableceré take-profit en AAPL al alcanzar +2.5% y stop-loss ante cualquier pérdida mayor a -1.5%."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
@@ -45,11 +46,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-14 10:50` | 🟢 BUY | `AAPL` | $10.00 | $346.15 | AAPL se encuentra con un excelente momentum alcista intradiario, un incremento de 1.4% en ... |
 | `2026-10-14 10:10` | 🔴 SELL (-0.11$) | `SOL-USD` | $5.89 | $105.41 | La posición en SOL-USD acumula una pérdida cercana al -1.9%, rozando nuestro stop-loss est... |
 | `2026-10-14 02:50` | 🔴 SELL (-0.01$) | `ETH-USD` | $4.99 | $2502.14 | ETH-USD lleva más de 9 horas de holding con PnL plano (-0.25%) y un RSI de 1H en 42.3 sin ... |
 | `2026-10-13 23:11` | 🟢 BUY | `SOL-USD` | $6.00 | $107.45 | SOL-USD presenta un RSI diario en niveles de sobreventa extrema (28.3) y muestra un sólido... |
 | `2026-10-13 21:00` | 🟢 BUY | `BTC-USD` | $6.00 | $83128.62 | BTC-USD muestra un RSI de 1H en 31.7 aproximándose a niveles de sobreventa y un cambio pos... |
-| `2026-10-13 19:40` | 🔴 SELL (-0.10$) | `SOL-USD` | $29.86 | $106.84 | SOL-USD lleva más de 5 horas de holding sin mostrar el rebote esperado, operando bajo la S... |
 
 ---
 

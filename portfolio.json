@@ -1,11 +1,16 @@
 {
   "initial_capital": 40.0,
-  "cash": 33.41261262578021,
+  "cash": 23.412612625780213,
   "positions": {
     "BTC-USD": {
       "shares": 7.217730788746403e-05,
       "avg_price": 83128.62,
       "opened_at": "2026-10-13T21:00:49.831172-03:00"
+    },
+    "AAPL": {
+      "shares": 0.02888920988010978,
+      "avg_price": 346.15,
+      "opened_at": "2026-10-14T10:50:41.868687-03:00"
     }
   },
   "history": [
@@ -1166,10 +1171,19 @@
       "pnl_usd": -0.11,
       "pnl_pct": -1.9,
       "reason": "La posición en SOL-USD acumula una pérdida cercana al -1.9%, rozando nuestro stop-loss estricto del -2.0%. Tras casi 11 horas de holding sin la recuperación esperada, ejecutamos la venta para cortar pérdidas, proteger el capital restante y mantener liquidez para futuras oportunidades."
+    },
+    {
+      "timestamp": "2026-10-14T10:50:41.868706-03:00",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "amount_usd": 10.0,
+      "shares": 0.028889,
+      "price": 346.15,
+      "reason": "AAPL se encuentra con un excelente momentum alcista intradiario, un incremento de 1.4% en la última hora y un RSI de 1H en 62.4 con tendencia alcista sobre la SMA20. Cumple perfectamente con los criterios de alta convicción para capturar impulso de crecimiento acelerado."
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición actual en BTC-USD monitoreando que no rompa el soporte crítico ni supere el stop-loss del -2.0%. Dado que AAPL muestra un fuerte momentum alcista en mercado abierto con un RSI saludable, evaluaré tomar una posición en el próximo ciclo si mantiene el empuje, mientras mantengo el resto del efectivo en reserva táctica.",
-    "updated_at": "2026-10-14T10:40:46.942171-03:00"
+    "notes": "Mantendré la posición actual en BTC-USD vigilando de cerca el soporte y el stop-loss estricto del -2.0%. Aprovecharé la liquidez disponible para abrir una posición táctica en AAPL aprovechando su fuerte impulso alcista intradiario y tendencia diaria positiva. Estableceré take-profit en AAPL al alcanzar +2.5% y stop-loss ante cualquier pérdida mayor a -1.5%.",
+    "updated_at": "2026-10-14T10:50:41.866511-03:00"
   }
 }
