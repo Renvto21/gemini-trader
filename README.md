@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 06:10:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 06:20:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$27.53 USD** | **$12.00 USD** | **$39.53 USD** | 🔴 **-1.18%** ($-0.47) |
+| **$40.00 USD** | **$27.53 USD** | **$12.00 USD** | **$39.52 USD** | 🔴 **-1.19%** ($-0.48) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $83424.20 | $6.02 | 📈 +0.36% | 9h 9m |
-| `SOL-USD` | 0.055840 | $107.45 | $107.13 | $5.98 | 📉 -0.30% | 6h 59m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83370.74 | $6.02 | 📈 +0.29% | 9h 19m |
+| `SOL-USD` | 0.055840 | $107.45 | $107.08 | $5.98 | 📉 -0.34% | 7h 9m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se mantiene abierto y operando en un rango lateral estrecho con ligeros sesgos positivos. BTC-USD muestra estabilidad con un RSI de 1H en 55.3 y una ligera ganancia del 0.36% en cartera, mientras que SOL-USD se mantiene cerca de su precio de entrada con un PnL de -0.30% y un RSI diario profundamente deprimido en 28.6. Los activos tradicionales se encuentran cerrados, por lo que toda la atención táctica se centra en gestionar y rotar el capital dentro de los criptoactivos disponibles."
+> "El mercado tradicional se encuentra cerrado, por lo que la operativa actual se concentra en el segmento cripto (24/7). BTC-USD y SOL-USD se mantienen en rangos estables con ligeras variaciones positivas en el corto plazo, pero sin alcanzar los niveles de take-profit definidos (+2.0% a +3.5%) ni activar los stop-loss. El sentimiento general es de consolidación a la espera de mayor momentum."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 75%): BTC-USD muestra un rendimiento positivo constante (+0.36%) y un RSI de 1H neutral-saludable (55.3). Mantenemos la posición a la espera de que el impulso acerque el precio a nuestra zona objetivo de toma de ganancias (+2.0% a +3.5%).
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD se mantiene estable a pesar de la ligera pérdida actual (-0.30%). Su RSI diario se encuentra en sobreventa extrema (28.6), lo que respalda la tesis de un rebote técnico pendiente. Daremos un ciclo más de margen antes de evaluar rotación si no hay tracción alcista.
+- **[HOLD] BTC-USD** (Confianza: 70%): BTC-USD se mantiene estable con un PnL positivo moderado (+0.29%) y un RSI de 1H en 54.2. No hay señales de sobrecompra ni motivos para cerrar la posición prematuramente; esperamos que alcance el objetivo de take-profit.
+- **[HOLD] SOL-USD** (Confianza: 65%): SOL-USD registra un PnL ligeramente negativo (-0.34%) pero con un RSI diario en niveles de sobreventa extrema que respalda la tesis de rebote. Damos tiempo adicional para que el activo desarrolle su inercia alcista antes de considerar una rotación.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5%. Si BTC-USD se acerca al objetivo o su RSI de 1H cruza por encima de 70, realizaremos toma de ganancias. Para SOL-USD, evaluaremos su comportamiento en los próximos ciclos; si no muestra un repunte claro hacia terreno positivo y rompe soporte, rotaremos el capital hacia oportunidades con mayor inercia alcista. Mantener la reserva mínima de efectivo."
+> "Mantener las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5% o cruces de RSI de 1H superiores a 70. Si SOL-USD no muestra un repunte más decidido y prolonga su estancia sin momentum, evaluaremos rotar capital en los siguientes ciclos. Mantener la reserva mínima de efectivo intacta."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
