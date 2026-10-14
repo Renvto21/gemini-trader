@@ -1169,7 +1169,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición de BTC-USD vigilando de cerca el soporte actual. Si BTC-USD perfora el soporte y se acerca al límite de stop-loss del -2.0%, procederemos a vender inmediatamente para proteger el capital. Dado que los mercados de valores están cerrados, conservaremos el efectivo restante ($33.41 USD) a la espera de señales de volumen alcista y un RSI de 1H superior a 45 en criptoactivos antes de desplegar nuevo capital.",
-    "updated_at": "2026-10-14T10:20:46.542505-03:00"
+    "notes": "Mantendremos la posición abierta de BTC-USD mientras el precio respete el soporte y no alcance el stop-loss del -2.0%. Dado que el mercado de valores sigue cerrado y el impulso en criptomonedas permanece moderado sin señales claras de ruptura de RSI por encima de 45, mantendremos el efectivo restante inactivo a la espera de una confirmación más fuerte de volumen o un rebote técnico más agresivo antes de desplegar nuevo capital.",
+    "updated_at": "2026-10-14T10:30:53.508350-03:00"
   }
 }

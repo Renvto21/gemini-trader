@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 10:20:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 10:30:53`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$33.41 USD** | **$5.94 USD** | **$39.36 USD** | 🔴 **-1.61%** ($-0.64) |
+| **$40.00 USD** | **$33.41 USD** | **$5.96 USD** | **$39.37 USD** | 🔴 **-1.57%** ($-0.63) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $82334.59 | $5.94 | 📉 -0.96% | 13h 19m |
+| `BTC-USD` | 0.000072 | $83128.62 | $82575.17 | $5.96 | 📉 -0.67% | 13h 30m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se encuentra operando en fin de semana/fuera de horario principal con una tendencia general bajista y ligera presión vendedora. BTC-USD mantiene una posición abierta con un PnL moderadamente negativo (-0.96%) tras más de 13 horas de holding, acercándose a nuestra zona de vigilancia pero sin romper soportes críticos. ETH-USD y SOL-USD muestran condiciones de sobreventa en gráficos de 1 hora (RSI en 33 y 32.5 respectivamente), pero dado que el mercado accionario tradicional se encuentra CERRADO, enfocaremos toda nuestra atención en gestionar la posición actual y mantener liquidez para entradas tácticas si el impulso de rebote se confirma."
+> "El mercado general muestra un sesgo bajista de corto plazo en los principales índices y criptomonedas, con la mayoría de activos operando por debajo de sus medias móviles de 20 períodos. Sin embargo, en el ecosistema cripto disponible 24/7, los precios se mantienen relativamente estables con ligeras variaciones de 1 hora. BTC-USD mantiene un rendimiento cercano al punto de entrada con un PnL de -0.67% tras 13.5 horas de holding, manteniéndose seguro por encima del umbral de stop-loss estricto del -2.0%."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 75%): La posición en BTC-USD lleva más de 13 horas abierta con una pérdida no realizada menor (-0.96%). El precio se mantiene por encima de nuestro nivel crítico de stop-loss del -2.0%. Mantendremos la posición a la espera de una recuperación del RSI de 1H por encima de 45 que confirme un rebote técnico.
+- **[HOLD] BTC-USD** (Confianza: 65%): La posición en BTC-USD lleva 13 horas abierta con una pérdida leve de -0.67%, manteniéndose holgadamente dentro de nuestros límites de riesgo y lejos del stop-loss de -2.0%. Esperamos que el RSI de 1H recupere niveles superiores a 45 para buscar un rebote hacia la toma de ganancias.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos la posición de BTC-USD vigilando de cerca el soporte actual. Si BTC-USD perfora el soporte y se acerca al límite de stop-loss del -2.0%, procederemos a vender inmediatamente para proteger el capital. Dado que los mercados de valores están cerrados, conservaremos el efectivo restante ($33.41 USD) a la espera de señales de volumen alcista y un RSI de 1H superior a 45 en criptoactivos antes de desplegar nuevo capital."
+> "Mantendremos la posición abierta de BTC-USD mientras el precio respete el soporte y no alcance el stop-loss del -2.0%. Dado que el mercado de valores sigue cerrado y el impulso en criptomonedas permanece moderado sin señales claras de ruptura de RSI por encima de 45, mantendremos el efectivo restante inactivo a la espera de una confirmación más fuerte de volumen o un rebote técnico más agresivo antes de desplegar nuevo capital."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
