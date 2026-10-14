@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "ETH-USD ha cumplido su tiempo límite operativo con un PnL plano y sin superar los niveles clave de RSI 1H, por lo que procedemos a su venta para rotar el capital. Mantendremos la posición en BTC-USD y SOL-USD buscando alcanzar la zona de take-profit entre +2.0% y +3.5%. El efectivo liberado incrementará nuestra liquidez para aprovechar futuros rebotes en cripto.",
-    "updated_at": "2026-10-14T02:50:46.934105-03:00"
+    "notes": "Mantendremos las posiciones abiertas en BTC-USD y SOL-USD buscando alcanzar la zona de take-profit entre +2.0% y +3.5%. Monitorearemos de cerca cualquier cambio en el RSI de 1 hora para asegurar ganancias de forma rápida si se acercan a sobrecompra, o para activar el stop-loss en caso de una ruptura bajista por debajo del -2.0%.",
+    "updated_at": "2026-10-14T03:01:07.233154-03:00"
   }
 }
