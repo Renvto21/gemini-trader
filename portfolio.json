@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 28.539761053895617,
+  "cash": 22.539761053895617,
   "positions": {
     "ETH-USD": {
       "shares": 0.0019933263434022894,
@@ -11,6 +11,11 @@
       "shares": 7.217730788746403e-05,
       "avg_price": 83128.62,
       "opened_at": "2026-10-13T21:00:49.831172-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.05583992554676594,
+      "avg_price": 107.45,
+      "opened_at": "2026-10-13T23:11:19.848246-03:00"
     }
   },
   "history": [
@@ -1140,10 +1145,19 @@
       "shares": 7.2e-05,
       "price": 83128.62,
       "reason": "BTC-USD muestra un RSI de 1H en 31.7 aproximándose a niveles de sobreventa y un cambio positivo en la última hora (0.05%), operando en un mercado abierto 24/7. Busco un rebote táctico de corto plazo para maximizar el rendimiento del portafolio."
+    },
+    {
+      "timestamp": "2026-10-13T23:11:19.848259-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 6.0,
+      "shares": 0.05584,
+      "price": 107.45,
+      "reason": "SOL-USD presenta un RSI diario en niveles de sobreventa extrema (28.3) y muestra un sólido cambio positivo en 1 hora con un RSI de 55.9, indicando un rebote técnico activo tras la rotación previa. Se asignan $6.00 USD para aprovechar esta oportunidad de alta convicción."
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD y BTC-USD vigilando que alcancen el objetivo de take-profit entre +2.0% y +3.5%, o recortar inmediatamente si el RSI de 1 hora vuelve a caer por debajo de 35 o el PnL toca el stop-loss de -2.0%. La liquidez en efectivo actual es de $28.54 USD listos para futuras oportunidades si el mercado cripto presenta una fuerte ruptura.",
-    "updated_at": "2026-10-13T23:01:50.446353-03:00"
+    "notes": "Mantener las posiciones actuales en ETH-USD y BTC-USD mientras persistan dentro del rango de tolerancia y no alcancen el take-profit entre +2.0% y +3.5% o el stop-loss de -2.0%. Aprovechar la liquidez disponible para reentrar en SOL-USD capturando su sobreventa diaria y momentum horario actual. Monitorear de cerca los niveles de RSI de 1 hora para asegurar beneficios con rapidez si se acercan a la zona de sobrecompra.",
+    "updated_at": "2026-10-13T23:11:19.846193-03:00"
   }
 }
