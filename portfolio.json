@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD, BTC-USD y SOL-USD mientras monitoreamos el comportamiento del RSI de 1 hora y el cambio porcentual. Esperar a que alguna posición alcance el rango de take-profit (+2.0% a +3.5%) o un RSI de 1H superior a 70 para asegurar ganancias y rotar capital. Mantener estricto el stop-loss en -2.0% y conservar la liquidez actual por encima de los $4.00 USD.",
-    "updated_at": "2026-10-14T01:10:46.270852-03:00"
+    "notes": "Monitorear de cerca BTC-USD, ETH-USD y SOL-USD para asegurar ganancias si el RSI de 1 hora supera 70 o si la rentabilidad alcanza el rango de take-profit. Proteger con stop-loss estricto en -2.0% y mantener liquidez superior a $4.00 USD.",
+    "updated_at": "2026-10-14T01:20:43.557457-03:00"
   }
 }
