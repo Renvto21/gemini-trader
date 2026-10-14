@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 18:30:52`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 18:40:41`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.23 USD** | **$19.90 USD** | **$39.13 USD** | 🔴 **-2.18%** ($-0.87) |
+| **$40.00 USD** | **$19.23 USD** | **$19.93 USD** | **$39.16 USD** | 🔴 **-2.10%** ($-0.84) |
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 7h 40m |
-| `SOL-USD` | 0.095785 | $104.40 | $104.34 | $9.99 | 📉 -0.06% | 2h 0m |
+| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 7h 50m |
+| `SOL-USD` | 0.095785 | $104.40 | $104.64 | $10.02 | 📈 +0.23% | 2h 9m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general muestra un sentimiento predominantemente bajista en temporalidades diarias, con los principales índices y acciones tecnológicas cerrados y operando por debajo de sus medias móviles de 20 periodos. En el ecosistema cripto, que permanece abierto 24/7, observamos condiciones de sobreventa generalizadas con RSI de 1 hora deprimidos, lo que presenta oportunidades tácticas de rebote para activos como SOL-USD, aunque con alta volatilidad y presión bajista macro."
+> "El mercado tradicional se encuentra cerrado y sus precios están congelados, con una tendencia general bajista en el corto plazo. Las criptomonedas continúan operando 24/7, mostrando ligeros intentos de recuperación en 1h. SOL-USD se mantiene estable con un leve avance, mientras ETH-USD y BTC-USD muestran condiciones de sobreventa en gráficos de 1 hora, abriendo posibles oportunidades de rebote técnico."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD muestra un cambio de 1h positivo (+0.35%) y un RSI de 1h en 28.6 intentando estabilizarse tras la reciente compra. Mantenemos la posición para permitir que desarrolle el rebote técnico esperado, respetando estrictamente nuestro nivel de stop-loss.
-- **[HOLD] AAPL** (Confianza: 75%): El mercado de Wall Street se encuentra cerrado, por lo que no es posible operar acciones tradicionales. AAPL se mantiene en cartera bajo una tendencia macro alcista sólida sobre la SMA20.
+- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD muestra un rendimiento positivo de +0.23% y se mantiene cerca de nuestra zona de entrada con un RSI de 1h en 31.5, cumpliendo el plan táctico sin activar aún el take-profit ni el stop-loss.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos SOL-USD ya que muestra un ligero cambio positivo de 1h (+0.35%) y se mantiene estable cerca de nuestra zona de entrada, vigilando de cerca el stop-loss estricto en -2.0% y un objetivo de take-profit entre +2.0% y +3.5%. AAPL sigue en cartera por estar el mercado cerrado y mantener una tendencia macro alcista sólida. Para el próximo ciclo, si SOL-USD rompe a la baja o se estanca sin momentum, procederemos a liquidarla para liberar capital hacia criptomonedas con mejor impulso alcista."
+> "Mantendremos SOL-USD activa bajo vigilancia estricta, buscando un take-profit entre +2.0% y +3.5% o un stop-loss en -2.0% si el impulso falla. AAPL se retiene ya que el mercado está cerrado. Para el próximo ciclo, evaluaremos la entrada en ETH-USD si su RSI de 1h rebasa los niveles actuales de sobreventa extrema, utilizando nuestra liquidez disponible."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
