@@ -1143,7 +1143,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas en BTC-USD y ETH-USD supervisando de cerca el cumplimiento de nuestros objetivos. Si BTC-USD o ETH-USD alcanzan la zona de take-profit entre +2.0% y +3.5%, o si su RSI de 1H supera 70, procederemos a asegurar ganancias inmediatamente. Si alguna de las posiciones rompe el stop-loss estricto de -2.0%, cortaremos la pérdida de inmediato y rotaremos el capital hacia oportunidades con mayor dinamismo en cripto.",
-    "updated_at": "2026-10-13T21:10:44.824327-03:00"
+    "notes": "Mantendremos las posiciones abiertas en BTC-USD y ETH-USD supervisando de cerca el cumplimiento de nuestros objetivos de take-profit entre +2.0% y +3.5%, o si su RSI de 1H supera 70 para asegurar ganancias de inmediato. El stop-loss estricto se mantiene en -2.0% para proteger el capital. No realizaremos nuevas entradas en este ciclo para preservar la liquidez mínima y observar el desarrollo del momentum en cripto.",
+    "updated_at": "2026-10-13T21:20:40.416247-03:00"
   }
 }
