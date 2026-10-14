@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la vigilancia sobre BTC-USD, ETH-USD y SOL-USD. Vigilar de cerca el objetivo de take-profit entre +2.0% y +3.5% o salida por sobrecompra en RSI 1H (>70). Si las posiciones continúan estancadas sin generar momentum en los próximos ciclos, se procederá a rotar el capital hacia activos con mayor dinamismo para cumplir con la estrategia de crecimiento acelerado. Mantener reserva mínima de efectivo de $4.00 USD.",
-    "updated_at": "2026-10-14T02:20:45.701754-03:00"
+    "notes": "Monitorear de cerca las posiciones abiertas en BTC-USD, ETH-USD y SOL-USD. BTC muestra una ganancia marginal pero estable; ETH y SOL llevan varias horas sin generar momentum fuerte. El objetivo sigue siendo capturar un take-profit entre +2.0% y +3.5%, o salida táctica si el RSI 1H supera 70. Mantener la disciplina en el stop-loss en -2.0% y conservar la reserva de efectivo mínima de $4.00 USD.",
+    "updated_at": "2026-10-14T02:31:02.523130-03:00"
   }
 }
