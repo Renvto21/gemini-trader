@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 22.539761053895617,
+  "cash": 27.526526073895617,
   "positions": {
-    "ETH-USD": {
-      "shares": 0.0019933263434022894,
-      "avg_price": 2508.37,
-      "opened_at": "2026-10-13T17:10:39.633992-03:00"
-    },
     "BTC-USD": {
       "shares": 7.217730788746403e-05,
       "avg_price": 83128.62,
@@ -1154,10 +1149,21 @@
       "shares": 0.05584,
       "price": 107.45,
       "reason": "SOL-USD presenta un RSI diario en niveles de sobreventa extrema (28.3) y muestra un sólido cambio positivo en 1 hora con un RSI de 55.9, indicando un rebote técnico activo tras la rotación previa. Se asignan $6.00 USD para aprovechar esta oportunidad de alta convicción."
+    },
+    {
+      "timestamp": "2026-10-14T02:50:46.937033-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 4.99,
+      "shares": 0.001993,
+      "price": 2502.14,
+      "pnl_usd": -0.01,
+      "pnl_pct": -0.25,
+      "reason": "ETH-USD lleva más de 9 horas de holding con PnL plano (-0.25%) y un RSI de 1H en 42.3 sin mostrar la fuerza necesaria para el rebote. Aplicamos rotación de capital para liberar liquidez."
     }
   ],
   "memory": {
-    "notes": "Mantener BTC-USD y SOL-USD para buscar la zona de take-profit entre +2.0% y +3.5%. ETH-USD lleva más de 9 horas de holding con PnL plano (-0.2%), por lo que si en el siguiente ciclo no muestra un impulso claro por encima del RSI 1H de 50, procederemos a venderlo para liberar liquidez. El efectivo disponible es de $22.54 USD, superando la reserva mínima de $4.00 USD, lo que nos deja espacio para operar nuevas oportunidades si surge una ruptura fuerte.",
-    "updated_at": "2026-10-14T02:40:44.126633-03:00"
+    "notes": "ETH-USD ha cumplido su tiempo límite operativo con un PnL plano y sin superar los niveles clave de RSI 1H, por lo que procedemos a su venta para rotar el capital. Mantendremos la posición en BTC-USD y SOL-USD buscando alcanzar la zona de take-profit entre +2.0% y +3.5%. El efectivo liberado incrementará nuestra liquidez para aprovechar futuros rebotes en cripto.",
+    "updated_at": "2026-10-14T02:50:46.934105-03:00"
   }
 }
