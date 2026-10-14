@@ -1203,7 +1203,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca AAPL y SOL-USD. Mantener stop-loss estricto a -2.0% y take-profit entre +2.0% y +3.5%. Para el siguiente ciclo, esperar a que ETH-USD o BTC-USD muestren un cruce de RSI de 1h por encima de 35 con cambio porcentual positivo para buscar una nueva oportunidad de rebote, manteniendo la liquidez de efectivo protegida.",
-    "updated_at": "2026-10-14T14:30:56.193541-03:00"
+    "notes": "Mantener las posiciones actuales (AAPL y SOL-USD) mientras no alcancen el stop-loss estricto del -2.0% o el take-profit entre +2.0% y +3.5%. Para el siguiente ciclo, estar atentos a cualquier ruptura del RSI de 1h por encima de 35 con cambio porcentual positivo en criptos como ETH-USD o BTC-USD para evaluar posibles entradas o rotación de capital.",
+    "updated_at": "2026-10-14T14:40:56.884416-03:00"
   }
 }
