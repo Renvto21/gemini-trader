@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 19.227379799419182,
+  "cash": 9.227379799419182,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
@@ -11,6 +11,11 @@
       "shares": 0.09578544061302681,
       "avg_price": 104.4,
       "opened_at": "2026-10-14T16:30:49.467096-03:00"
+    },
+    "ETH-USD": {
+      "shares": 0.004135067856463524,
+      "avg_price": 2418.34,
+      "opened_at": "2026-10-14T19:00:50.999120-03:00"
     }
   },
   "history": [
@@ -1220,10 +1225,19 @@
       "shares": 0.095785,
       "price": 104.4,
       "reason": "SOL-USD presenta un RSI de 1h en 30.9 saliendo de la zona de compresión y un cambio positivo de 1h de +0.16%, lo que activa nuestra estrategia de rebote técnico rápido (mean reversion) aprovechando la liquidez disponible."
+    },
+    {
+      "timestamp": "2026-10-14T19:00:50.999135-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 10.0,
+      "shares": 0.004135,
+      "price": 2418.34,
+      "reason": "ETH-USD presenta un RSI de 1h en 22.0 (sobreventa extrema) y un cambio de 1h que comienza a tornarse positivo (+0.05%), cumpliendo con la estrategia agresiva de mean reversion y captura de rebotes técnicos con alta convicción."
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición de SOL-USD bajo estricta vigilancia buscando un take-profit entre +2.0% y +3.5% o un stop-loss protector si perfora el soporte. AAPL se retiene ya que su mercado está cerrado. Evaluaremos una posible entrada en ETH-USD en los siguientes ciclos si su RSI de 1h confirma una ruptura alcista desde la zona de sobreventa extrema actual, utilizando la liquidez disponible manteniendo el colchón mínimo de efectivo.",
-    "updated_at": "2026-10-14T18:50:52.467345-03:00"
+    "notes": "Mantener SOL-USD en vigilancia estricta buscando la zona de take-profit entre +2.0% y +3.5% o protegiendo con stop-loss si perfora el soporte operativo. Ejecutar compra de ETH-USD aprovechando su RSI de 1h en sobreventa extrema (22.0) y su incipiente giro positivo de corto plazo. Conservar AAPL al estar su mercado cerrado. Asegurar que la reserva de efectivo se mantenga cercana al límite mínimo de $4.00 USD.",
+    "updated_at": "2026-10-14T19:00:50.996181-03:00"
   }
 }
