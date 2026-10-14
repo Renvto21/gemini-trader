@@ -1,36 +1,3 @@
-"El mercado general se encuentra bajo presión bajista con la mayoría de los activos cotizando por debajo de su SMA20, aunque se observan niveles de sobreventa extrema en marcos temporales de 1 hora en varios índices y criptomonedas. Las posiciones actuales se mantienen estables pero sin un momentum agresivo claro; AAPL muestra un leve retroceso (-1.11%) pero mantiene su tendencia alcista diaria, mientras que SOL-USD se mantiene lateral con un mínimo beneficio (+0.25%)."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Monitorear de cerca AAPL y SOL-USD. Mantener stop-loss estricto a -2.0% y take-profit entre +2.0% y +3.5%. Para el siguiente ciclo, esperar a que ETH-USD o BTC-USD muestren un cruce de RSI de 1h por encima de 35 con cambio porcentual positivo para buscar una nueva oportunidad de rebote, manteniendo la liquidez de efectivo protegida."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] AAPL (Confianza: 75%)
-    Razón: AAPL lleva abierto menos de 4 horas con una pérdida leve de -1.11%, manteniéndose dentro del rango operativo normal y por encima de su soporte diario. Se mantiene la posición vigilando el stop-loss.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 75%)
-    Razón: SOL-USD muestra un comportamiento neutral-positivo con un PnL de +0.25% y un RSI de 1h en 30.7. Se mantiene a la espera de que el momentum alcista se consolide para buscar el objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.22 USD (Cash: $19.31 USD)
-
-[2026-10-14 14:40:50] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $19.31 USD
- Valor en Activos:     $19.87 USD
- Balance Total:        $39.17 USD
- Ganancia/Pérdida:     🔴 $-0.83 USD (-2.07%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $341.78 | Total: $9.87 📉 (-1.26%) [Tiempo: 3h 50m]
-   • SOL-USD: 0.095511 u. | Compra: $104.7 | Actual: $104.61 | Total: $9.99 📉 (-0.09%) [Tiempo: 2h 10m]
-=======================================================
-
 🤖 Consultando a Gemini para análisis y toma de decisiones...
 
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
@@ -151,3 +118,36 @@ Balance final del ciclo: $39.13 USD (Cash: $19.31 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.15 USD (Cash: $19.31 USD)
+
+[2026-10-14 15:20:36] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $19.31 USD
+ Valor en Activos:     $19.82 USD
+ Balance Total:        $39.12 USD
+ Ganancia/Pérdida:     🔴 $-0.88 USD (-2.19%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.57 | Total: $9.9 📉 (-1.03%) [Tiempo: 4h 29m]
+   • SOL-USD: 0.095511 u. | Compra: $104.7 | Actual: $103.86 | Total: $9.92 📉 (-0.80%) [Tiempo: 2h 49m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado se encuentra mayoritariamente bajista con la mayoría de los activos cotizando por debajo de su SMA20 y RSI de 1 hora extremadamente deprimidos, lo que refleja una presión de venta generalizada a corto plazo. AAPL se mantiene relativamente estable con tendencia alcista, mientras que SOL-USD muestra debilidad y un RSI de 1h cayendo a 25.0 sin lograr el rebote esperado, acercándose peligrosamente a nuestra zona de stop-loss estricto."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendré AAPL buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por sobrecompra en RSI de 1h (>70). Para SOL-USD, el rebote ha fallado y el RSI de 1h ha vuelto a caer a 25; realizaré una venta de la posición para recortar pérdidas antes de alcanzar el circuit breaker del -2.0% y liberar capital. Con la liquidez obtenida más el efectivo disponible, evaluaré entrar en un activo con mejor momentum intradiario o cripto 24/7."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [SELL] SOL-USD (Confianza: 90%)
+    Razón: SOL-USD lleva varias horas sin mostrar el rebote esperado, su RSI de 1h ha caído hasta 25.0 y la tendencia es bajista. Corto la pérdida anticipadamente para proteger el capital y rotar liquidez.
+    ✅ Venta ejecutada: 0.095511 de SOL-USD a $103.86
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.12 USD (Cash: $29.23 USD)

@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 15:10:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 15:20:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.31 USD** | **$19.84 USD** | **$39.15 USD** | 🔴 **-2.12%** ($-0.85) |
+| **$40.00 USD** | **$29.23 USD** | **$9.90 USD** | **$39.12 USD** | 🔴 **-2.19%** ($-0.88) |
 
 ---
 
@@ -16,42 +16,40 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.34 | $9.89 | 📉 -1.10% | 4h 19m |
-| `SOL-USD` | 0.095511 | $104.70 | $104.21 | $9.95 | 📉 -0.47% | 2h 39m |
+| `AAPL` | 0.028889 | $346.15 | $342.57 | $9.90 | 📉 -1.03% | 4h 30m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general muestra un tono bajista con la mayoría de los activos principales por debajo de sus medias móviles de 20 períodos, reflejando presión a la baja en el corto plazo. AAPL se mantiene relativamente resiliente sobre su tendencia alcista con un RSI de 1h en 56.8, mientras que SOL-USD muestra debilidad temporal con un RSI de 1h en 26.2, manteniéndose cerca de nuestra zona de control sin romper el stop-loss estricto del -2.0%."
+> "El mercado se encuentra mayoritariamente bajista con la mayoría de los activos cotizando por debajo de su SMA20 y RSI de 1 hora extremadamente deprimidos, lo que refleja una presión de venta generalizada a corto plazo. AAPL se mantiene relativamente estable con tendencia alcista, mientras que SOL-USD muestra debilidad y un RSI de 1h cayendo a 25.0 sin lograr el rebote esperado, acercándose peligrosamente a nuestra zona de stop-loss estricto."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 75%): AAPL se encuentra operando de forma estable sobre su soporte macro con un RSI de 1h en 56.8, manteniendo una pérdida contenida del -1.1%. Esperaremos a que se acerque a la zona de take-profit (+2% a +3.5%) para realizar ganancias.
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD registra una pequeña pérdida del -0.47% con un RSI de 1h en 26.2. Dado que el mercado cripto opera 24/7 y la pérdida está muy por debajo del límite de stop-loss del -2.0%, mantendremos la posición a la espera de un rebote por reversión a la media.
+- **[SELL] SOL-USD** (Confianza: 90%): SOL-USD lleva varias horas sin mostrar el rebote esperado, su RSI de 1h ha caído hasta 25.0 y la tendencia es bajista. Corto la pérdida anticipadamente para proteger el capital y rotar liquidez.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendré las posiciones de AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Para AAPL, esperaré una aproximación a la zona de sobrecompra en RSI de 1h (>70) o el objetivo de take-profit entre +2.0% y +3.5% para asegurar beneficios. En cuanto a SOL-USD, el RSI de 1h se mantiene deprimido; mantendré la posición actual monitoreando un giro inminente en el momentum intradiario. Si persiste el estancamiento o la pérdida supera el -2.0%, procederé a recortar pérdidas inmediatamente para liberar liquidez y buscar oportunidades en criptomonedas o tecnología."
+> "Mantendré AAPL buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por sobrecompra en RSI de 1h (>70). Para SOL-USD, el rebote ha fallado y el RSI de 1h ha vuelto a caer a 25; realizaré una venta de la posición para recortar pérdidas antes de alcanzar el circuit breaker del -2.0% y liberar capital. Con la liquidez obtenida más el efectivo disponible, evaluaré entrar en un activo con mejor momentum intradiario o cripto 24/7."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
 
 | Operaciones Cerradas | Tasa de Acierto (Win Rate) | Beneficio Realizado | Mejor Trade | Peor Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **51** | 🎯 **43.1%** (22W / 15L / 14BE) | 🔴 **$-0.59 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
+| **52** | 🎯 **42.3%** (22W / 16L / 14BE) | 🔴 **$-0.67 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
 ---
 
 ### 📜 Últimos Movimientos
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-14 15:20` | 🔴 SELL (-0.08$) | `SOL-USD` | $9.92 | $103.86 | SOL-USD lleva varias horas sin mostrar el rebote esperado, su RSI de 1h ha caído hasta 25.... |
 | `2026-10-14 12:30` | 🟢 BUY | `SOL-USD` | $10.00 | $104.70 | SOL-USD presenta un RSI de 1h en 29.2 saliendo de sobreventa extrema y un cambio de 1h pos... |
 | `2026-10-14 11:20` | 🔴 SELL (-0.09$) | `BTC-USD` | $5.89 | $81874.95 | BTC-USD lleva más de 14 horas abierto con un PnL negativo persistente (-1.51%) y un RSI de... |
 | `2026-10-14 10:50` | 🟢 BUY | `AAPL` | $10.00 | $346.15 | AAPL se encuentra con un excelente momentum alcista intradiario, un incremento de 1.4% en ... |
 | `2026-10-14 10:10` | 🔴 SELL (-0.11$) | `SOL-USD` | $5.89 | $105.41 | La posición en SOL-USD acumula una pérdida cercana al -1.9%, rozando nuestro stop-loss est... |
-| `2026-10-14 02:50` | 🔴 SELL (-0.01$) | `ETH-USD` | $4.99 | $2502.14 | ETH-USD lleva más de 9 horas de holding con PnL plano (-0.25%) y un RSI de 1H en 42.3 sin ... |
 
 ---
 

@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 19.307609025780213,
+  "cash": 29.227379799419182,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
       "avg_price": 346.15,
       "opened_at": "2026-10-14T10:50:41.868687-03:00"
-    },
-    "SOL-USD": {
-      "shares": 0.09551098376313276,
-      "avg_price": 104.7,
-      "opened_at": "2026-10-14T12:30:48.300293-03:00"
     }
   },
   "history": [
@@ -1200,10 +1195,21 @@
       "shares": 0.095511,
       "price": 104.7,
       "reason": "SOL-USD presenta un RSI de 1h en 29.2 saliendo de sobreventa extrema y un cambio de 1h positivo de +0.39%, lo que activa nuestra estrategia de rebote técnico por mean reversion con alta convicción, destinando $10.00 USD."
+    },
+    {
+      "timestamp": "2026-10-14T15:20:43.279690-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 9.92,
+      "shares": 0.095511,
+      "price": 103.86,
+      "pnl_usd": -0.08,
+      "pnl_pct": -0.8,
+      "reason": "SOL-USD lleva varias horas sin mostrar el rebote esperado, su RSI de 1h ha caído hasta 25.0 y la tendencia es bajista. Corto la pérdida anticipadamente para proteger el capital y rotar liquidez."
     }
   ],
   "memory": {
-    "notes": "Mantendré las posiciones de AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Para AAPL, esperaré una aproximación a la zona de sobrecompra en RSI de 1h (>70) o el objetivo de take-profit entre +2.0% y +3.5% para asegurar beneficios. En cuanto a SOL-USD, el RSI de 1h se mantiene deprimido; mantendré la posición actual monitoreando un giro inminente en el momentum intradiario. Si persiste el estancamiento o la pérdida supera el -2.0%, procederé a recortar pérdidas inmediatamente para liberar liquidez y buscar oportunidades en criptomonedas o tecnología.",
-    "updated_at": "2026-10-14T15:10:39.809351-03:00"
+    "notes": "Mantendré AAPL buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por sobrecompra en RSI de 1h (>70). Para SOL-USD, el rebote ha fallado y el RSI de 1h ha vuelto a caer a 25; realizaré una venta de la posición para recortar pérdidas antes de alcanzar el circuit breaker del -2.0% y liberar capital. Con la liquidez obtenida más el efectivo disponible, evaluaré entrar en un activo con mejor momentum intradiario o cripto 24/7.",
+    "updated_at": "2026-10-14T15:20:43.276742-03:00"
   }
 }
