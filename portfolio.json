@@ -1223,7 +1223,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos SOL-USD activa bajo vigilancia estricta, buscando un take-profit entre +2.0% y +3.5% o un stop-loss en -2.0% si el impulso falla. AAPL se retiene ya que el mercado está cerrado. Para el próximo ciclo, evaluaremos la entrada en ETH-USD si su RSI de 1h rebasa los niveles actuales de sobreventa extrema, utilizando nuestra liquidez disponible.",
-    "updated_at": "2026-10-14T18:40:41.915222-03:00"
+    "notes": "Mantendremos la posición de SOL-USD bajo estricta vigilancia buscando un take-profit entre +2.0% y +3.5% o un stop-loss protector si perfora el soporte. AAPL se retiene ya que su mercado está cerrado. Evaluaremos una posible entrada en ETH-USD en los siguientes ciclos si su RSI de 1h confirma una ruptura alcista desde la zona de sobreventa extrema actual, utilizando la liquidez disponible manteniendo el colchón mínimo de efectivo.",
+    "updated_at": "2026-10-14T18:50:52.467345-03:00"
   }
 }
