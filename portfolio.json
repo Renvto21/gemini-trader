@@ -1189,7 +1189,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición en AAPL activa para buscar el take-profit entre +2.0% y +3.5%, vigilando de cerca que el RSI de 1h no colapse y activando el stop-loss si el precio perfora la zona crítica. El efectivo disponible se mantiene en reserva a la espera de que activos en sobreventa extrema (como ETH-USD o SOL-USD) muestren una confirmación clara de reversión alcista con un cambio de 1h positivo.",
-    "updated_at": "2026-10-14T12:01:27.557513-03:00"
+    "notes": "Mantendremos la posición de AAPL activa por ahora, ya que su tendencia diaria sigue siendo alcista sobre la SMA20 y el RSI de 1h se mantiene saludable en 65.2, cerca de la zona de objetivo de take-profit entre +2.0% y +3.5%. El stop-loss para AAPL se vigilará estrictamente si perfora soportes locales. Mantenemos el efectivo restante en reserva a la espera de que los activos en cripto o índices muestren una reversión con cambio de 1h positivo antes de desplegar nuevo capital.",
+    "updated_at": "2026-10-14T12:10:48.287578-03:00"
   }
 }
