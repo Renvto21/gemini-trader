@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de BTC-USD y SOL-USD mientras no alcancen los objetivos de take-profit (+2% a +3.5%) o rompan soportes de stop-loss (-2%). Estaremos atentos a si BTC-USD cruza un RSI de 1H superior a 70 para asegurar ganancias parciales y liberar liquidez para futuras oportunidades.",
-    "updated_at": "2026-10-14T04:20:34.068047-03:00"
+    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca que el RSI de 1H no sobrepase el umbral de 70 para asegurar beneficios parciales de acuerdo con nuestra estrategia de take-profit. La liquidez en efectivo se mantiene preservada esperando un catalizador mayor o una oportunidad en activos abiertos si se intensifica el momentum.",
+    "updated_at": "2026-10-14T04:30:50.488544-03:00"
   }
 }
