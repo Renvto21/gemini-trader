@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 02:31:02`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 02:40:44`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$22.54 USD** | **$17.02 USD** | **$39.56 USD** | 🔴 **-1.10%** ($-0.44) |
+| **$40.00 USD** | **$22.54 USD** | **$17.01 USD** | **$39.54 USD** | 🔴 **-1.14%** ($-0.46) |
 
 ---
 
@@ -16,26 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.001993 | $2508.37 | $2506.14 | $5.00 | 📉 -0.09% | 9h 20m |
-| `BTC-USD` | 0.000072 | $83128.62 | $83533.15 | $6.03 | 📈 +0.49% | 5h 30m |
-| `SOL-USD` | 0.055840 | $107.45 | $107.37 | $6.00 | 📉 -0.07% | 3h 19m |
+| `ETH-USD` | 0.001993 | $2508.37 | $2503.47 | $4.99 | 📉 -0.20% | 9h 30m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83481.18 | $6.03 | 📈 +0.42% | 5h 39m |
+| `SOL-USD` | 0.055840 | $107.45 | $107.26 | $5.99 | 📉 -0.18% | 3h 29m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "Los mercados tradicionales se encuentran cerrados, por lo que toda la actividad se concentra en el mercado de criptomonedas (24/7). Las criptomonedas principales (BTC, ETH, SOL) muestran consolidación tras leves repuntes de 24 horas, con BTC manteniendo un rendimiento positivo leve (+0.49%) mientras que ETH y SOL se encuentran planos o ligeramente negativos (-0.09% y -0.07% respectivamente). El impulso alcista de corto plazo se ha ralentizado, pero mantenemos una postura disciplinada esperando señales de sobrecompra para tomar beneficios o rotación si el momentum decae."
+> "El mercado cripto opera 24/7 con un comportamiento lateral a ligeramente bajista en el corto plazo (cambios de 1h negativos pero con soporte diario consolidándose). Los activos tradicionales permanecen cerrados. Mantenemos posiciones activas en BTC, ETH y SOL, evaluando continuamente el momentum para capturar rebotes o rotar capital si alguna posición se estanca."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 70%): BTC-USD mantiene un leve rendimiento positivo (+0.49%) y un RSI de 1H en 54.8. No ha alcanzado el objetivo de take-profit (+2.0% a +3.5%) ni muestra signos de sobrecompra extrema, por lo que mantenemos la posición para dejar correr el beneficio.
-- **[HOLD] ETH-USD** (Confianza: 60%): ETH-USD se encuentra plano (-0.09%) operando con un holding time de más de 9 horas. Aunque el momentum es débil, no ha tocado el stop-loss del -2.0%, por lo que se mantiene a la espera de un rebote o catalizador antes de decidir su rotación.
-- **[HOLD] SOL-USD** (Confianza: 60%): SOL-USD registra una variación mínima de -0.07% con un RSI diario en sobreventa extrema (28.1). El rebote técnico aún no se materializa con fuerza, pero mantenemos la posición respaldada por la expectativa de reversión a la media en el mediano plazo.
+- **[HOLD] BTC-USD** (Confianza: 75%): BTC-USD muestra una ganancia marginal del +0.42% y se mantiene estable con un RSI 1H en 53.4. Continuamos buscando el objetivo de take-profit entre +2.0% y +3.5% sin necesidad de intervenir prematuramente.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Monitorear de cerca las posiciones abiertas en BTC-USD, ETH-USD y SOL-USD. BTC muestra una ganancia marginal pero estable; ETH y SOL llevan varias horas sin generar momentum fuerte. El objetivo sigue siendo capturar un take-profit entre +2.0% y +3.5%, o salida táctica si el RSI 1H supera 70. Mantener la disciplina en el stop-loss en -2.0% y conservar la reserva de efectivo mínima de $4.00 USD."
+> "Mantener BTC-USD y SOL-USD para buscar la zona de take-profit entre +2.0% y +3.5%. ETH-USD lleva más de 9 horas de holding con PnL plano (-0.2%), por lo que si en el siguiente ciclo no muestra un impulso claro por encima del RSI 1H de 50, procederemos a venderlo para liberar liquidez. El efectivo disponible es de $22.54 USD, superando la reserva mínima de $4.00 USD, lo que nos deja espacio para operar nuevas oportunidades si surge una ruptura fuerte."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca las posiciones abiertas en BTC-USD, ETH-USD y SOL-USD. BTC muestra una ganancia marginal pero estable; ETH y SOL llevan varias horas sin generar momentum fuerte. El objetivo sigue siendo capturar un take-profit entre +2.0% y +3.5%, o salida táctica si el RSI 1H supera 70. Mantener la disciplina en el stop-loss en -2.0% y conservar la reserva de efectivo mínima de $4.00 USD.",
-    "updated_at": "2026-10-14T02:31:02.523130-03:00"
+    "notes": "Mantener BTC-USD y SOL-USD para buscar la zona de take-profit entre +2.0% y +3.5%. ETH-USD lleva más de 9 horas de holding con PnL plano (-0.2%), por lo que si en el siguiente ciclo no muestra un impulso claro por encima del RSI 1H de 50, procederemos a venderlo para liberar liquidez. El efectivo disponible es de $22.54 USD, superando la reserva mínima de $4.00 USD, lo que nos deja espacio para operar nuevas oportunidades si surge una ruptura fuerte.",
+    "updated_at": "2026-10-14T02:40:44.126633-03:00"
   }
 }
