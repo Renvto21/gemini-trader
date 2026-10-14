@@ -1,39 +1,3 @@
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado general muestra un sesgo bajista de corto plazo en los principales índices y criptomonedas, con la mayoría de activos operando por debajo de sus medias móviles de 20 períodos. Sin embargo, en el ecosistema cripto disponible 24/7, los precios se mantienen relativamente estables con ligeras variaciones de 1 hora. BTC-USD mantiene un rendimiento cercano al punto de entrada con un PnL de -0.67% tras 13.5 horas de holding, manteniéndose seguro por encima del umbral de stop-loss estricto del -2.0%."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendremos la posición abierta de BTC-USD mientras el precio respete el soporte y no alcance el stop-loss del -2.0%. Dado que el mercado de valores sigue cerrado y el impulso en criptomonedas permanece moderado sin señales claras de ruptura de RSI por encima de 45, mantendremos el efectivo restante inactivo a la espera de una confirmación más fuerte de volumen o un rebote técnico más agresivo antes de desplegar nuevo capital."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] BTC-USD (Confianza: 65%)
-    Razón: La posición en BTC-USD lleva 13 horas abierta con una pérdida leve de -0.67%, manteniéndose holgadamente dentro de nuestros límites de riesgo y lejos del stop-loss de -2.0%. Esperamos que el RSI de 1H recupere niveles superiores a 45 para buscar un rebote hacia la toma de ganancias.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.37 USD (Cash: $33.41 USD)
-
-[2026-10-14 10:40:39] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $33.41 USD
- Valor en Activos:     $5.98 USD
- Balance Total:        $39.39 USD
- Ganancia/Pérdida:     🔴 $-0.61 USD (-1.52%)
-
- 💼 Posiciones Abiertas:
-   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $82826.2 | Total: $5.98 📉 (-0.36%) [Tiempo: 13h 39m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado de criptomonedas se encuentra operando en un rango lateral con sesgo bajista en temporalidades diarias, aunque con leves intentos de recuperación intradiaria. Los mercados tradicionales de EE.UU. están abiertos, destacando AAPL con un sólido impulso alcista (cambio 1h del 1.49% y RSI diario de 60.9) y QQQ mostrando debilidad de corto plazo con un RSI de 1h en 32.6, abriendo posibles ventanas de rebote técnico. BTC-USD mantiene una postura estable pero estancada tras casi 14 horas."
 
@@ -151,3 +115,39 @@ Balance final del ciclo: $39.34 USD (Cash: $23.41 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.29 USD (Cash: $23.41 USD)
+
+[2026-10-14 11:20:33] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $23.41 USD
+ Valor en Activos:     $15.88 USD
+ Balance Total:        $39.30 USD
+ Ganancia/Pérdida:     🔴 $-0.70 USD (-1.76%)
+
+ 💼 Posiciones Abiertas:
+   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $81874.95 | Total: $5.91 📉 (-1.51%) [Tiempo: 14h 19m]
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $345.26 | Total: $9.97 📉 (-0.26%) [Tiempo: 29m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado general muestra un sentimiento predominantemente bajista de corto plazo con la mayoría de los índices y activos principales cotizando bajo su SMA20 y presentando caídas en la última hora. Sin embargo, AAPL se mantiene fuerte con tendencia alcista sobre la SMA20 y un momentum positivo continuo, resistiendo la debilidad general. Por otro lado, BTC-USD muestra un holding prolongado cercano a las 15 horas con un PnL negativo de -1.51% y un RSI de 1h en 26.1, lo que indica que el rebote esperado no se ha consolidado de manera efectiva."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Bitácora para el siguiente ciclo: Mantendré la posición en AAPL buscando su objetivo de take-profit en +2.5% y protegiendo con stop-loss en -1.5%. En cuanto a BTC-USD, dado el tiempo prolongado sin mostrar la fuerza de rebote esperada y su persistencia en terreno negativo, he decidido liquidar la posición para rotar el capital hacia liquidez o buscar un nuevo activo con mayor dinamismo alcista. Vigilaré las oportunidades en cripto o activos tecnológicos que presenten rupturas claras con RSI saliendo de sobreventa extrema."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [SELL] BTC-USD (Confianza: 85%)
+    Razón: BTC-USD lleva más de 14 horas abierto con un PnL negativo persistente (-1.51%) y un RSI de 1h en 26.1 sin consolidar el rebote esperado. Siguiendo la regla de rotación de capital y gestión de posiciones estancadas, cerramos la operación para proteger el capital y evitar pérdidas mayores.
+    ✅ Venta ejecutada: 7.2e-05 de BTC-USD a $81874.95
+  • Acción: [HOLD] AAPL (Confianza: 80%)
+    Razón: AAPL mantiene una excelente estructura alcista sobre la SMA20, con un incremento de 1.14% en la última hora y un RSI diario saludable de 59.9. Mantenemos la posición buscando alcanzar el objetivo de take-profit entre +2.0% y +3.5%.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.28 USD (Cash: $29.31 USD)

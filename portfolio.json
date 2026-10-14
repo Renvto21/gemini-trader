@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 23.412612625780213,
+  "cash": 29.307609025780213,
   "positions": {
-    "BTC-USD": {
-      "shares": 7.217730788746403e-05,
-      "avg_price": 83128.62,
-      "opened_at": "2026-10-13T21:00:49.831172-03:00"
-    },
     "AAPL": {
       "shares": 0.02888920988010978,
       "avg_price": 346.15,
@@ -1180,10 +1175,21 @@
       "shares": 0.028889,
       "price": 346.15,
       "reason": "AAPL se encuentra con un excelente momentum alcista intradiario, un incremento de 1.4% en la última hora y un RSI de 1H en 62.4 con tendencia alcista sobre la SMA20. Cumple perfectamente con los criterios de alta convicción para capturar impulso de crecimiento acelerado."
+    },
+    {
+      "timestamp": "2026-10-14T11:20:42.110876-03:00",
+      "action": "SELL",
+      "ticker": "BTC-USD",
+      "amount_usd": 5.89,
+      "shares": 7.2e-05,
+      "price": 81874.95,
+      "pnl_usd": -0.09,
+      "pnl_pct": -1.51,
+      "reason": "BTC-USD lleva más de 14 horas abierto con un PnL negativo persistente (-1.51%) y un RSI de 1h en 26.1 sin consolidar el rebote esperado. Siguiendo la regla de rotación de capital y gestión de posiciones estancadas, cerramos la operación para proteger el capital y evitar pérdidas mayores."
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición en AAPL buscando su objetivo de take-profit en +2.5% y protegiendo con stop-loss en -1.5%. Para BTC-USD, el tiempo abierto supera las 14 horas con un rendimiento ligeramente negativo (-1.18%) y un RSI de 1h en 28.6; vigilaré de cerca si consolida el rebote o si rompe la zona de soporte para rotar el capital. Mantendré la reserva de efectivo requerida y buscaré oportunidades agresivas exclusivamente en activos con momentum alcista.",
-    "updated_at": "2026-10-14T11:10:43.813022-03:00"
+    "notes": "Bitácora para el siguiente ciclo: Mantendré la posición en AAPL buscando su objetivo de take-profit en +2.5% y protegiendo con stop-loss en -1.5%. En cuanto a BTC-USD, dado el tiempo prolongado sin mostrar la fuerza de rebote esperada y su persistencia en terreno negativo, he decidido liquidar la posición para rotar el capital hacia liquidez o buscar un nuevo activo con mayor dinamismo alcista. Vigilaré las oportunidades en cripto o activos tecnológicos que presenten rupturas claras con RSI saliendo de sobreventa extrema.",
+    "updated_at": "2026-10-14T11:20:42.109684-03:00"
   }
 }
