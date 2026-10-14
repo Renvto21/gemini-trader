@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 22:32:58`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 22:41:36`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$28.54 USD** | **$10.99 USD** | **$39.53 USD** | 🔴 **-1.17%** ($-0.47) |
+| **$40.00 USD** | **$28.54 USD** | **$10.99 USD** | **$39.53 USD** | 🔴 **-1.18%** ($-0.47) |
 
 ---
 
@@ -16,23 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.001993 | $2508.37 | $2502.23 | $4.99 | 📉 -0.24% | 5h 22m |
-| `BTC-USD` | 0.000072 | $83128.62 | $83210.49 | $6.01 | 📈 +0.10% | 1h 32m |
+| `ETH-USD` | 0.001993 | $2508.37 | $2500.23 | $4.98 | 📉 -0.32% | 5h 30m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83170.57 | $6.00 | 📈 +0.05% | 1h 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "Aviso temporal de Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\nPlease retry in 22h27m2.017388349s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '80822s'}]}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+> "El mercado tradicional se encuentra cerrado, por lo que toda la actividad se concentra exclusivamente en las criptomonedas (BTC-USD y ETH-USD). Ambas posiciones actuales se mantienen estables con ligeras variaciones, operando con un sesgo bajista macro pero intentando consolidar tras los recientes rebotes de corto plazo."
 
 **Operaciones del ciclo:**
-- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
+- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD muestra estabilidad con una pérdida menor del -0.32% tras 5 horas y media de holding. El RSI de 1 hora se encuentra neutral en 51.9. Mantendremos la posición buscando que alcance el objetivo de take-profit del +2.0%.
+- **[HOLD] BTC-USD** (Confianza: 75%): BTC-USD opera prácticamente tablas con un rendimiento de +0.05% y un RSI de 1 hora en 48.0. Continuaremos observando su evolución dentro del rango actual para proteger la posición o asegurar beneficios si se activa el rebote esperado.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
+> "Mantendremos las posiciones actuales en ETH-USD y BTC-USD mientras vigilamos de cerca sus niveles de RSI de 1 hora. Establecemos un objetivo de take-profit en +2.5% para asegurar ganancias rápidas y un stop-loss estricto en -2.0% para evitar pérdidas mayores. Si el momentum en cripto se desacelera por completo y no muestra avances, rotaremos el capital hacia oportunidades con mayor volatilidad en el siguiente ciclo."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
