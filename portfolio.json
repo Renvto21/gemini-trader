@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en BTC-USD y SOL-USD. El take-profit se mantiene en el rango de +2% a +3.5% y el stop-loss estricto en -2.0%. Monitorearemos de cerca el RSI de 1 hora de ETH-USD por si se presenta una oportunidad de entrada con mayor momentum o si debemos rotar capital si BTC o SOL alcanzan sus objetivos.",
-    "updated_at": "2026-10-14T03:20:45.462088-03:00"
+    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD. Monitorearemos que alcancen la zona objetivo de take-profit entre +2.0% y +3.5% o activaremos el stop-loss en caso de caída mayor a -2.0%. Si el mercado de criptomonedas continúa lateralizando sin alcanzar los objetivos en las próximas horas, rotaremos parte del capital hacia activos con mayor momentum.",
+    "updated_at": "2026-10-14T03:31:17.024744-03:00"
   }
 }
