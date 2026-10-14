@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de BTC-USD y SOL-USD activas dado que el holding time aún no muestra estancamiento crítico ni rupturas de soporte del -2.0%. Mantendremos el efectivo bajo supervisión y no forzaremos nuevas entradas hasta que un activo 24/7 muestre un RSI de 1H saliendo con fuerza de sobreventa extrema.",
-    "updated_at": "2026-10-14T08:40:41.993913-03:00"
+    "notes": "Mantendremos las posiciones de BTC-USD y SOL-USD activas. Monitorearemos de cerca si el holding time supera las 15-20 horas sin movimiento relevante, lo cual nos obligará a rotar el capital. Esperaremos un RSI de 1H superando los 60 puntos o cayendo hacia soportes extremos para ajustar posiciones o tomar beneficios.",
+    "updated_at": "2026-10-14T08:50:48.253404-03:00"
   }
 }
