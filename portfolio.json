@@ -1223,7 +1223,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas en AAPL y SOL-USD. AAPL está operando con normalidad a pesar del cierre y muestra un RSI saludable, mientras que SOL-USD se mantiene cerca de su precio de entrada con un RSI de 1h en 29.2 buscando un rebote alcista. Vigilaremos un stop-loss estricto a -2.0% y un take-profit entre +2.0% y +3.5%. No se realizan nuevas compras para conservar la liquidez mínima requerida.",
-    "updated_at": "2026-10-14T17:01:07.193620-03:00"
+    "notes": "Mantendremos las posiciones actuales en AAPL (esperando apertura) y SOL-USD (buscando consolidación y un repunte hacia el take-profit entre +2.0% y +3.5%). Mantendremos un stop-loss estricto a -2.0%. Si SOL-USD rompe a la baja el soporte actual o AAPL muestra debilidad en la apertura, procederemos a cortar pérdidas o rotar capital hacia oportunidades de mayor impulso.",
+    "updated_at": "2026-10-14T17:11:00.897372-03:00"
   }
 }
