@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 16:30:49`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 16:40:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.23 USD** | **$19.91 USD** | **$39.14 USD** | 🔴 **-2.15%** ($-0.86) |
+| **$40.00 USD** | **$19.23 USD** | **$19.91 USD** | **$39.14 USD** | 🔴 **-2.16%** ($-0.86) |
 
 ---
 
@@ -16,23 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $343.16 | $9.91 | 📉 -0.86% | 5h 40m |
-| `SOL-USD` | 0.095785 | $104.40 | $104.40 | $10.00 | 📈 +0.00% | 0m |
+| `AAPL` | 0.028889 | $346.15 | $343.91 | $9.94 | 📉 -0.65% | 5h 50m |
+| `SOL-USD` | 0.095785 | $104.40 | $104.13 | $9.97 | 📉 -0.26% | 9m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado se encuentra mayoritariamente bajista bajo las medias móviles de 20 periodos, pero con indicadores de RSI de 1 hora extremadamente comprimidos en varios activos. AAPL se mantiene estable con tendencia alcista diaria y un RSI de 1h en 55.3, acumulando una leve pérdida temporal que no rompe el soporte operativo. En el ecosistema cripto, SOL-USD muestra un RSI de 1h en 30.9 con un ligero cambio positivo de +0.16% en la última hora, lo que sugiere un potencial punto de entrada para un rebote técnico rápido."
+> "El mercado muestra un sesgo general bajista en el corto plazo con varios índices y criptomonedas operando por debajo de sus medias móviles de 20 periodos y niveles de RSI de 1 hora comprimidos. Sin embargo, AAPL se mantiene firme con tendencia alcista y un RSI de 1h saludable en 57.0. En el sector cripto, SOL-USD y BTC-USD presentan sobreventa en el corto plazo, pero la acción del precio exige prudencia y estricto control de riesgo."
 
 **Operaciones del ciclo:**
-- **[BUY] SOL-USD** (Confianza: 86%): SOL-USD presenta un RSI de 1h en 30.9 saliendo de la zona de compresión y un cambio positivo de 1h de +0.16%, lo que activa nuestra estrategia de rebote técnico rápido (mean reversion) aprovechando la liquidez disponible.
+- *Sin cambios en este ciclo (HOLD)*
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendré la posición en AAPL vigilando de cerca que no perfore la zona de soporte y buscando un take-profit en el rango de +2.0% a +3.5%. En cuanto a SOL-USD, el RSI de 1h se encuentra saliendo de zona de compresión y genera una oportunidad táctica de rebote de corto plazo; asignaré capital fresco para capturar este movimiento con un stop-loss estricto si perfora los mínimos recientes."
+> "Mantendré la posición en AAPL buscando el objetivo de take-profit en el rango de +2.0% a +3.5%, vigilando que no pierda su soporte técnico. Para SOL-USD, la posición lleva pocos minutos abierta y el RSI de 1h se mantiene cerca de zona de compresión (28.8); mantendré un stop-loss estricto a -2.0% y evaluaré rotar capital si el impulso rebota hacia la zona de sobrecompra."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
