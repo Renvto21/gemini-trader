@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 11:20:42`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 11:30:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$29.31 USD** | **$9.97 USD** | **$39.28 USD** | 🔴 **-1.80%** ($-0.72) |
+| **$40.00 USD** | **$29.31 USD** | **$10.00 USD** | **$39.30 USD** | 🔴 **-1.74%** ($-0.70) |
 
 ---
 
@@ -16,23 +16,22 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $345.26 | $9.97 | 📉 -0.26% | 30m |
+| `AAPL` | 0.028889 | $346.15 | $346.04 | $10.00 | 📉 -0.03% | 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general muestra un sentimiento predominantemente bajista de corto plazo con la mayoría de los índices y activos principales cotizando bajo su SMA20 y presentando caídas en la última hora. Sin embargo, AAPL se mantiene fuerte con tendencia alcista sobre la SMA20 y un momentum positivo continuo, resistiendo la debilidad general. Por otro lado, BTC-USD muestra un holding prolongado cercano a las 15 horas con un PnL negativo de -1.51% y un RSI de 1h en 26.1, lo que indica que el rebote esperado no se ha consolidado de manera efectiva."
+> "El mercado general se encuentra bajo presión bajista en la mayoría de los activos tecnológicos y criptomonedas, con múltiples índices y criptos mostrando RSI de 1 hora en niveles de sobreventa o cercanos a ella. Sin embargo, AAPL se mantiene fuerte con tendencia alcista sobre su SMA20 y un RSI diario saludable, consolidándose como nuestra única posición activa por el momento mientras el resto del mercado busca soporte."
 
 **Operaciones del ciclo:**
-- **[SELL] BTC-USD** (Confianza: 85%): BTC-USD lleva más de 14 horas abierto con un PnL negativo persistente (-1.51%) y un RSI de 1h en 26.1 sin consolidar el rebote esperado. Siguiendo la regla de rotación de capital y gestión de posiciones estancadas, cerramos la operación para proteger el capital y evitar pérdidas mayores.
-- **[HOLD] AAPL** (Confianza: 80%): AAPL mantiene una excelente estructura alcista sobre la SMA20, con un incremento de 1.14% en la última hora y un RSI diario saludable de 59.9. Mantenemos la posición buscando alcanzar el objetivo de take-profit entre +2.0% y +3.5%.
+- **[HOLD] AAPL** (Confianza: 75%): AAPL mantiene una tendencia alcista sobre la SMA20, con un cambio de 24h positivo del 1.4% y un RSI de 1h en 66.6, cerca de la zona de sobrecompra donde buscaremos tomar ganancias. La posición lleva solo 40 minutos abierta y evoluciones favorables respaldan mantenerla.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Bitácora para el siguiente ciclo: Mantendré la posición en AAPL buscando su objetivo de take-profit en +2.5% y protegiendo con stop-loss en -1.5%. En cuanto a BTC-USD, dado el tiempo prolongado sin mostrar la fuerza de rebote esperada y su persistencia en terreno negativo, he decidido liquidar la posición para rotar el capital hacia liquidez o buscar un nuevo activo con mayor dinamismo alcista. Vigilaré las oportunidades en cripto o activos tecnológicos que presenten rupturas claras con RSI saliendo de sobreventa extrema."
+> "Bitácora para el siguiente ciclo: Mantendré la posición abierta en AAPL, vigilando su aproximación al objetivo de take-profit en +2.5% o protegiendo con un stop-loss estricto en -1.5%. El efectivo restante de $29.31 se mantendrá en reserva temporalmente a la espera de confirmaciones de rebote en activos como QQQ o criptomonedas que muestren un RSI de 1 hora saliendo de sobreventa extrema con cambio positivo."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
