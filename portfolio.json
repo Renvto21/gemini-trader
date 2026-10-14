@@ -1143,7 +1143,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición actual en ETH-USD vigilando de cerca su soporte. Si ETH-USD no muestra impulso alcista en las siguientes horas o rompe el -2.0% de pérdida, rotaré el capital. He abierto una nueva posición de compra en BTC-USD para aprovechar el sesgo de rebote técnico de corto plazo. Estableceré take-profit entre +2.0% y +3.5% y stop-loss estricto en -2.0% para ambas posiciones de criptomonedas.",
-    "updated_at": "2026-10-13T21:00:49.653919-03:00"
+    "notes": "Mantendremos las posiciones abiertas en BTC-USD y ETH-USD supervisando de cerca el cumplimiento de nuestros objetivos. Si BTC-USD o ETH-USD alcanzan la zona de take-profit entre +2.0% y +3.5%, o si su RSI de 1H supera 70, procederemos a asegurar ganancias inmediatamente. Si alguna de las posiciones rompe el stop-loss estricto de -2.0%, cortaremos la pérdida de inmediato y rotaremos el capital hacia oportunidades con mayor dinamismo en cripto.",
+    "updated_at": "2026-10-13T21:10:44.824327-03:00"
   }
 }
