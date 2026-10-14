@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 19:00:51`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 19:10:41`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$9.23 USD** | **$29.93 USD** | **$39.16 USD** | 🔴 **-2.10%** ($-0.84) |
+| **$40.00 USD** | **$9.23 USD** | **$29.87 USD** | **$39.10 USD** | 🔴 **-2.26%** ($-0.90) |
 
 ---
 
@@ -16,25 +16,26 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 8h 10m |
-| `SOL-USD` | 0.095785 | $104.40 | $104.67 | $10.03 | 📈 +0.26% | 2h 30m |
-| `ETH-USD` | 0.004135 | $2418.34 | $2418.34 | $10.00 | 📈 +0.00% | 0m |
+| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 8h 20m |
+| `SOL-USD` | 0.095785 | $104.40 | $104.36 | $10.00 | 📉 -0.04% | 2h 39m |
+| `ETH-USD` | 0.004135 | $2418.34 | $2409.81 | $9.96 | 📉 -0.35% | 9m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de acciones tradicionales se encuentra cerrado, limitando la operativa a criptomonedas que operan 24/7. SOL-USD mantiene un comportamiento lateral con un ligero repunte positivo (+0.06% en 1h y RSI de 1h en 34.0), cotizando ligeramente por encima de nuestro precio de entrada con un PnL de +0.26%. ETH-USD muestra un RSI de 1h extremadamente bajo en 22.0 con un cambio de 1h de +0.05%, lo que indica una potencial zona de sobreventa extrema óptima para cazar un rebote técnico inminente usando parte de la liquidez disponible."
+> "El mercado accionario de EE.UU. se encuentra cerrado con la mayoría de activos bajo presión y tendencia bajista de corto plazo. En el ecosistema de criptomonedas (abierto 24/7), tanto SOL-USD como ETH-USD muestran niveles de RSI de 1 hora deprimidos (32.3 y 20.4 respectivamente), manteniendo condiciones de sobreventa que sugieren una potencial consolidación antes de un rebote técnico. Mantendremos las posiciones actuales para permitir su desarrollo, vigilando de cerca los niveles de stop-loss y take-profit."
 
 **Operaciones del ciclo:**
-- **[BUY] ETH-USD** (Confianza: 85%): ETH-USD presenta un RSI de 1h en 22.0 (sobreventa extrema) y un cambio de 1h que comienza a tornarse positivo (+0.05%), cumpliendo con la estrategia agresiva de mean reversion y captura de rebotes técnicos con alta convicción.
-- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD muestra un PnL positivo actual de +0.26% con un RSI de 1h en recuperación (34.0). Se mantiene en cartera a la espera de alcanzar el objetivo de take-profit de +2.0% a +3.5%.
+- **[HOLD] SOL-USD** (Confianza: 65%): SOL-USD se mantiene operando dentro de un rango estrecho con un RSI de 1h en 32.3, consolidando tras la reciente entrada. Se mantiene la posición en busca del rebote técnico hacia la zona de take-profit.
+- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD presenta un RSI de 1h extremadamente bajo en 20.4, reflejando sobreventa profunda. Mantendremos la posición para capturar el esperado rebote de reversión a la media sin sobreexponer el capital.
+- **[HOLD] AAPL** (Confianza: 60%): El mercado de AAPL se encuentra cerrado. La posición se mantiene con una pérdida menor de -0.92% a la espera de la apertura para evaluar su comportamiento técnico.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener SOL-USD en vigilancia estricta buscando la zona de take-profit entre +2.0% y +3.5% o protegiendo con stop-loss si perfora el soporte operativo. Ejecutar compra de ETH-USD aprovechando su RSI de 1h en sobreventa extrema (22.0) y su incipiente giro positivo de corto plazo. Conservar AAPL al estar su mercado cerrado. Asegurar que la reserva de efectivo se mantenga cercana al límite mínimo de $4.00 USD."
+> "Mantener posiciones en AAPL, SOL-USD y ETH-USD en vigilancia estricta. Monitorear los niveles de take-profit entre +2.0% y +3.5% para asegurar ganancias y activar stop-loss si alguna posición perfora el límite de -2.0%. La liquidez actual de efectivo se mantiene en $9.23 USD, cumpliendo con la reserva mínima requerida. Esperar la apertura de los mercados tradicionales para evaluar rotaciones adicionales en acciones."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
