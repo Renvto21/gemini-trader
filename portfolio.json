@@ -1209,7 +1209,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré AAPL buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por sobrecompra en RSI de 1h (>70). Para SOL-USD, el rebote ha fallado y el RSI de 1h ha vuelto a caer a 25; realizaré una venta de la posición para recortar pérdidas antes de alcanzar el circuit breaker del -2.0% y liberar capital. Con la liquidez obtenida más el efectivo disponible, evaluaré entrar en un activo con mejor momentum intradiario o cripto 24/7.",
-    "updated_at": "2026-10-14T15:20:43.276742-03:00"
+    "notes": "Mantendré la posición de AAPL vigilando de cerca que el RSI de 1h no caiga por debajo de 45 y buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por sobrecompra (>70). Dado que los activos cripto como BTC-USD y SOL-USD se encuentran en sobreventa extrema pero sin un cambio de 1h positivo confirmado, esperaré a que el RSI de 1h cruce al alza junto con un cambio de 1h positivo antes de arriesgar capital en ellos. Mantendré la disciplina en el stop-loss estricto (-2.0%) para AAPL.",
+    "updated_at": "2026-10-14T15:30:46.592712-03:00"
   }
 }
