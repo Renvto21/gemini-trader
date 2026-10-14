@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, ETH-USD y SOL-USD mientras continúen con su estructura de rebote de corto plazo. Vigilar el RSI de 1 hora de cada activo: si superan los 70 o alcanzan un PnL de +2.0% a +3.5%, ejecutar la toma de beneficios para rotar capital. Mantener el stop-loss estricto en -2.0% y asegurar una reserva mínima de efectivo de $4.00 USD. No realizar nuevas compras en este ciclo para consolidar el portafolio actual.",
-    "updated_at": "2026-10-14T00:40:43.171890-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, ETH-USD y SOL-USD mientras continúen escalando hacia la zona objetivo de take-profit del +2.0% al +3.5% o alcancen un RSI de 1 hora superior a 70. Vigilar de cerca el comportamiento del precio para asegurar ganancias rápidamente y rotar capital según las reglas de momentum. El stop-loss estricto se mantiene en -2.0% y se preserva una reserva de liquidez adecuada.",
+    "updated_at": "2026-10-14T00:50:40.287381-03:00"
   }
 }
