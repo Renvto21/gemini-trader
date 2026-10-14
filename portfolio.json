@@ -1223,7 +1223,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición de SOL-USD monitoreando de cerca el soporte y buscando un take-profit entre +2.0% y +3.5%, estableciendo un stop-loss estricto en -2.0%. AAPL permanece cerrado, por lo que mantendremos la posición actual esperando su reapertura. Mantendremos liquidez en efectivo mínima requerida y evaluaremos rotación si SOL-USD pierde momento.",
-    "updated_at": "2026-10-14T17:20:50.518978-03:00"
+    "notes": "Mantendremos la posición de SOL-USD monitoreando su soporte actual y vigilando que no rompa el stop-loss estricto en -2.0%. AAPL permanece cerrado y lo mantendremos a la espera de su apertura. Si SOL-USD no muestra un rebote y su RSI de 1h sigue deprimido, procederemos a rotar el capital hacia liquidez o buscar una mejor entrada en el siguiente ciclo. Mantendremos liquidez en reserva para capturar oportunidades de alta convicción.",
+    "updated_at": "2026-10-14T17:30:50.358052-03:00"
   }
 }
