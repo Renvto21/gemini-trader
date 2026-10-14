@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD evaluando su cercanía a niveles de sobrecompra en 1H para asegurar beneficios si rozan el objetivo de +2.0% o más. Mantendremos la liquidez en reserva ante posibles cambios bruscos de momentum en el mercado cripto o aperturas futuras en activos tradicionales.",
-    "updated_at": "2026-10-14T05:20:39.197078-03:00"
+    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca el RSI de 1H en BTC-USD para asegurar beneficios en cuanto supere 70 o alcance el objetivo de +2.0%. Mantendremos la liquidez en reserva para entradas tácticas ante cualquier corrección.",
+    "updated_at": "2026-10-14T05:30:43.812355-03:00"
   }
 }
