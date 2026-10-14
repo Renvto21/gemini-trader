@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de BTC-USD y SOL-USD vigilando de cerca el nivel de stop-loss del -2.0%. El holding time ya supera las 10 horas y el momentum es débil, por lo que si las pérdidas se acercan al límite crítico o el RSI de 1H cae por debajo de 35 sin signos de reacción, procederemos a liquidar de inmediato para preservar efectivo y buscar nuevas oportunidades de rotación.",
-    "updated_at": "2026-10-14T09:50:49.566946-03:00"
+    "notes": "Mantendremos BTC-USD y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Si SOL-USD rompe a la baja procederemos a liquidar inmediatamente para proteger efectivo y buscar nuevas entradas.",
+    "updated_at": "2026-10-14T10:00:45.866011-03:00"
   }
 }
