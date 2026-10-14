@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 16:10:50`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 16:20:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$29.23 USD** | **$9.90 USD** | **$39.13 USD** | 🔴 **-2.18%** ($-0.87) |
+| **$40.00 USD** | **$29.23 USD** | **$9.91 USD** | **$39.14 USD** | 🔴 **-2.15%** ($-0.86) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.76 | $9.90 | 📉 -0.98% | 5h 20m |
+| `AAPL` | 0.028889 | $346.15 | $343.16 | $9.91 | 📉 -0.86% | 5h 30m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general se encuentra bajo presión con la mayoría de los activos tecnológicos y criptomonedas mostrando tendencias bajistas en gráficos diarios. Sin embargo, se observan niveles de sobreventa extrema en marcos de tiempo de 1 hora (RSI inferior a 25-30) en varios índices y criptos, lo que sugiere posibles oportunidades de rebote técnico de corto plazo si el momentum intradiario da la vuelta."
+> "El mercado general muestra un sesgo bajista en el corto plazo con varios activos probando condiciones de sobreventa en gráficos de 1 hora (RSI bajo 30). Sin embargo, AAPL se mantiene resistente con tendencia alcista y un RSI de 1h saludable en 56.9, consolidándose por encima de su SMA20. Los mercados tradicionales están abiertos y las criptomonedas muestran una ligera recuperación en el cambio de 1h, pero sin la fuerza direccional necesaria para forzar nuevas entradas inmediatas."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 70%): La posición en AAPL lleva más de 5 horas abierta con una pérdida menor (-0.98%), pero se mantiene sobre su SMA20 en tendencia alcista diaria y un RSI de 1h en 55.9. Mantendremos la posición buscando alcanzar el objetivo de take-profit sin alterar el capital innecesariamente.
+- **[HOLD] AAPL** (Confianza: 75%): AAPL mantiene una tendencia alcista diaria sólida y un RSI de 1h en 56.9. Aunque registra una leve pérdida temporal (-0.86%), el activo se encuentra dentro del rango esperado sin romper soportes críticos, por lo que mantengo la posición buscando el objetivo de take-profit.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantengo la posición en AAPL por su tendencia alcista diaria y un RSI de 1h saludable (55.9), vigilando de cerca el objetivo de take-profit entre +2.0% y +3.5% o el stop-loss si perfora soportes. Dado que los mercados tradicionales están abiertos pero con sesgo bajista y sin confirmación clara de giro, prefiero conservar la liquidez actual y no forzar entradas prematuras en cripto o tech hasta ver un cambio positivo en el change_1h_pct."
+> "Mantendré la posición abierta en AAPL ya que lleva más de 5 horas operando de manera estable con tendencia alcista y sin romper soporte. Establezco mi objetivo de take-profit entre +2.0% y +3.5% (aproximadamente $350.00) y un stop-loss estricto si perfora la zona de los $336.00. Para los siguientes ciclos, vigilaré posibles oportunidades de rebote en Cripto (como BTC-USD o SOL-USD) solo si el RSI de 1h confirma una salida clara de sobreventa con un change_1h_pct más robusto."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
