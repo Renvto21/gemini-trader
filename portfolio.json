@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas en BTC-USD y SOL-USD. El objetivo de take-profit se mantiene entre +2.0% y +3.5% y el stop-loss en -2.0%. Estaremos vigilando de cerca el comportamiento del RSI de 1h; si se acercan a zonas de sobrecompra (>70) ejecutaremos las ventas parciales o totales para asegurar ganancias, y si rompen los soportes a la baja recortaremos pérdidas de inmediato.",
-    "updated_at": "2026-10-14T04:00:53.342936-03:00"
+    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD ya que muestran un comportamiento estable y rentabilidades cercanas al equilibrio, con BTC con un pequeño PnL positivo. Vigilaremos de cerca si BTC-USD se acerca al rango de sobrecompra en 1h (>70) para tomar ganancias parciales, o si SOL-USD rompe los soportes a la baja para activar el stop-loss. Mantendremos liquidez en reserva para futuras oportunidades de alta convicción.",
+    "updated_at": "2026-10-14T04:10:42.479734-03:00"
   }
 }
