@@ -1,36 +1,3 @@
-"Mantendremos las posiciones actuales de BTC-USD y SOL-USD. Vigilaremos de cerca el RSI de 1H de BTC-USD para asegurar beneficios si supera el nivel de 70. El efectivo disponible se mantiene protegido a la espera de una mayor confirmación de momentum en ETH-USD o una ruptura clara en los activos cripto."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] BTC-USD (Confianza: 80%)
-    Razón: La posición acumula una ganancia modesta y un RSI de 1H en 61.3. Esperamos que alcance la zona de sobrecompra (>70) para ejecutar una toma de beneficios parcial o total.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 75%)
-    Razón: La posición se mantiene estable con un PnL cercano a 0%. El RSI diario en sobreventa extrema (29.3) respalda mantener la posición a la espera del rebote técnico.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.55 USD (Cash: $27.53 USD)
-
-[2026-10-14 05:10:33] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $27.53 USD
- Valor en Activos:     $12.13 USD
- Balance Total:        $39.65 USD
- Ganancia/Pérdida:     🔴 $-0.35 USD (-0.87%)
-
- 💼 Posiciones Abiertas:
-   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $84054.9 | Total: $6.07 📈 (+1.11%) [Tiempo: 8h 9m]
-   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $108.5 | Total: $6.06 📈 (+0.98%) [Tiempo: 5h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado de Wall Street se encuentra cerrado, por lo que la liquidez activa se concentra en criptomonedas. BTC-USD y SOL-USD muestran un avance positivo en el PnL actual (~1.11% y ~0.98%), acercándose a nuestras metas iniciales de take-profit. ETH-USD muestra un impulso interesante con un RSI de 1H en 62.1 y cambio positivo en 1h, pero por ahora mantendremos el efectivo listo ante cualquier corrección."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -151,3 +118,36 @@ Balance final del ciclo: $39.58 USD (Cash: $27.53 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.56 USD (Cash: $27.53 USD)
+
+[2026-10-14 05:50:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $27.53 USD
+ Valor en Activos:     $11.99 USD
+ Balance Total:        $39.52 USD
+ Ganancia/Pérdida:     🔴 $-0.48 USD (-1.21%)
+
+ 💼 Posiciones Abiertas:
+   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $83327.93 | Total: $6.01 📈 (+0.24%) [Tiempo: 8h 49m]
+   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $107.0 | Total: $5.97 📉 (-0.42%) [Tiempo: 6h 39m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] PORTFOLIO (Confianza: 100%)
+    Razón: Error temporal de conexión, manteniendo posiciones de forma segura.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.52 USD (Cash: $27.53 USD)

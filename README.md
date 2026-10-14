@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 05:40:57`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 05:50:55`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$27.53 USD** | **$12.03 USD** | **$39.56 USD** | 🔴 **-1.10%** ($-0.44) |
+| **$40.00 USD** | **$27.53 USD** | **$11.99 USD** | **$39.52 USD** | 🔴 **-1.21%** ($-0.48) |
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $83616.40 | $6.04 | 📈 +0.59% | 8h 40m |
-| `SOL-USD` | 0.055840 | $107.45 | $107.43 | $6.00 | 📉 -0.02% | 6h 29m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83327.93 | $6.01 | 📈 +0.24% | 8h 50m |
+| `SOL-USD` | 0.055840 | $107.45 | $107.00 | $5.97 | 📉 -0.42% | 6h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se mantiene abierto 24/7 con un comportamiento lateral a ligeramente alcista en las últimas horas. BTC-USD registra una ganancia del 0.59% acercándose a niveles de resistencia con un RSI de 1H en 63.4, mientras que SOL-USD se mantiene plano con un RSI diario en sobreventa extrema (29.4) pero sin el momentum explosivo necesario todavía. Los mercados tradicionales están cerrados."
+> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 75%): BTC-USD muestra una ganancia del +0.59% tras más de 8 horas de holding. El RSI de 1H está en 63.4, acercándose a la zona de sobrecompra para asegurar beneficios, por lo que mantenemos la posición esperando el objetivo de +2.0%.
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD se mantiene estable con un PnL cercano a 0%. Aunque el momentum es lento, el RSI diario en 29.4 justifica mantener la posición en busca del rebote técnico esperado.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones de BTC-USD y SOL-USD vigilando de cerca el take-profit en BTC-USD si el RSI de 1H supera 70 o si la ganancia alcanza el objetivo de +2.0%. SOL-USD se mantendrá con un stop-loss estricto a -2.0% ante la falta de aceleración rápida."
+> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
