@@ -1143,7 +1143,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de BTC-USD y ETH-USD mientras evolucionan hacia nuestro objetivo de take-profit (+2.0% a +3.5%) o un RSI de 1H superior a 70. El stop-loss se mantiene estricto en -2.0% para proteger el capital. Preservaremos la liquidez actual por encima de $4.00 USD y evaluaremos la entrada en SOL-USD si su RSI diario de 28.1 confirma un rebote técnico más claro en el corto plazo.",
-    "updated_at": "2026-10-13T22:00:51.244781-03:00"
+    "notes": "Mantendremos las posiciones actuales en ETH-USD y BTC-USD mientras se acercan al objetivo de take-profit (+2.0% a +3.5%) o un RSI de 1H superior a 70. El stop-loss se mantiene estricto en -2.0%. La liquidez se preserva por encima del mínimo requerido ($4.00 USD), y evaluaremos nuevas entradas solo si se presenta una oportunidad de alta convicción en activos abiertos.",
+    "updated_at": "2026-10-13T22:10:35.532251-03:00"
   }
 }
