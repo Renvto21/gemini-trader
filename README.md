@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 10:30:53`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 10:40:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$33.41 USD** | **$5.96 USD** | **$39.37 USD** | 🔴 **-1.57%** ($-0.63) |
+| **$40.00 USD** | **$33.41 USD** | **$5.98 USD** | **$39.39 USD** | 🔴 **-1.52%** ($-0.61) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $82575.17 | $5.96 | 📉 -0.67% | 13h 30m |
+| `BTC-USD` | 0.000072 | $83128.62 | $82826.20 | $5.98 | 📉 -0.36% | 13h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general muestra un sesgo bajista de corto plazo en los principales índices y criptomonedas, con la mayoría de activos operando por debajo de sus medias móviles de 20 períodos. Sin embargo, en el ecosistema cripto disponible 24/7, los precios se mantienen relativamente estables con ligeras variaciones de 1 hora. BTC-USD mantiene un rendimiento cercano al punto de entrada con un PnL de -0.67% tras 13.5 horas de holding, manteniéndose seguro por encima del umbral de stop-loss estricto del -2.0%."
+> "El mercado de criptomonedas se encuentra operando en un rango lateral con sesgo bajista en temporalidades diarias, aunque con leves intentos de recuperación intradiaria. Los mercados tradicionales de EE.UU. están abiertos, destacando AAPL con un sólido impulso alcista (cambio 1h del 1.49% y RSI diario de 60.9) y QQQ mostrando debilidad de corto plazo con un RSI de 1h en 32.6, abriendo posibles ventanas de rebote técnico. BTC-USD mantiene una postura estable pero estancada tras casi 14 horas."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 65%): La posición en BTC-USD lleva 13 horas abierta con una pérdida leve de -0.67%, manteniéndose holgadamente dentro de nuestros límites de riesgo y lejos del stop-loss de -2.0%. Esperamos que el RSI de 1H recupere niveles superiores a 45 para buscar un rebote hacia la toma de ganancias.
+- **[HOLD] BTC-USD** (Confianza: 60%): La posición en BTC-USD lleva más de 13 horas abierta con una pérdida marginal de -0.36%. El precio respeta el soporte actual y no ha activado el stop-loss, por lo que se mantiene para permitir que desarrolle el rebote esperado.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos la posición abierta de BTC-USD mientras el precio respete el soporte y no alcance el stop-loss del -2.0%. Dado que el mercado de valores sigue cerrado y el impulso en criptomonedas permanece moderado sin señales claras de ruptura de RSI por encima de 45, mantendremos el efectivo restante inactivo a la espera de una confirmación más fuerte de volumen o un rebote técnico más agresivo antes de desplegar nuevo capital."
+> "Mantendré la posición actual en BTC-USD monitoreando que no rompa el soporte crítico ni supere el stop-loss del -2.0%. Dado que AAPL muestra un fuerte momentum alcista en mercado abierto con un RSI saludable, evaluaré tomar una posición en el próximo ciclo si mantiene el empuje, mientras mantengo el resto del efectivo en reserva táctica."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
