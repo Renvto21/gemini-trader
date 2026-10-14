@@ -1203,7 +1203,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos AAPL y SOL-USD bajo estrecha supervisión aplicando un stop-loss estricto a -2.0% si el impulso falla o los soportes ceden. Conservaremos el efectivo disponible ($19.31) para asegurar una liquidez prudente, esperando confirmaciones adicionales de volumen y RSI antes de incrementar la exposición o abrir nuevas posiciones.",
-    "updated_at": "2026-10-14T13:11:04.921844-03:00"
+    "notes": "Mantendremos las posiciones actuales de AAPL y SOL-USD bajo estrecha vigilancia, respetando estrictamente el stop-loss del -2.0% y buscando toma de ganancias si el RSI de 1 hora rebota hacia la sobrecompra. El efectivo disponible de $19.31 se mantendrá en reserva a la espera de confirmaciones de volumen y giro de tendencia antes de incrementar la exposición.",
+    "updated_at": "2026-10-14T13:20:41.002950-03:00"
   }
 }
