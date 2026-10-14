@@ -1237,7 +1237,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en SOL-USD y ETH-USD mientras no rompan el soporte crítico del -2.0%. Vigilar de cerca el RSI de 1 hora en ambos criptoactivos para asegurar ganancias parciales o salir si pierden fuerza. Monitorear también la posición de AAPL ante la reapertura del mercado accionario y preparar liquidez para posibles rotaciones tácticas.",
-    "updated_at": "2026-10-14T20:10:43.249091-03:00"
+    "notes": "Mantener las posiciones actuales en AAPL, SOL-USD y ETH-USD mientras respeten el umbral de pérdida del -2.0%. Estar atentos a la apertura del mercado bursátil para evaluar la evolución de AAPL y vigilar de cerca el RSI de 1h en SOL y ETH buscando el catalizador de volumen alcista que confirme el rebote por sobreventa. Si alguna posición rompe soportes críticos, procederemos a la venta inmediata.",
+    "updated_at": "2026-10-14T20:20:47.951165-03:00"
   }
 }

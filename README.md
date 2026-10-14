@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 20:10:43`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 20:20:47`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$9.23 USD** | **$29.89 USD** | **$39.12 USD** | 🔴 **-2.20%** ($-0.88) |
+| **$40.00 USD** | **$9.23 USD** | **$29.89 USD** | **$39.11 USD** | 🔴 **-2.22%** ($-0.89) |
 
 ---
 
@@ -16,24 +16,26 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 9h 20m |
-| `SOL-USD` | 0.095785 | $104.40 | $104.38 | $10.00 | 📉 -0.02% | 3h 39m |
-| `ETH-USD` | 0.004135 | $2418.34 | $2415.43 | $9.99 | 📉 -0.12% | 1h 9m |
+| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 9h 30m |
+| `SOL-USD` | 0.095785 | $104.40 | $104.30 | $9.99 | 📉 -0.10% | 3h 49m |
+| `ETH-USD` | 0.004135 | $2418.34 | $2415.38 | $9.99 | 📉 -0.12% | 1h 19m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario se encuentra cerrado, por lo que toda la atención se centra en las criptomonedas (ABIERTO 24/7), las cuales muestran una tendencia general bajista pero con indicadores de sobreventa extrema en el RSI de 1 hora. SOL-USD y ETH-USD se mantienen con pérdidas mínimas y en fase de consolidación a la espera de un rebote técnico. AAPL está en cartera con una pérdida contenida del -0.92% a la espera de la reapertura de Wall Street."
+> "El mercado general se encuentra mayoritariamente cerrado, con los índices tradicionales y acciones en pausa. Las criptomonedas operan 24/7 mostrando un sesgo bajista continuado de corto plazo con niveles de sobreventa profundos (RSI de 1h muy bajos en BTC, ETH y SOL), aunque sin un momentum positivo confirmado en la última hora que valide un rebote inmediato. Mantenemos una postura defensiva pero pacientes ante nuestras posiciones abiertas recientes en cripto y acciones."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD se mantiene estable con una pérdida marginal del -0.02% tras 3.6 horas de tenencia. Su RSI de 1h se sitúa en 34.5, cerca de la zona de compresión, por lo que es prudente mantener y buscar el rebote esperado.
+- **[HOLD] SOL-USD** (Confianza: 70%): La posición lleva pocas horas abierta con una pérdida marginal de -0.1%. Aunque el RSI de 1h está bajo (33.7), la tendencia general sigue bajista; sin embargo, no amerita corte de pérdida prematuro al estar muy cerca del precio de entrada y mantenernos dentro del plan táctico.
+- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD presenta sobreventa extrema en RSI de 1h (22.5) pero sin confirmación de giro alcista en la última hora. Mantenemos la posición a la espera del desarrollo del rebote técnico sin sobrepasar los límites de riesgo.
+- **[HOLD] AAPL** (Confianza: 70%): El mercado de acciones está cerrado, congelando el precio de AAPL con una ligera pérdida del -0.92%. Se mantiene en cartera a la espera de la reapertura de Wall Street para evaluar su comportamiento frente al soporte.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones abiertas en SOL-USD y ETH-USD mientras no rompan el soporte crítico del -2.0%. Vigilar de cerca el RSI de 1 hora en ambos criptoactivos para asegurar ganancias parciales o salir si pierden fuerza. Monitorear también la posición de AAPL ante la reapertura del mercado accionario y preparar liquidez para posibles rotaciones tácticas."
+> "Mantener las posiciones actuales en AAPL, SOL-USD y ETH-USD mientras respeten el umbral de pérdida del -2.0%. Estar atentos a la apertura del mercado bursátil para evaluar la evolución de AAPL y vigilar de cerca el RSI de 1h en SOL y ETH buscando el catalizador de volumen alcista que confirme el rebote por sobreventa. Si alguna posición rompe soportes críticos, procederemos a la venta inmediata."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
