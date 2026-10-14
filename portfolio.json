@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos BTC-USD y SOL-USD en este ciclo ya que se mantienen por encima de los límites estrictos de stop-loss del -2.0%. Si BTC-USD se acerca al objetivo de take-profit (+2%) o si SOL-USD rompe a la baja el soporte diario con un RSI debilitado, procederemos a rotar el capital hacia liquidez o nuevas oportunidades. La liquidez actual se mantendrá en reserva estricta para evitar sobreexposición en un mercado lateral.",
-    "updated_at": "2026-10-14T07:20:48.240855-03:00"
+    "notes": "Mantendremos las posiciones actuales en BTC-USD y SOL-USD al no haberse activado ningún stop-loss ni alcanzado el objetivo de take-profit. Monitorearemos de cerca el comportamiento del RSI de 1H en ambos activos para buscar salidas rápidas en caso de sobrecompra o proteger el capital si el impulso bajista diario presiona los precios. La liquidez en efectivo se mantendrá en reserva estricta hasta el próximo ciclo.",
+    "updated_at": "2026-10-14T07:30:45.830790-03:00"
   }
 }
