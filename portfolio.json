@@ -1203,7 +1203,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré las posiciones actuales en AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Si AAPL se acerca a la zona de sobrecompra en RSI de 1h (>70) o logra un take-profit entre +2.0% y +3.5%, procederé a tomar ganancias. Para SOL-USD, esperaré una confirmación de giro en el momentum intradiario; de persistir el estancamiento, rotaré el capital hacia oportunidades con mejor tracción.",
-    "updated_at": "2026-10-14T14:50:43.733867-03:00"
+    "notes": "Mantendré las posiciones de AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Para AAPL, esperaré una aproximación a la zona de sobrecompra en RSI de 1h (>70) o el objetivo de take-profit entre +2.0% y +3.5% para asegurar beneficios. En cuanto a SOL-USD, el RSI de 1h ha vuelto a caer a 26.1; mantendré la posición actual monitoreando un giro inminente en el momentum intradiario. Si persiste el estancamiento o la pérdida supera el -2.0%, procederé a recortar pérdidas inmediatamente para liberar liquidez.",
+    "updated_at": "2026-10-14T15:00:52.587343-03:00"
   }
 }
