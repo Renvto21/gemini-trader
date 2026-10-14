@@ -1189,7 +1189,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición abierta en AAPL bajo supervisión directa, vigilando que respete el soporte actual y se acerque al objetivo de take-profit entre +2.0% y +3.5%, o activando el stop-loss estricto si perfora niveles críticos. El efectivo disponible ($29.31) se mantiene temporalmente a la espera de que activos como BTC o ETH salgan de la sobreventa extrema en RSI de 1h y muestren una reversión clara de precio con un cambio de 1h positivo antes de reintentar una compra.",
-    "updated_at": "2026-10-14T11:50:48.277928-03:00"
+    "notes": "Mantendremos la posición en AAPL activa para buscar el take-profit entre +2.0% y +3.5%, vigilando de cerca que el RSI de 1h no colapse y activando el stop-loss si el precio perfora la zona crítica. El efectivo disponible se mantiene en reserva a la espera de que activos en sobreventa extrema (como ETH-USD o SOL-USD) muestren una confirmación clara de reversión alcista con un cambio de 1h positivo.",
+    "updated_at": "2026-10-14T12:01:27.557513-03:00"
   }
 }
