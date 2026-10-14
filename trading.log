@@ -1,43 +1,3 @@
-    Razón: BTC-USD muestra un comportamiento estable con un PnL positivo del 0.22% tras su reciente compra. El RSI de 1H se sitúa en 51.4 y el cambio de 24h es positivo (+1.9%), por lo que mantenemos la posición a la espera de que se acerque al objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 70%)
-    Razón: ETH-USD registra una ligera pérdida de -0.15%, manteniendo una alta estabilidad tras más de 6 horas en cartera. El RSI de 1H en 51.8 y el repunte del 2.47% en 24h respaldan mantener la posición buscando un rebote mayor.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 70%)
-    Razón: SOL-USD se encuentra prácticamente plano (-0.01%) tras su reciente apertura, respaldado por un RSI diario en sobreventa extrema (28.3). Mantenemos la posición para capturar el esperado rebote técnico de reversión a la media.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.55 USD (Cash: $22.54 USD)
-
-[2026-10-13 23:50:39] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $22.54 USD
- Valor en Activos:     $17.02 USD
- Balance Total:        $39.56 USD
- Ganancia/Pérdida:     🔴 $-0.44 USD (-1.09%)
-
- 💼 Posiciones Abiertas:
-   • ETH-USD: 0.001993 u. | Compra: $2508.37 | Actual: $2506.34 | Total: $5.0 📈 (-0.08%) [Tiempo: 6h 40m]
-   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $83431.73 | Total: $6.02 📈 (+0.36%) [Tiempo: 2h 49m]
-   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $107.56 | Total: $6.01 📈 (+0.10%) [Tiempo: 39m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado de criptomonedas se encuentra operando de forma activa con un sesgo ligeramente positivo en el corto plazo (cambios de 1h positivos en BTC, ETH y SOL), aunque mantenidos bajo sus medias móviles de 20 periodos en el gráfico diario. Los mercados tradicionales permanecen cerrados. Las posiciones actuales muestran estabilidad con ligeras ganancias o pérdidas contenidas, por lo que se prioriza mantener la exposición y vigilar de cerca los niveles objetivo de take-profit sin apresurarse a cerrar posiciones prematuramente."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones actuales en BTC-USD, ETH-USD y SOL-USD. Vigilar que el RSI de 1 hora se mantenga estable y buscar la toma de beneficios (take-profit) si se alcanza el rango del +2.0% al +3.5%. Conservar la liquidez actual como reserva y estar atentos a cualquier ruptura de soporte en los activos cripto para cortar pérdidas a tiempo."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] BTC-USD (Confianza: 80%)
     Razón: BTC-USD se encuentra con un rendimiento positivo del 0.36% y un RSI de 1h equilibrado en 54.2. El holding time es de aproximadamente 2 horas y 49 minutos, por lo que el rebote sigue su curso esperado sin señales de agotamiento.
     ⏸️ Manteniendo posición actual sin cambios.
   • Acción: [HOLD] ETH-USD (Confianza: 75%)
@@ -151,3 +111,43 @@ Balance final del ciclo: $39.58 USD (Cash: $22.54 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.58 USD (Cash: $22.54 USD)
+
+[2026-10-14 00:30:47] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $22.54 USD
+ Valor en Activos:     $17.09 USD
+ Balance Total:        $39.63 USD
+ Ganancia/Pérdida:     🔴 $-0.37 USD (-0.92%)
+
+ 💼 Posiciones Abiertas:
+   • ETH-USD: 0.001993 u. | Compra: $2508.37 | Actual: $2515.67 | Total: $5.01 📈 (+0.29%) [Tiempo: 7h 20m]
+   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $83812.16 | Total: $6.05 📈 (+0.82%) [Tiempo: 3h 30m]
+   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $107.93 | Total: $6.03 📈 (+0.45%) [Tiempo: 1h 19m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado cripto se mantiene operando 24/7 con un tono ligeramente positivo en las últimas horas (BTC-USD y SOL-USD con cambios positivos cercanos al 0.3% en 1h y +2.5% en 24h). Los activos tradicionales (acciones y ETFs) se encuentran cerrados, por lo que toda la atención táctica se centra en la gestión de nuestras posiciones abiertas en criptomonedas. Los indicadores de RSI en 1 hora se acercan a zonas de control sin sobrecompra extrema aún (alrededor de 59-64), permitiendo mantener las posiciones actuales a la espera de alcanzar el objetivo de take-profit entre +2.0% y +3.5%."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales de BTC-USD, SOL-USD y ETH-USD ya que muestran un comportamiento estable con ganancias marginales. Monitorear de cerca el RSI de 1 hora de cada activo: si se acercan o superan los 70 o si el PnL alcanza el rango de +2.0% a +3.5%, ejecutar la toma de beneficios total o parcial para acumular efectivo. El stop-loss se mantiene estricto en -2.0% para proteger el capital."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] BTC-USD (Confianza: 80%)
+    Razón: La posición muestra un rendimiento positivo (+0.82%) y un RSI de 1h en 63.3, acercándose al rango objetivo de take-profit sin mostrar signos de agotamiento bajista inmediato. Se mantiene para buscar la meta de ganancia.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] ETH-USD (Confianza: 75%)
+    Razón: ETH-USD opera con un PnL positivo moderado (+0.29%) y un RSI de 1h en 59.4. Se mantiene en cartera a la espera de que el impulso alcista fortalezca el rebote técnico hacia la zona de beneficios.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] SOL-USD (Confianza: 75%)
+    Razón: SOL-USD presenta un PnL de +0.45% y un RSI de 1h en 64.3, reflejando el rebote esperado desde la sobreventa diaria. Se mantiene la posición para capturar el objetivo de take-profit.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.63 USD (Cash: $22.54 USD)

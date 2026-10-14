@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear las posiciones de BTC-USD, SOL-USD y ETH-USD. Esperar a que el RSI de 1 hora supere los 70 o que alcancen la banda objetivo de ganancia de +2.0% a +3.5% para proceder con la toma parcial o total de beneficios y acumular liquidez. Mantener el stop-loss estricto en -2.0% para proteger el capital.",
-    "updated_at": "2026-10-14T00:20:38.313484-03:00"
+    "notes": "Mantener las posiciones actuales de BTC-USD, SOL-USD y ETH-USD ya que muestran un comportamiento estable con ganancias marginales. Monitorear de cerca el RSI de 1 hora de cada activo: si se acercan o superan los 70 o si el PnL alcanza el rango de +2.0% a +3.5%, ejecutar la toma de beneficios total o parcial para acumular efectivo. El stop-loss se mantiene estricto en -2.0% para proteger el capital.",
+    "updated_at": "2026-10-14T00:30:53.878649-03:00"
   }
 }
