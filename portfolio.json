@@ -1143,7 +1143,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en ETH-USD y BTC-USD mientras vigilamos de cerca sus niveles de RSI de 1 hora. Establecemos un objetivo de take-profit en +2.5% para asegurar ganancias rápidas y un stop-loss estricto en -2.0% para evitar pérdidas mayores. Si el momentum en cripto se desacelera por completo y no muestra avances, rotaremos el capital hacia oportunidades con mayor volatilidad en el siguiente ciclo.",
-    "updated_at": "2026-10-13T22:41:36.684304-03:00"
+    "notes": "Mantendremos las posiciones actuales en ETH-USD y BTC-USD vigilando que alcancen el objetivo de take-profit entre +2.0% y +3.5%, o recortando inmediatamente si el RSI de 1 hora vuelve a caer por debajo de 35 o el PnL toca el stop-loss de -2.0%. La liquidez en efectivo se mantiene en $28.54 USD listos para futuras oportunidades.",
+    "updated_at": "2026-10-13T22:51:30.592823-03:00"
   }
 }
