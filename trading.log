@@ -1,39 +1,3 @@
-  • Acción: [HOLD] BTC-USD (Confianza: 75%)
-    Razón: La posición en BTC-USD se mantiene con un rendimiento positivo del +0.33% tras 6 horas de holding. El RSI de 1 hora se ubica en 52.5 de forma neutral y el precio muestra estabilidad. Mantenemos la posición a la espera del objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 70%)
-    Razón: SOL-USD registra una leve pérdida del -0.29% con un holding de casi 4 horas. El RSI diario se encuentra en niveles de sobreventa profunda (27.5), lo que respalda la tesis de rebote técnico. Mantenemos la posición para permitir que el momentum se materialice.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.53 USD (Cash: $27.53 USD)
-
-[2026-10-14 03:10:31] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $27.53 USD
- Valor en Activos:     $11.99 USD
- Balance Total:        $39.52 USD
- Ganancia/Pérdida:     🔴 $-0.48 USD (-1.20%)
-
- 💼 Posiciones Abiertas:
-   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $83334.23 | Total: $6.01 📈 (+0.25%) [Tiempo: 6h 9m]
-   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $107.06 | Total: $5.98 📉 (-0.36%) [Tiempo: 3h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado de Wall Street se encuentra cerrado, por lo que la liquidez activa se concentra exclusivamente en las criptomonedas (BTC-USD, ETH-USD y SOL-USD). Las criptomonedas muestran un comportamiento lateral a ligeramente alcista en las últimas 24 horas, pero sin la fuerza de momentum intradiario necesaria para alcanzar los objetivos de take-profit en este ciclo. Las posiciones actuales se mantienen estables con ligeras variaciones sin activar stop-loss ni sobrecompra."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendremos las posiciones actuales en BTC-USD y SOL-USD por el momento, ya que operan dentro de rangos normales de consolidación sin alcanzar el take-profit (+2% a +3.5%) ni el stop-loss (-2%). Esperaremos al próximo ciclo para buscar oportunidades de rotación si el RSI de 1 hora de ETH o SOL muestra señales claras de rebote desde niveles de sobreventa."
-
-⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] BTC-USD (Confianza: 70%)
     Razón: BTC-USD mantiene un PnL positivo de +0.25% tras más de 6 horas de holding. El RSI de 1 hora se encuentra neutral en 51.0 y no hay señales de debilidad estructural que justifiquen una salida anticipada, manteniéndolo en busca del objetivo de take-profit.
     ⏸️ Manteniendo posición actual sin cambios.
@@ -147,6 +111,42 @@ Balance final del ciclo: $39.53 USD (Cash: $27.53 USD)
     ⏸️ Manteniendo posición actual sin cambios.
   • Acción: [HOLD] SOL-USD (Confianza: 75%)
     Razón: La posición en SOL-USD registra una variación menor (-0.34%) dentro de los márgenes normales de oscilación intradía. El RSI diario se mantiene profundamente deprimido en 27.3, respaldando la tesis de un rebote técnico inminente. No hay razones para cortar la operación prematuramente.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.52 USD (Cash: $27.53 USD)
+
+[2026-10-14 03:50:28] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $27.53 USD
+ Valor en Activos:     $11.99 USD
+ Balance Total:        $39.52 USD
+ Ganancia/Pérdida:     🔴 $-0.48 USD (-1.20%)
+
+ 💼 Posiciones Abiertas:
+   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $83351.2 | Total: $6.02 📈 (+0.27%) [Tiempo: 6h 49m]
+   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $107.03 | Total: $5.98 📉 (-0.39%) [Tiempo: 4h 39m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado accionario tradicional se encuentra cerrado, por lo que toda la atención y liquidez operativa se centra en los criptoactivos (BTC-USD, SOL-USD y ETH-USD). El sentimiento general en cripto muestra un impulso moderado tras las recientes recuperaciones de 24 horas, aunque el momentum de muy corto plazo (1 hora) se ha enfriado ligeramente con variaciones planas. Mantenemos una postura de vigilancia estricta sobre nuestras posiciones abiertas para asegurar ganancias si rozan el objetivo o recortar si pierden soporte."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Las posiciones en BTC-USD y SOL-USD se mantienen activas tras varias horas de holding con un rendimiento moderadamente estable. Mantendremos el objetivo de take-profit entre +2.0% y +3.5% y un stop-loss estricto en -2.0%. Si en los próximos ciclos el momentum de 1h sigue sin despegar, consideraremos rotar parte del capital para buscar mayores oportunidades en otros activos o reentrar con mayor fuerza si se confirma una ruptura alcista."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] BTC-USD (Confianza: 65%)
+    Razón: BTC-USD muestra una ligera ganancia (+0.27%) tras casi 7 horas de holding. El RSI de 1H está en 51.4 y el de 24h es positivo (+1.94%). Mantenemos la posición a la espera de que el precio acelere hacia la zona de take-profit.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] SOL-USD (Confianza: 60%)
+    Razón: SOL-USD registra una pequeña pérdida (-0.39%) en un rango de consolidación tras 4.5 horas. El RSI diario se mantiene bajo (27.1), sugiriendo potencial de rebote a mediano plazo. Mantenemos el stop-loss estricto sin sobrepasar los límites de riesgo.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.
