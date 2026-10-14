@@ -1143,7 +1143,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas en BTC-USD y ETH-USD supervisando de cerca el cumplimiento de nuestros objetivos de take-profit entre +2.0% y +3.5%, o si su RSI de 1H supera 70 para asegurar ganancias de inmediato. El stop-loss estricto se mantiene en -2.0% para proteger el capital. No realizaremos nuevas entradas en este ciclo para preservar la liquidez mínima y observar el desarrollo del momentum en cripto.",
-    "updated_at": "2026-10-13T21:20:40.416247-03:00"
+    "notes": "Mantendremos las posiciones actuales en ETH-USD y BTC-USD mientras se aproximan a nuestros objetivos de take-profit entre +2.0% y +3.5%, o hasta que el RSI de 1H supere 70 para asegurar beneficios. El stop-loss estricto se mantiene firme en -2.0%. Dado que el efectivo disponible de reserva se mantiene saludable en $28.54 USD y las posiciones actuales muestran un rendimiento estable, no realizaremos nuevas compras en este ciclo para evitar sobreexponer el portafolio en una tendencia bajista de marco temporal diario.",
+    "updated_at": "2026-10-13T21:30:46.191439-03:00"
   }
 }
