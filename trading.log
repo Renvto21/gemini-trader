@@ -1,39 +1,3 @@
- Ganancia/Pérdida:     🔴 $-0.62 USD (-1.56%)
-
- 💼 Posiciones Abiertas:
-   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $82648.73 | Total: $5.97 📉 (-0.58%) [Tiempo: 13h 9m]
-   • SOL-USD: 0.05584 u. | Compra: $107.45 | Actual: $105.41 | Total: $5.89 📉 (-1.90%) [Tiempo: 10h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado cripto se encuentra operando en fin de semana con un sesgo lateral a ligeramente bajista. BTC y SOL muestran debilidad temporal bajo sus medias móviles, acercándose de manera peligrosa a los límites de stop-loss estipulados. Los mercados tradicionales (Wall Street) se encuentran cerrados, por lo que toda la acción y enfoque táctico se mantiene exclusivamente en los pares de criptomonedas abiertos 24/7."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendremos por el momento BTC-USD vigilando de cerca su soporte, pero se ha decidido liquidar SOL-USD tras rozar el límite de stop-loss del -2.0% y mostrar un holding time de casi 11 horas sin un rebote consistente. Rotaremos el capital hacia liquidez o buscaremos un punto de entrada más sólido cuando el RSI de 1H muestre una recuperación superior a 45 con volumen comprador."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [SELL] SOL-USD (Confianza: 90%)
-    Razón: La posición en SOL-USD acumula una pérdida cercana al -1.9%, rozando nuestro stop-loss estricto del -2.0%. Tras casi 11 horas de holding sin la recuperación esperada, ejecutamos la venta para cortar pérdidas, proteger el capital restante y mantener liquidez para futuras oportunidades.
-    ✅ Venta ejecutada: 0.05584 de SOL-USD a $105.41
-  • Acción: [HOLD] BTC-USD (Confianza: 60%)
-    Razón: BTC-USD mantiene una pérdida moderada de -0.58% con un holding time de más de 13 horas. Aunque el momentum es débil, el RSI de 1H se sitúa en 41 y aún no rompe el stop-loss estricto. Esperaremos confirmación de volumen o un rebote técnico antes de tomar una decisión de salida.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.38 USD (Cash: $33.41 USD)
-
-[2026-10-14 10:20:36] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $33.41 USD
- Valor en Activos:     $5.94 USD
- Balance Total:        $39.36 USD
  Ganancia/Pérdida:     🔴 $-0.64 USD (-1.61%)
 
  💼 Posiciones Abiertas:
@@ -151,3 +115,39 @@ Balance final del ciclo: $39.39 USD (Cash: $33.41 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.40 USD (Cash: $23.41 USD)
+
+[2026-10-14 11:00:44] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $23.41 USD
+ Valor en Activos:     $15.93 USD
+ Balance Total:        $39.34 USD
+ Ganancia/Pérdida:     🔴 $-0.66 USD (-1.66%)
+
+ 💼 Posiciones Abiertas:
+   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $82278.89 | Total: $5.94 📉 (-1.02%) [Tiempo: 14h 0m]
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $345.69 | Total: $9.99 📉 (-0.13%) [Tiempo: 10m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado muestra un tono mayoritariamente bajista o lateral en las principales criptomonedas y tecnología, aunque algunos valores como AAPL se mantienen firmes con tendencia alcista sobre la SMA20. Los mercados de acciones de EE. UU. se encuentran ABIERTOS. BTC-USD muestra un rebote leve en el RSI de 1 hora tras estar bajo presión, mientras que AAPL consolida su impulso inicial de corto plazo."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendré la posición de AAPL buscando el objetivo de take-profit en +2.5% y protegiendo con stop-loss en -1.5%. Vigilaré de cerca a BTC-USD y su soporte actual; si rompe a la baja o supera las 16 horas con rendimiento plano, rotaré el capital hacia oportunidades con mejor momentum intradiario. Mantendré la reserva de efectivo requerida y buscaré entradas tácticas en activos con RSI de 1 hora saliendo de sobreventa."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] BTC-USD (Confianza: 60%)
+    Razón: BTC-USD lleva 14 horas abierto con una pérdida leve de -1.02%. El RSI de 1 hora está en 30.5 saliendo de zona de sobreventa, por lo que le daremos un ciclo más para confirmar el rebote técnico antes de tomar una decisión de venta.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] AAPL (Confianza: 80%)
+    Razón: AAPL mantiene una excelente tendencia alcista sobre la SMA20, con un RSI de 1 hora saludable en 61.4 y un incremento intradiario positivo. Mantenemos la posición para buscar el objetivo de take-profit.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.34 USD (Cash: $23.41 USD)

@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 10:50:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 11:00:54`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$23.41 USD** | **$15.98 USD** | **$39.40 USD** | 🔴 **-1.51%** ($-0.60) |
+| **$40.00 USD** | **$23.41 USD** | **$15.93 USD** | **$39.34 USD** | 🔴 **-1.66%** ($-0.66) |
 
 ---
 
@@ -16,23 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $82885.89 | $5.98 | 📉 -0.29% | 13h 49m |
-| `AAPL` | 0.028889 | $346.15 | $346.15 | $10.00 | 📈 +0.00% | 0m |
+| `BTC-USD` | 0.000072 | $83128.62 | $82278.89 | $5.94 | 📉 -1.02% | 14h 0m |
+| `AAPL` | 0.028889 | $346.15 | $345.69 | $9.99 | 📉 -0.13% | 10m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general muestra una sesgo bajista en varios activos principales, pero AAPL destaca con un fuerte momentum alcista intradiario (+1.4% en 1h y RSI saludable de 62.4) en mercado abierto. En cripto, BTC-USD mantiene una estabilidad lateral con un PnL plano tras casi 14 horas, mientras que los mercados bursátiles abren oportunidades claras en acciones con tendencia fuerte."
+> "El mercado muestra un tono mayoritariamente bajista o lateral en las principales criptomonedas y tecnología, aunque algunos valores como AAPL se mantienen firmes con tendencia alcista sobre la SMA20. Los mercados de acciones de EE. UU. se encuentran ABIERTOS. BTC-USD muestra un rebote leve en el RSI de 1 hora tras estar bajo presión, mientras que AAPL consolida su impulso inicial de corto plazo."
 
 **Operaciones del ciclo:**
-- **[BUY] AAPL** (Confianza: 88%): AAPL se encuentra con un excelente momentum alcista intradiario, un incremento de 1.4% en la última hora y un RSI de 1H en 62.4 con tendencia alcista sobre la SMA20. Cumple perfectamente con los criterios de alta convicción para capturar impulso de crecimiento acelerado.
+- **[HOLD] BTC-USD** (Confianza: 60%): BTC-USD lleva 14 horas abierto con una pérdida leve de -1.02%. El RSI de 1 hora está en 30.5 saliendo de zona de sobreventa, por lo que le daremos un ciclo más para confirmar el rebote técnico antes de tomar una decisión de venta.
+- **[HOLD] AAPL** (Confianza: 80%): AAPL mantiene una excelente tendencia alcista sobre la SMA20, con un RSI de 1 hora saludable en 61.4 y un incremento intradiario positivo. Mantenemos la posición para buscar el objetivo de take-profit.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendré la posición actual en BTC-USD vigilando de cerca el soporte y el stop-loss estricto del -2.0%. Aprovecharé la liquidez disponible para abrir una posición táctica en AAPL aprovechando su fuerte impulso alcista intradiario y tendencia diaria positiva. Estableceré take-profit en AAPL al alcanzar +2.5% y stop-loss ante cualquier pérdida mayor a -1.5%."
+> "Mantendré la posición de AAPL buscando el objetivo de take-profit en +2.5% y protegiendo con stop-loss en -1.5%. Vigilaré de cerca a BTC-USD y su soporte actual; si rompe a la baja o supera las 16 horas con rendimiento plano, rotaré el capital hacia oportunidades con mejor momentum intradiario. Mantendré la reserva de efectivo requerida y buscaré entradas tácticas en activos con RSI de 1 hora saliendo de sobreventa."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
