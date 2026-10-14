@@ -1,36 +1,3 @@
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $29.23 USD
- Valor en Activos:     $9.91 USD
- Balance Total:        $39.14 USD
- Ganancia/Pérdida:     🔴 $-0.86 USD (-2.15%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $343.09 | Total: $9.91 📉 (-0.88%) [Tiempo: 5h 10m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado general se encuentra bajo presión bajista con la mayoría de los activos cotizando por debajo de su SMA20 y RSI en niveles bajos, reflejando cautela. AAPL muestra resiliencia con tendencia alcista y se mantiene estable en cartera. No se observan entradas claras en cripto ya que los RSI de 1h se mantienen deprimidos y sin la confirmación de volumen necesaria para cazar rebotes agresivos."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendré la posición en AAPL vigilando de cerca la zona de take-profit entre +2.0% y +3.5% o activando stop-loss si perfora soportes. Mantendré la reserva de efectivo disponible y esperaré una confirmación alcista más clara con volumen y ruptura de RSI en activos 24/7 para desplegar nuevo capital."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] AAPL (Confianza: 80%)
-    Razón: La posición en AAPL mantiene una tendencia alcista sobre su SMA20 y un comportamiento estable a pesar del entorno macro bajista. Seguiremos supervisando el objetivo de take-profit sin apresurar la salida.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.14 USD (Cash: $29.23 USD)
-
-[2026-10-14 16:10:41] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
 =======================================================
  Capital Inicial:      $40.00 USD
  Efectivo Disponible:  $29.23 USD
@@ -151,3 +118,36 @@ Balance final del ciclo: $39.14 USD (Cash: $19.23 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.14 USD (Cash: $19.23 USD)
+
+[2026-10-14 16:50:37] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $19.23 USD
+ Valor en Activos:     $19.92 USD
+ Balance Total:        $39.15 USD
+ Ganancia/Pérdida:     🔴 $-0.85 USD (-2.13%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $344.17 | Total: $9.94 📉 (-0.57%) [Tiempo: 6h 0m]
+   • SOL-USD: 0.095785 u. | Compra: $104.4 | Actual: $104.17 | Total: $9.98 📉 (-0.22%) [Tiempo: 19m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado se encuentra mayoritariamente bajista en el corto plazo con varios activos probando zonas de sobreventa en el RSI de 1 hora, reflejando oportunidades potenciales de rebote técnico. No obstante, mantenemos una postura de cautela y estricta disciplina en la gestión de riesgo para proteger el capital ante movimientos erráticos."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendré la posición abierta en AAPL ya que muestra un RSI de 1h saludable (57.5) y tendencia alcista, vigilando de cerca el objetivo de take-profit entre +2.0% y +3.5%. Para SOL-USD, el RSI de 1h ha vuelto a comprimir en 28.9; mantendré la posición con un stop-loss estricto a -2.0% y evaluaré rotar el capital si el impulso rebota hacia la sobrecompra o si se estanca nuevamente."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] AAPL (Confianza: 80%)
+    Razón: AAPL mantiene una tendencia alcista sobre la SMA20 con un RSI de 1h en 57.5, operando de manera favorable y acercándose al rango objetivo de take-profit.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.15 USD (Cash: $19.23 USD)

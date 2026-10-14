@@ -1223,7 +1223,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición en AAPL buscando el objetivo de take-profit en el rango de +2.0% a +3.5%, vigilando que no pierda su soporte técnico. Para SOL-USD, la posición lleva pocos minutos abierta y el RSI de 1h se mantiene cerca de zona de compresión (28.8); mantendré un stop-loss estricto a -2.0% y evaluaré rotar capital si el impulso rebota hacia la zona de sobrecompra.",
-    "updated_at": "2026-10-14T16:40:43.397420-03:00"
+    "notes": "Mantendré la posición abierta en AAPL ya que muestra un RSI de 1h saludable (57.5) y tendencia alcista, vigilando de cerca el objetivo de take-profit entre +2.0% y +3.5%. Para SOL-USD, el RSI de 1h ha vuelto a comprimir en 28.9; mantendré la posición con un stop-loss estricto a -2.0% y evaluaré rotar el capital si el impulso rebota hacia la sobrecompra o si se estanca nuevamente.",
+    "updated_at": "2026-10-14T16:50:44.142284-03:00"
   }
 }
