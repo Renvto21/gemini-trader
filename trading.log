@@ -1,39 +1,3 @@
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 6h 51m]
-   • SOL-USD: 0.095785 u. | Compra: $104.4 | Actual: $103.77 | Total: $9.94 📉 (-0.60%) [Tiempo: 1h 11m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado de Wall Street se encuentra cerrado, por lo que toda la actividad se concentra en los criptoactivos que operan 24/7. Las criptomonedas principales (BTC-USD, ETH-USD y SOL-USD) muestran un sesgo bajista en el corto plazo con RSI de 1h deprimidos pero sin una señal clara de giro alcista inmediato. SOL-USD mantiene un rendimiento ligeramente negativo (-0.6%) y un RSI de 1h en 27.3, situándose cerca del límite de stop-loss estricto pero sin romperlo todavía. Mantendremos la paciencia sobre las posiciones abiertas actuales."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendremos las posiciones de AAPL y SOL-USD vigilando de cerca el stop-loss estricto en -2.0%. Para SOL-USD, si el RSI de 1h se mantiene comprimido y rompe la zona de soporte actual con pérdidas mayores al -2.0%, procederemos a vender inmediatamente para proteger el capital. No realizaremos nuevas compras hasta observar un cambio de tendencia real en el RSI de 1h de los activos abiertos o una clara confirmación de rebote."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] SOL-USD (Confianza: 60%)
-    Razón: SOL-USD mantiene una pérdida pequeña de -0.6% con un RSI de 1h en 27.3. Aunque está débil, aún no alcanza el nivel crítico de stop-loss del -2.0% y se prefiere mantener para evaluar si logra el rebote técnico esperado.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.07 USD (Cash: $19.23 USD)
-
-[2026-10-14 17:50:37] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $19.23 USD
- Valor en Activos:     $19.86 USD
- Balance Total:        $39.08 USD
- Ganancia/Pérdida:     🔴 $-0.92 USD (-2.29%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 7h 0m]
    • SOL-USD: 0.095785 u. | Compra: $104.4 | Actual: $103.86 | Total: $9.95 📉 (-0.52%) [Tiempo: 1h 19m]
 =======================================================
 
@@ -151,3 +115,39 @@ Balance final del ciclo: $39.07 USD (Cash: $19.23 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.09 USD (Cash: $19.23 USD)
+
+[2026-10-14 18:30:40] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $19.23 USD
+ Valor en Activos:     $19.90 USD
+ Balance Total:        $39.13 USD
+ Ganancia/Pérdida:     🔴 $-0.87 USD (-2.18%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 7h 40m]
+   • SOL-USD: 0.095785 u. | Compra: $104.4 | Actual: $104.34 | Total: $9.99 📉 (-0.06%) [Tiempo: 1h 59m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado general muestra un sentimiento predominantemente bajista en temporalidades diarias, con los principales índices y acciones tecnológicas cerrados y operando por debajo de sus medias móviles de 20 periodos. En el ecosistema cripto, que permanece abierto 24/7, observamos condiciones de sobreventa generalizadas con RSI de 1 hora deprimidos, lo que presenta oportunidades tácticas de rebote para activos como SOL-USD, aunque con alta volatilidad y presión bajista macro."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendremos SOL-USD ya que muestra un ligero cambio positivo de 1h (+0.35%) y se mantiene estable cerca de nuestra zona de entrada, vigilando de cerca el stop-loss estricto en -2.0% y un objetivo de take-profit entre +2.0% y +3.5%. AAPL sigue en cartera por estar el mercado cerrado y mantener una tendencia macro alcista sólida. Para el próximo ciclo, si SOL-USD rompe a la baja o se estanca sin momentum, procederemos a liquidarla para liberar capital hacia criptomonedas con mejor impulso alcista."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] SOL-USD (Confianza: 70%)
+    Razón: SOL-USD muestra un cambio de 1h positivo (+0.35%) y un RSI de 1h en 28.6 intentando estabilizarse tras la reciente compra. Mantenemos la posición para permitir que desarrolle el rebote técnico esperado, respetando estrictamente nuestro nivel de stop-loss.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] AAPL (Confianza: 75%)
+    Razón: El mercado de Wall Street se encuentra cerrado, por lo que no es posible operar acciones tradicionales. AAPL se mantiene en cartera bajo una tendencia macro alcista sólida sobre la SMA20.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.13 USD (Cash: $19.23 USD)
