@@ -1223,7 +1223,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos AAPL ya que el mercado está cerrado. Para SOL-USD, el RSI de 1h se encuentra en 27.7 y el cambio de 1h es ligeramente negativo (-0.22%), rozando nuestro límite de stop-loss estricto de -2.0% general o vigilando de cerca que no extienda sus pérdidas. Si SOL-USD rompe a la baja con mayor fuerza o continúa estancado sin mostrar el rebote esperado, procederemos a vender en el próximo ciclo para proteger el capital. Estaremos atentos a ETH-USD por si muestra una clara señal de giro en su RSI de 1h (actualmente en 22.2) para una posible rotación de capital.",
-    "updated_at": "2026-10-14T17:50:48.379596-03:00"
+    "notes": "Mantendremos AAPL debido a que el mercado está cerrado. Para SOL-USD, el RSI de 1h ha caído nuevamente a 25.0 a pesar del intento de rebote previo, manteniéndose cerca del límite de stop-loss. Lo vigilaremos de cerca y si no muestra una recuperación rápida en el próximo ciclo, procederemos a vender para rotar el capital. Mantendremos la liquidez disponible de $19.23 dólares esperando una confirmación de giro alcista más clara en ETH-USD o BTC-USD antes de desplegar nuevas compras agresivas.",
+    "updated_at": "2026-10-14T18:00:55.995337-03:00"
   }
 }
