@@ -1237,7 +1237,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en AAPL, SOL-USD y ETH-USD mientras respeten el umbral de pérdida del -2.0%. Estar atentos a la apertura del mercado bursátil para evaluar la evolución de AAPL y vigilar de cerca el RSI de 1h en SOL y ETH buscando el catalizador de volumen alcista que confirme el rebote por sobreventa. Si alguna posición rompe soportes críticos, procederemos a la venta inmediata.",
-    "updated_at": "2026-10-14T20:20:47.951165-03:00"
+    "notes": "Monitorear de cerca SOL-USD y ETH-USD en los siguientes ciclos en busca de la ruptura del RSI de 1h por encima de 40 y un cambio de 1h positivo para validar el rebote técnico. Mantener AAPL en cartera debido al cierre de mercado. Vigilar el efectivo disponible ($9.23 USD) para posibles entradas de alta convicción si el mercado cripto genera un patrón claro de reversión.",
+    "updated_at": "2026-10-14T20:30:44.247989-03:00"
   }
 }
