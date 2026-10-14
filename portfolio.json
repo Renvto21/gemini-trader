@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD en este ciclo, vigilando de cerca si el RSI de 1H se aproxima a sobrecompra (>70) para realizar tomas de beneficios parciales o totales. Si SOL-USD o BTC-USD pierden soporte y su PnL cae por debajo de -1.5%, consideraremos recortar posiciones para preservar capital. Evaluaremos nuevas entradas en cripto solo si se presentan oportunidades de alta convicción con liquidez disponible.",
-    "updated_at": "2026-10-14T04:40:40.757524-03:00"
+    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca si el RSI de 1H supera el nivel de 70 para ejecutar tomas de beneficios. El efectivo disponible se mantiene en reserva a la espera de una mayor confirmación de momentum en ETH-USD o una ruptura clara en los activos cripto antes de desplegar nuevo capital.",
+    "updated_at": "2026-10-14T04:50:45.435289-03:00"
   }
 }

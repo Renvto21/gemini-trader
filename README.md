@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 04:40:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 04:50:45`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$27.53 USD** | **$12.01 USD** | **$39.53 USD** | 🔴 **-1.17%** ($-0.47) |
+| **$40.00 USD** | **$27.53 USD** | **$12.01 USD** | **$39.53 USD** | 🔴 **-1.16%** ($-0.47) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $83362.88 | $6.02 | 📈 +0.28% | 7h 39m |
-| `SOL-USD` | 0.055840 | $107.45 | $107.25 | $5.99 | 📉 -0.19% | 5h 29m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83404.78 | $6.02 | 📈 +0.33% | 7h 49m |
+| `SOL-USD` | 0.055840 | $107.45 | $107.24 | $5.99 | 📉 -0.20% | 5h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se mantiene operando 24/7 con un sesgo moderadamente positivo, mientras que los mercados tradicionales permanecen cerrados. BTC-USD y SOL-USD se mantienen estables con ligeras ganancias pero sin alcanzar aún los umbrales de take-profit (>2.0%). El RSI de 1H en ambos activos se encuentra en niveles neutrales (alrededor de 50-60), lo que sugiere consolidación tras el rebote inicial. Mantenemos el enfoque táctico en cripto debido a las restricciones de horario en Wall Street."
+> "El mercado tradicional se encuentra cerrado, por lo que toda la actividad se concentra en los activos cripto abiertos 24/7. BTC-USD y SOL-USD se mantienen en cartera con rendimientos estables y sin disparar alertas de stop-loss. El RSI de 1H de BTC se ha elevado a 60.1, acercándose a la zona de toma de beneficios parciales sin llegar todavía a sobrecompra extrema (>70). Mantenemos la disciplina operativa y conservamos liquidez para buscar un punto de entrada óptimo si ETH-USD confirma salida de sobreventa o si surge un nuevo impulso en los activos disponibles."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 75%): BTC-USD mantiene un rendimiento positivo estable (+0.28%) tras casi 8 horas de holding. El RSI de 1H se encuentra en 59.3, sin llegar a sobrecompra y sin señales de reversión bajista. Se mantiene la posición a la espera del objetivo de take-profit.
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD muestra un comportamiento neutral (-0.19%) con un RSI de 1H en 52.7. Aunque el movimiento ha sido lateral, el RSI diario en sobreventa sugiere potencial alcista a mediano plazo, por lo que se mantiene la posición en busca de un rebote mayor.
+- **[HOLD] BTC-USD** (Confianza: 80%): BTC-USD mantiene un comportamiento estable con una ganancia ligera del +0.33% tras casi 8 horas de holding. El RSI de 1H se sitúa en 60.1, acercándose progresivamente al objetivo de take-profit sin activar condiciones de venta.
+- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD se encuentra operando dentro de parámetros normales con una leve variación del -0.20%. El soporte se mantiene firme y no se justifica recortar la posición dado que el holding time es moderado y el PnL está protegido.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones actuales de BTC-USD y SOL-USD en este ciclo, vigilando de cerca si el RSI de 1H se aproxima a sobrecompra (>70) para realizar tomas de beneficios parciales o totales. Si SOL-USD o BTC-USD pierden soporte y su PnL cae por debajo de -1.5%, consideraremos recortar posiciones para preservar capital. Evaluaremos nuevas entradas en cripto solo si se presentan oportunidades de alta convicción con liquidez disponible."
+> "Mantendremos las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca si el RSI de 1H supera el nivel de 70 para ejecutar tomas de beneficios. El efectivo disponible se mantiene en reserva a la espera de una mayor confirmación de momentum en ETH-USD o una ruptura clara en los activos cripto antes de desplegar nuevo capital."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
