@@ -1,35 +1,3 @@
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado muestra un sesgo bajista generalizado en la mayoría de los activos tradicionales y criptomonedas, con índices como QQQ, SPY y NVDA bajo sus medias móviles y con niveles de RSI de 1 hora extremadamente deprimidos (<20). AAPL se mantiene relativamente resiliente operando en tendencia alcista sobre su SMA20, mientras que las criptomonedas como SOL-USD y ETH-USD muestran debilidad de corto plazo pero podrían generar oportunidades de rebote por sobreventa si se activa el momentum intradiario."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendré las posiciones de AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Para AAPL, esperaré una aproximación a la zona de sobrecompra en RSI de 1h (>70) o el objetivo de take-profit entre +2.0% y +3.5% para asegurar beneficios. En cuanto a SOL-USD, el RSI de 1h ha vuelto a caer a 26.1; mantendré la posición actual monitoreando un giro inminente en el momentum intradiario. Si persiste el estancamiento o la pérdida supera el -2.0%, procederé a recortar pérdidas inmediatamente para liberar liquidez."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] AAPL (Confianza: 70%)
-    Razón: AAPL mantiene una tendencia alcista estructural sobre su SMA20 y se encuentra con un RSI de 1h en 55.4, mostrando estabilidad a pesar de la presión bajista general del mercado. Mantengo la posición buscando el objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 60%)
-    Razón: SOL-USD registra una pérdida leve del -0.5% y un RSI de 1h en 26.1. Aunque el impulso de corto plazo se ha ralentizado, la zona actual representa un soporte potencial para un rebote técnico de media reversión, por lo que mantendré la posición vigilando estrictamente el stop-loss.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.13 USD (Cash: $19.31 USD)
-
-[2026-10-14 15:10:31] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $19.31 USD
- Valor en Activos:     $19.84 USD
- Balance Total:        $39.15 USD
- Ganancia/Pérdida:     🔴 $-0.85 USD (-2.12%)
 
  💼 Posiciones Abiertas:
    • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.34 | Total: $9.89 📉 (-1.10%) [Tiempo: 4h 19m]
@@ -151,3 +119,35 @@ Balance final del ciclo: $39.14 USD (Cash: $29.23 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.14 USD (Cash: $29.23 USD)
+
+[2026-10-14 15:50:34] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $29.23 USD
+ Valor en Activos:     $9.92 USD
+ Balance Total:        $39.15 USD
+ Ganancia/Pérdida:     🔴 $-0.85 USD (-2.13%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $343.35 | Total: $9.92 📉 (-0.81%) [Tiempo: 4h 59m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado muestra un sesgo defensivo con la mayoría de los activos bajo sus medias móviles de 20 días y múltiples indicadores RSI en zonas de sobreventa de corto plazo. Sin embargo, AAPL se mantiene relativamente estable dentro de una tendencia alcista macro, con un RSI de 1h en 57.3 y un ligero cambio positivo de 0.09%, cumpliendo con la expectativa de mantenerse en vigilancia para alcanzar el objetivo de take-profit entre +2.0% y +3.5%."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendré la posición abierta en AAPL supervisando de cerca el objetivo de take-profit entre +2.0% y +3.5% o un recorte de stop-loss si el precio rompe soportes a la baja. Dado que la liquidez disponible es de $29.23 USD, esperaré una confirmación alcista más clara con volumen y un RSI de 1h saliendo de sobreventa en cripto o índices antes de desplegar nuevo capital."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] AAPL (Confianza: 75%)
+    Razón: La posición en AAPL lleva cerca de 5 horas abierta con un rendimiento moderado (-0.81%). El RSI de 1h se encuentra en un nivel saludable de 57.3 y la tendencia diaria es alcista sobre la SMA20. Mantengo la posición en busca del objetivo de take-profit fijado entre +2.0% y +3.5%.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.15 USD (Cash: $29.23 USD)
