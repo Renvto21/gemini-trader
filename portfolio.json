@@ -1209,7 +1209,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición de AAPL vigilando de cerca que el RSI de 1h no caiga por debajo de 45 y buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por sobrecompra (>70). Dado que los activos cripto como BTC-USD y SOL-USD se encuentran en sobreventa extrema pero sin un cambio de 1h positivo confirmado, esperaré a que el RSI de 1h cruce al alza junto con un cambio de 1h positivo antes de arriesgar capital en ellos. Mantendré la disciplina en el stop-loss estricto (-2.0%) para AAPL.",
-    "updated_at": "2026-10-14T15:30:46.592712-03:00"
+    "notes": "Mantendré la posición abierta en AAPL supervisando que el RSI de 1h no rompa a la baja y vigilando el objetivo de take-profit entre +2.0% y +3.5%. Los activos cripto y otros índices continúan en sobreventa extrema pero carecen de una confirmación clara de cambio alcista en 1 hora, por lo que mantendré la disciplina de esperar señales firmes antes de arriesgar liquidez.",
+    "updated_at": "2026-10-14T15:40:46.178411-03:00"
   }
 }
