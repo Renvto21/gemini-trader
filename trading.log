@@ -1,39 +1,3 @@
-  • Acción: [HOLD] AAPL (Confianza: 75%)
-    Razón: AAPL se mantiene estable con un PnL de -0.36% y un RSI de 1h en 63.4, acercándose a la zona de sobrecompra para buscar el take-profit objetivo.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 70%)
-    Razón: SOL-USD muestra un RSI de 1h muy bajo (19.7) pero un cambio de 1h positivo, mantendremos la posición vigilando estrictamente el stop-loss de -2.0%.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.19 USD (Cash: $19.31 USD)
-
-[2026-10-14 13:10:55] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $19.31 USD
- Valor en Activos:     $19.88 USD
- Balance Total:        $39.19 USD
- Ganancia/Pérdida:     🔴 $-0.81 USD (-2.02%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $344.31 | Total: $9.95 📉 (-0.53%) [Tiempo: 2h 20m]
-   • SOL-USD: 0.095511 u. | Compra: $104.7 | Actual: $104.03 | Total: $9.94 📉 (-0.64%) [Tiempo: 40m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado general muestra presión bajista con la mayoría de los activos cotizando por debajo de su SMA20 y RSI de 1 hora deprimidos en varios sectores. Sin embargo, las criptomonedas y algunos activos tecnológicos específicos siguen operando 24/7 con oportunidades tácticas de rebote. AAPL mantiene una tendencia alcista a nivel diario pero muestra un ligero retroceso en la última hora, mientras que SOL-USD se mantiene en vigilancia estrecha ante posibles oscilaciones de corto plazo."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendremos AAPL y SOL-USD bajo estrecha supervisión aplicando un stop-loss estricto a -2.0% si el impulso falla o los soportes ceden. Conservaremos el efectivo disponible ($19.31) para asegurar una liquidez prudente, esperando confirmaciones adicionales de volumen y RSI antes de incrementar la exposición o abrir nuevas posiciones."
-
-⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] AAPL (Confianza: 70%)
     Razón: AAPL mantiene una estructura alcista diaria saludable (por encima de SMA20) a pesar del leve retroceso de 1h. El RSI diario está en 59.1 y no ha alcanzado el objetivo de take-profit, por lo que se mantiene la posición actual protegiendo el stop-loss.
     ⏸️ Manteniendo posición actual sin cambios.
@@ -151,3 +115,39 @@ Balance final del ciclo: $39.21 USD (Cash: $19.31 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.24 USD (Cash: $19.31 USD)
+
+[2026-10-14 13:50:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $19.31 USD
+ Valor en Activos:     $19.96 USD
+ Balance Total:        $39.26 USD
+ Ganancia/Pérdida:     🔴 $-0.74 USD (-1.84%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $344.33 | Total: $9.95 📉 (-0.53%) [Tiempo: 2h 59m]
+   • SOL-USD: 0.095511 u. | Compra: $104.7 | Actual: $104.79 | Total: $10.01 📈 (+0.09%) [Tiempo: 1h 19m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado se encuentra mayoritariamente con una tendencia bajista de corto plazo bajo sus SMA20, pero muestra señales tempranas de sobreventa profunda en varios activos, especialmente en criptomonedas como ETH-USD con un RSI de 1h en 24.3 y un cambio de 1h positivo. AAPL se mantiene relativamente estable con un RSI de 1h en 63.3 acercándose a la zona de toma de beneficios, mientras que SOL-USD muestra un leve impulso positivo con un RSI de 1h en 30.2."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener la posición en SOL-USD vigilando un incremento de su momentum alcista. Monitorear AAPL para asegurar beneficios si su RSI de 1h cruza el nivel de 70. Mantener liquidez disponible para evaluar una posible entrada táctica de rebote en ETH-USD si el cambio de 1h y el volumen confirman el giro alcista desde la sobreventa extrema."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] AAPL (Confianza: 75%)
+    Razón: AAPL muestra resiliencia con un RSI de 1h en 63.3 cerca de la zona de objetivo de salida. Se mantiene la posición para buscar la toma de beneficios si alcanza sobrecompra.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] SOL-USD (Confianza: 70%)
+    Razón: SOL-USD presenta un cambio de 1h positivo de +1.0% y un RSI de 1h saliendo de la zona de sobreventa (30.2). Se retiene para permitir que el rebote técnico continúe.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.26 USD (Cash: $19.31 USD)
