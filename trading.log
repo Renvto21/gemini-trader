@@ -1,41 +1,4 @@
 
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener posiciones en AAPL, SOL-USD y ETH-USD en vigilancia estricta. Monitorear los niveles de take-profit entre +2.0% y +3.5% para asegurar ganancias y activar stop-loss si alguna posición perfora el límite de -2.0%. La liquidez actual de efectivo se mantiene en $9.23 USD, cumpliendo con la reserva mínima requerida. Esperar la apertura de los mercados tradicionales para evaluar rotaciones adicionales en acciones."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] SOL-USD (Confianza: 65%)
-    Razón: SOL-USD se mantiene operando dentro de un rango estrecho con un RSI de 1h en 32.3, consolidando tras la reciente entrada. Se mantiene la posición en busca del rebote técnico hacia la zona de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 70%)
-    Razón: ETH-USD presenta un RSI de 1h extremadamente bajo en 20.4, reflejando sobreventa profunda. Mantendremos la posición para capturar el esperado rebote de reversión a la media sin sobreexponer el capital.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] AAPL (Confianza: 60%)
-    Razón: El mercado de AAPL se encuentra cerrado. La posición se mantiene con una pérdida menor de -0.92% a la espera de la apertura para evaluar su comportamiento técnico.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.10 USD (Cash: $9.23 USD)
-
-[2026-10-14 19:20:34] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $9.23 USD
- Valor en Activos:     $29.85 USD
- Balance Total:        $39.07 USD
- Ganancia/Pérdida:     🔴 $-0.93 USD (-2.32%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 8h 29m]
-   • SOL-USD: 0.095785 u. | Compra: $104.4 | Actual: $104.22 | Total: $9.98 📉 (-0.17%) [Tiempo: 2h 49m]
-   • ETH-USD: 0.004135 u. | Compra: $2418.34 | Actual: $2407.45 | Total: $9.95 📉 (-0.45%) [Tiempo: 19m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado tradicional se encuentra cerrado, por lo que la liquidez activa se concentra en las criptomonedas. Los activos digitales muestran un sesgo bajista temporal con RSI de 1 hora en niveles bajos (ETH-USD en 20.1 y SOL-USD en 31.6), lo que indica condiciones de sobreventa y posibles oportunidades de rebote técnico. Las posiciones actuales en AAPL, SOL-USD y ETH-USD se mantienen bajo vigilancia estricta sin superar los umbrales críticos de stop-loss."
 
@@ -151,3 +114,40 @@ Balance final del ciclo: $39.11 USD (Cash: $9.23 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.14 USD (Cash: $9.23 USD)
+
+[2026-10-14 20:00:41] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $9.23 USD
+ Valor en Activos:     $29.90 USD
+ Balance Total:        $39.13 USD
+ Ganancia/Pérdida:     🔴 $-0.87 USD (-2.19%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 9h 10m]
+   • SOL-USD: 0.095785 u. | Compra: $104.4 | Actual: $104.42 | Total: $10.0 📈 (+0.02%) [Tiempo: 3h 29m]
+   • ETH-USD: 0.004135 u. | Compra: $2418.34 | Actual: $2415.45 | Total: $9.99 📉 (-0.12%) [Tiempo: 59m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado cripto se encuentra operando en 24/7 con una tendencia general bajista bajo la SMA20, pero presentando condiciones extremas de sobreventa intradiaria en activos clave como ETH-USD (rsi_1h en 22.5) y SOL-USD (rsi_1h en 34.5). Los mercados tradicionales (Wall Street) permanecen cerrados, por lo que la liquidez activa debe centrarse en aprovechar los rebotes técnicos de corto plazo en criptomonedas. La posición en AAPL se mantiene temporalmente inactiva debido al cierre del mercado accionario."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales en SOL-USD y ETH-USD mientras respeten los niveles de soporte crítico y busquen la recuperación del momentum intradiario. Vigilar de cerca el RSI de 1 hora para asegurar beneficios parciales si supera el nivel de 70, o activar el stop-loss estricto en caso de que alguna posición rompa el -2.0% de pérdida. Monitorear la apertura del mercado accionario para evaluar la rotación en AAPL si es necesario."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] SOL-USD (Confianza: 75%)
+    Razón: SOL-USD se mantiene estable con un RSI de 1h en 34.5 saliendo de zona de compresión y un PnL neutral. Mantenemos la posición para capturar el rebote técnico esperado hacia la zona de sobrecompra.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] ETH-USD (Confianza: 75%)
+    Razón: ETH-USD presenta una sobreventa extrema en el RSI de 1h (22.5) pero se encuentra dentro del rango aceptable de riesgo sin romper el stop-loss de -2.0%. Esperamos confirmación de giro en el momentum de corto plazo.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.13 USD (Cash: $9.23 USD)

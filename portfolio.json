@@ -1237,7 +1237,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras estén operando en zonas de sobreventa y respeten los niveles de soporte crítico. La posición en AAPL está inactiva debido al cierre del mercado accionario. Si ETH-USD o SOL-USD muestran pérdida de soporte o caen por debajo del stop-loss del -2.0%, procederemos a vender inmediatamente para proteger el capital. Monitorear el cambio en el momentum de 1 hora para buscar oportunidades de toma de beneficios si el RSI supera 70.",
-    "updated_at": "2026-10-14T19:50:43.029164-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras respeten los niveles de soporte crítico y busquen la recuperación del momentum intradiario. Vigilar de cerca el RSI de 1 hora para asegurar beneficios parciales si supera el nivel de 70, o activar el stop-loss estricto en caso de que alguna posición rompa el -2.0% de pérdida. Monitorear la apertura del mercado accionario para evaluar la rotación en AAPL si es necesario.",
+    "updated_at": "2026-10-14T20:00:47.692108-03:00"
   }
 }
