@@ -1203,7 +1203,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (AAPL y SOL-USD) mientras no alcancen el stop-loss estricto del -2.0% o el take-profit entre +2.0% y +3.5%. Para el siguiente ciclo, estar atentos a cualquier ruptura del RSI de 1h por encima de 35 con cambio porcentual positivo en criptos como ETH-USD o BTC-USD para evaluar posibles entradas o rotación de capital.",
-    "updated_at": "2026-10-14T14:40:56.884416-03:00"
+    "notes": "Mantendré las posiciones actuales en AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Si AAPL se acerca a la zona de sobrecompra en RSI de 1h (>70) o logra un take-profit entre +2.0% y +3.5%, procederé a tomar ganancias. Para SOL-USD, esperaré una confirmación de giro en el momentum intradiario; de persistir el estancamiento, rotaré el capital hacia oportunidades con mejor tracción.",
+    "updated_at": "2026-10-14T14:50:43.733867-03:00"
   }
 }

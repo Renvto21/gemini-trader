@@ -1,33 +1,3 @@
-  • Acción: [HOLD] AAPL (Confianza: 75%)
-    Razón: AAPL mantiene una tendencia alcista saludable sobre la SMA20 con un RSI de 1h en 62.9, cerca de la zona de objetivo para asegurar beneficios. Mantenemos la posición actual mientras consolidamos las ganancias latentes.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 70%)
-    Razón: SOL-USD muestra signos incipientes de recuperación con un cambio de 1h positivo (+0.1%) tras salir de sobreventa extrema. Esperamos a que el momentum alcista se consolide para buscar un take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.28 USD (Cash: $19.31 USD)
-
-[2026-10-14 14:10:37] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $19.31 USD
- Valor en Activos:     $19.97 USD
- Balance Total:        $39.28 USD
- Ganancia/Pérdida:     🔴 $-0.72 USD (-1.81%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $344.06 | Total: $9.94 📉 (-0.60%) [Tiempo: 3h 20m]
-   • SOL-USD: 0.095511 u. | Compra: $104.7 | Actual: $105.0 | Total: $10.03 📈 (+0.29%) [Tiempo: 1h 39m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado se encuentra en un contexto mayormente bajista con la mayoría de los índices y activos cotizando por debajo de su SMA20 y presentando RSI diarios débiles o en zonas de sobreventa. Sin embargo, AAPL se mantiene fuerte con tendencia alcista y un RSI de 1h en 62.4, mientras que SOL-USD muestra indicios de consolidación y soporte tras haber salido de sobreventa extrema en ciclos anteriores. La liquidez disponible es reducida, por lo que la gestión actual se centra en proteger posiciones con momentum y mantener la disciplina táctica."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -151,3 +121,33 @@ Balance final del ciclo: $39.22 USD (Cash: $19.31 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.17 USD (Cash: $19.31 USD)
+
+[2026-10-14 14:50:36] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $19.31 USD
+ Valor en Activos:     $19.85 USD
+ Balance Total:        $39.16 USD
+ Ganancia/Pérdida:     🔴 $-0.84 USD (-2.11%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.23 | Total: $9.89 📉 (-1.13%) [Tiempo: 3h 59m]
+   • SOL-USD: 0.095511 u. | Compra: $104.7 | Actual: $104.3 | Total: $9.96 📉 (-0.38%) [Tiempo: 2h 19m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado actual muestra un sesgo bajista generalizado en casi todos los activos con los principales índices y criptomonedas operando por debajo de su SMA20. AAPL se mantiene relativamente firme con tendencia alcista y un RSI de 1h en 56.5, mientras que SOL-USD muestra un ligero estancamiento con un PnL levemente negativo (-0.38%) y un RSI de 1h en 27.5. La liquidez disponible es de 19.31 USD."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendré las posiciones actuales en AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Si AAPL se acerca a la zona de sobrecompra en RSI de 1h (>70) o logra un take-profit entre +2.0% y +3.5%, procederé a tomar ganancias. Para SOL-USD, esperaré una confirmación de giro en el momentum intradiario; de persistir el estancamiento, rotaré el capital hacia oportunidades con mejor tracción."
+
+⚡ ACCIONES DECIDIDAS:
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.16 USD (Cash: $19.31 USD)
