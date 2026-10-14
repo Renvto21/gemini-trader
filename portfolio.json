@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas actuales (ETH-USD, BTC-USD, SOL-USD) vigilando de cerca su evolución. Establecer objetivo estricto de take-profit entre +2.0% y +3.5% y stop-loss defensivo ante cualquier caída mayor a -2.0%. Mantener la reserva de efectivo actual y esperar confirmaciones de momentum más fuertes en cripto antes de rotar capital o abrir nuevas operaciones.",
-    "updated_at": "2026-10-14T02:10:42.502254-03:00"
+    "notes": "Mantener la vigilancia sobre BTC-USD, ETH-USD y SOL-USD. Vigilar de cerca el objetivo de take-profit entre +2.0% y +3.5% o salida por sobrecompra en RSI 1H (>70). Si las posiciones continúan estancadas sin generar momentum en los próximos ciclos, se procederá a rotar el capital hacia activos con mayor dinamismo para cumplir con la estrategia de crecimiento acelerado. Mantener reserva mínima de efectivo de $4.00 USD.",
+    "updated_at": "2026-10-14T02:20:45.701754-03:00"
   }
 }
