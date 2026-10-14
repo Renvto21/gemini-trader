@@ -1183,7 +1183,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición de AAPL buscando el objetivo de take-profit en +2.5% y protegiendo con stop-loss en -1.5%. Vigilaré de cerca a BTC-USD y su soporte actual; si rompe a la baja o supera las 16 horas con rendimiento plano, rotaré el capital hacia oportunidades con mejor momentum intradiario. Mantendré la reserva de efectivo requerida y buscaré entradas tácticas en activos con RSI de 1 hora saliendo de sobreventa.",
-    "updated_at": "2026-10-14T11:00:54.701680-03:00"
+    "notes": "Mantendré la posición en AAPL buscando su objetivo de take-profit en +2.5% y protegiendo con stop-loss en -1.5%. Para BTC-USD, el tiempo abierto supera las 14 horas con un rendimiento ligeramente negativo (-1.18%) y un RSI de 1h en 28.6; vigilaré de cerca si consolida el rebote o si rompe la zona de soporte para rotar el capital. Mantendré la reserva de efectivo requerida y buscaré oportunidades agresivas exclusivamente en activos con momentum alcista.",
+    "updated_at": "2026-10-14T11:10:43.813022-03:00"
   }
 }
