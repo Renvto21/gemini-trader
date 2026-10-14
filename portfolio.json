@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5% o cruces de RSI de 1H superiores a 70. Si SOL-USD no muestra un repunte más decidido y prolonga su estancia sin momentum, evaluaremos rotar capital en los siguientes ciclos. Mantener la reserva mínima de efectivo intacta.",
-    "updated_at": "2026-10-14T06:20:48.503749-03:00"
+    "notes": "Mantener las posiciones abiertas de BTC-USD y SOL-USD. Monitorear de cerca los niveles de take-profit entre +2.0% y +3.5% o cruces de RSI de 1H superiores a 70. Si SOL-USD prolonga su estancia sin momentum y no rebota, evaluaremos rotar capital en los siguientes ciclos. Preservar la liquidez actual por encima de la reserva mínima.",
+    "updated_at": "2026-10-14T06:30:44.148506-03:00"
   }
 }
