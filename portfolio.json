@@ -1169,7 +1169,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos por el momento BTC-USD vigilando de cerca su soporte, pero se ha decidido liquidar SOL-USD tras rozar el límite de stop-loss del -2.0% y mostrar un holding time de casi 11 horas sin un rebote consistente. Rotaremos el capital hacia liquidez o buscaremos un punto de entrada más sólido cuando el RSI de 1H muestre una recuperación superior a 45 con volumen comprador.",
-    "updated_at": "2026-10-14T10:10:48.227867-03:00"
+    "notes": "Mantendremos la posición de BTC-USD vigilando de cerca el soporte actual. Si BTC-USD perfora el soporte y se acerca al límite de stop-loss del -2.0%, procederemos a vender inmediatamente para proteger el capital. Dado que los mercados de valores están cerrados, conservaremos el efectivo restante ($33.41 USD) a la espera de señales de volumen alcista y un RSI de 1H superior a 45 en criptoactivos antes de desplegar nuevo capital.",
+    "updated_at": "2026-10-14T10:20:46.542505-03:00"
   }
 }
