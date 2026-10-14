@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 15:00:52`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 15:10:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.31 USD** | **$19.82 USD** | **$39.13 USD** | 🔴 **-2.17%** ($-0.87) |
+| **$40.00 USD** | **$19.31 USD** | **$19.84 USD** | **$39.15 USD** | 🔴 **-2.12%** ($-0.85) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $341.81 | $9.87 | 📉 -1.25% | 4h 10m |
-| `SOL-USD` | 0.095511 | $104.70 | $104.18 | $9.95 | 📉 -0.50% | 2h 30m |
+| `AAPL` | 0.028889 | $346.15 | $342.34 | $9.89 | 📉 -1.10% | 4h 19m |
+| `SOL-USD` | 0.095511 | $104.70 | $104.21 | $9.95 | 📉 -0.47% | 2h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo bajista generalizado en la mayoría de los activos tradicionales y criptomonedas, con índices como QQQ, SPY y NVDA bajo sus medias móviles y con niveles de RSI de 1 hora extremadamente deprimidos (<20). AAPL se mantiene relativamente resiliente operando en tendencia alcista sobre su SMA20, mientras que las criptomonedas como SOL-USD y ETH-USD muestran debilidad de corto plazo pero podrían generar oportunidades de rebote por sobreventa si se activa el momentum intradiario."
+> "El mercado general muestra un tono bajista con la mayoría de los activos principales por debajo de sus medias móviles de 20 períodos, reflejando presión a la baja en el corto plazo. AAPL se mantiene relativamente resiliente sobre su tendencia alcista con un RSI de 1h en 56.8, mientras que SOL-USD muestra debilidad temporal con un RSI de 1h en 26.2, manteniéndose cerca de nuestra zona de control sin romper el stop-loss estricto del -2.0%."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 70%): AAPL mantiene una tendencia alcista estructural sobre su SMA20 y se encuentra con un RSI de 1h en 55.4, mostrando estabilidad a pesar de la presión bajista general del mercado. Mantengo la posición buscando el objetivo de take-profit.
-- **[HOLD] SOL-USD** (Confianza: 60%): SOL-USD registra una pérdida leve del -0.5% y un RSI de 1h en 26.1. Aunque el impulso de corto plazo se ha ralentizado, la zona actual representa un soporte potencial para un rebote técnico de media reversión, por lo que mantendré la posición vigilando estrictamente el stop-loss.
+- **[HOLD] AAPL** (Confianza: 75%): AAPL se encuentra operando de forma estable sobre su soporte macro con un RSI de 1h en 56.8, manteniendo una pérdida contenida del -1.1%. Esperaremos a que se acerque a la zona de take-profit (+2% a +3.5%) para realizar ganancias.
+- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD registra una pequeña pérdida del -0.47% con un RSI de 1h en 26.2. Dado que el mercado cripto opera 24/7 y la pérdida está muy por debajo del límite de stop-loss del -2.0%, mantendremos la posición a la espera de un rebote por reversión a la media.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendré las posiciones de AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Para AAPL, esperaré una aproximación a la zona de sobrecompra en RSI de 1h (>70) o el objetivo de take-profit entre +2.0% y +3.5% para asegurar beneficios. En cuanto a SOL-USD, el RSI de 1h ha vuelto a caer a 26.1; mantendré la posición actual monitoreando un giro inminente en el momentum intradiario. Si persiste el estancamiento o la pérdida supera el -2.0%, procederé a recortar pérdidas inmediatamente para liberar liquidez."
+> "Mantendré las posiciones de AAPL y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Para AAPL, esperaré una aproximación a la zona de sobrecompra en RSI de 1h (>70) o el objetivo de take-profit entre +2.0% y +3.5% para asegurar beneficios. En cuanto a SOL-USD, el RSI de 1h se mantiene deprimido; mantendré la posición actual monitoreando un giro inminente en el momentum intradiario. Si persiste el estancamiento o la pérdida supera el -2.0%, procederé a recortar pérdidas inmediatamente para liberar liquidez y buscar oportunidades en criptomonedas o tecnología."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
