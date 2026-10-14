@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD y BTC-USD mientras persistan dentro del rango de tolerancia y no alcancen el take-profit entre +2.0% y +3.5% o el stop-loss de -2.0%. Aprovechar la liquidez disponible para reentrar en SOL-USD capturando su sobreventa diaria y momentum horario actual. Monitorear de cerca los niveles de RSI de 1 hora para asegurar beneficios con rapidez si se acercan a la zona de sobrecompra.",
-    "updated_at": "2026-10-13T23:11:19.846193-03:00"
+    "notes": "Mantener las posiciones actuales en ETH-USD, BTC-USD y SOL-USD mientras respeten el stop-loss del -2.0%. Monitorear de cerca el RSI de 1 hora para asegurar beneficios rápidos si alcanzan la zona de take-profit entre +2.0% y +3.5%. Conservar la liquidez remanente para evaluar nuevas oportunidades ante un rompimiento de tendencia.",
+    "updated_at": "2026-10-13T23:21:17.235038-03:00"
   }
 }
