@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 27.526526073895617,
+  "cash": 33.41261262578021,
   "positions": {
     "BTC-USD": {
       "shares": 7.217730788746403e-05,
       "avg_price": 83128.62,
       "opened_at": "2026-10-13T21:00:49.831172-03:00"
-    },
-    "SOL-USD": {
-      "shares": 0.05583992554676594,
-      "avg_price": 107.45,
-      "opened_at": "2026-10-13T23:11:19.848246-03:00"
     }
   },
   "history": [
@@ -1160,10 +1155,21 @@
       "pnl_usd": -0.01,
       "pnl_pct": -0.25,
       "reason": "ETH-USD lleva más de 9 horas de holding con PnL plano (-0.25%) y un RSI de 1H en 42.3 sin mostrar la fuerza necesaria para el rebote. Aplicamos rotación de capital para liberar liquidez."
+    },
+    {
+      "timestamp": "2026-10-14T10:10:48.230491-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 5.89,
+      "shares": 0.05584,
+      "price": 105.41,
+      "pnl_usd": -0.11,
+      "pnl_pct": -1.9,
+      "reason": "La posición en SOL-USD acumula una pérdida cercana al -1.9%, rozando nuestro stop-loss estricto del -2.0%. Tras casi 11 horas de holding sin la recuperación esperada, ejecutamos la venta para cortar pérdidas, proteger el capital restante y mantener liquidez para futuras oportunidades."
     }
   ],
   "memory": {
-    "notes": "Mantendremos BTC-USD y SOL-USD vigilando de cerca el stop-loss estricto del -2.0%. Si SOL-USD rompe a la baja procederemos a liquidar inmediatamente para proteger efectivo y buscar nuevas entradas.",
-    "updated_at": "2026-10-14T10:00:45.866011-03:00"
+    "notes": "Mantendremos por el momento BTC-USD vigilando de cerca su soporte, pero se ha decidido liquidar SOL-USD tras rozar el límite de stop-loss del -2.0% y mostrar un holding time de casi 11 horas sin un rebote consistente. Rotaremos el capital hacia liquidez o buscaremos un punto de entrada más sólido cuando el RSI de 1H muestre una recuperación superior a 45 con volumen comprador.",
+    "updated_at": "2026-10-14T10:10:48.227867-03:00"
   }
 }
