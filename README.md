@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 06:00:51`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 06:10:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$27.53 USD** | **$11.99 USD** | **$39.51 USD** | 🔴 **-1.22%** ($-0.49) |
+| **$40.00 USD** | **$27.53 USD** | **$12.00 USD** | **$39.53 USD** | 🔴 **-1.18%** ($-0.47) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $83349.98 | $6.02 | 📈 +0.27% | 9h 0m |
-| `SOL-USD` | 0.055840 | $107.45 | $106.93 | $5.97 | 📉 -0.48% | 6h 49m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83424.20 | $6.02 | 📈 +0.36% | 9h 9m |
+| `SOL-USD` | 0.055840 | $107.45 | $107.13 | $5.98 | 📉 -0.30% | 6h 59m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional (Wall Street) se encuentra cerrado, por lo que toda la atención y liquidez operativa debe centrarse en los activos criptográficos (BTC-USD, ETH-USD, SOL-USD) que operan 24/7. BTC-USD muestra un RSI de 1H en 57.1 tras el rebote inicial, consolidándose cerca de nuestros niveles de entrada con un PnL positivo menor. SOL-USD mantiene un RSI diario profundamente deprimido en 28.0 pero su acción de precio actual se mantiene estancada con un pequeño PnL negativo (-0.48%) tras casi 7 horas. La prioridad actual es mantener el capital en los activos abiertos actuales mientras consolidan ganancias o buscar rotación rápida si el momentum decae."
+> "El mercado de criptomonedas se mantiene abierto y operando en un rango lateral estrecho con ligeros sesgos positivos. BTC-USD muestra estabilidad con un RSI de 1H en 55.3 y una ligera ganancia del 0.36% en cartera, mientras que SOL-USD se mantiene cerca de su precio de entrada con un PnL de -0.30% y un RSI diario profundamente deprimido en 28.6. Los activos tradicionales se encuentran cerrados, por lo que toda la atención táctica se centra en gestionar y rotar el capital dentro de los criptoactivos disponibles."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 75%): La posición en BTC-USD se encuentra con un rendimiento ligeramente positivo (+0.27%) y un RSI de 1H en 57.1, lo que indica un comportamiento estable tras el rebote. Mantenemos la posición esperando alcanzar la zona de take-profit.
-- **[HOLD] SOL-USD** (Confianza: 65%): SOL-USD muestra un PnL ligeramente negativo (-0.48%) con un RSI diario extremo en 28.0. Daremos un ciclo adicional para que desarrolle el rebote técnico esperado desde la zona de sobreventa antes de considerar una rotación de capital.
+- **[HOLD] BTC-USD** (Confianza: 75%): BTC-USD muestra un rendimiento positivo constante (+0.36%) y un RSI de 1H neutral-saludable (55.3). Mantenemos la posición a la espera de que el impulso acerque el precio a nuestra zona objetivo de toma de ganancias (+2.0% a +3.5%).
+- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD se mantiene estable a pesar de la ligera pérdida actual (-0.30%). Su RSI diario se encuentra en sobreventa extrema (28.6), lo que respalda la tesis de un rebote técnico pendiente. Daremos un ciclo más de margen antes de evaluar rotación si no hay tracción alcista.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener BTC-USD y SOL-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5%. Si BTC-USD se acerca al objetivo o su RSI de 1H cruza por encima de 70, realizaremos toma de ganancias parcial o total. Para SOL-USD, evaluaremos su comportamiento en los próximos ciclos; si no muestra un repunte claro hacia terreno positivo y rompe soporte, rotaremos el capital hacia oportunidades con mayor inercia alcista. Mantener la reserva mínima de efectivo."
+> "Mantener las posiciones actuales de BTC-USD y SOL-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5%. Si BTC-USD se acerca al objetivo o su RSI de 1H cruza por encima de 70, realizaremos toma de ganancias. Para SOL-USD, evaluaremos su comportamiento en los próximos ciclos; si no muestra un repunte claro hacia terreno positivo y rompe soporte, rotaremos el capital hacia oportunidades con mayor inercia alcista. Mantener la reserva mínima de efectivo."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
