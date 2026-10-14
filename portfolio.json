@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de BTC-USD y SOL-USD activas. Monitorearemos de cerca si el holding time supera las 15-20 horas sin movimiento relevante, lo cual nos obligará a rotar el capital. Esperaremos un RSI de 1H superando los 60 puntos o cayendo hacia soportes extremos para ajustar posiciones o tomar beneficios.",
-    "updated_at": "2026-10-14T08:50:48.253404-03:00"
+    "notes": "Mantendremos las posiciones de BTC-USD y SOL-USD ya que se encuentran con un PnL moderado y sin romper soportes de stop-loss (-2.0%). Seguiremos vigilando el holding time: si superan las 15-20 horas sin movimientos significativos o si el RSI de 1H se acerca a la zona de sobrecompra (>70), realizaremos toma de beneficios o rotación hacia oportunidades con mayor dinamismo.",
+    "updated_at": "2026-10-14T09:01:00.276784-03:00"
   }
 }

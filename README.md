@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 08:50:48`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 09:01:00`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$27.53 USD** | **$11.99 USD** | **$39.52 USD** | 🔴 **-1.20%** ($-0.48) |
+| **$40.00 USD** | **$27.53 USD** | **$12.00 USD** | **$39.53 USD** | 🔴 **-1.17%** ($-0.47) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $83357.03 | $6.02 | 📈 +0.27% | 11h 49m |
-| `SOL-USD` | 0.055840 | $107.45 | $107.04 | $5.98 | 📉 -0.38% | 9h 39m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83421.19 | $6.02 | 📈 +0.35% | 12h 0m |
+| `SOL-USD` | 0.055840 | $107.45 | $107.15 | $5.98 | 📉 -0.28% | 9h 49m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado, por lo que toda la actividad se concentra en los activos cripto 24/7 (BTC-USD y SOL-USD). Ambos activos muestran un comportamiento lateral a ligeramente negativo en el corto plazo, con un RSI de 1H normalizado alrededor de 47-50, sin mostrar el impulso alcista necesario para asegurar ganancias rápidas, pero tampoco han activado los stop-loss de -2.0%. Mantendremos la paciencia y las posiciones actuales hasta observar una ruptura clara del RSI de 1H."
+> "El mercado tradicional se encuentra cerrado, por lo que el foco operativo se concentra en el mercado de criptomonedas (abierto 24/7). BTC-USD y SOL-USD se mantienen en rangos estables con ligeros cambios positivos en 1h y 24h, recuperándose de sus niveles de sobreventa previos, aunque con una tendencia macro todavía bajista bajo la SMA20. No hay señales de sobrecompra o de pánico que fuercen una salida inmediata, por lo que el plan táctico se centra en sostener las posiciones actuales y vigilar el momentum."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 70%): La posición en BTC-USD muestra un PnL plano de +0.27% tras casi 12 horas. El RSI de 1H se encuentra en 47.6 sin señales de sobrecompra ni de ruptura del stop-loss, por lo que se mantiene en cartera esperando mayor momentum.
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD registra un PnL de -0.38% con un holding time de casi 10 horas. Aunque el RSI diario sigue en zona de sobreventa (28.3), el RSI de 1H está en 50.4. No amerita venta anticipada ya que está lejos del stop-loss de -2.0% y mantenemos la expectativa de rebote.
+- **[HOLD] BTC-USD** (Confianza: 70%): BTC-USD se mantiene estable con un PnL positivo del +0.35% y un RSI de 1H en 49.2. El holding time es de 12 horas, por lo que permitiremos que la posición siga su curso en busca de un mayor impulso alcista.
+- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD muestra un PnL ligeramente negativo de -0.28% con un RSI diario en sobreventa extrema (28.6). El rebote está en desarrollo y se encuentra dentro de los límites de riesgo aceptables, por lo que mantenemos la posición.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones de BTC-USD y SOL-USD activas. Monitorearemos de cerca si el holding time supera las 15-20 horas sin movimiento relevante, lo cual nos obligará a rotar el capital. Esperaremos un RSI de 1H superando los 60 puntos o cayendo hacia soportes extremos para ajustar posiciones o tomar beneficios."
+> "Mantendremos las posiciones de BTC-USD y SOL-USD ya que se encuentran con un PnL moderado y sin romper soportes de stop-loss (-2.0%). Seguiremos vigilando el holding time: si superan las 15-20 horas sin movimientos significativos o si el RSI de 1H se acerca a la zona de sobrecompra (>70), realizaremos toma de beneficios o rotación hacia oportunidades con mayor dinamismo."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
