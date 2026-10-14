@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 00:30:53`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 00:40:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$22.54 USD** | **$17.09 USD** | **$39.63 USD** | 🔴 **-0.92%** ($-0.37) |
+| **$40.00 USD** | **$22.54 USD** | **$17.09 USD** | **$39.63 USD** | 🔴 **-0.93%** ($-0.37) |
 
 ---
 
@@ -16,26 +16,26 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.001993 | $2508.37 | $2515.67 | $5.01 | 📈 +0.29% | 7h 20m |
-| `BTC-USD` | 0.000072 | $83128.62 | $83812.16 | $6.05 | 📈 +0.82% | 3h 30m |
-| `SOL-USD` | 0.055840 | $107.45 | $107.93 | $6.03 | 📈 +0.45% | 1h 19m |
+| `ETH-USD` | 0.001993 | $2508.37 | $2515.16 | $5.01 | 📈 +0.27% | 7h 30m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83760.25 | $6.05 | 📈 +0.76% | 3h 39m |
+| `SOL-USD` | 0.055840 | $107.45 | $107.97 | $6.03 | 📈 +0.48% | 1h 29m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se mantiene operando 24/7 con un tono ligeramente positivo en las últimas horas (BTC-USD y SOL-USD con cambios positivos cercanos al 0.3% en 1h y +2.5% en 24h). Los activos tradicionales (acciones y ETFs) se encuentran cerrados, por lo que toda la atención táctica se centra en la gestión de nuestras posiciones abiertas en criptomonedas. Los indicadores de RSI en 1 hora se acercan a zonas de control sin sobrecompra extrema aún (alrededor de 59-64), permitiendo mantener las posiciones actuales a la espera de alcanzar el objetivo de take-profit entre +2.0% y +3.5%."
+> "El mercado de criptomonedas se mantiene abierto y operando con un sesgo positivo moderado en las últimas 24 horas (BTC +2.44%, ETH +2.90%, SOL +2.28%). Los mercados tradicionales (Wall Street) se encuentran cerrados, por lo que toda la liquidez y atención táctica se concentra exclusivamente en el sector cripto. Los activos en cartera (ETH-USD, BTC-USD y SOL-USD) muestran ganancias marginales estables pero aún no alcanzan el objetivo de take-profit de +2.0% a +3.5%, y sus indicadores de RSI de 1 hora se acercan a la zona de atención (entre 59 y 64), preparándose para un posible tramo alcista que permita asegurar beneficios próximamente."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 80%): La posición muestra un rendimiento positivo (+0.82%) y un RSI de 1h en 63.3, acercándose al rango objetivo de take-profit sin mostrar signos de agotamiento bajista inmediato. Se mantiene para buscar la meta de ganancia.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD opera con un PnL positivo moderado (+0.29%) y un RSI de 1h en 59.4. Se mantiene en cartera a la espera de que el impulso alcista fortalezca el rebote técnico hacia la zona de beneficios.
-- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD presenta un PnL de +0.45% y un RSI de 1h en 64.3, reflejando el rebote esperado desde la sobreventa diaria. Se mantiene la posición para capturar el objetivo de take-profit.
+- **[HOLD] BTC-USD** (Confianza: 80%): BTC-USD muestra un PnL positivo de +0.76% con un RSI de 1 hora en 62.5. Mantiene un buen impulso de corto plazo, por lo que se mantiene en cartera esperando alcanzar la zona objetivo de take-profit (+2.0% a +3.5%).
+- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD registra un PnL del +0.27% y un RSI de 1 hora en 59.1. La posición es estable y se encuentra dentro de los parámetros esperados de recuperación técnica.
+- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD muestra un PnL de +0.48% con un RSI de 1 hora en 64.6 acercándose a zona de sobrecompra. Se mantiene para buscar la toma de beneficios en el próximo ciclo si el impulso continúa.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales de BTC-USD, SOL-USD y ETH-USD ya que muestran un comportamiento estable con ganancias marginales. Monitorear de cerca el RSI de 1 hora de cada activo: si se acercan o superan los 70 o si el PnL alcanza el rango de +2.0% a +3.5%, ejecutar la toma de beneficios total o parcial para acumular efectivo. El stop-loss se mantiene estricto en -2.0% para proteger el capital."
+> "Mantener las posiciones actuales en BTC-USD, ETH-USD y SOL-USD mientras continúen con su estructura de rebote de corto plazo. Vigilar el RSI de 1 hora de cada activo: si superan los 70 o alcanzan un PnL de +2.0% a +3.5%, ejecutar la toma de beneficios para rotar capital. Mantener el stop-loss estricto en -2.0% y asegurar una reserva mínima de efectivo de $4.00 USD. No realizar nuevas compras en este ciclo para consolidar el portafolio actual."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
