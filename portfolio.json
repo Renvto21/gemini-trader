@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD bajo vigilancia estricta. El efectivo disponible de $27.53 se mantendrá en reserva táctica hasta observar un rompimiento claro en el momentum de las criptomonedas o la apertura de los mercados tradicionales.",
-    "updated_at": "2026-10-14T08:20:38.906866-03:00"
+    "notes": "Mantendremos las posiciones de BTC-USD y SOL-USD bajo supervisión, vigilando que ninguna rompa el stop-loss del -2.0%. El efectivo de $27.53 se mantendrá en reserva táctica hasta que un activo abierto muestre señales claras de rebote con RSI de 1H saliendo de sobreventa. Planificamos tomar ganancias parciales si BTC o SOL alcanzan un PnL de +2.5%.",
+    "updated_at": "2026-10-14T08:30:43.947445-03:00"
   }
 }
