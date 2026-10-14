@@ -1,35 +1,3 @@
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado general muestra una sesgo bajista en varios activos principales, pero AAPL destaca con un fuerte momentum alcista intradiario (+1.4% en 1h y RSI saludable de 62.4) en mercado abierto. En cripto, BTC-USD mantiene una estabilidad lateral con un PnL plano tras casi 14 horas, mientras que los mercados bursátiles abren oportunidades claras en acciones con tendencia fuerte."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendré la posición actual en BTC-USD vigilando de cerca el soporte y el stop-loss estricto del -2.0%. Aprovecharé la liquidez disponible para abrir una posición táctica en AAPL aprovechando su fuerte impulso alcista intradiario y tendencia diaria positiva. Estableceré take-profit en AAPL al alcanzar +2.5% y stop-loss ante cualquier pérdida mayor a -1.5%."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [BUY] AAPL (Confianza: 88%)
-    Razón: AAPL se encuentra con un excelente momentum alcista intradiario, un incremento de 1.4% en la última hora y un RSI de 1H en 62.4 con tendencia alcista sobre la SMA20. Cumple perfectamente con los criterios de alta convicción para capturar impulso de crecimiento acelerado.
-    ✅ Compra ejecutada: $10.00 en AAPL a $346.15
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.40 USD (Cash: $23.41 USD)
-
-[2026-10-14 11:00:44] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $23.41 USD
- Valor en Activos:     $15.93 USD
- Balance Total:        $39.34 USD
- Ganancia/Pérdida:     🔴 $-0.66 USD (-1.66%)
-
- 💼 Posiciones Abiertas:
-   • BTC-USD: 7.2e-05 u. | Compra: $83128.62 | Actual: $82278.89 | Total: $5.94 📉 (-1.02%) [Tiempo: 14h 0m]
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $345.69 | Total: $9.99 📉 (-0.13%) [Tiempo: 10m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
 
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado muestra un tono mayoritariamente bajista o lateral en las principales criptomonedas y tecnología, aunque algunos valores como AAPL se mantienen firmes con tendencia alcista sobre la SMA20. Los mercados de acciones de EE. UU. se encuentran ABIERTOS. BTC-USD muestra un rebote leve en el RSI de 1 hora tras estar bajo presión, mientras que AAPL consolida su impulso inicial de corto plazo."
@@ -147,6 +115,38 @@ Balance final del ciclo: $39.28 USD (Cash: $29.31 USD)
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] AAPL (Confianza: 75%)
     Razón: AAPL mantiene una tendencia alcista sobre la SMA20, con un cambio de 24h positivo del 1.4% y un RSI de 1h en 66.6, cerca de la zona de sobrecompra donde buscaremos tomar ganancias. La posición lleva solo 40 minutos abierta y evoluciones favorables respaldan mantenerla.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.30 USD (Cash: $29.31 USD)
+
+[2026-10-14 11:40:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $29.31 USD
+ Valor en Activos:     $10.00 USD
+ Balance Total:        $39.30 USD
+ Ganancia/Pérdida:     🔴 $-0.70 USD (-1.74%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $345.99 | Total: $10.0 📈 (-0.05%) [Tiempo: 50m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado muestra un sesgo bajista generalizado en el corto plazo con varios activos probando niveles de sobreventa en el RSI de 1 hora, aunque AAPL se mantiene estable dentro de una tendencia alcista macro sobre su SMA20. La liquidez disponible se mantendrá a la espera de confirmaciones de rebote más claras."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendré la posición en AAPL vigilando de cerca su evolución hacia el objetivo de take-profit entre +2.0% y +3.5%, o activando un stop-loss estricto si perfora soportes. El efectivo restante de $29.31 se preserva temporalmente hasta detectar activos en cripto o renta variable con un cambio positivo confirmado tras salir de sobreventa extrema en el RSI de 1 hora."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] AAPL (Confianza: 80%)
+    Razón: AAPL mantiene una tendencia alcista saludable sobre la SMA20 con un rendimiento de 24 horas positivo y un holding time corto de 50 minutos. No hay señales de sobrecompra extrema ni de pérdida de soporte, por lo que se mantiene la posición para buscar el objetivo de ganancia.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.
