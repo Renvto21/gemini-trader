@@ -1223,7 +1223,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición de SOL-USD monitoreando su soporte actual y vigilando que no rompa el stop-loss estricto en -2.0%. AAPL permanece cerrado y lo mantendremos a la espera de su apertura. Si SOL-USD no muestra un rebote y su RSI de 1h sigue deprimido, procederemos a rotar el capital hacia liquidez o buscar una mejor entrada en el siguiente ciclo. Mantendremos liquidez en reserva para capturar oportunidades de alta convicción.",
-    "updated_at": "2026-10-14T17:30:50.358052-03:00"
+    "notes": "Mantendremos las posiciones de AAPL y SOL-USD vigilando de cerca el stop-loss estricto en -2.0%. Para SOL-USD, si el RSI de 1h se mantiene comprimido y rompe la zona de soporte actual con pérdidas mayores al -2.0%, procederemos a vender inmediatamente para proteger el capital. No realizaremos nuevas compras hasta observar un cambio de tendencia real en el RSI de 1h de los activos abiertos o una clara confirmación de rebote.",
+    "updated_at": "2026-10-14T17:42:41.755134-03:00"
   }
 }
