@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener BTC-USD y SOL-USD vigentes. Monitorear de cerca el RSI de 1H en busca de niveles superiores a 70 para realizar tomas de beneficios parciales o totales. Si el holding time supera las 15-20 horas sin incrementos de momentum, procederemos a rotar el capital hacia oportunidades de mayor dinamismo.",
-    "updated_at": "2026-10-14T09:10:45.113381-03:00"
+    "notes": "Mantener BTC-USD y SOL-USD en cartera por ahora. Monitorear de cerca el RSI de 1H y el avance de precios para ejecutar tomas de beneficios parciales o totales si BTC o SOL se acercan a zonas de sobrecompra (RSI 1H > 70 o PnL entre +2% y +3.5%). Si el holding time supera las 20 horas sin momentum alcista significativo, procederemos a rotar el capital hacia oportunidades más dinámicas.",
+    "updated_at": "2026-10-14T09:20:48.773082-03:00"
   }
 }
