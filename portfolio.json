@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en BTC-USD y SOL-USD al no haberse activado ningún stop-loss ni alcanzado el objetivo de take-profit. Monitorearemos de cerca el comportamiento del RSI de 1H en ambos activos para buscar salidas rápidas en caso de sobrecompra o proteger el capital si el impulso bajista diario presiona los precios. La liquidez en efectivo se mantendrá en reserva estricta hasta el próximo ciclo.",
-    "updated_at": "2026-10-14T07:30:45.830790-03:00"
+    "notes": "Mantener posiciones actuales en BTC-USD y SOL-USD. Vigilar de cerca el RSI de 1H y el cambio porcentual para asegurar ganancias si alcanzamos el objetivo de +2.0% o cortar pérdidas estrictamente si alguna posición rompe el soporte del -2.0%. La liquidez en efectivo se mantiene retenida a la espera de nuevas rupturas o confirmaciones técnicas claras en cripto.",
+    "updated_at": "2026-10-14T07:40:39.265321-03:00"
   }
 }
