@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas actuales (ETH-USD, BTC-USD y SOL-USD) monitoreando de cerca su evolución. Esperar a que el RSI de 1 hora de cualquiera de estas posiciones rebase los 70 o alcancen el objetivo de ganancia de +2.0% a +3.5% para proceder con la toma de beneficios y rotar capital. Mantener la disciplina en el stop-loss en -2.0% ante cualquier volatilidad adversa.",
-    "updated_at": "2026-10-14T00:10:40.993561-03:00"
+    "notes": "Monitorear las posiciones de BTC-USD, SOL-USD y ETH-USD. Esperar a que el RSI de 1 hora supere los 70 o que alcancen la banda objetivo de ganancia de +2.0% a +3.5% para proceder con la toma parcial o total de beneficios y acumular liquidez. Mantener el stop-loss estricto en -2.0% para proteger el capital.",
+    "updated_at": "2026-10-14T00:20:38.313484-03:00"
   }
 }
