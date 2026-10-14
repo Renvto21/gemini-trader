@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de BTC-USD y SOL-USD. Monitorearemos que alcancen la zona objetivo de take-profit entre +2.0% y +3.5% o activaremos el stop-loss en caso de caída mayor a -2.0%. Si el mercado de criptomonedas continúa lateralizando sin alcanzar los objetivos en las próximas horas, rotaremos parte del capital hacia activos con mayor momentum.",
-    "updated_at": "2026-10-14T03:31:17.024744-03:00"
+    "notes": "Mantendremos las posiciones abiertas en BTC-USD y SOL-USD durante las próximas horas para permitir que desarrollen su potencial de rebote. Establecemos la zona de take-profit entre +2.0% y +3.5% para asegurar ganancias y mantener un estricto stop-loss en -2.0% para proteger el capital. Si el mercado cripto continúa estancado sin momentum alcista claro en el siguiente ciclo, procederemos a rotar el capital hacia oportunidades con mayor dinamismo.",
+    "updated_at": "2026-10-14T03:40:42.800137-03:00"
   }
 }
