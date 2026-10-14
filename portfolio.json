@@ -1,11 +1,16 @@
 {
   "initial_capital": 40.0,
-  "cash": 29.307609025780213,
+  "cash": 19.307609025780213,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
       "avg_price": 346.15,
       "opened_at": "2026-10-14T10:50:41.868687-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.09551098376313276,
+      "avg_price": 104.7,
+      "opened_at": "2026-10-14T12:30:48.300293-03:00"
     }
   },
   "history": [
@@ -1186,10 +1191,19 @@
       "pnl_usd": -0.09,
       "pnl_pct": -1.51,
       "reason": "BTC-USD lleva más de 14 horas abierto con un PnL negativo persistente (-1.51%) y un RSI de 1h en 26.1 sin consolidar el rebote esperado. Siguiendo la regla de rotación de capital y gestión de posiciones estancadas, cerramos la operación para proteger el capital y evitar pérdidas mayores."
+    },
+    {
+      "timestamp": "2026-10-14T12:30:48.300307-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.0,
+      "shares": 0.095511,
+      "price": 104.7,
+      "reason": "SOL-USD presenta un RSI de 1h en 29.2 saliendo de sobreventa extrema y un cambio de 1h positivo de +0.39%, lo que activa nuestra estrategia de rebote técnico por mean reversion con alta convicción, destinando $10.00 USD."
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición de AAPL abierta buscando el objetivo de take-profit entre +2.0% y +3.5%, vigilando que el RSI de 1h no pierda la zona de los 50 y aplicando un stop-loss estricto si perfora soportes. En cuanto al efectivo disponible ($29.31), lo mantendremos en reserva temporalmente a la espera de que activos como ETH-USD, SOL-USD o BTC-USD muestren un cambio de 1h positivo contundente junto con un RSI saliendo de sobreventa para ejecutar una entrada agresiva de rebote técnico.",
-    "updated_at": "2026-10-14T12:20:46.488036-03:00"
+    "notes": "Mantendremos la posición de AAPL activa buscando el objetivo de take-profit entre +2.0% y +3.5%, ya que su RSI de 1h se encuentra fuerte en 66.8. Con la liquidez disponible, hemos ejecutado una entrada agresiva de rebote técnico en SOL-USD aprovechando su cambio positivo de 1h y RSI de 29.2. En el próximo ciclo evaluaremos la toma de ganancias si AAPL roza la sobrecompra o si SOL-USD consolida su impulso, aplicando stop-loss estrictos si el mercado general profundiza la caída.",
+    "updated_at": "2026-10-14T12:30:48.297424-03:00"
   }
 }

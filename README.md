@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 12:20:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 12:30:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$29.31 USD** | **$9.99 USD** | **$39.29 USD** | 🔴 **-1.76%** ($-0.71) |
+| **$40.00 USD** | **$19.31 USD** | **$19.99 USD** | **$39.30 USD** | 🔴 **-1.75%** ($-0.70) |
 
 ---
 
@@ -16,22 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $345.71 | $9.99 | 📉 -0.13% | 1h 30m |
+| `AAPL` | 0.028889 | $346.15 | $345.89 | $9.99 | 📉 -0.08% | 1h 40m |
+| `SOL-USD` | 0.095511 | $104.70 | $104.70 | $10.00 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra una fase de cautela y corrección generalizada en cripto y renta variable, aunque los activos principales como AAPL se mantienen estables dentro de su tendencia alcista diaria sobre la SMA20. En cripto y otros índices, los indicadores RSI de 1 hora se encuentran deprimidos (en zona de sobreventa extrema o bordeando niveles inferiores a 30), pero la falta de un impulso positivo claro en el cambio de 1h nos obliga a ser pacientes y evitar compras prematuras hasta confirmar la reversión."
+> "El mercado muestra un sesgo defensivo en las últimas 24 horas, con la mayoría de los activos bajo sus medias móviles de 20 periodos, aunque AAPL se mantiene fuerte y con tendencia alcista sobre su SMA20. En el sector cripto, SOL-USD y ETH-USD muestran signos tempranos de intención de rebote con RSI de 1h en zona de sobreventa extrema pero cruzando a terreno positivo en la última hora, cumpliendo la tesis de mean reversion."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 75%): La posición en AAPL se mantiene con un rendimiento casi plano (-0.13%) tras 1 hora y media de tenencia. Su tendencia diaria es alcista y el RSI de 1h se encuentra fuerte en 65.5, por lo que seguimos esperando que alcance nuestro objetivo de take-profit sin necesidad de forzar una venta anticipada.
+- **[BUY] SOL-USD** (Confianza: 85%): SOL-USD presenta un RSI de 1h en 29.2 saliendo de sobreventa extrema y un cambio de 1h positivo de +0.39%, lo que activa nuestra estrategia de rebote técnico por mean reversion con alta convicción, destinando $10.00 USD.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos la posición de AAPL abierta buscando el objetivo de take-profit entre +2.0% y +3.5%, vigilando que el RSI de 1h no pierda la zona de los 50 y aplicando un stop-loss estricto si perfora soportes. En cuanto al efectivo disponible ($29.31), lo mantendremos en reserva temporalmente a la espera de que activos como ETH-USD, SOL-USD o BTC-USD muestren un cambio de 1h positivo contundente junto con un RSI saliendo de sobreventa para ejecutar una entrada agresiva de rebote técnico."
+> "Mantendremos la posición de AAPL activa buscando el objetivo de take-profit entre +2.0% y +3.5%, ya que su RSI de 1h se encuentra fuerte en 66.8. Con la liquidez disponible, hemos ejecutado una entrada agresiva de rebote técnico en SOL-USD aprovechando su cambio positivo de 1h y RSI de 29.2. En el próximo ciclo evaluaremos la toma de ganancias si AAPL roza la sobrecompra o si SOL-USD consolida su impulso, aplicando stop-loss estrictos si el mercado general profundiza la caída."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
@@ -45,11 +46,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-14 12:30` | 🟢 BUY | `SOL-USD` | $10.00 | $104.70 | SOL-USD presenta un RSI de 1h en 29.2 saliendo de sobreventa extrema y un cambio de 1h pos... |
 | `2026-10-14 11:20` | 🔴 SELL (-0.09$) | `BTC-USD` | $5.89 | $81874.95 | BTC-USD lleva más de 14 horas abierto con un PnL negativo persistente (-1.51%) y un RSI de... |
 | `2026-10-14 10:50` | 🟢 BUY | `AAPL` | $10.00 | $346.15 | AAPL se encuentra con un excelente momentum alcista intradiario, un incremento de 1.4% en ... |
 | `2026-10-14 10:10` | 🔴 SELL (-0.11$) | `SOL-USD` | $5.89 | $105.41 | La posición en SOL-USD acumula una pérdida cercana al -1.9%, rozando nuestro stop-loss est... |
 | `2026-10-14 02:50` | 🔴 SELL (-0.01$) | `ETH-USD` | $4.99 | $2502.14 | ETH-USD lleva más de 9 horas de holding con PnL plano (-0.25%) y un RSI de 1H en 42.3 sin ... |
-| `2026-10-13 23:11` | 🟢 BUY | `SOL-USD` | $6.00 | $107.45 | SOL-USD presenta un RSI diario en niveles de sobreventa extrema (28.3) y muestra un sólido... |
 
 ---
 
