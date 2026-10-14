@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 09:40:47`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 09:50:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$27.53 USD** | **$11.88 USD** | **$39.41 USD** | 🔴 **-1.49%** ($-0.59) |
+| **$40.00 USD** | **$27.53 USD** | **$11.88 USD** | **$39.41 USD** | 🔴 **-1.48%** ($-0.59) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000072 | $83128.62 | $82665.74 | $5.97 | 📉 -0.56% | 12h 39m |
-| `SOL-USD` | 0.055840 | $107.45 | $105.88 | $5.91 | 📉 -1.46% | 10h 29m |
+| `BTC-USD` | 0.000072 | $83128.62 | $82812.37 | $5.98 | 📉 -0.38% | 12h 49m |
+| `SOL-USD` | 0.055840 | $107.45 | $105.74 | $5.90 | 📉 -1.59% | 10h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado y con precios congelados. En el segmento de criptomonedas, que opera 24/7, observamos una ligera presión bajista a corto plazo con BTC-USD y SOL-USD experimentando descensos en la última hora y cotizando por debajo de su SMA20. A pesar de esto, mantenemos la vigilancia sobre los soportes diarios y el comportamiento del RSI para evaluar si las posiciones actuales logran estabilizarse o si requerirán una salida anticipada para proteger el capital."
+> "El mercado cripto muestra un sesgo bajista moderado en el corto plazo con los principales activos (BTC-USD, SOL-USD y ETH-USD) cotizando por debajo de sus medias móviles de 20 periodos. Los mercados tradicionales se encuentran cerrados, por lo que toda la atención táctica se centra en la gestión de las posiciones actuales de criptomonedas y la protección del capital disponible."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 65%): BTC-USD se mantiene abierto y dentro de la zona de vigilancia. Aunque muestra un pequeño retroceso en la última hora, el precio no ha roto los niveles críticos de soporte ni alcanzado el stop-loss estricto de -2.0%. Mantendremos la posición esperando el rebote técnico desde los niveles actuales.
-- **[HOLD] SOL-USD** (Confianza: 60%): SOL-USD presenta un RSI diario en sobreventa extrema (26.5), lo que respalda la tesis de mean reversion. A pesar del leve descenso reciente de 1H, el holding time aún permite evaluar la consolidación del soporte antes de tomar una decisión de corte de pérdidas.
+- **[HOLD] BTC-USD** (Confianza: 60%): BTC-USD registra una pérdida menor del -0.38% tras casi 13 horas de holding. Aunque el RSI de 1H se sitúa en 38.1 y la tendencia es bajista, aún no se alcanza el umbral de stop-loss estricto del -2.0%, por lo que se mantiene la posición esperando un rebote técnico.
+- **[HOLD] SOL-USD** (Confianza: 60%): SOL-USD presenta una pérdida de -1.59% con un RSI diario en sobreventa extrema (26.4). Nos encontramos cerca del límite de protección de -2.0%, pero el contexto diario sugiere que podría consolidar un suelo próximamente. Mantendremos la vigilancia estricta.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones actuales de BTC-USD y SOL-USD por unas horas adicionales, monitoreando de cerca el límite de pérdida del -2.0% y esperando señales claras de rebote con un RSI de 1H superando los 50 puntos. Si las pérdidas se aproximan al umbral crítico o si el holding time supera las 20 horas sin momentum positivo, procederemos a liquidar para proteger el efectivo y buscar nuevas oportunidades de rotación."
+> "Mantendremos las posiciones abiertas de BTC-USD y SOL-USD vigilando de cerca el nivel de stop-loss del -2.0%. El holding time ya supera las 10 horas y el momentum es débil, por lo que si las pérdidas se acercan al límite crítico o el RSI de 1H cae por debajo de 35 sin signos de reacción, procederemos a liquidar de inmediato para preservar efectivo y buscar nuevas oportunidades de rotación."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
