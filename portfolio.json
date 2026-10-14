@@ -1163,7 +1163,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini.",
-    "updated_at": "2026-10-14T05:50:55.533597-03:00"
+    "notes": "Mantener BTC-USD y SOL-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5%. Si BTC-USD se acerca al objetivo o su RSI de 1H cruza por encima de 70, realizaremos toma de ganancias parcial o total. Para SOL-USD, evaluaremos su comportamiento en los próximos ciclos; si no muestra un repunte claro hacia terreno positivo y rompe soporte, rotaremos el capital hacia oportunidades con mayor inercia alcista. Mantener la reserva mínima de efectivo.",
+    "updated_at": "2026-10-14T06:00:51.199506-03:00"
   }
 }
