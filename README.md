@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-13 23:50:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 00:00:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$22.54 USD** | **$17.02 USD** | **$39.56 USD** | 🔴 **-1.09%** ($-0.44) |
+| **$40.00 USD** | **$22.54 USD** | **$17.05 USD** | **$39.59 USD** | 🔴 **-1.04%** ($-0.41) |
 
 ---
 
@@ -16,26 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.001993 | $2508.37 | $2506.34 | $5.00 | 📉 -0.08% | 6h 40m |
-| `BTC-USD` | 0.000072 | $83128.62 | $83431.73 | $6.02 | 📈 +0.36% | 2h 49m |
-| `SOL-USD` | 0.055840 | $107.45 | $107.56 | $6.01 | 📈 +0.10% | 39m |
+| `ETH-USD` | 0.001993 | $2508.37 | $2510.59 | $5.00 | 📈 +0.09% | 6h 50m |
+| `BTC-USD` | 0.000072 | $83128.62 | $83575.41 | $6.03 | 📈 +0.54% | 2h 59m |
+| `SOL-USD` | 0.055840 | $107.45 | $107.61 | $6.01 | 📈 +0.15% | 49m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se encuentra operando de forma activa con un sesgo ligeramente positivo en el corto plazo (cambios de 1h positivos en BTC, ETH y SOL), aunque mantenidos bajo sus medias móviles de 20 periodos en el gráfico diario. Los mercados tradicionales permanecen cerrados. Las posiciones actuales muestran estabilidad con ligeras ganancias o pérdidas contenidas, por lo que se prioriza mantener la exposición y vigilar de cerca los niveles objetivo de take-profit sin apresurarse a cerrar posiciones prematuramente."
+> "El mercado de criptomonedas se mantiene operativo (24/7) mientras que los activos tradicionales de Wall Street están cerrados. Las posiciones actuales en BTC-USD, ETH-USD y SOL-USD muestran ligeras ganancias pero se encuentran en una zona de consolidación con tendencia general bajista bajo la SMA20. Mantenemos la estrategia de monitorear de cerca los niveles de sobrecompra en RSI de 1 hora para asegurar beneficios si se alcanza el rango del +2.0% al +3.5%, o recortar posiciones si se detecta debilidad."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 80%): BTC-USD se encuentra con un rendimiento positivo del 0.36% y un RSI de 1h equilibrado en 54.2. El holding time es de aproximadamente 2 horas y 49 minutos, por lo que el rebote sigue su curso esperado sin señales de agotamiento.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD muestra estabilidad con una pérdida marginal de -0.08% y un RSI de 1h en 52.9. Se mantiene en cartera para permitir que alcance su objetivo de rebote técnico.
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD presenta un PnL positivo del 0.10% tras un tiempo de holding reciente de 39 minutos. Su RSI diario está en sobreventa extrema (28.6) y muestra un cambio positivo de 24h del 1.9%, por lo que tiene potencial alcista adicional.
+- **[HOLD] BTC-USD** (Confianza: 75%): BTC-USD se mantiene estable con una pequeña ganancia del 0.54% tras el rebote reciente. El RSI de 1 hora está en 59.4, por lo que se prefiere mantener la posición a la espera de acercarse al objetivo de take-profit del 2.0% o un aumento de momentum.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en BTC-USD, ETH-USD y SOL-USD. Vigilar que el RSI de 1 hora se mantenga estable y buscar la toma de beneficios (take-profit) si se alcanza el rango del +2.0% al +3.5%. Conservar la liquidez actual como reserva y estar atentos a cualquier ruptura de soporte en los activos cripto para cortar pérdidas a tiempo."
+> "Monitorear las posiciones abiertas en BTC-USD, ETH-USD y SOL-USD. Esperar a que el RSI de 1 hora alcance niveles superiores a 70 o que la ganancia llegue al objetivo de +2.0% a +3.5% para tomar beneficios. Mantener la disciplina con el stop-loss estricto a -2.0% para proteger el capital ante cualquier giro bajista repentino."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

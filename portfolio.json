@@ -1157,7 +1157,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, ETH-USD y SOL-USD. Vigilar que el RSI de 1 hora se mantenga estable y buscar la toma de beneficios (take-profit) si se alcanza el rango del +2.0% al +3.5%. Conservar la liquidez actual como reserva y estar atentos a cualquier ruptura de soporte en los activos cripto para cortar pérdidas a tiempo.",
-    "updated_at": "2026-10-13T23:50:46.954587-03:00"
+    "notes": "Monitorear las posiciones abiertas en BTC-USD, ETH-USD y SOL-USD. Esperar a que el RSI de 1 hora alcance niveles superiores a 70 o que la ganancia llegue al objetivo de +2.0% a +3.5% para tomar beneficios. Mantener la disciplina con el stop-loss estricto a -2.0% para proteger el capital ante cualquier giro bajista repentino.",
+    "updated_at": "2026-10-14T00:00:48.214696-03:00"
   }
 }
