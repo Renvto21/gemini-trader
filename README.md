@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 13:20:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-14 13:30:51`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.31 USD** | **$19.89 USD** | **$39.20 USD** | 🔴 **-2.00%** ($-0.80) |
+| **$40.00 USD** | **$19.31 USD** | **$19.90 USD** | **$39.21 USD** | 🔴 **-1.98%** ($-0.79) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.45 | $9.95 | 📉 -0.49% | 2h 29m |
-| `SOL-USD` | 0.095511 | $104.70 | $104.07 | $9.94 | 📉 -0.60% | 49m |
+| `AAPL` | 0.028889 | $346.15 | $345.11 | $9.97 | 📉 -0.30% | 2h 40m |
+| `SOL-USD` | 0.095511 | $104.70 | $103.97 | $9.93 | 📉 -0.70% | 1h 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo general bajista en los principales índices y activos (bajo SMA20) con lecturas de RSI de 1 hora extremadamente deprimidas en varios instrumentos, reflejando condiciones de sobreventa generalizada pero persistente presión a la baja en el corto plazo."
+> "El mercado muestra un sentimiento predominantemente bajista en el corto plazo con varios índices y criptomonedas bajo sus medias móviles de 20 periodos y RSI de 1 hora en niveles de sobreventa extrema, lo que incrementa las probabilidades de rebotes técnicos inminentes. AAPL se mantiene fuerte con una tendencia alcista macro y un RSI de 1h cercano a la sobrecompra (66.0), mientras que SOL-USD muestra un ligero cambio positivo de 1h (0.24%) a pesar de su sobreventa."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 70%): AAPL se mantiene con una tendencia alcista diaria sobre la SMA20 y un PnL controlado (-0.49%). Aunque el cambio de 1h es ligeramente negativo, el RSI diario y de 1h muestran estabilidad, por lo que se mantiene la posición buscando el rebote.
-- **[HOLD] SOL-USD** (Confianza: 65%): SOL-USD presenta un cambio de 1h positivo (+0.31%) tras haber entrado recientemente en cartera. Su PnL es de -0.6% y el holding time es corto, por lo que merece la oportunidad de desarrollar el impulso alcista esperado.
+- **[HOLD] AAPL** (Confianza: 80%): AAPL mantiene una tendencia alcista saludable sobre la SMA20 con un PnL estable (-0.3%) y un RSI de 1h en 66.0, aproximándose a la zona de toma de ganancias.
+- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD muestra signos incipientes de giro con un cambio de 1h positivo del 0.24% tras haber entrado en sobreventa, por lo que se le dará un ciclo más para confirmar el rebote.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones actuales de AAPL y SOL-USD bajo estrecha vigilancia, respetando estrictamente el stop-loss del -2.0% y buscando toma de ganancias si el RSI de 1 hora rebota hacia la sobrecompra. El efectivo disponible de $19.31 se mantendrá en reserva a la espera de confirmaciones de volumen y giro de tendencia antes de incrementar la exposición."
+> "Mantendremos AAPL vigilando de cerca su RSI de 1h para asegurar ganancias si supera 70, y mantendremos SOL-USD mientras su rebote intradiario se consolide. La liquidez en efectivo se mantiene por encima del umbral mínimo de seguridad ($4.00) a la espera de confirmaciones adicionales en cripto si ETH o BTC muestran rupturas de volumen con RSI alcista."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

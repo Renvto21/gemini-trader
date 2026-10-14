@@ -1203,7 +1203,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de AAPL y SOL-USD bajo estrecha vigilancia, respetando estrictamente el stop-loss del -2.0% y buscando toma de ganancias si el RSI de 1 hora rebota hacia la sobrecompra. El efectivo disponible de $19.31 se mantendrá en reserva a la espera de confirmaciones de volumen y giro de tendencia antes de incrementar la exposición.",
-    "updated_at": "2026-10-14T13:20:41.002950-03:00"
+    "notes": "Mantendremos AAPL vigilando de cerca su RSI de 1h para asegurar ganancias si supera 70, y mantendremos SOL-USD mientras su rebote intradiario se consolide. La liquidez en efectivo se mantiene por encima del umbral mínimo de seguridad ($4.00) a la espera de confirmaciones adicionales en cripto si ETH o BTC muestran rupturas de volumen con RSI alcista.",
+    "updated_at": "2026-10-14T13:30:51.825386-03:00"
   }
 }
