@@ -1237,7 +1237,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear el comportamiento de SOL-USD y ETH-USD en las criptomonedas 24/7. Si rompen soportes a la baja aplicaremos stop-loss estricto para proteger capital. Esperar la apertura de Wall Street para evaluar la posición en AAPL y buscar oportunidades de rotación si el momentum mejora.",
-    "updated_at": "2026-10-14T19:40:46.309770-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras estén operando en zonas de sobreventa y respeten los niveles de soporte crítico. La posición en AAPL está inactiva debido al cierre del mercado accionario. Si ETH-USD o SOL-USD muestran pérdida de soporte o caen por debajo del stop-loss del -2.0%, procederemos a vender inmediatamente para proteger el capital. Monitorear el cambio en el momentum de 1 hora para buscar oportunidades de toma de beneficios si el RSI supera 70.",
+    "updated_at": "2026-10-14T19:50:43.029164-03:00"
   }
 }
