@@ -1263,7 +1263,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en AAPL y BTC-USD mientras respeten los límites de stop-loss del -2.0%. Vigilar de cerca a ETH-USD y SOL-USD para un reingreso táctico de rebote en cuanto el change_1h_pct se vuelva positivo. Proteger el colchón de efectivo por encima de los $4.00 USD y evitar forzar entradas sin confirmación de impulso.",
-    "updated_at": "2026-10-15T00:50:43.400783-03:00"
+    "notes": "Mantener AAPL y BTC-USD mientras no rompan el stop-loss del -2.0%. Vigilar de cerca a ETH-USD y SOL-USD para entrar en cuanto el 'change_1h_pct' confirme un giro alcista definitivo. El efectivo actual es de $23.61 USD, cumpliendo holgadamente con la reserva mínima de $4.00 USD.",
+    "updated_at": "2026-10-15T01:00:44.288732-03:00"
   }
 }
