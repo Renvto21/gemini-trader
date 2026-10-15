@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 10:30:52`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 10:40:44`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$16.50 USD** | **$21.91 USD** | **$38.41 USD** | 🔴 **-3.98%** ($-1.59) |
+| **$40.00 USD** | **$16.50 USD** | **$21.96 USD** | **$38.45 USD** | 🔴 **-3.86%** ($-1.55) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $347.11 | $10.03 | 📈 +0.28% | 23h 40m |
-| `ETH-USD` | 0.002539 | $2362.71 | $2337.06 | $5.93 | 📉 -1.09% | 9h 20m |
-| `SOL-USD` | 0.058789 | $102.06 | $101.17 | $5.95 | 📉 -0.87% | 7h 10m |
+| `AAPL` | 0.028889 | $346.15 | $346.59 | $10.01 | 📈 +0.13% | 23h 50m |
+| `ETH-USD` | 0.002539 | $2362.71 | $2347.25 | $5.96 | 📉 -0.65% | 9h 30m |
+| `SOL-USD` | 0.058789 | $102.06 | $101.79 | $5.98 | 📉 -0.26% | 7h 20m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un tono bajista generalizado tanto en renta variable estadounidense como en criptoactivos principales, con la mayoría de los índices y criptomonedas cotizando por debajo de sus medias móviles de 20 periodos. Sin embargo, se observan niveles de sobreventa extremos en indicadores de 1 hora en varios activos tecnológicos y criptos, lo que abre oportunidades tácticas puntuales de rebote técnico (mean reversion) para la cartera."
+> "El mercado muestra un sentimiento predominantemente bajista con múltiples activos por debajo de sus medias móviles de 20 periodos. Sin embargo, se observan oportunidades interesantes de sobreventa extrema en el sector tecnológico y cripto. MSFT destaca con un RSI de 1h en 20.3 pero un sólido RSI diario de 64.8 en tendencia alcista. Las criptomonedas (ETH-USD y SOL-USD) se mantienen estables pero sin el momentum explosivo esperado, mientras que AAPL se mantiene con ligera ganancia pero sin romper hacia arriba de manera contundente."
 
 **Operaciones del ciclo:**
-- **[SELL] BTC-USD** (Confianza: 85%): La posición en BTC-USD se acerca al límite de tolerancia de pérdida (-1.91%) y el activo permanece bajo su media móvil con un impulso horario débil, por lo que se ejecuta la venta para cortar pérdidas y proteger el capital disponible.
+- **[HOLD] AAPL** (Confianza: 70%): La posición se mantiene estable con una ganancia marginal del 0.13% y operando en tendencia alcista sobre la SMA20. Se mantiene en cartera a la espera de un mayor impulso hacia la zona de take-profit.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la vigilancia sobre BTC-USD, ETH-USD y SOL-USD para asegurar take-profits rápidos si experimentan un rebote hacia zonas de resistencia o cortar pérdidas estrictamente si BTC-USD profundiza su caída por debajo del soporte actual. Evaluar la rotación de AAPL para capitalizar caídas en activos con mayor sobreventa como MSFT o NVDA si el momentum técnico mejora."
+> "Mantener posición en AAPL mientras conserve su tendencia alcista sobre SMA20, monitoreando take-profit si alcanza el rango de +2%. Evaluar la salida de ETH-USD o SOL-USD si el momentum de 1h no logra superar los niveles críticos. Vigilar a MSFT para una posible entrada si confirma el rebote técnico desde su sobreventa de 1h aprovechando la liquidez disponible."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
