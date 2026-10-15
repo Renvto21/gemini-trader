@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. La posición en SOL-USD muestra un inicio positivo y se vigilará para asegurar beneficios si alcanza el objetivo de +2.0% a +3.5%. ETH-USD y BTC-USD se mantendrán monitoreando sus niveles de RSI de 1 hora para confirmar rebotes o aplicar un stop-loss estricto si rompen soportes clave a la baja.",
-    "updated_at": "2026-10-15T04:00:51.835048-03:00"
+    "notes": "Mantendremos las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. Monitorearemos ETH-USD y SOL-USD para capturar ganancias si logran un repunte de +2.0% a +3.5%, o aplicaremos un stop-loss estricto si el RSI diario continúa deteriorándose y rompen los soportes actuales. Mantendremos la liquidez disponible para reaccionar ante nuevos impulsos en la próxima sesión.",
+    "updated_at": "2026-10-15T04:10:44.484256-03:00"
   }
 }
