@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 17.61193094190039,
+  "cash": 11.61193094190039,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
@@ -16,6 +16,11 @@
       "shares": 0.002539456810188301,
       "avg_price": 2362.71,
       "opened_at": "2026-10-15T01:10:40.830388-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.058788947677836566,
+      "avg_price": 102.06,
+      "opened_at": "2026-10-15T03:20:43.042385-03:00"
     }
   },
   "history": [
@@ -1274,10 +1279,19 @@
       "shares": 0.002539,
       "price": 2362.71,
       "reason": "ETH-USD presenta un RSI de 1h extremadamente bajo en 23.5 saliendo de sobreventa y un cambio de 1h positivo de 0.24%, cumpliendo la estrategia de cazar rebotes de mean reversion en cripto mientras los mercados tradicionales están cerrados."
+    },
+    {
+      "timestamp": "2026-10-15T03:20:43.042410-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 6.0,
+      "shares": 0.058789,
+      "price": 102.06,
+      "reason": "SOL-USD muestra un RSI de 1h en 33.3 saliendo de zonas de compresión bajista, acompañado de un cambio positivo de 1h de +0.71%. Su RSI diario en 23.1 indica sobreventa extrema, lo que activa la oportunidad de un rebote técnico (mean reversion) de corto plazo."
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales en AAPL, BTC-USD y ETH-USD. Vigilar estrictamente los límites de stop-loss (-2.0%) para evitar daños mayores en las posiciones cripto. Mantener liquidez para rotar capital en cuanto se presenten confirmaciones de tendencia o cuando abra el mercado de valores.",
-    "updated_at": "2026-10-15T03:10:43.562594-03:00"
+    "notes": "Mantener posiciones en AAPL (esperando apertura), BTC-USD y ETH-USD mientras conserven el soporte. Vigilar de cerca el rebote incipiente en SOL-USD para una posible entrada si consolida el volumen alcista. Mantener el stop-loss estricto a -2.0% y asegurar ganancias si las criptomonedas logran un +2.0% de revalorización rápida en este ciclo.",
+    "updated_at": "2026-10-15T03:20:42.925244-03:00"
   }
 }
