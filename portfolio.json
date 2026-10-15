@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 9.227379799419182,
+  "cash": 4.227379799419182,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
@@ -16,6 +16,11 @@
       "shares": 0.004135067856463524,
       "avg_price": 2418.34,
       "opened_at": "2026-10-14T19:00:50.999120-03:00"
+    },
+    "BTC-USD": {
+      "shares": 6.12439778796551e-05,
+      "avg_price": 81640.68,
+      "opened_at": "2026-10-14T21:10:36.353545-03:00"
     }
   },
   "history": [
@@ -1234,10 +1239,19 @@
       "shares": 0.004135,
       "price": 2418.34,
       "reason": "ETH-USD presenta un RSI de 1h en 22.0 (sobreventa extrema) y un cambio de 1h que comienza a tornarse positivo (+0.05%), cumpliendo con la estrategia agresiva de mean reversion y captura de rebotes técnicos con alta convicción."
+    },
+    {
+      "timestamp": "2026-10-14T21:10:36.353556-03:00",
+      "action": "BUY",
+      "ticker": "BTC-USD",
+      "amount_usd": 5.0,
+      "shares": 6.1e-05,
+      "price": 81640.68,
+      "reason": "BTC-USD presenta un RSI de 1h en 24.9 (sobreventa extrema) y liquidez disponible suficiente tras mantener la reserva mínima. Entramos buscando un rebote técnico de corto plazo en un mercado activo 24/7."
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de ETH-USD y SOL-USD vigilando de cerca sus objetivos de take-profit entre +2.0% y +3.5%. Evaluaremos la entrada en BTC-USD si su RSI de 1h se estabiliza y comienza a mostrar un cambio positivo. El stop-loss se mantiene estrictamente en -2.0% para todas las posiciones activas.",
-    "updated_at": "2026-10-14T21:00:57.046125-03:00"
+    "notes": "Mantener posiciones de ETH-USD y SOL-USD operando activamente y buscar toma de ganancias si alcanzan el rango de +2.0% a +3.5%. Aprovechar la liquidez disponible para abrir una posición en BTC-USD aprovechando su RSI de 1h en sobreventa extrema (< 25). Stop-loss estrictamente fijado en -2.0% para todas las posiciones activas.",
+    "updated_at": "2026-10-14T21:10:36.351760-03:00"
   }
 }
