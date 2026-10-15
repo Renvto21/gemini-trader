@@ -2,41 +2,6 @@
 🤖 Consultando a Gemini para análisis y toma de decisiones...
 
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado tradicional se encuentra cerrado y congelado, por lo que toda la actividad debe centrarse exclusivamente en las criptomonedas (abiertas 24/7). Las criptos principales (BTC-USD, ETH-USD, SOL-USD) muestran un comportamiento lateral a ligeramente bajista en el corto plazo, con RSI de 1 hora comprimidos cerca de zonas de soporte pero sin mostrar todavía la fuerza de rebote esperada. El portafolio acumula una leve pérdida general (-3.88%), manteniendo posiciones dentro de los márgenes de stop-loss estricto (-2.0%). Dado que los activos abiertos llevan horas sin romper al alza de forma contundente y no se observan catalizadores inmediatos de impulso, se opta por mantener la estructura actual y conservar la liquidez disponible a la espera de una ruptura clara de volumen."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones abiertas (AAPL, BTC-USD, ETH-USD, SOL-USD) mientras respeten el stop-loss estricto del -2.0%. Monitorear de cerca los indicadores de ETH-USD y SOL-USD: si el RSI de 1 hora supera los 60 puntos y se registra un take-profit entre +2.0% y +3.5%, ejecutar ventas parciales para asegurar ganancias y liberar liquidez. No abrir nuevas posiciones hasta que se observe una confirmación clara de impulso alcista en el sector cripto o hasta que abran los mercados tradicionales."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] ETH-USD (Confianza: 70%)
-    Razón: ETH-USD se mantiene estable con una pérdida marginal del -0.14% tras 8 horas de holding. El RSI de 1 hora se sitúa en 33.6, consolidando en zona de soporte. Se mantiene a la espera de un cambio de tendencia intradiario positivo que active el take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.45 USD (Cash: $11.61 USD)
-
-[2026-10-15 09:20:33] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $11.61 USD
- Valor en Activos:     $26.87 USD
- Balance Total:        $38.48 USD
- Ganancia/Pérdida:     🔴 $-1.52 USD (-3.81%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 22h 29m]
-   • BTC-USD: 6.1e-05 u. | Compra: $81640.68 | Actual: $80909.61 | Total: $4.96 📉 (-0.90%) [Tiempo: 12h 10m]
-   • ETH-USD: 0.002539 u. | Compra: $2362.71 | Actual: $2363.71 | Total: $6.0 📈 (+0.04%) [Tiempo: 8h 9m]
-   • SOL-USD: 0.058789 u. | Compra: $102.06 | Actual: $102.06 | Total: $6.0 📈 (+0.00%) [Tiempo: 5h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "Los mercados tradicionales (AAPL, QQQ, SPY, NVDA, MSFT, GLD) se encuentran cerrados, por lo que la liquidez activa se concentra estrictamente en los activos cripto (BTC-USD, ETH-USD, SOL-USD) que operan 24/7. El sentimiento general es bajista en el corto plazo con tendencias por debajo de la SMA20, pero ETH-USD y SOL-USD muestran signos de estabilización tras haber salido de zonas de sobreventa extrema en marcos intradiarios, manteniendo nuestras posiciones estables con un PnL neutral."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -151,3 +116,38 @@ Balance final del ciclo: $38.47 USD (Cash: $11.61 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.41 USD (Cash: $11.61 USD)
+
+[2026-10-15 10:00:40] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $11.61 USD
+ Valor en Activos:     $26.78 USD
+ Balance Total:        $38.40 USD
+ Ganancia/Pérdida:     🔴 $-1.60 USD (-4.01%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 23h 10m]
+   • BTC-USD: 6.1e-05 u. | Compra: $81640.68 | Actual: $80510.6 | Total: $4.93 📉 (-1.38%) [Tiempo: 12h 50m]
+   • ETH-USD: 0.002539 u. | Compra: $2362.71 | Actual: $2348.66 | Total: $5.96 📉 (-0.59%) [Tiempo: 8h 50m]
+   • SOL-USD: 0.058789 u. | Compra: $102.06 | Actual: $101.75 | Total: $5.98 📉 (-0.30%) [Tiempo: 6h 40m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado general se encuentra bajo presión bajista, con los activos tradicionales cerrados y el mercado cripto operando en un rango lateral-bajista con indicios iniciales de estabilización. Los indicadores RSI de 1 hora en cripto se mantienen comprimidos alrededor de 30-38, sugiriendo que la presión vendedora de corto plazo está disminuyendo pero aún falta un volumen de confirmación alcista contundente."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales (AAPL, BTC-USD, ETH-USD, SOL-USD) vigilando estrictamente el stop-loss del -2.0% para evitar pérdidas mayores. Dado que las posiciones llevan varias horas sin el rebote esperado, no realizaremos nuevas compras hasta que los indicadores RSI de 1h superen los 50 puntos con un cambio porcentual horario claramente positivo. Preservaremos el efectivo actual para buscar mejores oportunidades de rotación cuando el mercado accionario abra o se consolide un impulso claro en cripto."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] BTC-USD (Confianza: 60%)
+    Razón: La posición se encuentra con una pérdida controlada de -1.38% dentro del tiempo de retención. El mercado cripto muestra signos de consolidación y preferimos mantener la posición a la espera de un cruce alcista definitivo del RSI de 1h por encima de 50.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.40 USD (Cash: $11.61 USD)
