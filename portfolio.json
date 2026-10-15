@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) monitoreando de cerca su evolución para asegurar beneficios si alcanzan el rango objetivo de +2.0% a +3.5%. Estar atentos a la evolución del RSI de 1 hora; si MSFT o QQQ se acercan a sobrecompra o si NVDA no muestra aceleración en el próximo ciclo, proceder a tomar ganancias o rotar capital hacia activos con mayor dinamismo. Preservar la liquidez mínima operativa de $4.00 USD.",
-    "updated_at": "2026-10-15T16:30:49.183394-03:00"
+    "notes": "Mantener MSFT y QQQ buscando que alcancen el rango objetivo de take-profit (+2.0% a +3.5%). Monitorear de cerca a NVDA: si en el próximo ciclo no muestra un rebote contundente tras su fuerte sobreventa, procederé a venderla para rotar el capital hacia oportunidades con mayor dinamismo en cripto o activos con mejor tendencia alcista. Proteger estrictamente el capital manteniendo la reserva de liquidez operativa.",
+    "updated_at": "2026-10-15T16:40:49.189517-03:00"
   }
 }
