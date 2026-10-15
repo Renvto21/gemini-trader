@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 08:10:45`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 08:20:44`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$11.61 USD** | **$26.86 USD** | **$38.47 USD** | 🔴 **-3.83%** ($-1.53) |
+| **$40.00 USD** | **$11.61 USD** | **$26.86 USD** | **$38.47 USD** | 🔴 **-3.82%** ($-1.53) |
 
 ---
 
@@ -16,26 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 21h 20m |
-| `BTC-USD` | 0.000061 | $81640.68 | $80822.82 | $4.95 | 📉 -1.00% | 11h 0m |
-| `ETH-USD` | 0.002539 | $2362.71 | $2360.98 | $6.00 | 📉 -0.07% | 7h 0m |
-| `SOL-USD` | 0.058789 | $102.06 | $102.14 | $6.00 | 📈 +0.08% | 4h 50m |
+| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 21h 30m |
+| `BTC-USD` | 0.000061 | $81640.68 | $80906.78 | $4.96 | 📉 -0.90% | 11h 10m |
+| `ETH-USD` | 0.002539 | $2362.71 | $2359.60 | $5.99 | 📉 -0.13% | 7h 10m |
+| `SOL-USD` | 0.058789 | $102.06 | $102.16 | $6.01 | 📈 +0.10% | 5h 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado, limitando la operativa al sector cripto (24/7). Las criptomonedas principales (BTC-USD, ETH-USD y SOL-USD) muestran consolidación tras caídas recientes, con los RSI de 1 hora recuperándose ligeramente de zonas de compresión pero sin un impulso alcista fuerte todavía. Mantenemos la cautela y conservamos las posiciones abiertas con estricto apego a los niveles de stop-loss y take-profit."
+> "El mercado muestra un sentimiento predominantemente bajista en el corto plazo con la mayoría de los activos cotizando por debajo de su SMA20. Los activos de Wall Street se encuentran cerrados, por lo que toda la atención táctica se centra en los mercados de criptomonedas (BTC-USD, ETH-USD y SOL-USD), los cuales operan 24/7. Las criptomonedas muestran signos de consolidación tras las recientes caídas, con rebotes técnicos potenciales pero aún sin la fuerza suficiente para consolidar una tendencia alcista firme."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD se mantiene estable con un PnL neutral (-0.07%) tras 7 horas abierto. El RSI de 1h se encuentra en 33.7, consolidando cerca de la zona de rebote esperada. Mantengo la posición esperando el impulso hacia el take-profit.
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD muestra un comportamiento similar, operando con un PnL de 0.0% tras casi 5 horas. El RSI de 1h está en 36.3. Mantengo la posición a la espera de confirmación de tendencia.
+- **[HOLD] ETH-USD** (Confianza: 65%): La posición en ETH-USD se mantiene estable con una pérdida marginal de -0.13% tras 7 horas de apertura. El RSI de 1h se sitúa en 33.4 y mantiene una estructura de compresión a la espera de un impulso alcista que active la zona de beneficios.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la vigilancia sobre ETH-USD y SOL-USD. Si ninguna de las dos rompe al alza hacia el objetivo de take-profit (+2% a +3.5%) o si por el contrario perforan los soportes amenazando el stop-loss del -2%, procederé a la venta inmediata. Mantener la liquidez actual intacta hasta la apertura de Wall Street, momento en el cual evaluaré la rotación de AAPL si no muestra fuerza alcista adicional."
+> "Mantendremos las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD ya que se encuentran dentro de rangos tolerables de pérdida sin romper soportes críticos. Monitorearemos de cerca el comportamiento de ETH-USD y SOL-USD en busca de un aumento en el volumen y un RSI de 1h superior a 50 que confirme el take-profit entre +2.0% y +3.5%. Si alguna posición perfora el -2.0%, procederemos a la ejecución del stop-loss para proteger el capital. La liquidez en efectivo se mantiene en reserva para futuras oportunidades ante la apertura de los mercados tradicionales."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
