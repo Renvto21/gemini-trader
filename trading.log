@@ -3,40 +3,6 @@
 🤖 Consultando a Gemini para análisis y toma de decisiones...
 
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado de valores tradicional (Wall Street) se encuentra cerrado, por lo que los precios de las acciones están congelados y no se pueden operar en este momento. Sin embargo, el mercado de criptomonedas opera 24/7 y muestra condiciones interesantes con activos como ETH-USD y SOL-USD alcanzando niveles de sobrecompra en el RSI de 1 hora (> 70), indicando posibles tomas de beneficios o agotamiento del impulso inmediato a corto plazo. Mantengo las posiciones abiertas de MSFT, QQQ y NVDA a la espera de la apertura de mercado, vigilando de cerca el comportamiento de NVDA cuyo RSI de 1 hora se mantiene extremadamente deprimido en 17.8."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones actuales en MSFT, QQQ y NVDA ya que los mercados tradicionales están cerrados. Vigilar que alcancen el objetivo de take-profit entre +2.0% y +3.5% en la próxima apertura. Mantener liquidez en efectivo en $14.17 USD para operar con agilidad ante nuevas señales en cripto o en la apertura de Wall Street."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] QQQ (Confianza: 80%)
-    Razón: El mercado está cerrado para QQQ, impidiendo realizar operaciones. La posición se mantiene mientras esperamos la apertura bursátil para buscar un rebote hacia el objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
-
-[2026-10-15 17:10:47] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $14.17 USD
- Valor en Activos:     $24.59 USD
- Balance Total:        $38.76 USD
- Ganancia/Pérdida:     🔴 $-1.24 USD (-3.11%)
-
- 💼 Posiciones Abiertas:
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.44 | Total: $6.55 📈 (+0.80%) [Tiempo: 6h 20m]
-   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $728.0 | Total: $10.04 📈 (+0.40%) [Tiempo: 4h 50m]
-   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.23 | Total: $8.0 📈 (-0.04%) [Tiempo: 4h 20m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "Los mercados tradicionales se encuentran cerrados, por lo que la liquidez activa se concentra en los criptoactivos 24/7. En cripto, SOL-USD y ETH-USD muestran RSI de 1 hora en zona de sobrecompra superior a 70, lo que limita una entrada alcista inmediata por agotamiento de corto plazo. En el portafolio actual, MSFT, QQQ y NVDA están en mercados cerrados con ganancias y pérdidas moderadas que aún no alcanzan los objetivos de take-profit del +2.0% ni los stop-loss del -2.0%. Se mantiene la postura de espera para las posiciones actuales hasta la apertura de Wall Street."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -147,6 +113,40 @@ Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] MSFT (Confianza: 80%)
     Razón: La posición en MSFT se mantiene con una ganancia moderada de +0.8%. El mercado está cerrado y el activo sigue respetando su tendencia alcista diaria.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
+
+[2026-10-15 17:50:41] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $14.17 USD
+ Valor en Activos:     $24.59 USD
+ Balance Total:        $38.76 USD
+ Ganancia/Pérdida:     🔴 $-1.24 USD (-3.11%)
+
+ 💼 Posiciones Abiertas:
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.44 | Total: $6.55 📈 (+0.80%) [Tiempo: 6h 59m]
+   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $728.0 | Total: $10.04 📈 (+0.40%) [Tiempo: 5h 30m]
+   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.23 | Total: $8.0 📈 (-0.04%) [Tiempo: 5h 0m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado bursátil tradicional (Wall Street) se encuentra cerrado, por lo que los precios de MSFT, QQQ y NVDA están congelados y no se pueden operar en este momento. Las posiciones actuales muestran ligeras ganancias estables en MSFT (+0.8%) y QQQ (+0.4%), mientras que NVDA está plana (-0.04%). En el mercado de criptomonedas (abierto 24/7), ETH-USD y SOL-USD muestran condiciones de sobrecompra en el RSI de 1h (> 70), lo que indica agotamiento en el corto plazo tras sus rebotes. BTC-USD se mantiene estable sin señales claras de entrada agresiva."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales en MSFT, QQQ y NVDA hasta la apertura del mercado bursátil para buscar objetivos de take-profit en la zona de +2.0% a +3.5%. En criptomonedas, esperar un retroceso en ETH-USD y SOL-USD hacia soportes más claros antes de desplegar la liquidez restante. Mantener la disciplina en el control de riesgo y estar preparados para rotar capital apenas abran los mercados tradicionales."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] MSFT (Confianza: 75%)
+    Razón: La posición mantiene una ganancia moderada de +0.8%. Como el mercado está cerrado, se mantiene la posición esperando alcanzar la zona objetivo de take-profit del +2.0% al +3.5% en la apertura.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.
