@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas en ETH-USD, SOL-USD, BTC-USD y AAPL. Monitorizaremos de cerca el take-profit en cripto si alcanzan el rango de +2.0% a +3.5%. Si el impulso en ETH o SOL decae sin alcanzar la ganancia esperada, rotaremos el capital hacia oportunidades con mayor volumen. El efectivo se mantendrá protegido por encima del mínimo requerido.",
-    "updated_at": "2026-10-15T04:50:43.836582-03:00"
+    "notes": "Mantendremos las posiciones actuales en ETH-USD, SOL-USD, BTC-USD y AAPL. Monitorearemos de cerca el take-profit para ETH y SOL si alcanzan el rango de +2.0% a +3.5%. Si el impulso alcista se frena o decae antes de la meta, realizaremos una toma parcial o total de beneficios para rotar liquidez. Mantendremos la reserva de efectivo por encima del mínimo requerido.",
+    "updated_at": "2026-10-15T05:00:54.735907-03:00"
   }
 }
