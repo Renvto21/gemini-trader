@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 10:40:44`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 10:50:47`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$16.50 USD** | **$21.96 USD** | **$38.45 USD** | 🔴 **-3.86%** ($-1.55) |
+| **$40.00 USD** | **$10.00 USD** | **$28.38 USD** | **$38.38 USD** | 🔴 **-4.05%** ($-1.62) |
 
 ---
 
@@ -16,24 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $346.59 | $10.01 | 📈 +0.13% | 23h 50m |
-| `ETH-USD` | 0.002539 | $2362.71 | $2347.25 | $5.96 | 📉 -0.65% | 9h 30m |
-| `SOL-USD` | 0.058789 | $102.06 | $101.79 | $5.98 | 📉 -0.26% | 7h 20m |
+| `AAPL` | 0.028889 | $346.15 | $345.18 | $9.97 | 📉 -0.28% | 1d 0h |
+| `ETH-USD` | 0.002539 | $2362.71 | $2338.65 | $5.94 | 📉 -1.02% | 9h 40m |
+| `SOL-USD` | 0.058789 | $102.06 | $101.61 | $5.97 | 📉 -0.44% | 7h 30m |
+| `MSFT` | 0.012146 | $535.17 | $535.17 | $6.50 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sentimiento predominantemente bajista con múltiples activos por debajo de sus medias móviles de 20 periodos. Sin embargo, se observan oportunidades interesantes de sobreventa extrema en el sector tecnológico y cripto. MSFT destaca con un RSI de 1h en 20.3 pero un sólido RSI diario de 64.8 en tendencia alcista. Las criptomonedas (ETH-USD y SOL-USD) se mantienen estables pero sin el momentum explosivo esperado, mientras que AAPL se mantiene con ligera ganancia pero sin romper hacia arriba de manera contundente."
+> "El mercado muestra un sesgo general bajista en los principales índices, con caídas notables en QQQ y NVDA, mientras que las criptomonedas continúan con presión a la baja aunque con baja volatilidad en la última hora. MSFT muestra indicios de soporte técnico interesante con un RSI de 1h extremadamente bajo en sobreventa (14.7) y tendencia diaria alcista, lo que presenta una oportunidad táctica de rebote."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 70%): La posición se mantiene estable con una ganancia marginal del 0.13% y operando en tendencia alcista sobre la SMA20. Se mantiene en cartera a la espera de un mayor impulso hacia la zona de take-profit.
+- **[BUY] MSFT** (Confianza: 85%): MSFT presenta un RSI de 1h ultra comprimido en sobreventa extrema (14.7) con un cambio positivo de 1h del 0.24% y tendencia diaria alcista sobre la SMA20, cumpliendo con la estrategia de rebote técnico de alta convicción.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener posición en AAPL mientras conserve su tendencia alcista sobre SMA20, monitoreando take-profit si alcanza el rango de +2%. Evaluar la salida de ETH-USD o SOL-USD si el momentum de 1h no logra superar los niveles críticos. Vigilar a MSFT para una posible entrada si confirma el rebote técnico desde su sobreventa de 1h aprovechando la liquidez disponible."
+> "Mantener seguimiento estricto sobre AAPL, ETH-USD y SOL-USD para evaluar salidas si pierden soportes o alcanzan take-profit. Planificar la rotación de capital hacia MSFT aprovechando su sobreventa intradiaria en 1h para capturar un rebote técnico rápido. Monitorear de cerca los stop-loss en cripto si el momentum no repunta."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
@@ -47,11 +48,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-15 10:50` | 🟢 BUY | `MSFT` | $6.50 | $535.17 | MSFT presenta un RSI de 1h ultra comprimido en sobreventa extrema (14.7) con un cambio pos... |
 | `2026-10-15 10:30` | 🔴 SELL (-0.10$) | `BTC-USD` | $4.88 | $80081.22 | La posición en BTC-USD se acerca al límite de tolerancia de pérdida (-1.91%) y el activo p... |
 | `2026-10-15 03:20` | 🟢 BUY | `SOL-USD` | $6.00 | $102.06 | SOL-USD muestra un RSI de 1h en 33.3 saliendo de zonas de compresión bajista, acompañado d... |
 | `2026-10-15 01:10` | 🟢 BUY | `ETH-USD` | $6.00 | $2362.71 | ETH-USD presenta un RSI de 1h extremadamente bajo en 23.5 saliendo de sobreventa y un camb... |
 | `2026-10-14 23:30` | 🔴 SELL (-0.30$) | `SOL-USD` | $9.70 | $101.32 | La posición en SOL-USD acumula una pérdida de -2.95%, acercándose al límite crítico y sin ... |
-| `2026-10-14 23:30` | 🔴 SELL (-0.32$) | `ETH-USD` | $9.68 | $2340.86 | 🚨 STOP-LOSS AUTOMÁTICO (CIRCUIT BREAKER): Pérdida de -3.20% superó el límite de seguridad ... |
 
 ---
 
