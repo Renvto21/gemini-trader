@@ -1,38 +1,3 @@
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado muestra un sesgo técnico mixto con varios índices y activos en tendencia bajista de corto plazo pero con indicadores de RSI de 1 hora en zonas de sobreventa extrema, lo que habilita oportunidades de rebote táctico (mean reversion). Los criptoactivos y algunas grandes tecnológicas presentan condiciones interesantes de entrada tras correcciones recientes, mientras que mantenemos una gestión estricta de riesgo en las posiciones actuales."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener QQQ y MSFT vigilando la evolución de sus indicadores de corto plazo para buscar take-profit entre +2.0% y +3.5%, o activar stop-loss estricto si perforan los soportes. Monitorear AAPL para evaluar rotación si no muestra momentum alcista. Vigilar de cerca activos como NVDA o criptomonedas para posibles entradas por sobreventa extrema en RSI de 1h."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] QQQ (Confianza: 75%)
-    Razón: La posición en QQQ fue abierta recientemente aprovechando una sobreventa en 1h. Aunque el precio actual muestra una variación mínima, el contexto de rebote técnico sigue vigente. Se mantiene a la espera de alcanzar el objetivo de ganancia o activar stop-loss defensivo.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.68 USD (Cash: $12.26 USD)
-
-[2026-10-15 12:50:33] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $12.26 USD
- Valor en Activos:     $26.45 USD
- Balance Total:        $38.71 USD
- Ganancia/Pérdida:     🔴 $-1.29 USD (-3.23%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $343.63 | Total: $9.93 📉 (-0.73%) [Tiempo: 1d 1h]
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $537.48 | Total: $6.53 📈 (+0.43%) [Tiempo: 1h 59m]
-   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $724.36 | Total: $9.99 📉 (-0.10%) [Tiempo: 29m]
-=======================================================
 
 🤖 Consultando a Gemini para análisis y toma de decisiones...
 
@@ -151,3 +116,38 @@ Balance final del ciclo: $38.73 USD (Cash: $4.26 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.70 USD (Cash: $4.26 USD)
+
+[2026-10-15 13:30:41] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $4.26 USD
+ Valor en Activos:     $34.41 USD
+ Balance Total:        $38.67 USD
+ Ganancia/Pérdida:     🔴 $-1.33 USD (-3.32%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $343.97 | Total: $9.94 📉 (-0.63%) [Tiempo: 1d 2h]
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.62 | Total: $6.55 📈 (+0.83%) [Tiempo: 2h 39m]
+   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $722.65 | Total: $9.97 📉 (-0.34%) [Tiempo: 1h 10m]
+   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $216.08 | Total: $7.95 📉 (-0.57%) [Tiempo: 40m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado se encuentra mixto con sesgo bajista en varios índices y acciones tecnológicas importantes, aunque existen claras señales de sobreventa extrema en activos clave como QQQ (rsi_1h en 21.4) y NVDA (rsi_1h en 18.1), lo cual representa oportunidades tácticas de rebote a corto plazo (mean reversion). Las criptomonedas se mantienen estables pero sin el impulso suficiente en este ciclo específico para desviar la atención de las oportunidades en renta variable que siguen abiertas."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener la vigilancia sobre MSFT que se acerca al objetivo de toma de ganancias (+0.83% actual). Monitorear de cerca AAPL, QQQ y NVDA para cortar cualquier pérdida si se acercan al umbral estricto del -2.0% o asegurar ganancias rápidas si el RSI de 1 hora rebota hacia la zona de sobrecompra (>70). La liquidez en efectivo se mantiene en niveles mínimos para maximizar la exposición al crecimiento acelerado."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] AAPL (Confianza: 70%)
+    Razón: La posición muestra un rendimiento lateral leve (-0.63%) tras más de un día abierta. Se mantiene en cartera a la espera de un impulso alcista que confirme su tendencia macro o para evaluar rotación si no muestra dinamismo.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.67 USD (Cash: $4.26 USD)

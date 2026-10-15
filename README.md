@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 13:20:49`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 13:30:47`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.26 USD** | **$34.44 USD** | **$38.70 USD** | 🔴 **-3.26%** ($-1.30) |
+| **$40.00 USD** | **$4.26 USD** | **$34.41 USD** | **$38.67 USD** | 🔴 **-3.32%** ($-1.33) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $343.55 | $9.92 | 📉 -0.75% | 1d 2h |
-| `MSFT` | 0.012146 | $535.17 | $539.71 | $6.56 | 📈 +0.85% | 2h 30m |
-| `QQQ` | 0.013791 | $725.09 | $723.69 | $9.98 | 📉 -0.19% | 1h 0m |
-| `NVDA` | 0.036812 | $217.32 | $216.65 | $7.98 | 📉 -0.31% | 30m |
+| `AAPL` | 0.028889 | $346.15 | $343.97 | $9.94 | 📉 -0.63% | 1d 2h |
+| `MSFT` | 0.012146 | $535.17 | $539.62 | $6.55 | 📈 +0.83% | 2h 40m |
+| `QQQ` | 0.013791 | $725.09 | $722.65 | $9.97 | 📉 -0.34% | 1h 10m |
+| `NVDA` | 0.036812 | $217.32 | $216.08 | $7.95 | 📉 -0.57% | 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sentimiento mixto con sesgo bajista en varios índices y acciones tecnológicas de gran capitalización bajo sus SMA20, aunque se aprecian condiciones severas de sobreventa intradiaria en activos clave como QQQ (rsi_1h en 21.0) y NVDA (rsi_1h en 18.7). La liquidez disponible es baja ($4.26 USD), lo que limita la capacidad de apertura de nuevas posiciones sin realizar rotaciones previas. Las criptomonedas se mantienen operativas 24/7 con movimientos moderados."
+> "El mercado se encuentra mixto con sesgo bajista en varios índices y acciones tecnológicas importantes, aunque existen claras señales de sobreventa extrema en activos clave como QQQ (rsi_1h en 21.4) y NVDA (rsi_1h en 18.1), lo cual representa oportunidades tácticas de rebote a corto plazo (mean reversion). Las criptomonedas se mantienen estables pero sin el impulso suficiente en este ciclo específico para desviar la atención de las oportunidades en renta variable que siguen abiertas."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 60%): AAPL se mantiene dentro de un rango operativo aceptable pero sin momentum claro. Dado el tiempo abierto prolongado, se mantiene temporalmente en cartera a la espera de un repunte, preparando su posible venta para rotación si persiste estancada.
+- **[HOLD] AAPL** (Confianza: 70%): La posición muestra un rendimiento lateral leve (-0.63%) tras más de un día abierta. Se mantiene en cartera a la espera de un impulso alcista que confirme su tendencia macro o para evaluar rotación si no muestra dinamismo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la vigilancia estricta sobre las posiciones actuales. AAPL lleva más de 1 día abierta con un rendimiento lateral leve (-0.75%), por lo que se evaluará su rotación en el siguiente ciclo si no muestra tracción alcista para liberar capital hacia rebotes más agresivos. Monitorear MSFT para asegurar ganancias si se acerca al objetivo de +2.0%. Controlar estrictamente el stop-loss en -2.0% para proteger el capital."
+> "Mantener la vigilancia sobre MSFT que se acerca al objetivo de toma de ganancias (+0.83% actual). Monitorear de cerca AAPL, QQQ y NVDA para cortar cualquier pérdida si se acercan al umbral estricto del -2.0% o asegurar ganancias rápidas si el RSI de 1 hora rebota hacia la zona de sobrecompra (>70). La liquidez en efectivo se mantiene en niveles mínimos para maximizar la exposición al crecimiento acelerado."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
