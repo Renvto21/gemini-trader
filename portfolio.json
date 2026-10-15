@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (AAPL, BTC-USD, ETH-USD, SOL-USD) vigilando estrictamente el stop-loss del -2.0% para evitar pérdidas mayores. Dado que las posiciones llevan varias horas sin el rebote esperado, no realizaremos nuevas compras hasta que los indicadores RSI de 1h superen los 50 puntos con un cambio porcentual horario claramente positivo. Preservaremos el efectivo actual para buscar mejores oportunidades de rotación cuando el mercado accionario abra o se consolide un impulso claro en cripto.",
-    "updated_at": "2026-10-15T10:01:05.473550-03:00"
+    "notes": "Mantendremos las posiciones actuales de AAPL, BTC-USD, ETH-USD y SOL-USD ya que ninguna ha alcanzado el límite de stop-loss estricto de -2.0%. Dado que las criptomonedas abiertas carecen de un impulso horario positivo claro, no incrementaremos exposición por ahora. En el siguiente ciclo evaluaremos la rotación de capital si alguna posición se estanca o si el mercado accionario abre con oportunidades claras en sobreventa.",
+    "updated_at": "2026-10-15T10:10:50.326013-03:00"
   }
 }
