@@ -1251,7 +1251,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones de ETH-USD y SOL-USD operando activamente y buscar toma de ganancias si alcanzan el rango de +2.0% a +3.5%. Aprovechar la liquidez disponible para abrir una posición en BTC-USD aprovechando su RSI de 1h en sobreventa extrema (< 25). Stop-loss estrictamente fijado en -2.0% para todas las posiciones activas.",
-    "updated_at": "2026-10-14T21:10:36.351760-03:00"
+    "notes": "Monitorear de cerca las posiciones en criptomonedas abiertas (BTC-USD, ETH-USD, SOL-USD) en busca de un impulso alcista que active la toma de ganancias entre +2.0% y +3.5%. Mantener la posición de AAPL protegida bajo el stop-loss estricto del -2.0% y preparados para rotar liquidez si alguna cripto pierde soportes clave.",
+    "updated_at": "2026-10-14T21:20:54.172908-03:00"
   }
 }
