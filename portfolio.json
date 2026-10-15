@@ -1251,7 +1251,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas actuales (AAPL, SOL-USD, ETH-USD, BTC-USD) ya que se encuentran con pérdidas mínimas y operando en rangos de soporte. Estaremos vigilando la evolución del RSI de 1 hora en busca de una ruptura al alza superior a 35 con cambio porcentual de 1h positivo para activar objetivos de take-profit entre +2.0% y +3.5%. Si alguna posición se acerca al stop-loss de -2.0%, ejecutaremos la salida inmediata para liberar capital.",
-    "updated_at": "2026-10-14T23:10:45.029297-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y AAPL (mercado cerrado). Monitorear de cerca el RSI de 1h en busca de confirmaciones de giro por encima de 35 con cambio porcentual positivo para activar take-profits entre +2.0% y +3.5%. Si alguna posición quiebra soportes o se acerca al stop-loss de -2.0%, procederemos a la venta inmediata para proteger capital.",
+    "updated_at": "2026-10-14T23:20:40.679853-03:00"
   }
 }
