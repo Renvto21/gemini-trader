@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca el comportamiento de SOL-USD y ETH-USD para asegurar ganancias parciales o totales si alcanzan el rango objetivo de +2.0% a +3.5%. Vigilar el estricto stop-loss en -2.0% para AAPL y BTC-USD. Mantener la reserva mínima de efectivo de $4.00 y esperar la apertura de Wall Street para reevaluar posiciones en renta variable si el momentum técnico mejora.",
-    "updated_at": "2026-10-15T06:00:49.767735-03:00"
+    "notes": "Monitorear de cerca ETH-USD y SOL-USD para asegurar ganancias parciales o totales si alcanzan el rango objetivo de +2.0% a +3.5%. Vigilar el stop-loss en -2.0% para todas las posiciones activas. Mantener la reserva de efectivo mínima de $4.00 USD y esperar la apertura de Wall Street para evaluar oportunidades en renta variable.",
+    "updated_at": "2026-10-15T06:10:43.764843-03:00"
   }
 }
