@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 13:40:44`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 13:50:46`
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.22 | $9.94 | 📉 -0.56% | 1d 2h |
-| `MSFT` | 0.012146 | $535.17 | $539.65 | $6.55 | 📈 +0.84% | 2h 49m |
-| `QQQ` | 0.013791 | $725.09 | $723.38 | $9.98 | 📉 -0.24% | 1h 20m |
-| `NVDA` | 0.036812 | $217.32 | $216.61 | $7.97 | 📉 -0.33% | 50m |
+| `AAPL` | 0.028889 | $346.15 | $344.03 | $9.94 | 📉 -0.61% | 1d 3h |
+| `MSFT` | 0.012146 | $535.17 | $539.72 | $6.56 | 📈 +0.85% | 2h 59m |
+| `QQQ` | 0.013791 | $725.09 | $723.10 | $9.97 | 📉 -0.27% | 1h 30m |
+| `NVDA` | 0.036812 | $217.32 | $216.83 | $7.98 | 📉 -0.23% | 1h 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de Wall Street se encuentra abierto pero operando con cautela y una tendencia general bajista a mediano plazo (por debajo de las SMA20). Sin embargo, se observan oportunidades claras de sobreventa extrema en activos tecnológicos como QQQ (rsi_1h en 22.7) y NVDA (rsi_1h en 19.7), lo cual presenta escenarios ideales para capturar rebotes técnicos por reversión a la media. La liquidez de la cuenta se mantiene ajustada con un remanente en efectivo mínimo de $4.26 USD, operando de manera altamente eficiente."
+> "El mercado muestra un tono mixto con sesgo bajista en tendencias generales, pero con activos tecnológicos clave (como MSFT) manteniendo fortaleza y otros en sobreventa extrema de corto plazo (QQQ, NVDA) intentando estabilizarse. Mantenemos una postura táctica defensiva y de monitoreo estrecho para asegurar pequeñas ganancias o cortar pérdidas rápidamente."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 80%): MSFT mantiene una rentabilidad positiva de +0.84% y tendencia alcista sobre la SMA20. Se mantiene en cartera a la espera de alcanzar el objetivo de take-profit entre +2.0% y +3.5%.
+- **[HOLD] MSFT** (Confianza: 80%): MSFT muestra un rendimiento positivo constante (+0.85%) y tendencia alcista sobre la SMA20. Se mantiene en cartera a la espera de alcanzar el objetivo de toma de ganancias entre +2.0% y +3.5%.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la vigilancia estricta sobre QQQ y NVDA, esperando que sus RSI de 1 hora rompan al alza para asegurar ganancias rápidas si alcanzan el rango de +2.0% a +3.5%, o activar el stop-loss si se acercan al umbral de pérdida del -2.0%. Monitorear a MSFT y AAPL; MSFT se encuentra cerca del objetivo de toma de ganancias (+0.84%). Si el mercado muestra debilidad adicional, rotar el capital hacia criptomonedas o recortar posiciones estancadas."
+> "Monitorear de cerca a MSFT que se encuentra cerca del objetivo de toma de ganancias (+0.85%). Vigilar el comportamiento de QQQ y NVDA tras sus lecturas de sobreventa en RSI de 1 hora. Si MSFT alcanza el rango de +2.0% a +3.5%, procederemos a vender para asegurar capital. Mantener la liquidez disponible en niveles mínimos para eventuales rotaciones rápidas."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
