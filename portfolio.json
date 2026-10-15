@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.261898069407735,
+  "cash": 14.166780609407736,
   "positions": {
-    "AAPL": {
-      "shares": 0.02888920988010978,
-      "avg_price": 346.15,
-      "opened_at": "2026-10-14T10:50:41.868687-03:00"
-    },
     "MSFT": {
       "shares": 0.012145673337444178,
       "avg_price": 535.17,
@@ -1348,10 +1343,21 @@
       "shares": 0.036812,
       "price": 217.32,
       "reason": "NVDA presenta un RSI de 1h en sobreventa extrema (21.5) con un inicio de recuperación en su cambio de 1h (0.26%), lo que ofrece una excelente oportunidad de rebote técnico (Mean Reversion) respaldado por nuestra táctica agresiva."
+    },
+    {
+      "timestamp": "2026-10-15T16:20:41.917445-03:00",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "amount_usd": 9.9,
+      "shares": 0.028889,
+      "price": 342.86,
+      "pnl_usd": -0.1,
+      "pnl_pct": -0.95,
+      "reason": "AAPL lleva más de un día abierta (1d 5h) sin mostrar un momentum significativo ni alcanzar el objetivo de ganancia, manteniéndose con un PnL negativo de -0.95%. Se ejecuta la venta para liberar capital y rotar hacia oportunidades de mayor dinamismo."
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca el rendimiento de MSFT para asegurar beneficios si alcanza el rango de +2.0% a +3.5%. Mantener la vigilancia en QQQ y NVDA evaluando su momentum de corto plazo; si no logran consolidar el rebote en los siguientes ciclos, considerar la rotación de capital hacia activos con mayor dinamismo. La liquidez se mantendrá en niveles mínimos.",
-    "updated_at": "2026-10-15T16:10:41.281457-03:00"
+    "notes": "Monitorear de cerca el rendimiento de MSFT para asegurar beneficios si alcanza el rango de +2.0% a +3.5%. Evaluar la evolución de AAPL; si no muestra impulso alcista en el próximo ciclo, proceder a rotar el capital hacia oportunidades con mayor momentum en cripto o tecnología. Mantener la liquidez en niveles mínimos.",
+    "updated_at": "2026-10-15T16:20:41.914163-03:00"
   }
 }
