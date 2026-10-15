@@ -1251,7 +1251,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales en cripto (BTC, ETH, SOL) vigilando que alcancen el objetivo de take-profit entre +2.0% y +3.5%. Proteger AAPL con el stop-loss del -2.0% para cuando abra el mercado de valores. Si ETH o SOL pierden impulso o caen por debajo de los soportes, ejecutar ventas inmediatas para rotar capital.",
-    "updated_at": "2026-10-14T21:30:43.103017-03:00"
+    "notes": "Mantener las posiciones abiertas en SOL-USD, ETH-USD y BTC-USD mientras se vigila que alcancen el objetivo de take-profit entre +2.0% y +3.5%. Mantener AAPL protegida para cuando abra el mercado de valores. Si ETH o SOL pierden impulso y rompen soportes a la baja, ejecutar ventas inmediatas para cortar pérdidas y rotar capital. Monitorear de cerca el RSI de 1h en busca de sobrecompra (>70) para realizar tomas de ganancias rápidas.",
+    "updated_at": "2026-10-14T21:40:39.377269-03:00"
   }
 }
