@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 11:00:56`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 11:10:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$10.00 USD** | **$28.35 USD** | **$38.35 USD** | 🔴 **-4.12%** ($-1.65) |
+| **$40.00 USD** | **$10.00 USD** | **$28.55 USD** | **$38.55 USD** | 🔴 **-3.63%** ($-1.45) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $345.06 | $9.97 | 📉 -0.31% | 1d 0h |
-| `ETH-USD` | 0.002539 | $2362.71 | $2338.36 | $5.94 | 📉 -1.03% | 9h 50m |
-| `SOL-USD` | 0.058789 | $102.06 | $101.29 | $5.95 | 📉 -0.75% | 7h 40m |
-| `MSFT` | 0.012146 | $535.17 | $534.53 | $6.49 | 📉 -0.12% | 10m |
+| `AAPL` | 0.028889 | $346.15 | $344.73 | $9.96 | 📉 -0.41% | 1d 0h |
+| `ETH-USD` | 0.002539 | $2362.71 | $2372.23 | $6.02 | 📈 +0.40% | 10h 0m |
+| `SOL-USD` | 0.058789 | $102.06 | $103.08 | $6.06 | 📈 +1.00% | 7h 50m |
+| `MSFT` | 0.012146 | $535.17 | $535.90 | $6.51 | 📈 +0.14% | 19m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo general bajista en los índices principales y criptomonedas, con caídas semanales acentuadas en QQQ y NVDA. Sin embargo, observamos oportunidades tácticas de sobreventa extrema en ciertos activos de alta calidad como MSFT, mientras que las criptomonedas ETH-USD y SOL-USD se mantienen cerca de zonas críticas pero estables. Mantendremos el enfoque en la captura de rebotes técnicos selectivos cumpliendo estrictamente con la gestión de riesgo y rotación."
+> "El mercado muestra un entorno mixto con presión bajista en índices principales (QQQ, SPY, NVDA), pero con señales claras de rebote técnico de corto plazo en criptomonedas (ETH-USD, SOL-USD, BTC-USD) y activos defensivos como GLD. Las posiciones actuales se mantienen estables con ligeras ganancias o mínimos retrocesos controlados."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 80%): MSFT fue adquirida recientemente aprovechando su sobreventa extrema en el RSI de 1h (11.7). La tendencia diaria sigue siendo alcista y el activo se mantiene estable. Mantenemos la posición para capturar el rebote técnico esperado.
+- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD muestra un rendimiento positivo constante con un +1.0% de PnL y un RSI de 1h recuperándose adecuadamente hacia 44.8, manteniendo la expectativa de alcanzar el objetivo de take-profit del 2.5%.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en AAPL, MSFT, ETH-USD y SOL-USD vigilando de cerca los niveles de soporte. Si ETH-USD o SOL-USD rompen a la baja el umbral de pérdida del -2%, procederemos a cortar pérdidas de inmediato. Estar atentos a la evolución del RSI de 1h en MSFT y AAPL para asegurar beneficios rápidos si alcanzan el objetivo de +2.5% o superior."
+> "Monitorear de cerca SOL-USD y ETH-USD para asegurar beneficios parciales si se acercan al rango de +2% a +3.5%. Mantener estricto stop-loss en AAPL y MSFT si rompen soportes clave. Mantener reserva de liquidez operativa en $10.00 USD listos para cualquier aceleración en cripto o tecnología."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
