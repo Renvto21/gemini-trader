@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (BTC-USD, ETH-USD, SOL-USD) y la posición tecnológica (AAPL) que continúa cerrada. Monitorear de cerca los indicadores de 1h y el comportamiento de las criptomonedas para asegurar beneficios si ETH-USD o SOL-USD reactivan su impulso hacia el rango de +2% a +3.5%. Proteger rigurosamente el capital respetando el stop-loss de -2.0% ante cualquier quiebre bajista imprevisto. Si alguna posición estancada pierde tracción o supera el límite de tiempo sin momentum, procederé a rotar el capital.",
-    "updated_at": "2026-10-15T07:30:40.696353-03:00"
+    "notes": "Monitorear de cerca ETH-USD y SOL-USD para capturar un take-profit si el RSI de 1h rebota hacia la zona de sobrecompra (>70) o si alcanzan el rango objetivo de +2.0% a +3.5%. Proteger el capital manteniendo el stop-loss estricto a -2.0%. Esperar la apertura de los mercados tradicionales para evaluar la rotación o salida de AAPL si pierde tracción.",
+    "updated_at": "2026-10-15T07:40:42.921027-03:00"
   }
 }
