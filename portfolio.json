@@ -1263,7 +1263,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener AAPL y BTC-USD bajo estrecha vigilancia de stop-loss a -2.0%. Dado que el mercado tradicional está cerrado, nos enfocamos exclusivamente en Cripto. Esperaremos la confirmación de cambio de tendencia en el change_1h_pct y RSI 1h para reintentar compras tácticas en SOL-USD o ETH-USD si muestran signos de giro. Mantener colchón de efectivo por encima de los $4.00 USD.",
-    "updated_at": "2026-10-15T00:30:39.607435-03:00"
+    "notes": "Mantener AAPL en observación por estar cerrada la bolsa tradicional. En cuanto a BTC-USD, presenta un RSI de 1h en 22.5 pero sigue perdiendo terreno; mantendremos el stop-loss estricto en -2.0%. ETH-USD muestra un RSI extremo de 17.1; estaremos atentos a una confirmación de cambio en change_1h_pct para buscar un reingreso táctico de rebote con control de riesgo estricto. Mantener el colchón de efectivo por encima de los $4.00 USD.",
+    "updated_at": "2026-10-15T00:40:39.860606-03:00"
   }
 }
