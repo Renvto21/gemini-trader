@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD y SOL-USD para buscar el objetivo de ganancia de +2.0% a +3.5%. Vigilar el stop-loss estricto en -2.0% para proteger el capital. Monitorear la evolución de los criptoactivos abiertos y esperar la reapertura de Wall Street para evaluar posibles entradas en renta variable con alta convicción.",
-    "updated_at": "2026-10-15T06:40:50.778396-03:00"
+    "notes": "Monitorear de cerca ETH-USD y SOL-USD para buscar la toma de ganancias (take-profit) al alcanzar el rango de +2.0% a +3.5%, o recortar si el RSI de 1h muestra signos de agotamiento. Mantener estricto el stop-loss en -2.0%. Esperar la apertura de Wall Street para reevaluar oportunidades en renta variable.",
+    "updated_at": "2026-10-15T06:50:39.909001-03:00"
   }
 }
