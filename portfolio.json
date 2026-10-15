@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. Dado que AAPL está en mercado cerrado, esperaremos su apertura para evaluar su comportamiento. En cripto, monitorear de cerca el RSI de 1 hora de ETH y SOL: si superan los 60 puntos o alcanzan un take-profit de +2.0% a +3.5%, ejecutar ventas parciales o totales para asegurar liquidez. Proteger estrictamente con el stop-loss del -2.0%.",
-    "updated_at": "2026-10-15T09:20:46.076793-03:00"
+    "notes": "Mantener las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD mientras respeten los límites de stop-loss del -2.0%. Estar atentos a la apertura de los mercados de EE. UU. para reevaluar AAPL y buscar oportunidades en tecnología. En cripto, esperar a que el RSI de 1 hora supere los 50-60 puntos o se alcancen los objetivos de take-profit entre +2.0% y +3.5% para asegurar liquidez.",
+    "updated_at": "2026-10-15T09:30:44.844275-03:00"
   }
 }
