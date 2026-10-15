@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. El efectivo disponible actual es de $11.61 USD (por encima del mínimo de reserva de $4.00), pero dado que las posiciones están recién abiertas y con ligeras fluctuaciones, esperaremos confirmación de volumen alcista o la toma de ganancias si alcanzan el objetivo de +2.0% a +3.5%. Vigilar estrictamente el stop-loss en -2.0% para cortar pérdidas rápidamente si el mercado cripto revierte a la baja.",
-    "updated_at": "2026-10-15T03:30:59.149827-03:00"
+    "notes": "Mantendremos las posiciones actuales de criptomonedas (SOL-USD, ETH-USD, BTC-USD) aprovechando los primeros indicios de rebote, y AAPL como única posición de renta variable. Mantendremos una reserva de efectivo prudente y vigilaremos de cerca los take-profits entre +2.0% y +3.5% para asegurar beneficios y cortar pérdidas estrictamente si bajan del -2.0%.",
+    "updated_at": "2026-10-15T03:40:38.721366-03:00"
   }
 }
