@@ -1351,7 +1351,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales (AAPL, MSFT, QQQ, NVDA) evaluando su evolución frente al objetivo de take-profit entre +2.0% y +3.5%. Vigilar especialmente el RSI de 1h en NVDA y QQQ para asegurar ganancias si alcanzan la zona de sobrecompra. Si alguna posición rompe a la baja el soporte del -2.0%, ejecutaremos stop-loss inmediato para liberar capital.",
-    "updated_at": "2026-10-15T14:50:37.545684-03:00"
+    "notes": "Mantener las posiciones actuales (AAPL, MSFT, QQQ, NVDA) vigilando de cerca el cumplimiento del objetivo de take-profit entre +2.0% y +3.5%. Ejecutar stop-loss inmediato si alguna posición perfora el soporte del -2.0%. Dado que el efectivo disponible es de apenas $4.26 USD, no realizaremos nuevas compras en este ciclo y priorizaremos la rotación de capital en cuanto se liberen fondos por toma de ganancias.",
+    "updated_at": "2026-10-15T15:00:49.947904-03:00"
   }
 }
