@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca ETH-USD y SOL-USD para buscar la toma de ganancias (take-profit) al alcanzar el rango de +2.0% a +3.5%, o recortar si el RSI de 1h muestra signos de agotamiento. Mantener estricto el stop-loss en -2.0%. Esperar la apertura de Wall Street para reevaluar oportunidades en renta variable.",
-    "updated_at": "2026-10-15T06:50:39.909001-03:00"
+    "notes": "Monitorear ETH-USD y SOL-USD para asegurar ganancias si alcanzan el rango de +2.0% a +3.5% o si sus indicadores de 1h muestran sobrecompra. Mantener los stop-loss en -2.0% para proteger el capital. Esperar la apertura del mercado tradicional para evaluar rotaciones en AAPL y otros valores tecnológicos.",
+    "updated_at": "2026-10-15T07:00:54.413725-03:00"
   }
 }
