@@ -1,41 +1,3 @@
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener la vigilancia estricta sobre ETH-USD y SOL-USD. Si alguna de estas posiciones alcanza el objetivo de take-profit entre +2.0% y +3.5%, o si su RSI de 1h cruza hacia sobrecompra (>70), ejecutaré la venta inmediata para asegurar beneficios. Mantener el stop-loss estricto en -2.0% para evitar caídas mayores, y vigilar la apertura del mercado tradicional para evaluar posibles salidas en AAPL si no muestra fuerza alcista."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] ETH-USD (Confianza: 80%)
-    Razón: ETH-USD se mantiene estable con una pequeña ganancia inicial tras el rebote desde sobreventa. Mantendremos la posición para buscar el objetivo de take-profit entre +2.0% y +3.5%.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.49 USD (Cash: $11.61 USD)
-
-[2026-10-15 08:10:35] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $11.61 USD
- Valor en Activos:     $26.86 USD
- Balance Total:        $38.47 USD
- Ganancia/Pérdida:     🔴 $-1.53 USD (-3.83%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 21h 20m]
-   • BTC-USD: 6.1e-05 u. | Compra: $81640.68 | Actual: $80822.82 | Total: $4.95 📉 (-1.00%) [Tiempo: 11h 0m]
-   • ETH-USD: 0.002539 u. | Compra: $2362.71 | Actual: $2360.98 | Total: $6.0 📈 (-0.07%) [Tiempo: 7h 0m]
-   • SOL-USD: 0.058789 u. | Compra: $102.06 | Actual: $102.14 | Total: $6.0 📈 (+0.08%) [Tiempo: 4h 49m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado tradicional se encuentra cerrado, limitando la operativa al sector cripto (24/7). Las criptomonedas principales (BTC-USD, ETH-USD y SOL-USD) muestran consolidación tras caídas recientes, con los RSI de 1 hora recuperándose ligeramente de zonas de compresión pero sin un impulso alcista fuerte todavía. Mantenemos la cautela y conservamos las posiciones abiertas con estricto apego a los niveles de stop-loss y take-profit."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener la vigilancia sobre ETH-USD y SOL-USD. Si ninguna de las dos rompe al alza hacia el objetivo de take-profit (+2% a +3.5%) o si por el contrario perforan los soportes amenazando el stop-loss del -2%, procederé a la venta inmediata. Mantener la liquidez actual intacta hasta la apertura de Wall Street, momento en el cual evaluaré la rotación de AAPL si no muestra fuerza alcista adicional."
-
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] ETH-USD (Confianza: 70%)
     Razón: ETH-USD se mantiene estable con un PnL neutral (-0.07%) tras 7 horas abierto. El RSI de 1h se encuentra en 33.7, consolidando cerca de la zona de rebote esperada. Mantengo la posición esperando el impulso hacia el take-profit.
@@ -151,3 +113,41 @@ Balance final del ciclo: $38.48 USD (Cash: $11.61 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.53 USD (Cash: $11.61 USD)
+
+[2026-10-15 08:50:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $11.61 USD
+ Valor en Activos:     $26.88 USD
+ Balance Total:        $38.49 USD
+ Ganancia/Pérdida:     🔴 $-1.51 USD (-3.77%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 22h 0m]
+   • BTC-USD: 6.1e-05 u. | Compra: $81640.68 | Actual: $80956.41 | Total: $4.96 📉 (-0.84%) [Tiempo: 11h 40m]
+   • ETH-USD: 0.002539 u. | Compra: $2362.71 | Actual: $2363.12 | Total: $6.0 📈 (+0.02%) [Tiempo: 7h 40m]
+   • SOL-USD: 0.058789 u. | Compra: $102.06 | Actual: $102.3 | Total: $6.01 📈 (+0.24%) [Tiempo: 5h 29m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado tradicional (acciones y ETFs) se encuentra cerrado, por lo que toda la actividad se concentra exclusivamente en las criptomonedas (BTC, ETH, SOL), que operan 24/7. Las criptomonedas muestran signos de consolidación tras caídas recientes, con SOL y ETH manteniendo ligeros beneficios o estables desde nuestras entradas recientes, mientras que BTC se mantiene estable pero con baja volatilidad a corto plazo. Mantenemos la cautela y la disciplina de gestión de riesgo, esperando señales más claras de impulso en el RSI de 1h antes de escalar posiciones, y protegiendo nuestras posiciones actuales de acuerdo con las reglas estrictas de stop-loss."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales en ETH-USD, SOL-USD, BTC-USD y AAPL (esta última en mercado cerrado). Monitorear de cerca el RSI de 1h para ETH y SOL: si alcanzan la zona de sobrecompra (>70) o logran un rendimiento entre +2.0% y +3.5%, proceder a asegurar beneficios parciales o totales para incrementar la liquidez. Mantener el stop-loss estricto en -2.0% para todas las posiciones abiertas y preservar la liquidez mínima operativa."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] ETH-USD (Confianza: 75%)
+    Razón: La posición se encuentra estable con una ligera ganancia del 0.02% tras su apertura reciente. El RSI de 1h se sitúa en 34.1, recuperándose de niveles de sobreventa previos. Esperamos la confirmación de un mayor impulso alcista para buscar take-profit entre +2.0% y +3.5%.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] SOL-USD (Confianza: 75%)
+    Razón: SOL-USD muestra un rendimiento positivo del 0.24% con un RSI de 1h en 37.1. Se mantiene dentro del plan táctico de rebote técnico, por lo que conservamos la posición mientras no rompa el soporte a la baja.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.49 USD (Cash: $11.61 USD)

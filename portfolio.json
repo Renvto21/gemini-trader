@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca ETH-USD y SOL-USD en busca de un aumento en el RSI de 1h por encima de 50 para asegurar beneficios parciales entre el +2.0% y +3.5%. Mantener los stop-loss estrictos al -2.0% en todas las posiciones abiertas y preservar la liquidez mínima requerida. No se ejecutarán nuevas compras en este ciclo debido a que los mercados tradicionales están cerrados y la liquidez se concentra en optimizar las posiciones actuales.",
-    "updated_at": "2026-10-15T08:40:43.790127-03:00"
+    "notes": "Mantener las posiciones actuales en ETH-USD, SOL-USD, BTC-USD y AAPL (esta última en mercado cerrado). Monitorear de cerca el RSI de 1h para ETH y SOL: si alcanzan la zona de sobrecompra (>70) o logran un rendimiento entre +2.0% y +3.5%, proceder a asegurar beneficios parciales o totales para incrementar la liquidez. Mantener el stop-loss estricto en -2.0% para todas las posiciones abiertas y preservar la liquidez mínima operativa.",
+    "updated_at": "2026-10-15T08:50:45.019385-03:00"
   }
 }
