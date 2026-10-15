@@ -1311,7 +1311,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener seguimiento estricto sobre AAPL, ETH-USD y SOL-USD para evaluar salidas si pierden soportes o alcanzan take-profit. Planificar la rotación de capital hacia MSFT aprovechando su sobreventa intradiaria en 1h para capturar un rebote técnico rápido. Monitorear de cerca los stop-loss en cripto si el momentum no repunta.",
-    "updated_at": "2026-10-15T10:50:47.117799-03:00"
+    "notes": "Mantener las posiciones actuales en AAPL, MSFT, ETH-USD y SOL-USD vigilando de cerca los niveles de soporte. Si ETH-USD o SOL-USD rompen a la baja el umbral de pérdida del -2%, procederemos a cortar pérdidas de inmediato. Estar atentos a la evolución del RSI de 1h en MSFT y AAPL para asegurar beneficios rápidos si alcanzan el objetivo de +2.5% o superior.",
+    "updated_at": "2026-10-15T11:00:56.638398-03:00"
   }
 }
