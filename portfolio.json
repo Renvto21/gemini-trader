@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de AAPL, BTC-USD, ETH-USD y SOL-USD ya que ninguna ha alcanzado el límite de stop-loss estricto de -2.0%. Dado que las criptomonedas abiertas carecen de un impulso horario positivo claro, no incrementaremos exposición por ahora. En el siguiente ciclo evaluaremos la rotación de capital si alguna posición se estanca o si el mercado accionario abre con oportunidades claras en sobreventa.",
-    "updated_at": "2026-10-15T10:10:50.326013-03:00"
+    "notes": "Monitorear estrictamente las posiciones abiertas (AAPL, BTC-USD, ETH-USD, SOL-USD). Mantener stop-loss estricto en -2.0% para cortar pérdidas rápidamente si el mercado de criptomonedas profundiza su tendencia bajista. Esperar la apertura de Wall Street para buscar oportunidades de rebote técnico en sobreventa en activos tecnológicos y del S&P 500, rotando capital si es necesario.",
+    "updated_at": "2026-10-15T10:20:49.723650-03:00"
   }
 }
