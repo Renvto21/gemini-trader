@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y la posición en renta variable (AAPL) que está en mercado cerrado. Mantendremos la reserva de efectivo actual y vigilaremos los objetivos de take-profit entre +2.0% y +3.5% para asegurar ganancias parciales o totales. Si alguna posición rompe a la baja superando el límite de -2.0% de pérdida, ejecutaremos la venta inmediata para proteger el capital.",
-    "updated_at": "2026-10-15T03:50:46.528219-03:00"
+    "notes": "Mantendremos las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. La posición en SOL-USD muestra un inicio positivo y se vigilará para asegurar beneficios si alcanza el objetivo de +2.0% a +3.5%. ETH-USD y BTC-USD se mantendrán monitoreando sus niveles de RSI de 1 hora para confirmar rebotes o aplicar un stop-loss estricto si rompen soportes clave a la baja.",
+    "updated_at": "2026-10-15T04:00:51.835048-03:00"
   }
 }
