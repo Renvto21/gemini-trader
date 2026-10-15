@@ -1251,7 +1251,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y la acción de AAPL. Vigilar de cerca los objetivos de take-profit entre +2.0% y +3.5% y el límite estricto de stop-loss del -2.0%. La liquidez actual se mantiene en $4.23. En el siguiente ciclo se evaluará rotar capital si alguna posición cripto alcanza sobrecompra (> 70 RSI en 1h) o si se activa el stop-loss.",
-    "updated_at": "2026-10-14T22:40:40.405039-03:00"
+    "notes": "Mantener las posiciones activas en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y la acción de AAPL mientras se mantengan por encima del umbral estricto de stop-loss del -2.0%. Vigilar de cerca la recuperación de los indicadores RSI en 1 hora hacia zona de sobrecompra (>70) para ejecutar tomas de beneficio y asegurar liquidez.",
+    "updated_at": "2026-10-14T22:50:39.178135-03:00"
   }
 }
