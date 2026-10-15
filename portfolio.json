@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 9.99688536190039,
+  "cash": 16.123281599407736,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
@@ -11,11 +11,6 @@
       "shares": 0.002539456810188301,
       "avg_price": 2362.71,
       "opened_at": "2026-10-15T01:10:40.830388-03:00"
-    },
-    "SOL-USD": {
-      "shares": 0.058788947677836566,
-      "avg_price": 102.06,
-      "opened_at": "2026-10-15T03:20:43.042385-03:00"
     },
     "MSFT": {
       "shares": 0.012145673337444178,
@@ -1308,10 +1303,21 @@
       "shares": 0.012146,
       "price": 535.17,
       "reason": "MSFT presenta un RSI de 1h ultra comprimido en sobreventa extrema (14.7) con un cambio positivo de 1h del 0.24% y tendencia diaria alcista sobre la SMA20, cumpliendo con la estrategia de rebote técnico de alta convicción."
+    },
+    {
+      "timestamp": "2026-10-15T11:50:43.369731-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 6.13,
+      "shares": 0.058789,
+      "price": 104.21,
+      "pnl_usd": 0.13,
+      "pnl_pct": 2.11,
+      "reason": "SOL-USD ha alcanzado un rendimiento de +2.11%, cumpliendo con la regla de toma rápida de ganancias (take-profit entre +2.0% y +3.5%). Procedo a vender la posición completa para asegurar el capital y rotar liquidez."
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca SOL-USD (actualmente con +1.51% de ganancia) para asegurar ganancias si se acerca al rango de +2.0% a +3.5%. Evaluar la posición en MSFT y AAPL para mantener estrictos stop-loss ante cualquier giro bajista. Estar preparados para reasignar liquidez hacia NVDA o QQQ si confirman la salida de sobreventa en gráficos de 1 hora.",
-    "updated_at": "2026-10-15T11:40:50.384824-03:00"
+    "notes": "Se ha ejecutado la toma de ganancias en SOL-USD tras alcanzar el objetivo de +2.11% para asegurar liquidez. Mantener las posiciones en AAPL, ETH-USD y MSFT vigilando los stop-loss estrictos del -2.0%. Estar atentos a QQQ y NVDA para una posible entrada si confirman salida de sobreventa extrema en gráficos de 1 hora durante la siguiente sesión.",
+    "updated_at": "2026-10-15T11:50:43.367640-03:00"
   }
 }
