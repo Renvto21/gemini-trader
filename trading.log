@@ -1,34 +1,3 @@
-    Razón: El activo se encuentra en mercado cerrado y la posición muestra un rendimiento positivo estable (0.4%). Esperaremos a la apertura tradicional para buscar el objetivo de take-profit o proteger capital.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
-
-[2026-10-15 19:10:39] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $14.17 USD
- Valor en Activos:     $24.59 USD
- Balance Total:        $38.76 USD
- Ganancia/Pérdida:     🔴 $-1.24 USD (-3.11%)
-
- 💼 Posiciones Abiertas:
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.44 | Total: $6.55 📈 (+0.80%) [Tiempo: 8h 19m]
-   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $728.0 | Total: $10.04 📈 (+0.40%) [Tiempo: 6h 50m]
-   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.23 | Total: $8.0 📈 (-0.04%) [Tiempo: 6h 20m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"Los mercados tradicionales se encuentran cerrados, con los activos tecnológicos (MSFT, QQQ, NVDA) manteniendo precios congelados y operando con ganancias marginales. En el mercado cripto (abierto 24/7), ETH-USD muestra un RSI de 1h en sobrecompra (74.9) tras un rebote previo, mientras que SOL-USD y BTC-USD se estabilizan sin un momentum claro de entrada inmediata en este ciclo. La prioridad actual es mantener las posiciones de acciones tecnológicas a la espera de la apertura de Wall Street para buscar la toma de beneficios en el rango de +2.0% a +3.5%."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones abiertas en MSFT, QQQ y NVDA durante el cierre de mercado. Monitorear la apertura de la bolsa tradicional para asegurar ganancias si alcanzan el objetivo de +2.0% a +3.5%, o activar stop-loss estricto si alguna posición perfora el -2.0%. En el frente cripto, esperar correcciones más profundas en ETH-USD o SOL-USD para cazar nuevos rebotes en zonas de sobreventa."
 
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] MSFT (Confianza: 80%)
@@ -148,6 +117,37 @@ Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
   • Acción: [HOLD] MSFT (Confianza: 70%)
     Razón: La posición muestra un rendimiento positivo constante (+0.8%) pero aún no alcanza el objetivo de take-profit de +2.0%. Dado que el mercado está cerrado, se mantiene para buscar la salida óptima en la sesión regular.
     ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
+
+[2026-10-15 19:50:30] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $14.17 USD
+ Valor en Activos:     $24.59 USD
+ Balance Total:        $38.76 USD
+ Ganancia/Pérdida:     🔴 $-1.24 USD (-3.11%)
+
+ 💼 Posiciones Abiertas:
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.44 | Total: $6.55 📈 (+0.80%) [Tiempo: 8h 59m]
+   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $728.0 | Total: $10.04 📈 (+0.40%) [Tiempo: 7h 29m]
+   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.23 | Total: $8.0 📈 (-0.04%) [Tiempo: 6h 59m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado tradicional se encuentra actualmente CERRADO, por lo que las posiciones en MSFT, QQQ y NVDA se mantienen estables pero sin posibilidad de ejecución en este ciclo. Por otro lado, el mercado cripto permanece abierto 24/7. ETH-USD muestra un RSI de 1h en zona de sobrecompra (73.4), lo que sugiere cautela y posibles oportunidades de rotación en activos digitales que muestren mejor impulso a corto plazo."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener la vigilancia sobre MSFT, QQQ y NVDA para asegurar ganancias si alcanzan el objetivo de +2.0% a +3.5% en la próxima apertura de Wall Street. En el segmento cripto, monitorear a SOL-USD y BTC-USD en busca de una entrada táctica si se presentan retrocesos saludables con confirmación de rebote en 1h."
+
+⚡ ACCIONES DECIDIDAS:
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
