@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 12:20:42`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 12:30:44`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$12.26 USD** | **$26.47 USD** | **$38.73 USD** | 🔴 **-3.17%** ($-1.27) |
+| **$40.00 USD** | **$12.26 USD** | **$26.45 USD** | **$38.71 USD** | 🔴 **-3.22%** ($-1.29) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $343.53 | $9.92 | 📉 -0.76% | 1d 1h |
-| `MSFT` | 0.012146 | $535.17 | $538.84 | $6.54 | 📈 +0.69% | 1h 29m |
-| `QQQ` | 0.013791 | $725.09 | $725.09 | $10.00 | 📈 +0.00% | 0m |
+| `AAPL` | 0.028889 | $346.15 | $344.08 | $9.94 | 📉 -0.60% | 1d 1h |
+| `MSFT` | 0.012146 | $535.17 | $537.29 | $6.53 | 📈 +0.40% | 1h 39m |
+| `QQQ` | 0.013791 | $725.09 | $724.08 | $9.99 | 📉 -0.14% | 10m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra señales mixtas pero con claros indicios de rebote técnico en activos tecnológicos y de alto beta. QQQ y NVDA presentan condiciones de sobreventa extrema en RSI de 1 hora acompañadas de un inicio de recuperación en su cambio de la última hora, lo que activa nuestra estrategia de Mean Reversion. Mantenemos una posición sólida en MSFT con ganancias moderadas, mientras que AAPL se mantiene estable. La liquidez disponible permite realizar nuevas entradas tácticas agresivas para capturar el impulso alcista actual."
+> "El mercado muestra un sesgo bajista general en los principales índices, con la mayoría de activos cotizando por debajo de su SMA20 en gráfico diario, aunque persisten condiciones de sobreventa extrema en marcos de tiempo de 1 hora (como en NVDA y QQQ). Los mercados tradicionales están abiertos y el efectivo disponible se mantiene en niveles operativos."
 
 **Operaciones del ciclo:**
-- **[BUY] QQQ** (Confianza: 88%): QQQ muestra un RSI de 1h en sobreventa extrema (28.7) cruzando al alza con un cambio positivo de 0.69% en la última hora. Es una clara oportunidad de rebote técnico (Mean Reversion) con alta convicción para aprovechar la recuperación del índice tecnológico.
+- **[HOLD] QQQ** (Confianza: 80%): La posición en QQQ fue abierta recientemente aprovechando una sobreventa en 1h; el precio se mantiene estable y esperamos el desarrollo del rebote técnico hacia la zona de take-profit.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener MSFT buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por ruptura de soporte si el RSI de 1h vuelve a caer. Vigilar AAPL por si muestra debilidad y decidir rotación de capital. Aprovechar la liquidez actual para abrir posición en QQQ y/o NVDA capitalizando su rebote por sobreventa."
+> "Mantener QQQ y MSFT buscando take-profit entre +2.0% y +3.5% o controlando stop-loss ante ruptura de soportes de corto plazo. Vigilar AAPL y evaluar rotación si se estanca. Mantener liquidez reservada mínima y buscar entradas en criptomonedas o rebotes técnicos extremos si se confirma el momentum."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
