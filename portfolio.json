@@ -1351,7 +1351,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales vigilando de cerca los niveles críticos. Para MSFT, buscar un take-profit si alcanza el rango del +2.0% al +3.5%. Para AAPL, QQQ y NVDA, mantener el stop-loss estricto en -2.0% y evaluar la rotación de capital si el impulso técnico falla en las próximas horas. La liquidez se mantendrá en reserva mínima ($4.26 USD) mientras esperamos la consolidación de los rebotes actuales.",
-    "updated_at": "2026-10-15T15:20:46.131123-03:00"
+    "notes": "Mantener las posiciones actuales en AAPL, MSFT, QQQ y NVDA respetando estrictamente el stop-loss en -2.0% y buscando un take-profit en el rango de +2.0% a +3.5% para liberar capital. Vigilar el comportamiento de NVDA y QQQ ante sus niveles de sobreventa extrema en RSI de 1 hora para evaluar cierres tácticos si el rebote no se materializa en las próximas horas.",
+    "updated_at": "2026-10-15T15:30:48.958176-03:00"
   }
 }
