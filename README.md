@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 16:50:43`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 17:00:58`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$14.17 USD** | **$24.60 USD** | **$38.76 USD** | 🔴 **-3.09%** ($-1.24) |
+| **$40.00 USD** | **$14.17 USD** | **$24.59 USD** | **$38.76 USD** | 🔴 **-3.11%** ($-1.24) |
 
 ---
 
@@ -16,26 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $539.43 | $6.55 | 📈 +0.80% | 5h 59m |
-| `QQQ` | 0.013791 | $725.09 | $728.21 | $10.04 | 📈 +0.43% | 4h 30m |
-| `NVDA` | 0.036812 | $217.32 | $217.40 | $8.00 | 📈 +0.04% | 4h 0m |
+| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 6h 10m |
+| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 4h 40m |
+| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 4h 10m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo mixto con los índices tecnológicos principales (QQQ) y valores clave como NVDA operando bajo su media móvil de 20 días, aunque con indicadores de RSI de 1 hora en niveles de sobreventa extrema (NVDA en 18.0 y QQQ en 29.3), lo que presenta escenarios de rebote técnico inminentes. Las criptomonedas muestran signos de recuperación de corto plazo pero con alta volatilidad."
+> "El mercado de valores tradicional (Wall Street) se encuentra cerrado, por lo que los precios de las acciones están congelados y no se pueden operar en este momento. Sin embargo, el mercado de criptomonedas opera 24/7 y muestra condiciones interesantes con activos como ETH-USD y SOL-USD alcanzando niveles de sobrecompra en el RSI de 1 hora (> 70), indicando posibles tomas de beneficios o agotamiento del impulso inmediato a corto plazo. Mantengo las posiciones abiertas de MSFT, QQQ y NVDA a la espera de la apertura de mercado, vigilando de cerca el comportamiento de NVDA cuyo RSI de 1 hora se mantiene extremadamente deprimido en 17.8."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 80%): MSFT se encuentra en tendencia alcista sobre su SMA20 con un PnL positivo de +0.8%. Se mantiene la posición en búsqueda del objetivo de take-profit entre +2.0% y +3.5%.
-- **[HOLD] QQQ** (Confianza: 75%): QQQ mantiene su RSI de 1h en niveles bajos (29.3) y presenta un ligero PnL positivo. Esperando a que el momentum alcista se consolide para asegurar ganancias parciales.
-- **[HOLD] NVDA** (Confianza: 70%): NVDA registra un RSI de 1h extremadamente deprimido en 18.0, lo que anticipa un posible rebote técnico fuerte por reversión a la media. Se le otorga este ciclo para mostrar tracción alcista.
+- **[HOLD] QQQ** (Confianza: 80%): El mercado está cerrado para QQQ, impidiendo realizar operaciones. La posición se mantiene mientras esperamos la apertura bursátil para buscar un rebote hacia el objetivo de take-profit.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en MSFT, QQQ y NVDA mientras se aproximan al rango objetivo de take-profit (+2.0% a +3.5%). NVDA mantiene un RSI de 1 hora extremadamente bajo (18.0), por lo que le daré este ciclo para reaccionar antes de considerar una rotación de capital. Vigilar estrictamente la liquidez disponible de $14.17 USD para buscar nuevas entradas agresivas si se rompen resistencias clave."
+> "Mantener las posiciones actuales en MSFT, QQQ y NVDA ya que los mercados tradicionales están cerrados. Vigilar que alcancen el objetivo de take-profit entre +2.0% y +3.5% en la próxima apertura. Mantener liquidez en efectivo en $14.17 USD para operar con agilidad ante nuevas señales en cripto o en la apertura de Wall Street."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
