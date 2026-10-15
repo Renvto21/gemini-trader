@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 12:30:44`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 12:40:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$12.26 USD** | **$26.45 USD** | **$38.71 USD** | 🔴 **-3.22%** ($-1.29) |
+| **$40.00 USD** | **$12.26 USD** | **$26.42 USD** | **$38.68 USD** | 🔴 **-3.29%** ($-1.32) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.08 | $9.94 | 📉 -0.60% | 1d 1h |
-| `MSFT` | 0.012146 | $535.17 | $537.29 | $6.53 | 📈 +0.40% | 1h 39m |
-| `QQQ` | 0.013791 | $725.09 | $724.08 | $9.99 | 📉 -0.14% | 10m |
+| `AAPL` | 0.028889 | $346.15 | $343.17 | $9.91 | 📉 -0.86% | 1d 1h |
+| `MSFT` | 0.012146 | $535.17 | $537.03 | $6.52 | 📈 +0.35% | 1h 50m |
+| `QQQ` | 0.013791 | $725.09 | $724.11 | $9.99 | 📉 -0.14% | 20m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo bajista general en los principales índices, con la mayoría de activos cotizando por debajo de su SMA20 en gráfico diario, aunque persisten condiciones de sobreventa extrema en marcos de tiempo de 1 hora (como en NVDA y QQQ). Los mercados tradicionales están abiertos y el efectivo disponible se mantiene en niveles operativos."
+> "El mercado muestra un sesgo técnico mixto con varios índices y activos en tendencia bajista de corto plazo pero con indicadores de RSI de 1 hora en zonas de sobreventa extrema, lo que habilita oportunidades de rebote táctico (mean reversion). Los criptoactivos y algunas grandes tecnológicas presentan condiciones interesantes de entrada tras correcciones recientes, mientras que mantenemos una gestión estricta de riesgo en las posiciones actuales."
 
 **Operaciones del ciclo:**
-- **[HOLD] QQQ** (Confianza: 80%): La posición en QQQ fue abierta recientemente aprovechando una sobreventa en 1h; el precio se mantiene estable y esperamos el desarrollo del rebote técnico hacia la zona de take-profit.
+- **[HOLD] QQQ** (Confianza: 75%): La posición en QQQ fue abierta recientemente aprovechando una sobreventa en 1h. Aunque el precio actual muestra una variación mínima, el contexto de rebote técnico sigue vigente. Se mantiene a la espera de alcanzar el objetivo de ganancia o activar stop-loss defensivo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener QQQ y MSFT buscando take-profit entre +2.0% y +3.5% o controlando stop-loss ante ruptura de soportes de corto plazo. Vigilar AAPL y evaluar rotación si se estanca. Mantener liquidez reservada mínima y buscar entradas en criptomonedas o rebotes técnicos extremos si se confirma el momentum."
+> "Mantener QQQ y MSFT vigilando la evolución de sus indicadores de corto plazo para buscar take-profit entre +2.0% y +3.5%, o activar stop-loss estricto si perforan los soportes. Monitorear AAPL para evaluar rotación si no muestra momentum alcista. Vigilar de cerca activos como NVDA o criptomonedas para posibles entradas por sobreventa extrema en RSI de 1h."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
