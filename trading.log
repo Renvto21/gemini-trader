@@ -1,39 +1,5 @@
 
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado muestra señales mixtas con una tendencia general de rebote en los índices y tecnológicas clave tras recientes caídas. MSFT presenta un rendimiento positivo del +1.05% acercándose al objetivo de toma de beneficios, mientras que AAPL se mantiene estancada con un pequeño retroceso. QQQ y NVDA están consolidando sus rebotes tras haber estado en sobreventa. La liquidez se mantiene ajustada en el portafolio."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Monitorear de cerca el rendimiento de MSFT para asegurar beneficios si alcanza el rango de +2.0% a +3.5%. Evaluar la evolución de AAPL; si no muestra impulso alcista en el próximo ciclo, proceder a rotar el capital hacia oportunidades con mayor momentum en cripto o tecnología. Mantener la liquidez en niveles mínimos."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [SELL] AAPL (Confianza: 80%)
-    Razón: AAPL lleva más de un día abierta (1d 5h) sin mostrar un momentum significativo ni alcanzar el objetivo de ganancia, manteniéndose con un PnL negativo de -0.95%. Se ejecuta la venta para liberar capital y rotar hacia oportunidades de mayor dinamismo.
-    ✅ Venta ejecutada: 0.028889 de AAPL a $342.86
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.81 USD (Cash: $14.17 USD)
-
-[2026-10-15 16:30:42] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $14.17 USD
- Valor en Activos:     $24.61 USD
- Balance Total:        $38.77 USD
- Ganancia/Pérdida:     🔴 $-1.23 USD (-3.07%)
-
- 💼 Posiciones Abiertas:
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $540.22 | Total: $6.56 📈 (+0.94%) [Tiempo: 5h 40m]
-   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $727.8 | Total: $10.04 📈 (+0.37%) [Tiempo: 4h 10m]
-   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.5 | Total: $8.01 📈 (+0.08%) [Tiempo: 3h 40m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado muestra un sentimiento mixto con sesgo lateral a bajista en renta variable de EE.UU., mientras que las criptomonedas y algunos activos tecnológicos intentan consolidar rebotes técnicos tras caídas recientes. Los índices principales se mantienen en zonas de soporte relativas, pero la falta de fuerte momentum inmediato exige una gestión activa y disciplinada del riesgo."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -147,6 +113,40 @@ Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] QQQ (Confianza: 80%)
     Razón: El mercado está cerrado para QQQ, impidiendo realizar operaciones. La posición se mantiene mientras esperamos la apertura bursátil para buscar un rebote hacia el objetivo de take-profit.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.76 USD (Cash: $14.17 USD)
+
+[2026-10-15 17:10:47] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $14.17 USD
+ Valor en Activos:     $24.59 USD
+ Balance Total:        $38.76 USD
+ Ganancia/Pérdida:     🔴 $-1.24 USD (-3.11%)
+
+ 💼 Posiciones Abiertas:
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.44 | Total: $6.55 📈 (+0.80%) [Tiempo: 6h 20m]
+   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $728.0 | Total: $10.04 📈 (+0.40%) [Tiempo: 4h 50m]
+   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.23 | Total: $8.0 📈 (-0.04%) [Tiempo: 4h 20m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"Los mercados tradicionales se encuentran cerrados, por lo que la liquidez activa se concentra en los criptoactivos 24/7. En cripto, SOL-USD y ETH-USD muestran RSI de 1 hora en zona de sobrecompra superior a 70, lo que limita una entrada alcista inmediata por agotamiento de corto plazo. En el portafolio actual, MSFT, QQQ y NVDA están en mercados cerrados con ganancias y pérdidas moderadas que aún no alcanzan los objetivos de take-profit del +2.0% ni los stop-loss del -2.0%. Se mantiene la postura de espera para las posiciones actuales hasta la apertura de Wall Street."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales en MSFT, QQQ y NVDA durante el cierre del mercado tradicional. Vigilar la apertura para buscar take-profit entre +2.0% y +3.5% o cortar pérdidas si rompen el soporte del -2.0%. En cripto, esperar a que SOL o ETH corrijan sus niveles de sobrecompra 1h para buscar posibles rebotes en soporte diario."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] QQQ (Confianza: 70%)
+    Razón: El mercado está cerrado y la posición mantiene un PnL positivo moderado (+0.4%), esperando la apertura de Wall Street para buscar el objetivo de take-profit.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.

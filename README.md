@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 17:00:58`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 17:10:53`
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 6h 10m |
-| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 4h 40m |
-| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 4h 10m |
+| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 6h 20m |
+| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 4h 50m |
+| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 4h 20m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de valores tradicional (Wall Street) se encuentra cerrado, por lo que los precios de las acciones están congelados y no se pueden operar en este momento. Sin embargo, el mercado de criptomonedas opera 24/7 y muestra condiciones interesantes con activos como ETH-USD y SOL-USD alcanzando niveles de sobrecompra en el RSI de 1 hora (> 70), indicando posibles tomas de beneficios o agotamiento del impulso inmediato a corto plazo. Mantengo las posiciones abiertas de MSFT, QQQ y NVDA a la espera de la apertura de mercado, vigilando de cerca el comportamiento de NVDA cuyo RSI de 1 hora se mantiene extremadamente deprimido en 17.8."
+> "Los mercados tradicionales se encuentran cerrados, por lo que la liquidez activa se concentra en los criptoactivos 24/7. En cripto, SOL-USD y ETH-USD muestran RSI de 1 hora en zona de sobrecompra superior a 70, lo que limita una entrada alcista inmediata por agotamiento de corto plazo. En el portafolio actual, MSFT, QQQ y NVDA están en mercados cerrados con ganancias y pérdidas moderadas que aún no alcanzan los objetivos de take-profit del +2.0% ni los stop-loss del -2.0%. Se mantiene la postura de espera para las posiciones actuales hasta la apertura de Wall Street."
 
 **Operaciones del ciclo:**
-- **[HOLD] QQQ** (Confianza: 80%): El mercado está cerrado para QQQ, impidiendo realizar operaciones. La posición se mantiene mientras esperamos la apertura bursátil para buscar un rebote hacia el objetivo de take-profit.
+- **[HOLD] QQQ** (Confianza: 70%): El mercado está cerrado y la posición mantiene un PnL positivo moderado (+0.4%), esperando la apertura de Wall Street para buscar el objetivo de take-profit.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en MSFT, QQQ y NVDA ya que los mercados tradicionales están cerrados. Vigilar que alcancen el objetivo de take-profit entre +2.0% y +3.5% en la próxima apertura. Mantener liquidez en efectivo en $14.17 USD para operar con agilidad ante nuevas señales en cripto o en la apertura de Wall Street."
+> "Mantener las posiciones actuales en MSFT, QQQ y NVDA durante el cierre del mercado tradicional. Vigilar la apertura para buscar take-profit entre +2.0% y +3.5% o cortar pérdidas si rompen el soporte del -2.0%. En cripto, esperar a que SOL o ETH corrijan sus niveles de sobrecompra 1h para buscar posibles rebotes en soporte diario."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
