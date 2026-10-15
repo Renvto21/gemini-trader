@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 02:00:45`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 02:10:51`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$17.61 USD** | **$20.95 USD** | **$38.56 USD** | 🔴 **-3.61%** ($-1.44) |
+| **$40.00 USD** | **$17.61 USD** | **$20.90 USD** | **$38.51 USD** | 🔴 **-3.73%** ($-1.49) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 15h 10m |
-| `BTC-USD` | 0.000061 | $81640.68 | $81535.66 | $4.99 | 📉 -0.13% | 4h 50m |
-| `ETH-USD` | 0.002539 | $2362.71 | $2380.15 | $6.04 | 📈 +0.74% | 50m |
+| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 15h 20m |
+| `BTC-USD` | 0.000061 | $81640.68 | $81238.83 | $4.98 | 📉 -0.49% | 5h 0m |
+| `ETH-USD` | 0.002539 | $2362.71 | $2367.86 | $6.01 | 📈 +0.22% | 1h 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se mantiene operando 24/7 con un sesgo bajista generalizado pero mostrando señales tempranas de estabilización en los indicadores de corto plazo. ETH-USD muestra un rendimiento positivo marginal tras la entrada anterior y su RSI de 1h se encuentra en 33.7, preparándose para un posible rebote mayor si cruza la zona neutral. Los mercados tradicionales están cerrados, por lo que toda la atención táctica se centra en gestionar las posiciones activas en cripto y asegurar beneficios rápidos al alcanzar la zona objetivo del +2.0% al +3.5%."
+> "El mercado de criptomonedas se mantiene abierto operando en un entorno de cautela con tendencia bajista general, mientras que los mercados tradicionales (Wall Street) permanecen cerrados. ETH-USD muestra ligeras señales de consolidación tras el rebote reciente, pero su RSI de 1h se encuentra en 31.0, cerca de la zona de sobreventa, manteniendo una perspectiva frágil. AAPL y BTC-USD muestran variaciones mínimas con pérdidas no realizadas controladas dentro de los rangos permitidos."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 75%): La posición en ETH-USD muestra una ganancia inicial de +0.74% tras el rebote desde sobreventa. El RSI de 1h está en 33.7 y el precio se mantiene firme, por lo que se mantiene la posición esperando el objetivo de take-profit del +2.0% al +3.5%.
+- **[HOLD] ETH-USD** (Confianza: 60%): ETH-USD mantiene una pequeña ganancia del +0.22% tras la entrada reciente por rebote. El RSI de 1h está en 31.0 y el cambio de 1h es ligeramente negativo (-0.54%). Mantendremos la posición esperando un impulso mayor hacia el rango objetivo de take-profit del +2.0% al +3.5%, vigilando que no rompa soportes a la baja.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en ETH-USD, BTC-USD y AAPL. Vigilar de cerca a ETH-USD para asegurar ganancias si alcanza el objetivo de +2.0% a +3.5% o si el RSI de 1h supera 70. Mantener un stop-loss estricto en -2.0% para proteger el capital. Si el mercado cripto continúa con bajo impulso o lateraliza, rotar capital hacia oportunidades con mayor volumen."
+> "Mantener las posiciones actuales en AAPL, BTC-USD y ETH-USD mientras el mercado tradicional esté cerrado. Vigilar estrictamente ETH-USD para asegurar ganancias si alcanza el objetivo de +2.0% a +3.5% o si el RSI de 1h supera 70. Mantener el stop-loss estricto en -2.0% para AAPL y BTC-USD. No abrir nuevas posiciones en cripto hasta ver una confirmación alcista más clara con un RSI de 1h saliendo firmemente de la zona baja."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

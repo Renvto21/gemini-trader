@@ -1277,7 +1277,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD, BTC-USD y AAPL. Vigilar de cerca a ETH-USD para asegurar ganancias si alcanza el objetivo de +2.0% a +3.5% o si el RSI de 1h supera 70. Mantener un stop-loss estricto en -2.0% para proteger el capital. Si el mercado cripto continúa con bajo impulso o lateraliza, rotar capital hacia oportunidades con mayor volumen.",
-    "updated_at": "2026-10-15T02:00:45.494174-03:00"
+    "notes": "Mantener las posiciones actuales en AAPL, BTC-USD y ETH-USD mientras el mercado tradicional esté cerrado. Vigilar estrictamente ETH-USD para asegurar ganancias si alcanza el objetivo de +2.0% a +3.5% o si el RSI de 1h supera 70. Mantener el stop-loss estricto en -2.0% para AAPL y BTC-USD. No abrir nuevas posiciones en cripto hasta ver una confirmación alcista más clara con un RSI de 1h saliendo firmemente de la zona baja.",
+    "updated_at": "2026-10-15T02:10:51.877898-03:00"
   }
 }
