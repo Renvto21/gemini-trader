@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en MSFT, QQQ y NVDA durante el cierre del mercado tradicional. Esperar la apertura de Wall Street para evaluar la toma de ganancias si alcanzan el rango de +2.0% a +3.5% o ejecutar stop-loss si el rendimiento cae por debajo de -2.0%. En cripto, vigilar posibles correcciones en ETH-USD o SOL-USD para cazar un nuevo rebote si caen a zonas de sobreventa (<35).",
-    "updated_at": "2026-10-15T19:00:48.211275-03:00"
+    "notes": "Mantener las posiciones abiertas en MSFT, QQQ y NVDA durante el cierre de mercado. Monitorear la apertura de la bolsa tradicional para asegurar ganancias si alcanzan el objetivo de +2.0% a +3.5%, o activar stop-loss estricto si alguna posición perfora el -2.0%. En el frente cripto, esperar correcciones más profundas en ETH-USD o SOL-USD para cazar nuevos rebotes en zonas de sobreventa.",
+    "updated_at": "2026-10-15T19:10:48.334422-03:00"
   }
 }
