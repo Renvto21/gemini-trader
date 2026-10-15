@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 00:40:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 00:50:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$23.61 USD** | **$14.85 USD** | **$38.47 USD** | 🔴 **-3.83%** ($-1.53) |
+| **$40.00 USD** | **$23.61 USD** | **$14.85 USD** | **$38.47 USD** | 🔴 **-3.84%** ($-1.53) |
 
 ---
 
@@ -16,23 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 13h 49m |
-| `BTC-USD` | 0.000061 | $81640.68 | $80766.87 | $4.95 | 📉 -1.07% | 3h 30m |
+| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 14h 0m |
+| `BTC-USD` | 0.000061 | $81640.68 | $80750.33 | $4.95 | 📉 -1.09% | 3h 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado y congelado, por lo que toda la atención se desplaza hacia los activos cripto (BTC-USD, ETH-USD, SOL-USD), los cuales operan 24/7 y muestran niveles extremos de sobreventa en gráficos de 1 hora con RSI por debajo de 30 y tendencias bajistas de corto plazo. Mantenemos una postura defensiva en el mercado tradicional mientras vigilamos oportunidades de rebote técnico (mean reversion) en criptomonedas."
+> "El mercado tradicional se encuentra cerrado, por lo que la liquidez operativa se concentra en criptomonedas. Los activos digitales muestran una presión bajista persistente con lecturas extremas de sobreventa en el RSI de 1 hora (BTC en 23.1, ETH en 16.9, SOL en 28.5). Sin embargo, aún falta la confirmación de un giro en el cambio porcentual de corto plazo para validar rebotes sólidos."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 65%): La posición en BTC-USD registra una pérdida leve de -1.07% con un RSI de 1h en 22.5. Aunque está en sobreventa extrema, el impulso bajista de la última hora sigue activo (-0.8%). Mantenemos la posición respetando las reglas de stop-loss estricto a -2.0% y esperando la confirmación de giro.
+- **[HOLD] BTC-USD** (Confianza: 60%): BTC-USD mantiene un RSI de 1h en sobreventa extrema (23.1) con una pequeña pérdida actual de -1.09%. Dado que el mercado cripto está abierto y la posición está lejos del stop-loss estricto, mantenemos la posición esperando el rebote técnico.
+- **[HOLD] AAPL** (Confianza: 50%): AAPL se encuentra en mercado cerrado con una pérdida menor de -0.92%. No se puede operar en este momento, por lo que se mantiene en observación hasta la apertura del mercado tradicional.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener AAPL en observación por estar cerrada la bolsa tradicional. En cuanto a BTC-USD, presenta un RSI de 1h en 22.5 pero sigue perdiendo terreno; mantendremos el stop-loss estricto en -2.0%. ETH-USD muestra un RSI extremo de 17.1; estaremos atentos a una confirmación de cambio en change_1h_pct para buscar un reingreso táctico de rebote con control de riesgo estricto. Mantener el colchón de efectivo por encima de los $4.00 USD."
+> "Mantener las posiciones actuales en AAPL y BTC-USD mientras respeten los límites de stop-loss del -2.0%. Vigilar de cerca a ETH-USD y SOL-USD para un reingreso táctico de rebote en cuanto el change_1h_pct se vuelva positivo. Proteger el colchón de efectivo por encima de los $4.00 USD y evitar forzar entradas sin confirmación de impulso."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
