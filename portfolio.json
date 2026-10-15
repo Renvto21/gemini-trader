@@ -1351,7 +1351,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (AAPL, MSFT, QQQ, NVDA) vigilando de cerca los objetivos de take-profit entre +2.0% y +3.5%. Proteger el capital con un stop-loss estricto a -2.0% por posición. Esperar el incremento de volatilidad o la rotación hacia criptomonedas si surge alguna señal clara de momentum.",
-    "updated_at": "2026-10-15T14:00:57.956636-03:00"
+    "notes": "Mantener las posiciones abiertas actuales (AAPL, MSFT, QQQ, NVDA) evaluando su evolución en busca del take-profit entre +2.0% y +3.5% o protegiendo con el stop-loss en -2.0% si el impulso se deteriora. Monitorear de cerca los mercados cripto y tecnológicos para futuras rotaciones de capital en cuanto alguna posición lateralice o alcance su objetivo de salida.",
+    "updated_at": "2026-10-15T14:10:46.582879-03:00"
   }
 }
