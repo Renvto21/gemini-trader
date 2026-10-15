@@ -1277,7 +1277,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca a ETH-USD para asegurar ganancias si alcanza el rango objetivo de +2.0% a +3.5% o si el RSI de 1h se aproxima a sobrecompra (>70). Evaluar una entrada en SOL-USD si el momentum de 1h y el volumen continúan expandiéndose, utilizando parte del efectivo disponible manteniendo la reserva mínima de $4.00. Mantener el stop-loss estricto en -2.0% para todas las posiciones abiertas y rotar capital si alguna se estanca.",
-    "updated_at": "2026-10-15T01:50:39.621115-03:00"
+    "notes": "Mantener las posiciones actuales en ETH-USD, BTC-USD y AAPL. Vigilar de cerca a ETH-USD para asegurar ganancias si alcanza el objetivo de +2.0% a +3.5% o si el RSI de 1h supera 70. Mantener un stop-loss estricto en -2.0% para proteger el capital. Si el mercado cripto continúa con bajo impulso o lateraliza, rotar capital hacia oportunidades con mayor volumen.",
+    "updated_at": "2026-10-15T02:00:45.494174-03:00"
   }
 }
