@@ -1351,7 +1351,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones en AAPL, MSFT y QQQ vigilando take-profit si rozan ganancias del +2.5% o stop-loss si perforan soportes de -2.0%. Estar atentos a la evolución del rebote en NVDA para evaluar una posible entrada si consolida el impulso alcista.",
-    "updated_at": "2026-10-15T12:50:41.256151-03:00"
+    "notes": "Monitorear de cerca el rendimiento de AAPL, MSFT, QQQ y NVDA. Establecer tomas de ganancia parciales o totales si alguna posición alcanza el rango de +2.0% a +3.5%. Mantener los stop-loss estrictos en -2.0% para evitar retrocesos profundos y reasignar liquidez rápidamente en caso de estancamiento.",
+    "updated_at": "2026-10-15T13:00:52.803328-03:00"
   }
 }
