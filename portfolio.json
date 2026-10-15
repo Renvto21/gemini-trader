@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 11.61193094190039,
+  "cash": 16.49688536190039,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
       "avg_price": 346.15,
       "opened_at": "2026-10-14T10:50:41.868687-03:00"
-    },
-    "BTC-USD": {
-      "shares": 6.12439778796551e-05,
-      "avg_price": 81640.68,
-      "opened_at": "2026-10-14T21:10:36.353545-03:00"
     },
     "ETH-USD": {
       "shares": 0.002539456810188301,
@@ -1288,10 +1283,21 @@
       "shares": 0.058789,
       "price": 102.06,
       "reason": "SOL-USD muestra un RSI de 1h en 33.3 saliendo de zonas de compresión bajista, acompañado de un cambio positivo de 1h de +0.71%. Su RSI diario en 23.1 indica sobreventa extrema, lo que activa la oportunidad de un rebote técnico (mean reversion) de corto plazo."
+    },
+    {
+      "timestamp": "2026-10-15T10:30:51.997609-03:00",
+      "action": "SELL",
+      "ticker": "BTC-USD",
+      "amount_usd": 4.88,
+      "shares": 6.1e-05,
+      "price": 80081.22,
+      "pnl_usd": -0.1,
+      "pnl_pct": -1.91,
+      "reason": "La posición en BTC-USD se acerca al límite de tolerancia de pérdida (-1.91%) y el activo permanece bajo su media móvil con un impulso horario débil, por lo que se ejecuta la venta para cortar pérdidas y proteger el capital disponible."
     }
   ],
   "memory": {
-    "notes": "Monitorear estrictamente las posiciones abiertas (AAPL, BTC-USD, ETH-USD, SOL-USD). Mantener stop-loss estricto en -2.0% para cortar pérdidas rápidamente si el mercado de criptomonedas profundiza su tendencia bajista. Esperar la apertura de Wall Street para buscar oportunidades de rebote técnico en sobreventa en activos tecnológicos y del S&P 500, rotando capital si es necesario.",
-    "updated_at": "2026-10-15T10:20:49.723650-03:00"
+    "notes": "Mantener la vigilancia sobre BTC-USD, ETH-USD y SOL-USD para asegurar take-profits rápidos si experimentan un rebote hacia zonas de resistencia o cortar pérdidas estrictamente si BTC-USD profundiza su caída por debajo del soporte actual. Evaluar la rotación de AAPL para capitalizar caídas en activos con mayor sobreventa como MSFT o NVDA si el momentum técnico mejora.",
+    "updated_at": "2026-10-15T10:30:51.994250-03:00"
   }
 }

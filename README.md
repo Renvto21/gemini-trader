@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 10:20:49`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 10:30:52`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$11.61 USD** | **$26.74 USD** | **$38.35 USD** | 🔴 **-4.12%** ($-1.65) |
+| **$40.00 USD** | **$16.50 USD** | **$21.91 USD** | **$38.41 USD** | 🔴 **-3.98%** ($-1.59) |
 
 ---
 
@@ -16,43 +16,42 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 23h 30m |
-| `BTC-USD` | 0.000061 | $81640.68 | $80315.00 | $4.92 | 📉 -1.62% | 13h 10m |
-| `ETH-USD` | 0.002539 | $2362.71 | $2342.29 | $5.95 | 📉 -0.86% | 9h 10m |
-| `SOL-USD` | 0.058789 | $102.06 | $101.46 | $5.96 | 📉 -0.59% | 7h 0m |
+| `AAPL` | 0.028889 | $346.15 | $347.11 | $10.03 | 📈 +0.28% | 23h 40m |
+| `ETH-USD` | 0.002539 | $2362.71 | $2337.06 | $5.93 | 📉 -1.09% | 9h 20m |
+| `SOL-USD` | 0.058789 | $102.06 | $101.17 | $5.95 | 📉 -0.87% | 7h 10m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario se encuentra cerrado con precios congelados, mientras que el mercado de criptomonedas opera 24/7 en una tendencia general bajista bajo la SMA20. Las posiciones actuales se mantienen estables pero con ligeras pérdidas latentes, sin que ninguna haya alcanzado aún el límite crítico de stop-loss estricto de -2.0% o un take-profit positivo, operando en un entorno de cautela en cripto."
+> "El mercado muestra un tono bajista generalizado tanto en renta variable estadounidense como en criptoactivos principales, con la mayoría de los índices y criptomonedas cotizando por debajo de sus medias móviles de 20 periodos. Sin embargo, se observan niveles de sobreventa extremos en indicadores de 1 hora en varios activos tecnológicos y criptos, lo que abre oportunidades tácticas puntuales de rebote técnico (mean reversion) para la cartera."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 70%): La posición en BTC-USD muestra una pérdida menor (-1.62%) dentro del rango de tolerancia, sin disparar el stop-loss. Se mantiene en espera de un cambio de impulso horario positivo para incrementar o mantener la exposición.
+- **[SELL] BTC-USD** (Confianza: 85%): La posición en BTC-USD se acerca al límite de tolerancia de pérdida (-1.91%) y el activo permanece bajo su media móvil con un impulso horario débil, por lo que se ejecuta la venta para cortar pérdidas y proteger el capital disponible.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Monitorear estrictamente las posiciones abiertas (AAPL, BTC-USD, ETH-USD, SOL-USD). Mantener stop-loss estricto en -2.0% para cortar pérdidas rápidamente si el mercado de criptomonedas profundiza su tendencia bajista. Esperar la apertura de Wall Street para buscar oportunidades de rebote técnico en sobreventa en activos tecnológicos y del S&P 500, rotando capital si es necesario."
+> "Mantener la vigilancia sobre BTC-USD, ETH-USD y SOL-USD para asegurar take-profits rápidos si experimentan un rebote hacia zonas de resistencia o cortar pérdidas estrictamente si BTC-USD profundiza su caída por debajo del soporte actual. Evaluar la rotación de AAPL para capitalizar caídas en activos con mayor sobreventa como MSFT o NVDA si el momentum técnico mejora."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
 
 | Operaciones Cerradas | Tasa de Acierto (Win Rate) | Beneficio Realizado | Mejor Trade | Peor Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **54** | 🎯 **40.7%** (22W / 18L / 14BE) | 🔴 **$-1.29 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
+| **55** | 🎯 **40.0%** (22W / 19L / 14BE) | 🔴 **$-1.39 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
 ---
 
 ### 📜 Últimos Movimientos
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-15 10:30` | 🔴 SELL (-0.10$) | `BTC-USD` | $4.88 | $80081.22 | La posición en BTC-USD se acerca al límite de tolerancia de pérdida (-1.91%) y el activo p... |
 | `2026-10-15 03:20` | 🟢 BUY | `SOL-USD` | $6.00 | $102.06 | SOL-USD muestra un RSI de 1h en 33.3 saliendo de zonas de compresión bajista, acompañado d... |
 | `2026-10-15 01:10` | 🟢 BUY | `ETH-USD` | $6.00 | $2362.71 | ETH-USD presenta un RSI de 1h extremadamente bajo en 23.5 saliendo de sobreventa y un camb... |
 | `2026-10-14 23:30` | 🔴 SELL (-0.30$) | `SOL-USD` | $9.70 | $101.32 | La posición en SOL-USD acumula una pérdida de -2.95%, acercándose al límite crítico y sin ... |
 | `2026-10-14 23:30` | 🔴 SELL (-0.32$) | `ETH-USD` | $9.68 | $2340.86 | 🚨 STOP-LOSS AUTOMÁTICO (CIRCUIT BREAKER): Pérdida de -3.20% superó el límite de seguridad ... |
-| `2026-10-14 21:10` | 🟢 BUY | `BTC-USD` | $5.00 | $81640.68 | BTC-USD presenta un RSI de 1h en 24.9 (sobreventa extrema) y liquidez disponible suficient... |
 
 ---
 
