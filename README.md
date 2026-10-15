@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 14:42:00`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 14:50:37`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.26 USD** | **$34.54 USD** | **$38.80 USD** | 🔴 **-2.99%** ($-1.20) |
+| **$40.00 USD** | **$4.26 USD** | **$34.55 USD** | **$38.81 USD** | 🔴 **-2.98%** ($-1.19) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.24 | $9.94 | 📉 -0.55% | 1d 3h |
-| `MSFT` | 0.012146 | $535.17 | $539.98 | $6.56 | 📈 +0.90% | 3h 51m |
-| `QQQ` | 0.013791 | $725.09 | $726.06 | $10.01 | 📈 +0.13% | 2h 21m |
-| `NVDA` | 0.036812 | $217.32 | $217.98 | $8.02 | 📈 +0.30% | 1h 51m |
+| `AAPL` | 0.028889 | $346.15 | $344.28 | $9.95 | 📉 -0.54% | 1d 3h |
+| `MSFT` | 0.012146 | $535.17 | $540.37 | $6.56 | 📈 +0.97% | 3h 59m |
+| `QQQ` | 0.013791 | $725.09 | $726.15 | $10.01 | 📈 +0.15% | 2h 29m |
+| `NVDA` | 0.036812 | $217.32 | $217.93 | $8.02 | 📈 +0.28% | 1h 59m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+> "El mercado muestra un tono mixto con sesgo alcista en las últimas horas para los activos tecnológicos y cripto. Los índices principales (QQQ, SPY) y acciones clave (NVDA) se encuentran recuperándose tras lecturas de sobreventa en gráficos de 1 hora, mientras que las criptomonedas continúan manteniendo un impulso estable en 24/7. La liquidez actual se encuentra distribuida en posiciones de crecimiento con potencial de rebote técnico."
 
 **Operaciones del ciclo:**
-- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
+- **[HOLD] QQQ** (Confianza: 80%): QQQ muestra un buen comportamiento técnico tras la entrada en sobreventa reciente, cotizando ligeramente al alza y consolidando la recuperación esperada en el corto plazo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
+> "Mantendremos las posiciones actuales (AAPL, MSFT, QQQ, NVDA) evaluando su evolución frente al objetivo de take-profit entre +2.0% y +3.5%. Vigilar especialmente el RSI de 1h en NVDA y QQQ para asegurar ganancias si alcanzan la zona de sobrecompra. Si alguna posición rompe a la baja el soporte del -2.0%, ejecutaremos stop-loss inmediato para liberar capital."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

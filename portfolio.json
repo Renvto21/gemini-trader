@@ -1351,7 +1351,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini.",
-    "updated_at": "2026-10-15T14:42:00.166465-03:00"
+    "notes": "Mantendremos las posiciones actuales (AAPL, MSFT, QQQ, NVDA) evaluando su evolución frente al objetivo de take-profit entre +2.0% y +3.5%. Vigilar especialmente el RSI de 1h en NVDA y QQQ para asegurar ganancias si alcanzan la zona de sobrecompra. Si alguna posición rompe a la baja el soporte del -2.0%, ejecutaremos stop-loss inmediato para liberar capital.",
+    "updated_at": "2026-10-15T14:50:37.545684-03:00"
   }
 }
