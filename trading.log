@@ -2,41 +2,6 @@
 🤖 Consultando a Gemini para análisis y toma de decisiones...
 
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado muestra un tono mixto con sesgo bajista en tendencias generales, pero con activos tecnológicos clave (como MSFT) manteniendo fortaleza y otros en sobreventa extrema de corto plazo (QQQ, NVDA) intentando estabilizarse. Mantenemos una postura táctica defensiva y de monitoreo estrecho para asegurar pequeñas ganancias o cortar pérdidas rápidamente."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Monitorear de cerca a MSFT que se encuentra cerca del objetivo de toma de ganancias (+0.85%). Vigilar el comportamiento de QQQ y NVDA tras sus lecturas de sobreventa en RSI de 1 hora. Si MSFT alcanza el rango de +2.0% a +3.5%, procederemos a vender para asegurar capital. Mantener la liquidez disponible en niveles mínimos para eventuales rotaciones rápidas."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] MSFT (Confianza: 80%)
-    Razón: MSFT muestra un rendimiento positivo constante (+0.85%) y tendencia alcista sobre la SMA20. Se mantiene en cartera a la espera de alcanzar el objetivo de toma de ganancias entre +2.0% y +3.5%.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.71 USD (Cash: $4.26 USD)
-
-[2026-10-15 14:00:51] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $4.26 USD
- Valor en Activos:     $34.47 USD
- Balance Total:        $38.74 USD
- Ganancia/Pérdida:     🔴 $-1.26 USD (-3.16%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $344.3 | Total: $9.95 📉 (-0.53%) [Tiempo: 1d 3h]
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.59 | Total: $6.55 📈 (+0.83%) [Tiempo: 3h 10m]
-   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $723.52 | Total: $9.98 📉 (-0.22%) [Tiempo: 1h 40m]
-   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.19 | Total: $8.0 📈 (-0.06%) [Tiempo: 1h 10m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado se encuentra abierto con un sesgo mixto y la liquidez disponible es baja ($4.26 USD). MSFT muestra un rendimiento positivo cercano al objetivo pero sin alcanzar el umbral de take-profit de +2.0%. Las posiciones en QQQ y NVDA se mantienen estables tras sus rebotes en sobreventa de 1h, mientras la liquidez se mantiene reservada y ajustada a las reglas."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -151,3 +116,38 @@ Balance final del ciclo: $38.75 USD (Cash: $4.26 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.75 USD (Cash: $4.26 USD)
+
+[2026-10-15 14:40:41] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $4.26 USD
+ Valor en Activos:     $34.54 USD
+ Balance Total:        $38.80 USD
+ Ganancia/Pérdida:     🔴 $-1.20 USD (-2.99%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $344.24 | Total: $9.94 📉 (-0.55%) [Tiempo: 1d 3h]
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.98 | Total: $6.56 📈 (+0.90%) [Tiempo: 3h 50m]
+   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $726.06 | Total: $10.01 📈 (+0.13%) [Tiempo: 2h 20m]
+   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.98 | Total: $8.02 📈 (+0.30%) [Tiempo: 1h 50m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] PORTFOLIO (Confianza: 100%)
+    Razón: Error temporal de conexión, manteniendo posiciones de forma segura.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.80 USD (Cash: $4.26 USD)

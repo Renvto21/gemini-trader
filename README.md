@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 14:30:50`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 14:42:00`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.26 USD** | **$34.49 USD** | **$38.75 USD** | 🔴 **-3.11%** ($-1.25) |
+| **$40.00 USD** | **$4.26 USD** | **$34.54 USD** | **$38.80 USD** | 🔴 **-2.99%** ($-1.20) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.43 | $9.95 | 📉 -0.50% | 1d 3h |
-| `MSFT` | 0.012146 | $535.17 | $538.93 | $6.55 | 📈 +0.70% | 3h 40m |
-| `QQQ` | 0.013791 | $725.09 | $724.60 | $9.99 | 📉 -0.07% | 2h 10m |
-| `NVDA` | 0.036812 | $217.32 | $217.40 | $8.00 | 📈 +0.04% | 1h 40m |
+| `AAPL` | 0.028889 | $346.15 | $344.24 | $9.94 | 📉 -0.55% | 1d 3h |
+| `MSFT` | 0.012146 | $535.17 | $539.98 | $6.56 | 📈 +0.90% | 3h 51m |
+| `QQQ` | 0.013791 | $725.09 | $726.06 | $10.01 | 📈 +0.13% | 2h 21m |
+| `NVDA` | 0.036812 | $217.32 | $217.98 | $8.02 | 📈 +0.30% | 1h 51m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un entorno mixto con presión bajista en gran parte de los índices y tecnológicas (QQQ, NVDA), aunque con indicadores de RSI de 1 hora en niveles de sobreventa extrema que sugieren oportunidades inminentes de rebote (mean reversion). Por otro lado, los criptoactivos (BTC-USD, SOL-USD, ETH-USD) se mantienen abiertos 24/7 con un momentum positivo constante y RSI al alza, destacando como alternativas óptimas para la rotación y captura rápida de beneficios."
+> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 80%): MSFT se encuentra en tendencia alcista con un rendimiento positivo de +0.7% y un RSI diario fuerte en 66.0. Mantenemos la posición a la espera de alcanzar el objetivo de take-profit entre +2.0% y +3.5%.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales (AAPL, MSFT, QQQ, NVDA) vigilando estrictamente el stop-loss en -2.0% y el objetivo de take-profit entre +2.0% y +3.5%. Dado que el efectivo es muy bajo ($4.26 USD), el plan táctico para el próximo ciclo es esperar la toma de ganancias en MSFT o AAPL para liberar liquidez y ejecutar compras en criptoactivos con momentum favorable si continúan con buen rendimiento."
+> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
