@@ -1,39 +1,6 @@
 🤖 Consultando a Gemini para análisis y toma de decisiones...
 
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado tradicional se encuentra cerrado, por lo que toda la actividad se concentra en los criptoactivos (24/7). Las criptomonedas principales (BTC-USD, ETH-USD, SOL-USD) muestran condiciones de sobreventa extrema en el RSI de 1 hora, pero aún carecen de la confirmación alcista de cambio de 1h positivo necesaria para ejecutar rebotes agresivos. Mantenemos AAPL por su estabilidad y BTC-USD mientras se respeten los límites de riesgo."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener AAPL y BTC-USD por ahora. Monitorear de cerca ETH-USD y SOL-USD: esperaremos a que su RSI de 1h cruce al alza y presenten un change_1h_pct positivo para reingresar y aprovechar posibles rebotes técnicos (Mean Reversion). Colchón de efectivo actual seguro sobre los $4.00 USD."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] AAPL (Confianza: 60%)
-    Razón: El mercado tradicional está cerrado y la posición en AAPL se mantiene estable con una pérdida menor del -0.92%, por lo que conviene retenerla hasta la apertura del mercado bursátil.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.48 USD (Cash: $23.61 USD)
-
-[2026-10-15 00:30:32] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $23.61 USD
- Valor en Activos:     $14.86 USD
- Balance Total:        $38.48 USD
- Ganancia/Pérdida:     🔴 $-1.52 USD (-3.81%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 13h 39m]
-   • BTC-USD: 6.1e-05 u. | Compra: $81640.68 | Actual: $80913.21 | Total: $4.96 📉 (-0.89%) [Tiempo: 3h 19m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado general se encuentra bajo presión bajista, con los principales índices de Wall Street cerrados y las criptomonedas operando 24/7 en niveles de sobreventa extrema (RSI de 1 hora muy deprimidos). BTC-USD muestra debilidad temporal pero se mantiene en cartera esperando el rebote de reversión a la media, mientras que ETH-USD y SOL-USD continúan con caídas profundas pero RSI extremadamente bajos, vigilando posibles activaciones de rebote en cuanto aparezca momentum horario positivo."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -151,3 +118,36 @@ Balance final del ciclo: $38.47 USD (Cash: $23.61 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.47 USD (Cash: $23.61 USD)
+
+[2026-10-15 01:10:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $23.61 USD
+ Valor en Activos:     $14.86 USD
+ Balance Total:        $38.47 USD
+ Ganancia/Pérdida:     🔴 $-1.53 USD (-3.82%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 14h 19m]
+   • BTC-USD: 6.1e-05 u. | Compra: $81640.68 | Actual: $80864.4 | Total: $4.95 📉 (-0.95%) [Tiempo: 4h 0m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado accionario de Wall Street se encuentra CERRADO, por lo que la liquidez activa se concentra estrictamente en las criptomonedas (24/7). BTC-USD muestra un RSI de 1h en 28.5 (sobreventa extrema) con un leve cambio positivo de 0.06% en la última hora, indicando el inicio potencial de un rebote técnico. ETH-USD y SOL-USD también muestran condiciones de sobreventa profunda y pequeños giros positivos en el corto plazo."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener BTC-USD y AAPL (esta última con mercado cerrado) vigilando de cerca el stop-loss estricto del -2.0%. Aprovechar el impulso alcista inicial en ETH-USD para abrir una nueva posición de rebote en cuanto se confirme el flujo de capital. Monitorear los niveles de soporte actuales y asegurar ganancias si alcanzan el rango de +2.0% a +3.5%."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [BUY] ETH-USD (Confianza: 85%)
+    Razón: ETH-USD presenta un RSI de 1h extremadamente bajo en 23.5 saliendo de sobreventa y un cambio de 1h positivo de 0.24%, cumpliendo la estrategia de cazar rebotes de mean reversion en cripto mientras los mercados tradicionales están cerrados.
+    ✅ Compra ejecutada: $6.00 en ETH-USD a $2362.71
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.47 USD (Cash: $17.61 USD)

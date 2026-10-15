@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 23.61193094190039,
+  "cash": 17.61193094190039,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
@@ -11,6 +11,11 @@
       "shares": 6.12439778796551e-05,
       "avg_price": 81640.68,
       "opened_at": "2026-10-14T21:10:36.353545-03:00"
+    },
+    "ETH-USD": {
+      "shares": 0.002539456810188301,
+      "avg_price": 2362.71,
+      "opened_at": "2026-10-15T01:10:40.830388-03:00"
     }
   },
   "history": [
@@ -1260,10 +1265,19 @@
       "pnl_usd": -0.3,
       "pnl_pct": -2.95,
       "reason": "La posición en SOL-USD acumula una pérdida de -2.95%, acercándose al límite crítico y sin mostrar el rebote esperado tras casi 7 horas de holding. Aplicamos disciplina táctica para cortar la pérdida y proteger liquidez."
+    },
+    {
+      "timestamp": "2026-10-15T01:10:40.830403-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 6.0,
+      "shares": 0.002539,
+      "price": 2362.71,
+      "reason": "ETH-USD presenta un RSI de 1h extremadamente bajo en 23.5 saliendo de sobreventa y un cambio de 1h positivo de 0.24%, cumpliendo la estrategia de cazar rebotes de mean reversion en cripto mientras los mercados tradicionales están cerrados."
     }
   ],
   "memory": {
-    "notes": "Mantener AAPL y BTC-USD mientras no rompan el stop-loss del -2.0%. Vigilar de cerca a ETH-USD y SOL-USD para entrar en cuanto el 'change_1h_pct' confirme un giro alcista definitivo. El efectivo actual es de $23.61 USD, cumpliendo holgadamente con la reserva mínima de $4.00 USD.",
-    "updated_at": "2026-10-15T01:00:44.288732-03:00"
+    "notes": "Mantener BTC-USD y AAPL (esta última con mercado cerrado) vigilando de cerca el stop-loss estricto del -2.0%. Aprovechar el impulso alcista inicial en ETH-USD para abrir una nueva posición de rebote en cuanto se confirme el flujo de capital. Monitorear los niveles de soporte actuales y asegurar ganancias si alcanzan el rango de +2.0% a +3.5%.",
+    "updated_at": "2026-10-15T01:10:40.828472-03:00"
   }
 }
