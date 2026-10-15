@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas (MSFT, QQQ, NVDA) durante el cierre de Wall Street. En la próxima apertura de mercado tradicional, buscar la toma de ganancias si alcanzan el rango de +2.0% a +3.5% o aplicar stop-loss inmediato si pierden el -2.0%. Monitorear de cerca SOL-USD y BTC-USD en busca de una ruptura de soporte o sobreventa que permita desplegar capital excedente por encima de la reserva mínima.",
-    "updated_at": "2026-10-15T18:50:37.757825-03:00"
+    "notes": "Mantener las posiciones abiertas en MSFT, QQQ y NVDA durante el cierre del mercado tradicional. Esperar la apertura de Wall Street para evaluar la toma de ganancias si alcanzan el rango de +2.0% a +3.5% o ejecutar stop-loss si el rendimiento cae por debajo de -2.0%. En cripto, vigilar posibles correcciones en ETH-USD o SOL-USD para cazar un nuevo rebote si caen a zonas de sobreventa (<35).",
+    "updated_at": "2026-10-15T19:00:48.211275-03:00"
   }
 }
