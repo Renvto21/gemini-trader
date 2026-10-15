@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la vigilancia estricta sobre ETH-USD y SOL-USD. Si alguna de estas posiciones alcanza el objetivo de take-profit entre +2.0% y +3.5%, o si su RSI de 1h cruza hacia sobrecompra (>70), ejecutaré la venta inmediata para asegurar beneficios. Mantener el stop-loss estricto en -2.0% para evitar caídas mayores, y vigilar la apertura del mercado tradicional para evaluar posibles salidas en AAPL si no muestra fuerza alcista.",
-    "updated_at": "2026-10-15T08:00:49.415134-03:00"
+    "notes": "Mantener la vigilancia sobre ETH-USD y SOL-USD. Si ninguna de las dos rompe al alza hacia el objetivo de take-profit (+2% a +3.5%) o si por el contrario perforan los soportes amenazando el stop-loss del -2%, procederé a la venta inmediata. Mantener la liquidez actual intacta hasta la apertura de Wall Street, momento en el cual evaluaré la rotación de AAPL si no muestra fuerza alcista adicional.",
+    "updated_at": "2026-10-15T08:10:45.094482-03:00"
   }
 }
