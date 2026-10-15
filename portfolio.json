@@ -1251,7 +1251,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones activas en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y la acción de AAPL mientras se mantengan por encima del umbral estricto de stop-loss del -2.0%. Vigilar de cerca la recuperación de los indicadores RSI en 1 hora hacia zona de sobrecompra (>70) para ejecutar tomas de beneficio y asegurar liquidez.",
-    "updated_at": "2026-10-14T22:50:39.178135-03:00"
+    "notes": "Monitorear de cerca los niveles de soporte actuales en SOL-USD, ETH-USD y BTC-USD. Si el RSI de 1 hora rompe hacia arriba de forma decisiva y el cambio de 1h se torna positivo, mantendremos las posiciones buscando el objetivo de take-profit entre +2.0% y +3.5%. Si alguna posición perfora el límite de stop-loss del -2.0% antes del rebote, ejecutaré la venta inmediata para proteger la liquidez y preservar el capital restante.",
+    "updated_at": "2026-10-14T23:00:46.950634-03:00"
   }
 }
