@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. Monitorear de cerca ETH-USD y SOL-USD para asegurar ganancias parciales o totales si alcanzan el objetivo de +2.0% a +3.5%. Proteger la posición con stop-loss estricto a -2.0% en caso de pérdida de soporte. Mantener la disciplina con la reserva mínima de efectivo.",
-    "updated_at": "2026-10-15T05:31:00.485141-03:00"
+    "notes": "Mantener las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. Vigilar de cerca a ETH-USD y SOL-USD para asegurar ganancias parciales si alcanzan el objetivo de +2.0% a +3.5%. Proteger la posición de AAPL y BTC-USD con stop-loss estricto en -2.0% si rompen soportes. Mantener la disciplina con la reserva mínima de efectivo de $4.00 USD.",
+    "updated_at": "2026-10-15T05:40:48.483454-03:00"
   }
 }
