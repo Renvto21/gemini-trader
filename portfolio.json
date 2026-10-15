@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de MSFT, QQQ y NVDA hasta la próxima apertura de Wall Street para buscar take-profit si alcanzan el rango de +2.0% a +3.5% o aplicar stop-loss estricto si rompen soportes. En el mercado de criptomonedas, evitar entradas en ETH-USD por sobrecompra en 1h y vigilar posibles retrocesos en SOL-USD o BTC-USD. Mantener la reserva de efectivo por encima de los $4.00 USD.",
-    "updated_at": "2026-10-15T18:30:42.896209-03:00"
+    "notes": "Mantener las posiciones abiertas de MSFT, QQQ y NVDA durante el cierre de Wall Street. Esperar la apertura del mercado tradicional para buscar la toma de ganancias en el rango de +2.0% a +3.5% o aplicar stop-loss estricto si rompen soportes. En el mercado de criptomonedas, ETH-USD está sobrecomprado y SOL-USD/BTC-USD no muestran señales de entrada suficientemente claras, por lo que preservaremos la liquidez actual por encima de los $4.00 USD.",
+    "updated_at": "2026-10-15T18:40:40.716867-03:00"
   }
 }
