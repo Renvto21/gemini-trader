@@ -1351,7 +1351,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas (AAPL, MSFT, QQQ, NVDA) respetando estrictamente el stop-loss en -2.0% y buscando un take-profit entre +2.0% y +3.5%. Dado que la liquidez está casi completamente desplegada y la reserva mínima es de $4.26 USD, el enfoque para el siguiente ciclo será buscar una toma de ganancias en MSFT o esperar la confirmación de rebote en NVDA y QQQ para liberar capital y rotar hacia criptomonedas (ETH-USD o SOL-USD) si presentan un nuevo impulso.",
-    "updated_at": "2026-10-15T15:40:47.685298-03:00"
+    "notes": "Mantener QQQ, NVDA, AAPL y vigilar MSFT de cerca. MSFT está registrando una ganancia cercana al +0.97%, por lo que si alcanza la zona objetivo de +2.0% a +3.5%, procederé a tomar ganancias para liberar liquidez. AAPL mantiene un rendimiento estable con un pequeño retroceso (-1.02%) pero sin romper el stop-loss estricto de -2.0%. Si QQQ y NVDA muestran señales de agotamiento en sus rebotes y no logran romper al alza en los siguientes ciclos, rotaré parte de ese capital hacia criptomonedas como ETH-USD o SOL-USD para aprovechar el mercado 24/7.",
+    "updated_at": "2026-10-15T15:50:54.972278-03:00"
   }
 }
