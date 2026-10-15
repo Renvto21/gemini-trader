@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 12:40:49`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 12:50:41`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$12.26 USD** | **$26.42 USD** | **$38.68 USD** | 🔴 **-3.29%** ($-1.32) |
+| **$40.00 USD** | **$4.26 USD** | **$34.45 USD** | **$38.71 USD** | 🔴 **-3.23%** ($-1.29) |
 
 ---
 
@@ -16,24 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $343.17 | $9.91 | 📉 -0.86% | 1d 1h |
-| `MSFT` | 0.012146 | $535.17 | $537.03 | $6.52 | 📈 +0.35% | 1h 50m |
-| `QQQ` | 0.013791 | $725.09 | $724.11 | $9.99 | 📉 -0.14% | 20m |
+| `AAPL` | 0.028889 | $346.15 | $343.63 | $9.93 | 📉 -0.73% | 1d 1h |
+| `MSFT` | 0.012146 | $535.17 | $537.48 | $6.53 | 📈 +0.43% | 1h 59m |
+| `QQQ` | 0.013791 | $725.09 | $724.36 | $9.99 | 📉 -0.10% | 29m |
+| `NVDA` | 0.036812 | $217.32 | $217.32 | $8.00 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo técnico mixto con varios índices y activos en tendencia bajista de corto plazo pero con indicadores de RSI de 1 hora en zonas de sobreventa extrema, lo que habilita oportunidades de rebote táctico (mean reversion). Los criptoactivos y algunas grandes tecnológicas presentan condiciones interesantes de entrada tras correcciones recientes, mientras que mantenemos una gestión estricta de riesgo en las posiciones actuales."
+> "El mercado muestra oportunidades claras de rebote técnico por sobreventa extrema en el RSI de 1h para activos como NVDA, donde el RSI de 1h se encuentra en 21.5 y presenta un cambio horario positivo. Mantenemos posiciones activas en AAPL, MSFT y QQQ vigilando de cerca los niveles de soporte y buscando capturar take-profits rápidos entre +2.0% y +3.5%. La liquidez actual se optimiza para aprovechar entradas de alta convicción."
 
 **Operaciones del ciclo:**
-- **[HOLD] QQQ** (Confianza: 75%): La posición en QQQ fue abierta recientemente aprovechando una sobreventa en 1h. Aunque el precio actual muestra una variación mínima, el contexto de rebote técnico sigue vigente. Se mantiene a la espera de alcanzar el objetivo de ganancia o activar stop-loss defensivo.
+- **[BUY] NVDA** (Confianza: 85%): NVDA presenta un RSI de 1h en sobreventa extrema (21.5) con un inicio de recuperación en su cambio de 1h (0.26%), lo que ofrece una excelente oportunidad de rebote técnico (Mean Reversion) respaldado por nuestra táctica agresiva.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener QQQ y MSFT vigilando la evolución de sus indicadores de corto plazo para buscar take-profit entre +2.0% y +3.5%, o activar stop-loss estricto si perforan los soportes. Monitorear AAPL para evaluar rotación si no muestra momentum alcista. Vigilar de cerca activos como NVDA o criptomonedas para posibles entradas por sobreventa extrema en RSI de 1h."
+> "Mantener posiciones en AAPL, MSFT y QQQ vigilando take-profit si rozan ganancias del +2.5% o stop-loss si perforan soportes de -2.0%. Estar atentos a la evolución del rebote en NVDA para evaluar una posible entrada si consolida el impulso alcista."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
@@ -47,11 +48,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-15 12:50` | 🟢 BUY | `NVDA` | $8.00 | $217.32 | NVDA presenta un RSI de 1h en sobreventa extrema (21.5) con un inicio de recuperación en s... |
 | `2026-10-15 12:20` | 🟢 BUY | `QQQ` | $10.00 | $725.09 | QQQ muestra un RSI de 1h en sobreventa extrema (28.7) cruzando al alza con un cambio posit... |
 | `2026-10-15 12:10` | 🔴 SELL (+0.14$) | `ETH-USD` | $6.14 | $2417.73 | ETH-USD ha alcanzado un rendimiento del +2.33%, cumpliendo con el rango establecido para l... |
 | `2026-10-15 11:50` | 🔴 SELL (+0.13$) | `SOL-USD` | $6.13 | $104.21 | SOL-USD ha alcanzado un rendimiento de +2.11%, cumpliendo con la regla de toma rápida de g... |
 | `2026-10-15 10:50` | 🟢 BUY | `MSFT` | $6.50 | $535.17 | MSFT presenta un RSI de 1h ultra comprimido en sobreventa extrema (14.7) con un cambio pos... |
-| `2026-10-15 10:30` | 🔴 SELL (-0.10$) | `BTC-USD` | $4.88 | $80081.22 | La posición en BTC-USD se acerca al límite de tolerancia de pérdida (-1.91%) y el activo p... |
 
 ---
 
