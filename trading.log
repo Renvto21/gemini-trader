@@ -1,35 +1,3 @@
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] BTC-USD (Confianza: 70%)
-    Razón: BTC-USD opera estable con un ligero incremento de 1h del 0.29%. La pérdida actual es de -1.13%, muy lejos del stop-loss y con expectativa de acompañar el movimiento alcista general del mercado cripto.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] AAPL (Confianza: 80%)
-    Razón: El mercado de Wall Street se encuentra cerrado para AAPL. La posición se mantiene intacta a la espera de la apertura de la bolsa para evaluar su comportamiento técnico.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.43 USD (Cash: $11.61 USD)
-
-[2026-10-15 04:00:44] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $11.61 USD
- Valor en Activos:     $26.85 USD
- Balance Total:        $38.47 USD
- Ganancia/Pérdida:     🔴 $-1.53 USD (-3.84%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 17h 10m]
-   • BTC-USD: 6.1e-05 u. | Compra: $81640.68 | Actual: $80873.68 | Total: $4.95 📉 (-0.94%) [Tiempo: 6h 50m]
-   • ETH-USD: 0.002539 u. | Compra: $2362.71 | Actual: $2356.56 | Total: $5.98 📉 (-0.26%) [Tiempo: 2h 50m]
-   • SOL-USD: 0.058789 u. | Compra: $102.06 | Actual: $102.2 | Total: $6.01 📈 (+0.14%) [Tiempo: 40m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado general de renta variable se encuentra cerrado, por lo que la liquidez activa se concentra exclusivamente en el ecosistema cripto. Las criptomonedas muestran signos de consolidación tras caídas recientes de 24 horas, con SOL-USD manteniendo un leve sesgo positivo de recuperación mientras ETH-USD y BTC-USD operan con cautela en zonas de soporte técnico."
 
@@ -151,3 +119,35 @@ Balance final del ciclo: $38.47 USD (Cash: $11.61 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.50 USD (Cash: $11.61 USD)
+
+[2026-10-15 04:40:36] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $11.61 USD
+ Valor en Activos:     $26.93 USD
+ Balance Total:        $38.54 USD
+ Ganancia/Pérdida:     🔴 $-1.46 USD (-3.65%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.028889 u. | Compra: $346.15 | Actual: $342.96 | Total: $9.91 📉 (-0.92%) [Tiempo: 17h 50m]
+   • BTC-USD: 6.1e-05 u. | Compra: $81640.68 | Actual: $81190.22 | Total: $4.97 📉 (-0.55%) [Tiempo: 7h 30m]
+   • ETH-USD: 0.002539 u. | Compra: $2362.71 | Actual: $2371.63 | Total: $6.02 📈 (+0.38%) [Tiempo: 3h 30m]
+   • SOL-USD: 0.058789 u. | Compra: $102.06 | Actual: $102.46 | Total: $6.02 📈 (+0.39%) [Tiempo: 1h 19m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado tradicional se encuentra cerrado, por lo que el foco operativo se centra exclusivamente en las criptomonedas (BTC-USD, ETH-USD y SOL-USD), las cuales operan 24/7. Las criptomonedas muestran ligeros repuntes de corto plazo con cambios positivos de 1 hora, saliendo gradualmente de zonas de compresión bajista. Mantendremos las posiciones actuales ya que respetan los stop-loss y operan dentro de los parámetros esperados de rebote técnico."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. Wall Street permanece cerrado. Monitorearemos de cerca las posiciones en ETH-USD y SOL-USD para asegurar ganancias parciales o totales si alcanzan el rango de take-profit entre +2.0% y +3.5%. La liquidez actual se mantendrá en reserva para reaccionar ante cualquier volatilidad o ruptura en los mercados abiertos."
+
+⚡ ACCIONES DECIDIDAS:
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.54 USD (Cash: $11.61 USD)
