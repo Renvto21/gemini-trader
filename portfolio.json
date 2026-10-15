@@ -1251,7 +1251,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca el comportamiento de ETH-USD, BTC-USD y SOL-USD. El RSI de 1h se mantiene en niveles bajos o saliendo de sobreventa, por lo que mantendremos las posiciones abiertas buscando capturar el rebote hacia la zona de take-profit (+2.0% a +3.5%). Vigilar que ninguna posición rompa el stop-loss del -2.0% y mantener la liquidez disponible de $4.23 intacta hasta el próximo ciclo.",
-    "updated_at": "2026-10-14T22:10:44.189574-03:00"
+    "notes": "Mantener las posiciones abiertas en BTC-USD, ETH-USD y SOL-USD para capturar el rebote técnico hacia la zona de take-profit (+2.0% a +3.5%). Vigilar estrictamente que ninguna posición rompa el stop-loss del -2.0%. Mantener la liquidez disponible actual de $4.23 y estar preparados para rotar capital o tomar beneficios en cuanto los indicadores muestren sobrecompra en 1h (> 70).",
+    "updated_at": "2026-10-14T22:20:38.710338-03:00"
   }
 }
