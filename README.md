@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 11:30:59`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 11:40:50`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$10.00 USD** | **$28.51 USD** | **$38.50 USD** | 🔴 **-3.74%** ($-1.50) |
+| **$40.00 USD** | **$10.00 USD** | **$28.59 USD** | **$38.58 USD** | 🔴 **-3.54%** ($-1.42) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.95 | $9.97 | 📉 -0.35% | 1d 0h |
-| `ETH-USD` | 0.002539 | $2362.71 | $2364.60 | $6.00 | 📈 +0.08% | 10h 20m |
-| `SOL-USD` | 0.058789 | $102.06 | $102.82 | $6.04 | 📈 +0.74% | 8h 10m |
-| `MSFT` | 0.012146 | $535.17 | $534.57 | $6.49 | 📉 -0.11% | 40m |
+| `AAPL` | 0.028889 | $346.15 | $344.61 | $9.96 | 📉 -0.44% | 1d 0h |
+| `ETH-USD` | 0.002539 | $2362.71 | $2377.91 | $6.04 | 📈 +0.64% | 10h 30m |
+| `SOL-USD` | 0.058789 | $102.06 | $103.60 | $6.09 | 📈 +1.51% | 8h 20m |
+| `MSFT` | 0.012146 | $535.17 | $535.25 | $6.50 | 📈 +0.01% | 50m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general muestra cautela y un sesgo bajista en varios índices y criptomonedas bajo sus medias móviles de 20 periodos. Sin embargo, observamos un fuerte impulso de recuperación de corto plazo (rebote técnico) en criptomonedas como BTC-USD, SOL-USD y ETH-USD que presentan cambios horarios positivos. Mantenemos una gestión estricta de riesgo, buscando asegurar beneficios parciales y rotar capital según el momentum."
+> "El mercado muestra señales mixtas con presión bajista generalizada en temporalidad diaria, pero con oportunidades claras de rebote técnico de corto plazo en criptomonedas y tecnología. SOL-USD y ETH-USD continúan su recuperación mostrando impulsos de 1h positivos, mientras que activos como NVDA y QQQ presentan condiciones de sobreventa extrema en RSI de 1 hora que podrían activar potentes rebotes. Mantenemos una postura agresiva y de rotación rápida de capital según nuestros niveles de take-profit y stop-loss."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD muestra un rendimiento positivo de +0.74% y un cambio horario de +1.37%, acercándose gradualmente a la zona objetivo para toma de beneficios. Mantenemos la posición para capturar el rebote técnico completo.
+- **[HOLD] SOL-USD** (Confianza: 80%): La posición acumula un rendimiento positivo de 1.51% y muestra buen impulso de corto plazo con change_1h_pct positivo (+2.14%). Se mantiene abierta buscando alcanzar el objetivo de take-profit del 2.0% al 3.5%.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Monitorear de cerca SOL-USD y ETH-USD para asegurar ganancias si alcanzan el rango objetivo de +2.0% a +3.5%. Proteger rigurosamente el capital manteniendo un stop-loss estricto en posiciones abiertas y estar preparados para reasignar efectivo hacia nuevas oportunidades de alto impulso si el mercado cripto amplía su rebote."
+> "Monitorear de cerca SOL-USD (actualmente con +1.51% de ganancia) para asegurar ganancias si se acerca al rango de +2.0% a +3.5%. Evaluar la posición en MSFT y AAPL para mantener estrictos stop-loss ante cualquier giro bajista. Estar preparados para reasignar liquidez hacia NVDA o QQQ si confirman la salida de sobreventa en gráficos de 1 hora."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
