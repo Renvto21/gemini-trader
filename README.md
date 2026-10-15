@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 02:20:35`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 02:30:47`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$17.61 USD** | **$20.87 USD** | **$38.49 USD** | 🔴 **-3.78%** ($-1.51) |
+| **$40.00 USD** | **$17.61 USD** | **$20.86 USD** | **$38.47 USD** | 🔴 **-3.83%** ($-1.53) |
 
 ---
 
@@ -16,24 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 15h 29m |
-| `BTC-USD` | 0.000061 | $81640.68 | $81116.53 | $4.97 | 📉 -0.64% | 5h 9m |
-| `ETH-USD` | 0.002539 | $2362.71 | $2362.36 | $6.00 | 📉 -0.01% | 1h 9m |
+| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 15h 40m |
+| `BTC-USD` | 0.000061 | $81640.68 | $80992.47 | $4.96 | 📉 -0.79% | 5h 20m |
+| `ETH-USD` | 0.002539 | $2362.71 | $2358.10 | $5.99 | 📉 -0.20% | 1h 20m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra completamente cerrado, por lo que toda la atención táctica se traslada al mercado de criptomonedas (abierto 24/7). Los activos digitales como BTC-USD y ETH-USD muestran una tendencia bajista de fondo bajo la SMA20, pero ETH-USD y SOL-USD presentan niveles de RSI diario muy deprimidos (< 30), lo que abre la puerta a potenciales rebotes por sobreventa extrema (mean reversion). Mantenemos nuestras posiciones actuales esperando confirmación de impulso alcista en los marcos temporales de 1 hora."
+> "El mercado accionario de EE. UU. se encuentra cerrado, por lo que toda la atención se desplaza al mercado de criptomonedas (abierto 24/7). Las criptomonedas muestran presiones bajistas continuas con tendencias por debajo de sus medias móviles de 20 periodos, pero ETH-USD y SOL-USD presentan niveles de RSI diario extremadamente bajos que sugieren posibles rebotes por sobreventa a medida que avance la sesión. Mantenemos una postura defensiva pero flexible para rotar capital hacia activos con mayor dinamismo cripto."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 75%): La posición en ETH-USD lleva poco tiempo abierta (1h 9m) y se encuentra operando prácticamente tablas (-0.01%). El RSI diario está profundamente oversold en 27.4 y el RSI de 1h se encuentra en 30.0, manteniendo el potencial intacto para un rebote técnico inminente de corto plazo.
+- **[HOLD] BTC-USD** (Confianza: 60%): La posición en BTC-USD lleva pocas horas abierta (-0.79% PnL) y se encuentra dentro de parámetros normales de fluctuación. Esperamos confirmación de volumen y rebote en el corto plazo.
+- **[HOLD] ETH-USD** (Confianza: 65%): ETH-USD muestra un RSI de 1h en 29.2, cerca de la zona de sobreventa previa. Mantenemos la posición buscando el rebote técnico hacia la zona del +2% de beneficio antes de tomar ganancias.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones abiertas en AAPL, BTC-USD y ETH-USD. Monitorear de cerca ETH-USD y BTC-USD en busca de un incremento en el RSI de 1h y un cambio porcentual positivo que valide un rebote técnico para asegurar ganancias entre +2.0% y +3.5%. Ejecutar stop-loss estricto en -2.0% si alguna posición rompe soportes a la baja para proteger el capital. No sobrecargar la exposición hasta ver un cambio de tendencia más claro en el mercado cripto."
+> "Mantener posiciones abiertas en BTC-USD y ETH-USD supervisando de cerca un cambio positivo en el cambio porcentual de 1h y RSI superior a 40 para asegurar ganancias o cortar pérdidas si bajan del -2.0%. Dado que AAPL está en mercado cerrado, no se puede operar, pero se evaluará su salida en cuanto abra la sesión si el momentum decae. Vigilar SOL-USD para una posible entrada si rompe la resistencia intradía con un RSI en recuperación."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

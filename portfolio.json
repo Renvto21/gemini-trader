@@ -1277,7 +1277,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en AAPL, BTC-USD y ETH-USD. Monitorear de cerca ETH-USD y BTC-USD en busca de un incremento en el RSI de 1h y un cambio porcentual positivo que valide un rebote técnico para asegurar ganancias entre +2.0% y +3.5%. Ejecutar stop-loss estricto en -2.0% si alguna posición rompe soportes a la baja para proteger el capital. No sobrecargar la exposición hasta ver un cambio de tendencia más claro en el mercado cripto.",
-    "updated_at": "2026-10-15T02:20:35.453704-03:00"
+    "notes": "Mantener posiciones abiertas en BTC-USD y ETH-USD supervisando de cerca un cambio positivo en el cambio porcentual de 1h y RSI superior a 40 para asegurar ganancias o cortar pérdidas si bajan del -2.0%. Dado que AAPL está en mercado cerrado, no se puede operar, pero se evaluará su salida en cuanto abra la sesión si el momentum decae. Vigilar SOL-USD para una posible entrada si rompe la resistencia intradía con un RSI en recuperación.",
+    "updated_at": "2026-10-15T02:30:47.712425-03:00"
   }
 }
