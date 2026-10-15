@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 22.261898069407735,
+  "cash": 12.261898069407735,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
@@ -11,6 +11,11 @@
       "shares": 0.012145673337444178,
       "avg_price": 535.17,
       "opened_at": "2026-10-15T10:50:47.123357-03:00"
+    },
+    "QQQ": {
+      "shares": 0.013791391413479705,
+      "avg_price": 725.09,
+      "opened_at": "2026-10-15T12:20:42.843151-03:00"
     }
   },
   "history": [
@@ -1320,10 +1325,19 @@
       "pnl_usd": 0.14,
       "pnl_pct": 2.33,
       "reason": "ETH-USD ha alcanzado un rendimiento del +2.33%, cumpliendo con el rango establecido para la toma rápida de ganancias (Take-Profit entre +2.0% y +3.5%) para asegurar efectivo y rotar capital."
+    },
+    {
+      "timestamp": "2026-10-15T12:20:42.843166-03:00",
+      "action": "BUY",
+      "ticker": "QQQ",
+      "amount_usd": 10.0,
+      "shares": 0.013791,
+      "price": 725.09,
+      "reason": "QQQ muestra un RSI de 1h en sobreventa extrema (28.7) cruzando al alza con un cambio positivo de 0.69% en la última hora. Es una clara oportunidad de rebote técnico (Mean Reversion) con alta convicción para aprovechar la recuperación del índice tecnológico."
     }
   ],
   "memory": {
-    "notes": "Asegurar la toma de ganancias de ETH-USD para liberar liquidez. Vigilar de cerca a QQQ y NVDA para una potencial entrada en cuanto confirmen la aceleración del impulso alcista desde sus niveles actuales de sobreventa. Mantener la disciplina con el stop-loss y la reserva mínima de efectivo.",
-    "updated_at": "2026-10-15T12:10:41.548819-03:00"
+    "notes": "Mantener MSFT buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por ruptura de soporte si el RSI de 1h vuelve a caer. Vigilar AAPL por si muestra debilidad y decidir rotación de capital. Aprovechar la liquidez actual para abrir posición en QQQ y/o NVDA capitalizando su rebote por sobreventa.",
+    "updated_at": "2026-10-15T12:20:42.840534-03:00"
   }
 }

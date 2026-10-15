@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 12:10:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 12:20:42`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$22.26 USD** | **$16.50 USD** | **$38.76 USD** | 🔴 **-3.10%** ($-1.24) |
+| **$40.00 USD** | **$12.26 USD** | **$26.47 USD** | **$38.73 USD** | 🔴 **-3.17%** ($-1.27) |
 
 ---
 
@@ -16,23 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $344.81 | $9.96 | 📉 -0.39% | 1d 1h |
-| `MSFT` | 0.012146 | $535.17 | $538.36 | $6.54 | 📈 +0.60% | 1h 19m |
+| `AAPL` | 0.028889 | $346.15 | $343.53 | $9.92 | 📉 -0.76% | 1d 1h |
+| `MSFT` | 0.012146 | $535.17 | $538.84 | $6.54 | 📈 +0.69% | 1h 29m |
+| `QQQ` | 0.013791 | $725.09 | $725.09 | $10.00 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra oportunidades de rebote técnico en activos tecnológicos y criptomonedas. ETH-USD ha alcanzado un rendimiento de +2.33%, cumpliendo con la regla de toma rápida de ganancias en el rango objetivo de +2.0% a +3.5%. QQQ y NVDA presentan condiciones de sobreventa extrema en 1h con indicios tempranos de reversión, mientras que AAPL se mantiene estable."
+> "El mercado muestra señales mixtas pero con claros indicios de rebote técnico en activos tecnológicos y de alto beta. QQQ y NVDA presentan condiciones de sobreventa extrema en RSI de 1 hora acompañadas de un inicio de recuperación en su cambio de la última hora, lo que activa nuestra estrategia de Mean Reversion. Mantenemos una posición sólida en MSFT con ganancias moderadas, mientras que AAPL se mantiene estable. La liquidez disponible permite realizar nuevas entradas tácticas agresivas para capturar el impulso alcista actual."
 
 **Operaciones del ciclo:**
-- **[SELL] ETH-USD** (Confianza: 90%): ETH-USD ha alcanzado un rendimiento del +2.33%, cumpliendo con el rango establecido para la toma rápida de ganancias (Take-Profit entre +2.0% y +3.5%) para asegurar efectivo y rotar capital.
+- **[BUY] QQQ** (Confianza: 88%): QQQ muestra un RSI de 1h en sobreventa extrema (28.7) cruzando al alza con un cambio positivo de 0.69% en la última hora. Es una clara oportunidad de rebote técnico (Mean Reversion) con alta convicción para aprovechar la recuperación del índice tecnológico.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Asegurar la toma de ganancias de ETH-USD para liberar liquidez. Vigilar de cerca a QQQ y NVDA para una potencial entrada en cuanto confirmen la aceleración del impulso alcista desde sus niveles actuales de sobreventa. Mantener la disciplina con el stop-loss y la reserva mínima de efectivo."
+> "Mantener MSFT buscando el objetivo de take-profit entre +2.0% y +3.5% o salida por ruptura de soporte si el RSI de 1h vuelve a caer. Vigilar AAPL por si muestra debilidad y decidir rotación de capital. Aprovechar la liquidez actual para abrir posición en QQQ y/o NVDA capitalizando su rebote por sobreventa."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
@@ -46,11 +47,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-15 12:20` | 🟢 BUY | `QQQ` | $10.00 | $725.09 | QQQ muestra un RSI de 1h en sobreventa extrema (28.7) cruzando al alza con un cambio posit... |
 | `2026-10-15 12:10` | 🔴 SELL (+0.14$) | `ETH-USD` | $6.14 | $2417.73 | ETH-USD ha alcanzado un rendimiento del +2.33%, cumpliendo con el rango establecido para l... |
 | `2026-10-15 11:50` | 🔴 SELL (+0.13$) | `SOL-USD` | $6.13 | $104.21 | SOL-USD ha alcanzado un rendimiento de +2.11%, cumpliendo con la regla de toma rápida de g... |
 | `2026-10-15 10:50` | 🟢 BUY | `MSFT` | $6.50 | $535.17 | MSFT presenta un RSI de 1h ultra comprimido en sobreventa extrema (14.7) con un cambio pos... |
 | `2026-10-15 10:30` | 🔴 SELL (-0.10$) | `BTC-USD` | $4.88 | $80081.22 | La posición en BTC-USD se acerca al límite de tolerancia de pérdida (-1.91%) y el activo p... |
-| `2026-10-15 03:20` | 🟢 BUY | `SOL-USD` | $6.00 | $102.06 | SOL-USD muestra un RSI de 1h en 33.3 saliendo de zonas de compresión bajista, acompañado d... |
 
 ---
 
