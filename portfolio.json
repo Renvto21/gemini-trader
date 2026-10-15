@@ -1277,7 +1277,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en AAPL (mercado cerrado), BTC-USD y ETH-USD. Vigilar estrictamente el stop-loss en BTC-USD y ETH-USD si las pérdidas superan el -2.0% o si el momentum bajista quiebra los soportes actuales. Conservar la liquidez actual para buscar entradas adicionales solo si se confirma un cambio de tendencia intradiario en cripto o cuando abra Wall Street.",
-    "updated_at": "2026-10-15T03:00:56.463626-03:00"
+    "notes": "Mantener posiciones actuales en AAPL, BTC-USD y ETH-USD. Vigilar estrictamente los límites de stop-loss (-2.0%) para evitar daños mayores en las posiciones cripto. Mantener liquidez para rotar capital en cuanto se presenten confirmaciones de tendencia o cuando abra el mercado de valores.",
+    "updated_at": "2026-10-15T03:10:43.562594-03:00"
   }
 }
