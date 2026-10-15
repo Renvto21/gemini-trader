@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 09:40:43`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 09:50:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$11.61 USD** | **$26.86 USD** | **$38.47 USD** | 🔴 **-3.82%** ($-1.53) |
+| **$40.00 USD** | **$11.61 USD** | **$26.80 USD** | **$38.41 USD** | 🔴 **-3.96%** ($-1.59) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 22h 50m |
-| `BTC-USD` | 0.000061 | $81640.68 | $80932.92 | $4.96 | 📉 -0.87% | 12h 30m |
-| `ETH-USD` | 0.002539 | $2362.71 | $2359.39 | $5.99 | 📉 -0.14% | 8h 30m |
-| `SOL-USD` | 0.058789 | $102.06 | $102.14 | $6.00 | 📈 +0.08% | 6h 20m |
+| `AAPL` | 0.028889 | $346.15 | $342.96 | $9.91 | 📉 -0.92% | 23h 0m |
+| `BTC-USD` | 0.000061 | $81640.68 | $80700.13 | $4.94 | 📉 -1.15% | 12h 40m |
+| `ETH-USD` | 0.002539 | $2362.71 | $2351.02 | $5.97 | 📉 -0.49% | 8h 40m |
+| `SOL-USD` | 0.058789 | $102.06 | $101.76 | $5.98 | 📉 -0.29% | 6h 30m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario tradicional se encuentra cerrado, por lo que toda la actividad se concentra en el mercado de criptomonedas (abierto 24/7). Las criptomonedas principales (BTC-USD, ETH-USD, SOL-USD) muestran un comportamiento lateral a bajista en el corto plazo, con un RSI de 1 hora comprimido por debajo de 50 y tendencias diarias bajistas. Las posiciones actuales se mantienen estables dentro de los límites de stop-loss, y el efectivo disponible se preserva a la espera de un impulso alcista más claro en los indicadores intradiarios antes de incrementar la exposición."
+> "El mercado tradicional se encuentra cerrado, por lo que la liquidez activa se concentra en criptomonedas. Los criptoactivos muestran un comportamiento lateral con sesgo bajista de corto plazo, donde BTC, ETH y SOL experimentan ligeras caídas en la última hora y los RSI de 1h se mantienen comprimidos alrededor de 30-40. Las posiciones actuales se mantienen en rangos de pérdida controlada menores al -1.5%, sin disparar stop-loss estrictos, mientras esperamos el impulso técnico definitivo."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 70%): BTC-USD se mantiene estable con una pérdida muy leve de -0.87%. El RSI de 1h se encuentra en 42.2 sin mostrar aún el impulso alcista necesario para ampliar posición, pero manteniéndose holgadamente por encima del stop-loss.
+- *Sin cambios en este ciclo (HOLD)*
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD vigilando de cerca los límites de stop-loss del -2.0%. En el mercado cripto, esperar a que el RSI de 1 hora supere la zona de 50-60 puntos con un cambio de 1 hora positivo para buscar expansiones de precio y asegurar take-profits entre +2.0% y +3.5%. Conservar efectivo para cuando Wall Street abra y se presenten oportunidades de rebote en tecnología."
+> "Mantener las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD vigilando rigurosamente los límites de stop-loss del -2.0%. Dado que el mercado cripto no ha mostrado el momentum de expansión alcista esperado en este ciclo y se encuentra operando con debilidad de corto plazo, mantendremos las posiciones actuales sin realizar nuevas compras hasta observar un cruce de RSI de 1h por encima de 50 con cambios porcentuales positivos claros. Conservar la reserva de efectivo para la apertura de Wall Street y posibles rotaciones de capital."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
