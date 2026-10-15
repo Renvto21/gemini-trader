@@ -1237,7 +1237,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD buscando el rebote técnico hacia la zona de take-profit entre +2.0% y +3.5%. Apple (AAPL) se mantiene en cartera a la espera de la apertura del mercado tradicional. Monitorearemos estrictamente los niveles de RSI de 1 hora y aplicaremos el stop-loss si el rendimiento cae por debajo de -2.0%.",
-    "updated_at": "2026-10-14T20:50:41.096597-03:00"
+    "notes": "Mantendremos las posiciones abiertas de ETH-USD y SOL-USD vigilando de cerca sus objetivos de take-profit entre +2.0% y +3.5%. Evaluaremos la entrada en BTC-USD si su RSI de 1h se estabiliza y comienza a mostrar un cambio positivo. El stop-loss se mantiene estrictamente en -2.0% para todas las posiciones activas.",
+    "updated_at": "2026-10-14T21:00:57.046125-03:00"
   }
 }
