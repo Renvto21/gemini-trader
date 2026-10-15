@@ -1263,7 +1263,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la posición de AAPL por su tendencia alcista diaria a pesar del cierre del mercado. Monitorear de cerca BTC-USD: si rompe el soporte a la baja o supera una pérdida de -2.0%, proceder a vender para proteger el capital. Estar atentos a ETH-USD y SOL-USD para un posible reingreso en cuanto el RSI de 1h cruce al alza con un cambio porcentual positivo. Mantener la liquidez disponible por encima del mínimo requerido de $4.00 USD.",
-    "updated_at": "2026-10-14T23:50:42.581206-03:00"
+    "notes": "Mantener la posición de AAPL dada su tendencia alcista diaria a pesar del cierre del mercado. Mantener BTC-USD monitoreando de cerca su soporte, estableciendo stop-loss estricto en -2.0% y take-profit entre +2.0% y +3.5%. Estar atentos a ETH-USD y SOL-USD: esperar a que el RSI de 1h cruce al alza y el cambio de 1h se torne positivo para reingresar con fuerza utilizando la liquidez disponible manteniendo el mínimo de $4.00 USD.",
+    "updated_at": "2026-10-15T00:00:51.133516-03:00"
   }
 }
