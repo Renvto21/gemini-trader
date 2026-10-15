@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (AAPL, BTC-USD, ETH-USD, SOL-USD) ya que se encuentran dentro de rangos tolerables de pérdida y respetan el stop-loss estricto de -2.0%. Monitorear de cerca el comportamiento de ETH-USD y SOL-USD en las próximas horas: si logran romper al alza con un RSI de 1h superior a 60-70 o alcanzan una ganancia del +2.0%, proceder a realizar tomas de beneficios parciales para liberar liquidez. Evitar nuevas compras hasta observar una ruptura clara o hasta que la apertura de los mercados tradicionales ofrezca mejores oportunidades tácticas.",
-    "updated_at": "2026-10-15T09:00:54.885941-03:00"
+    "notes": "Mantener las posiciones abiertas (AAPL, BTC-USD, ETH-USD, SOL-USD) mientras respeten el stop-loss estricto del -2.0%. Monitorear de cerca los indicadores de ETH-USD y SOL-USD: si el RSI de 1 hora supera los 60 puntos y se registra un take-profit entre +2.0% y +3.5%, ejecutar ventas parciales para asegurar ganancias y liberar liquidez. No abrir nuevas posiciones hasta que se observe una confirmación clara de impulso alcista en el sector cripto o hasta que abran los mercados tradicionales.",
+    "updated_at": "2026-10-15T09:10:53.146750-03:00"
   }
 }
