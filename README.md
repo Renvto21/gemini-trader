@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 16:20:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 16:30:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$14.17 USD** | **$24.65 USD** | **$38.81 USD** | 🔴 **-2.97%** ($-1.19) |
+| **$40.00 USD** | **$14.17 USD** | **$24.61 USD** | **$38.77 USD** | 🔴 **-3.07%** ($-1.23) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $540.77 | $6.57 | 📈 +1.05% | 5h 29m |
-| `QQQ` | 0.013791 | $725.09 | $728.68 | $10.05 | 📈 +0.50% | 3h 59m |
-| `NVDA` | 0.036812 | $217.32 | $218.09 | $8.03 | 📈 +0.35% | 3h 30m |
+| `MSFT` | 0.012146 | $535.17 | $540.22 | $6.56 | 📈 +0.94% | 5h 40m |
+| `QQQ` | 0.013791 | $725.09 | $727.80 | $10.04 | 📈 +0.37% | 4h 10m |
+| `NVDA` | 0.036812 | $217.32 | $217.50 | $8.01 | 📈 +0.08% | 3h 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra señales mixtas con una tendencia general de rebote en los índices y tecnológicas clave tras recientes caídas. MSFT presenta un rendimiento positivo del +1.05% acercándose al objetivo de toma de beneficios, mientras que AAPL se mantiene estancada con un pequeño retroceso. QQQ y NVDA están consolidando sus rebotes tras haber estado en sobreventa. La liquidez se mantiene ajustada en el portafolio."
+> "El mercado muestra un sentimiento mixto con sesgo lateral a bajista en renta variable de EE.UU., mientras que las criptomonedas y algunos activos tecnológicos intentan consolidar rebotes técnicos tras caídas recientes. Los índices principales se mantienen en zonas de soporte relativas, pero la falta de fuerte momentum inmediato exige una gestión activa y disciplinada del riesgo."
 
 **Operaciones del ciclo:**
-- **[SELL] AAPL** (Confianza: 80%): AAPL lleva más de un día abierta (1d 5h) sin mostrar un momentum significativo ni alcanzar el objetivo de ganancia, manteniéndose con un PnL negativo de -0.95%. Se ejecuta la venta para liberar capital y rotar hacia oportunidades de mayor dinamismo.
+- *Sin cambios en este ciclo (HOLD)*
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Monitorear de cerca el rendimiento de MSFT para asegurar beneficios si alcanza el rango de +2.0% a +3.5%. Evaluar la evolución de AAPL; si no muestra impulso alcista en el próximo ciclo, proceder a rotar el capital hacia oportunidades con mayor momentum en cripto o tecnología. Mantener la liquidez en niveles mínimos."
+> "Mantener las posiciones actuales (MSFT, QQQ, NVDA) monitoreando de cerca su evolución para asegurar beneficios si alcanzan el rango objetivo de +2.0% a +3.5%. Estar atentos a la evolución del RSI de 1 hora; si MSFT o QQQ se acercan a sobrecompra o si NVDA no muestra aceleración en el próximo ciclo, proceder a tomar ganancias o rotar capital hacia activos con mayor dinamismo. Preservar la liquidez mínima operativa de $4.00 USD."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
