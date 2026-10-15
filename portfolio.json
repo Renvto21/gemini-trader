@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en AAPL, BTC-USD, ETH-USD y SOL-USD. Wall Street permanece cerrado. Monitorearemos de cerca las posiciones en ETH-USD y SOL-USD para asegurar ganancias parciales o totales si alcanzan el rango de take-profit entre +2.0% y +3.5%. La liquidez actual se mantendrá en reserva para reaccionar ante cualquier volatilidad o ruptura en los mercados abiertos.",
-    "updated_at": "2026-10-15T04:40:47.175621-03:00"
+    "notes": "Mantendremos las posiciones abiertas en ETH-USD, SOL-USD, BTC-USD y AAPL. Monitorizaremos de cerca el take-profit en cripto si alcanzan el rango de +2.0% a +3.5%. Si el impulso en ETH o SOL decae sin alcanzar la ganancia esperada, rotaremos el capital hacia oportunidades con mayor volumen. El efectivo se mantendrá protegido por encima del mínimo requerido.",
+    "updated_at": "2026-10-15T04:50:43.836582-03:00"
   }
 }
