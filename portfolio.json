@@ -1277,7 +1277,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la vigilancia estricta sobre AAPL y BTC-USD respetando el stop-loss del -2.0%. ETH-USD muestra un leve intento de recuperación, por lo que mantendremos la posición actual buscando el objetivo de take-profit entre +2.0% y +3.5%. Estar atentos a la apertura de los mercados tradicionales para evaluar la rotación de capital si surge un fuerte impulso técnico.",
-    "updated_at": "2026-10-15T01:20:49.605927-03:00"
+    "notes": "Mantener vigilancia estrecha sobre las posiciones abiertas de AAPL, BTC-USD y ETH-USD. Para ETH-USD, el objetivo de take-profit se mantiene en el rango de +2.0% a +3.5%; si cruza ese umbral o el RSI de 1h supera 70, realizaremos beneficios inmediatamente. El stop-loss se mantiene rigurosamente en -2.0%. Si SOL-USD confirma un mayor volumen de recuperación, evaluaremos una entrada con parte de la liquidez disponible.",
+    "updated_at": "2026-10-15T01:30:48.188673-03:00"
   }
 }
