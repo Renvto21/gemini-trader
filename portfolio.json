@@ -1291,7 +1291,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca ETH-USD y SOL-USD para capturar un take-profit si el RSI de 1h rebota hacia la zona de sobrecompra (>70) o si alcanzan el rango objetivo de +2.0% a +3.5%. Proteger el capital manteniendo el stop-loss estricto a -2.0%. Esperar la apertura de los mercados tradicionales para evaluar la rotación o salida de AAPL si pierde tracción.",
-    "updated_at": "2026-10-15T07:40:42.921027-03:00"
+    "notes": "Monitorear de cerca ETH-USD y SOL-USD. Si el RSI de 1h vuelve a descender hacia zonas críticas (<35) sin romper soportes mayores o si muestran un impulso alcista claro con take-profit objetivo de +2.0% a +3.5%, ejecutar la salida o rotación. Mantener AAPL en observación para evaluar su salida tan pronto como abra el mercado tradicional si no logra romper al alza.",
+    "updated_at": "2026-10-15T07:50:45.579206-03:00"
   }
 }
