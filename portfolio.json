@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en acciones (MSFT, QQQ, NVDA) a la espera de la apertura de Wall Street para buscar take-profit entre +2.0% y +3.5% o cortar pérdidas estrictamente si rompen el soporte del -2.0%. En el sector cripto, evitar compras en ETH y SOL debido a la sobrecompra actual en el RSI de 1h y esperar una corrección hacia soportes diarios más favorables.",
-    "updated_at": "2026-10-15T17:30:50.059662-03:00"
+    "notes": "Mantener posiciones actuales en MSFT, QQQ y NVDA durante el cierre de mercado. Monitorear de cerca en la apertura para capturar take-profit si alcanzan la zona de +2.0% a +3.5%, o aplicar stop-loss estricto si caen por debajo del -2.0%. En criptomonedas, esperar una corrección en ETH-USD y SOL-USD hacia soportes más favorables antes de desplegar la liquidez restante.",
+    "updated_at": "2026-10-15T17:40:42.519262-03:00"
   }
 }
