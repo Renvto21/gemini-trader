@@ -1351,7 +1351,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca el rendimiento de AAPL, MSFT, QQQ y NVDA. Establecer tomas de ganancia parciales o totales si alguna posición alcanza el rango de +2.0% a +3.5%. Mantener los stop-loss estrictos en -2.0% para evitar retrocesos profundos y reasignar liquidez rápidamente en caso de estancamiento.",
-    "updated_at": "2026-10-15T13:00:52.803328-03:00"
+    "notes": "Mantener la vigilancia estricta sobre AAPL, MSFT, QQQ y NVDA. Monitorear MSFT para una posible toma de ganancias si se acerca al rango de +2.0%. Vigilar AAPL por su tiempo abierto prolongado (más de 1 día) sin momentum claro, preparándose para rotar capital si el activo no repunta. Mantener los stop-loss en -2.0% para proteger el capital total de la cuenta.",
+    "updated_at": "2026-10-15T13:10:55.065985-03:00"
   }
 }
