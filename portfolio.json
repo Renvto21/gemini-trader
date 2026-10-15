@@ -1263,7 +1263,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la posición de AAPL dada su estabilidad mientras el mercado tradicional esté cerrado. Monitorear BTC-USD con un stop-loss estricto en -2.0% y take-profit entre +2.0% y +3.5%. Observar el comportamiento de ETH-USD y SOL-USD; esperaremos la confirmación de un cambio de 1h positivo para reingresar con fuerza utilizando la liquidez disponible, respetando siempre el colchón mínimo de efectivo de $4.00 USD.",
-    "updated_at": "2026-10-15T00:10:42.999064-03:00"
+    "notes": "Mantener AAPL y BTC-USD por ahora. Monitorear de cerca ETH-USD y SOL-USD: esperaremos a que su RSI de 1h cruce al alza y presenten un change_1h_pct positivo para reingresar y aprovechar posibles rebotes técnicos (Mean Reversion). Colchón de efectivo actual seguro sobre los $4.00 USD.",
+    "updated_at": "2026-10-15T00:20:48.750058-03:00"
   }
 }
