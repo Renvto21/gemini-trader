@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 16.123281599407736,
+  "cash": 22.261898069407735,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
       "avg_price": 346.15,
       "opened_at": "2026-10-14T10:50:41.868687-03:00"
-    },
-    "ETH-USD": {
-      "shares": 0.002539456810188301,
-      "avg_price": 2362.71,
-      "opened_at": "2026-10-15T01:10:40.830388-03:00"
     },
     "MSFT": {
       "shares": 0.012145673337444178,
@@ -1314,10 +1309,21 @@
       "pnl_usd": 0.13,
       "pnl_pct": 2.11,
       "reason": "SOL-USD ha alcanzado un rendimiento de +2.11%, cumpliendo con la regla de toma rápida de ganancias (take-profit entre +2.0% y +3.5%). Procedo a vender la posición completa para asegurar el capital y rotar liquidez."
+    },
+    {
+      "timestamp": "2026-10-15T12:10:41.550547-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 6.14,
+      "shares": 0.002539,
+      "price": 2417.73,
+      "pnl_usd": 0.14,
+      "pnl_pct": 2.33,
+      "reason": "ETH-USD ha alcanzado un rendimiento del +2.33%, cumpliendo con el rango establecido para la toma rápida de ganancias (Take-Profit entre +2.0% y +3.5%) para asegurar efectivo y rotar capital."
     }
   ],
   "memory": {
-    "notes": "Mantener la vigilancia estricta sobre ETH-USD para asegurar ganancias si alcanza el rango de +2.0% a +3.5%. Monitorear de cerca a QQQ y NVDA para una potencial entrada en cuanto confirmen la reversión alcista desde la sobreventa extrema de 1h. Preservar la liquidez requerida de $4.00 USD y utilizar el efectivo disponible remanente para oportunidades de alto impulso técnico.",
-    "updated_at": "2026-10-15T12:00:56.590946-03:00"
+    "notes": "Asegurar la toma de ganancias de ETH-USD para liberar liquidez. Vigilar de cerca a QQQ y NVDA para una potencial entrada en cuanto confirmen la aceleración del impulso alcista desde sus niveles actuales de sobreventa. Mantener la disciplina con el stop-loss y la reserva mínima de efectivo.",
+    "updated_at": "2026-10-15T12:10:41.548819-03:00"
   }
 }
