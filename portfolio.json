@@ -1251,7 +1251,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en SOL-USD, ETH-USD, BTC-USD y AAPL. Vigilar de cerca el comportamiento de las criptomonedas durante la sesión nocturna buscando un rebote técnico que permita alcanzar los objetivos de take-profit entre +2.0% y +3.5%. Si alguna posición se acerca al límite de pérdida del -2.0%, ejecutar la venta inmediata. Mantener la liquidez actual intacta hasta la apertura de los mercados tradicionales.",
-    "updated_at": "2026-10-14T21:50:44.175324-03:00"
+    "notes": "Mantener las posiciones abiertas en criptomonedas (BTC-USD, ETH-USD, SOL-USD) y la acción tradicional (AAPL) que está en mercado cerrado. Esperar a la próxima sesión para evaluar posibles tomas de ganancias si el RSI supera 70 o si se alcanza el take-profit del +2.0% al +3.5%. Vigilar estrictamente que ninguna posición cruce el límite de pérdida del -2.0% para cortar pérdidas de inmediato. Mantener la liquidez actual intacta.",
+    "updated_at": "2026-10-14T22:01:03.692075-03:00"
   }
 }
