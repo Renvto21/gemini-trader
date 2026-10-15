@@ -1,21 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.227379799419182,
+  "cash": 23.61193094190039,
   "positions": {
     "AAPL": {
       "shares": 0.02888920988010978,
       "avg_price": 346.15,
       "opened_at": "2026-10-14T10:50:41.868687-03:00"
-    },
-    "SOL-USD": {
-      "shares": 0.09578544061302681,
-      "avg_price": 104.4,
-      "opened_at": "2026-10-14T16:30:49.467096-03:00"
-    },
-    "ETH-USD": {
-      "shares": 0.004135067856463524,
-      "avg_price": 2418.34,
-      "opened_at": "2026-10-14T19:00:50.999120-03:00"
     },
     "BTC-USD": {
       "shares": 6.12439778796551e-05,
@@ -1248,10 +1238,32 @@
       "shares": 6.1e-05,
       "price": 81640.68,
       "reason": "BTC-USD presenta un RSI de 1h en 24.9 (sobreventa extrema) y liquidez disponible suficiente tras mantener la reserva mínima. Entramos buscando un rebote técnico de corto plazo en un mercado activo 24/7."
+    },
+    {
+      "timestamp": "2026-10-14T23:30:39.729626-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 9.68,
+      "shares": 0.004135,
+      "price": 2340.86,
+      "pnl_usd": -0.32,
+      "pnl_pct": -3.2,
+      "reason": "🚨 STOP-LOSS AUTOMÁTICO (CIRCUIT BREAKER): Pérdida de -3.20% superó el límite de seguridad de -3.0%. Venta ejecutada por código para proteger capital."
+    },
+    {
+      "timestamp": "2026-10-14T23:30:41.471794-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 9.7,
+      "shares": 0.095785,
+      "price": 101.32,
+      "pnl_usd": -0.3,
+      "pnl_pct": -2.95,
+      "reason": "La posición en SOL-USD acumula una pérdida de -2.95%, acercándose al límite crítico y sin mostrar el rebote esperado tras casi 7 horas de holding. Aplicamos disciplina táctica para cortar la pérdida y proteger liquidez."
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y AAPL (mercado cerrado). Monitorear de cerca el RSI de 1h en busca de confirmaciones de giro por encima de 35 con cambio porcentual positivo para activar take-profits entre +2.0% y +3.5%. Si alguna posición quiebra soportes o se acerca al stop-loss de -2.0%, procederemos a la venta inmediata para proteger capital.",
-    "updated_at": "2026-10-14T23:20:40.679853-03:00"
+    "notes": "Monitorear estrictamente SOL-USD. Si su pérdida supera el -2.0% o rompe soportes adicionales, proceder a la venta inmediata para proteger capital y mantener la reserva de efectivo. Esperar confirmaciones con RSI de 1h saliendo de sobreventa (> 35) con cambio porcentual positivo para reenganchar capital en cripto.",
+    "updated_at": "2026-10-14T23:30:41.469836-03:00"
   }
 }
