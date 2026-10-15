@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en MSFT, QQQ y NVDA hasta la apertura del mercado tradicional para buscar la toma de beneficios en el rango de +2.0% a +3.5% o cortar pérdidas si rompen soportes críticos (-2.0%). En cripto, la liquidez se mantiene protegida ($14.17 USD) esperando una divergencia real o caída en sobreventa para reasignar capital agresivamente.",
-    "updated_at": "2026-10-15T20:10:40.107693-03:00"
+    "notes": "Mantener las posiciones actuales en MSFT, QQQ y NVDA hasta la apertura del mercado tradicional para buscar la toma de beneficios en el rango de +2.0% a +3.5% o cortar pérdidas estrictamente si rompen soportes o alcanzan el umbral de -2.0%. La liquidez en efectivo ($14.17 USD) se mantiene reservada para oportunidades en cripto si se presenta una sobreventa clara con momentum positivo o para desplegar en acciones al abrir Wall Street.",
+    "updated_at": "2026-10-15T20:20:38.647146-03:00"
   }
 }
