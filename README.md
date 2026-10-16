@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 23:30:42`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-15 23:40:41`
 
 ---
 
@@ -16,26 +16,26 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 12h 39m |
-| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 11h 9m |
-| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 10h 40m |
+| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 12h 49m |
+| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 11h 19m |
+| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 10h 49m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado bursátil de Wall Street se encuentra actualmente CERRADO, por lo que las posiciones en acciones (MSFT, QQQ, NVDA) permanecen con precios congelados y sin actividad inmediata. Por otro lado, las criptomonedas operan 24/7 y muestran un sesgo moderado alcista en las últimas 24 horas (ETH-USD y SOL-USD con 0.73% y 1.09% respectivamente), aunque sus indicadores de RSI en 1 hora se acercan a zonas de sobrecompra (~69) y sus tendencias diarias siguen bajo la SMA20. Dado que las posiciones actuales en acciones no han alcanzado el objetivo de take-profit entre +2.0% y +3.5%, y que el efectivo disponible es limitado a $14.17 USD, la estrategia óptima para este ciclo es mantener las posiciones actuales a la espera de la apertura de los mercados tradicionales y conservar la liquidez sin forzar entradas en criptomonedas."
+> "El mercado accionario de Wall Street se encuentra actualmente CERRADO, manteniendo los precios de MSFT, QQQ y NVDA congelados. Por su parte, los mercados de criptomonedas (BTC-USD, ETH-USD, SOL-USD) están ABIERTOS 24/7 mostrando un sesgo alcista de corto plazo con indicadores RSI de 1 hora en zona de sobrecompra, recuperándose de caídas semanales previas pero operando aún bajo la SMA20 en el gráfico diario."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 80%): El mercado de Wall Street está cerrado y la posición muestra una ganancia leve del 0.8%, manteniéndose por debajo del objetivo de take-profit de +2.0% a +3.5%. Se mantiene para esperar la apertura.
-- **[HOLD] QQQ** (Confianza: 80%): Activo cerrado. La posición se encuentra estable con una pequeña ganancia de 0.4% y un holding time de 11 horas, esperando la apertura para buscar la salida objetivo.
-- **[HOLD] NVDA** (Confianza: 80%): Mercado cerrado. La posición se mantiene prácticamente plana (-0.04%) esperando la volatilidad de la sesión regular para buscar el rebote técnico esperado.
+- **[HOLD] MSFT** (Confianza: 75%): La posición en MSFT se mantiene con una ganancia actual de +0.8%. El mercado está cerrado, por lo que mantendremos la posición operativa a la espera de la apertura para buscar take-profit si alcanza el rango del 2.0% al 3.5%.
+- **[HOLD] QQQ** (Confianza: 75%): QQQ se encuentra con mercado cerrado registrando una leve ganancia de +0.4%. Mantenemos la posición a la espera de que Wall Street abra para capturar el rebote técnico desde la sobreventa.
+- **[HOLD] NVDA** (Confianza: 70%): NVDA muestra un PnL casi plano (-0.04%) con mercado cerrado. El RSI diario se mantiene estable y esperaremos la sesión regular para definir si rompemos el soporte o ejecutamos la ganancia.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones abiertas de MSFT, QQQ y NVDA hasta la apertura de Wall Street para buscar la toma de beneficios si alcanzan el rango de +2.0% a +3.5% o cortar pérdidas estrictamente si bajan del -2.0%. Vigilar de cerca el comportamiento de ETH-USD y SOL-USD por si se presenta una corrección técnica intradía que permita una entrada de rebote de alta convicción con el efectivo disponible."
+> "Dado que los mercados de acciones están cerrados, mantendré las posiciones de MSFT, QQQ y NVDA hasta la apertura de Wall Street, vigilando estrictamente el objetivo de take-profit en el rango de +2.0% a +3.5% o el stop-loss a -2.0%. En cuanto al mercado cripto, ETH y SOL se encuentran con RSI de 1h en sobrecompra (>70), por lo que no es momento óptimo de entrada para rebotes; esperaré una corrección intradiaria o la apertura del mercado tradicional para evaluar rotaciones de capital."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

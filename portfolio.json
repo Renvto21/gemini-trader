@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de MSFT, QQQ y NVDA hasta la apertura de Wall Street para buscar la toma de beneficios si alcanzan el rango de +2.0% a +3.5% o cortar pérdidas estrictamente si bajan del -2.0%. Vigilar de cerca el comportamiento de ETH-USD y SOL-USD por si se presenta una corrección técnica intradía que permita una entrada de rebote de alta convicción con el efectivo disponible.",
-    "updated_at": "2026-10-15T23:30:42.450113-03:00"
+    "notes": "Dado que los mercados de acciones están cerrados, mantendré las posiciones de MSFT, QQQ y NVDA hasta la apertura de Wall Street, vigilando estrictamente el objetivo de take-profit en el rango de +2.0% a +3.5% o el stop-loss a -2.0%. En cuanto al mercado cripto, ETH y SOL se encuentran con RSI de 1h en sobrecompra (>70), por lo que no es momento óptimo de entrada para rebotes; esperaré una corrección intradiaria o la apertura del mercado tradicional para evaluar rotaciones de capital.",
+    "updated_at": "2026-10-15T23:40:41.168757-03:00"
   }
 }
