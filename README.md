@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 09:10:52`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 09:20:51`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.17 USD** | **$34.63 USD** | **$38.80 USD** | 🔴 **-3.01%** ($-1.20) |
+| **$40.00 USD** | **$4.17 USD** | **$34.62 USD** | **$38.79 USD** | 🔴 **-3.02%** ($-1.21) |
 
 ---
 
@@ -16,26 +16,26 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 22h 20m |
-| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 20h 50m |
-| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 20h 20m |
-| `ETH-USD` | 0.002855 | $2451.90 | $2467.54 | $7.04 | 📈 +0.64% | 4h 39m |
-| `SOL-USD` | 0.028214 | $106.33 | $106.21 | $3.00 | 📉 -0.11% | 3h 59m |
+| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 22h 30m |
+| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 21h 0m |
+| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 20h 30m |
+| `ETH-USD` | 0.002855 | $2451.90 | $2466.57 | $7.04 | 📈 +0.60% | 4h 49m |
+| `SOL-USD` | 0.028214 | $106.33 | $106.10 | $2.99 | 📉 -0.22% | 4h 9m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional (Wall Street) se encuentra cerrado, por lo que los precios de las acciones y ETFs están congelados. Las criptomonedas operan con normalidad 24/7, mostrando un comportamiento lateral con ligeros retrocesos de corto plazo tras los rebotes recientes. Mantenemos posiciones abiertas en cripto (ETH-USD y SOL-USD) con pequeñas ganancias o ligeros ajustes, y posiciones en tech (MSFT, QQQ, NVDA) en espera de la apertura para evaluar su momentum real."
+> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD muestra un rendimiento positivo constante (+0.64%) desde su apertura reciente, operando con un RSI de 1 hora saludable de 58.2. Mantenemos la posición para buscar el objetivo de take-profit entre +2.0% y +3.5%.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones abiertas actuales ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit objetivo del ciclo (+2.0% a +3.5%). Monitorear de cerca ETH-USD y SOL-USD para asegurar beneficios rápidos si el RSI de 1 hora se acerca a la zona de sobrecompra (>70). Esperar la apertura de los mercados tradicionales para evaluar la rotación o toma de beneficios en MSFT y QQQ."
+> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
