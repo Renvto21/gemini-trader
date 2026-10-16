@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) aprovechando que están en zona de retención y control de riesgo estricto por debajo de -2.0%. Dado que los mercados de Wall Street están cerrados y las criptomonedas no presentan señales claras de rebote desde sobreventa (< 35), preservamos el efectivo actual y la reserva mínima ($4.00 USD). Monitorear la apertura de los mercados tradicionales en el próximo ciclo para evaluar la toma de beneficios si se roza el +2.0% o cortar pérdidas si hay quiebres bajistas.",
-    "updated_at": "2026-10-15T22:30:50.422069-03:00"
+    "notes": "Monitorear la apertura de los mercados tradicionales. Mantener MSFT, QQQ y NVDA evaluando la toma de beneficios si rozan el +2.0% o cortar pérdidas si hay quiebres bajistas por debajo del -2.0%. Cripto sin oportunidades claras de entrada por falta de sobreventa extrema en RSI 1h.",
+    "updated_at": "2026-10-15T22:40:40.458477-03:00"
   }
 }
