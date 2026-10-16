@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de MSFT, QQQ y NVDA hasta la apertura de Wall Street para evaluar la toma de beneficios si alcanzan el rango de +2.0% a +3.5% o ejecutar stop-loss si el precio quiebra soportes clave. En el sector cripto, se observa sobrecompra intradiaria (RSI 1h > 70); esperaremos a que los indicadores se enfríen por debajo de 50 para buscar nuevas oportunidades de entrada bajo la estrategia de mean reversion.",
-    "updated_at": "2026-10-16T00:20:39.345951-03:00"
+    "notes": "Mantener las posiciones abiertas de MSFT, QQQ y NVDA hasta la apertura del mercado bursátil para gestionar take-profit o stop-loss según la evolución del precio. En el sector cripto, monitorear el enfriamiento de los indicadores RSI 1h por debajo de 50 para cazar posibles rebotes de tipo mean reversion. No se realizarán nuevas compras de criptomonedas en este ciclo debido al estado de sobrecompra intradiaria.",
+    "updated_at": "2026-10-16T00:30:43.869325-03:00"
   }
 }
