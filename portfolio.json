@@ -1397,7 +1397,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini.",
-    "updated_at": "2026-10-16T13:01:01.656774-03:00"
+    "notes": "Mantener monitoreo estricto sobre las posiciones abiertas (MSFT, NVDA, ETH-USD). Ejecutar stop-loss preventivo si alguna posición supera el -2.0% de pérdida o si el momentum se deteriora. Prepararse para rotar capital hacia oportunidades de alta convicción con rsi_1h cruzando al alza desde niveles de sobreventa.",
+    "updated_at": "2026-10-16T13:10:52.668418-03:00"
   }
 }
