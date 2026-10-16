@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en MSFT, QQQ y NVDA a la espera de la apertura de Wall Street para buscar la toma de ganancias si alcanzan el rango de +2.0% a +3.5%, o recortar si tocan los límites de riesgo. En cripto, conservar la liquidez actual por encima del umbral mínimo de $4.00 USD y vigilar caídas repentinas en SOL-USD y ETH-USD con RSI de 1h por debajo de 35.",
-    "updated_at": "2026-10-16T02:30:38.450033-03:00"
+    "notes": "Mantener las posiciones abiertas en MSFT, QQQ y NVDA hasta la apertura de Wall Street para buscar la toma de ganancias si alcanzan el rango de +2.0% a +3.5%, o activar recortes rápidos si rompen soportes a la baja. En cripto, vigilar a SOL-USD y ETH-USD en busca de caídas con RSI de 1h por debajo de 35 que permitan capturar rebotes tácticos rápidos.",
+    "updated_at": "2026-10-16T02:40:47.586605-03:00"
   }
 }
