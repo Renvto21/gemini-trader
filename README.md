@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 13:10:52`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 13:20:53`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$17.07 USD** | **$21.35 USD** | **$38.41 USD** | 🔴 **-3.96%** ($-1.59) |
+| **$40.00 USD** | **$17.07 USD** | **$21.39 USD** | **$38.46 USD** | 🔴 **-3.85%** ($-1.54) |
 
 ---
 
@@ -16,24 +16,26 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $528.65 | $6.42 | 📉 -1.22% | 1d 2h |
-| `NVDA` | 0.036812 | $217.32 | $217.02 | $7.99 | 📉 -0.14% | 1d 0h |
-| `ETH-USD` | 0.002855 | $2451.90 | $2430.58 | $6.94 | 📉 -0.87% | 8h 39m |
+| `MSFT` | 0.012146 | $535.17 | $528.83 | $6.42 | 📉 -1.18% | 1d 2h |
+| `NVDA` | 0.036812 | $217.32 | $217.54 | $8.01 | 📈 +0.10% | 1d 0h |
+| `ETH-USD` | 0.002855 | $2451.90 | $2438.48 | $6.96 | 📉 -0.55% | 8h 49m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo bajista general con la mayoría de los activos cotizando bajo sus medias móviles de 20 períodos, aunque con indicios de sobreventa en gráficos de 1 hora que podrían propiciar rebotes técnicos de corto plazo. Wall Street y los mercados de criptomonedas se encuentran abiertos, permitiendo operar tanto acciones tecnológicas como criptoactivos 24/7."
+> "El mercado muestra un tono mayoritariamente bajista con la mayoría de los activos cotizando por debajo de su SMA20. Sin embargo, en el sector cripto y algunas acciones seleccionadas se observan intentos de estabilización y ligeros rebotes de corto plazo. Mantenemos una postura defensiva pero activa, vigilando de cerca los niveles de sobreventa diaria para rotar capital eficientemente."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 60%): La posición en MSFT presenta una pérdida moderada de -1.22% tras 1 día de tenencia, manteniendo su tendencia alcista diaria sobre la SMA20. Se mantiene a la espera de un rebote técnico que permita cerrar en positivo o alcanzar el take-profit.
+- **[HOLD] MSFT** (Confianza: 60%): MSFT se mantiene con una pérdida moderada de -1.18%, dentro del margen de tolerancia antes del stop-loss del -2.0%. Esperamos que la tendencia alcista de fondo permita un rebote.
+- **[HOLD] NVDA** (Confianza: 60%): NVDA se encuentra prácticamente en equilibrio (0.1%). Su RSI de 1 hora está bajo pero mostrando un ligero impulso positivo (0.43% en la última hora). Mantenemos para evaluar su evolución.
+- **[HOLD] ETH-USD** (Confianza: 60%): ETH-USD registra una leve pérdida de -0.55% con un RSI diario atractivo en zona de sobreventa (31.5). Damos margen a la posición buscando el rebote técnico.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener monitoreo estricto sobre las posiciones abiertas (MSFT, NVDA, ETH-USD). Ejecutar stop-loss preventivo si alguna posición supera el -2.0% de pérdida o si el momentum se deteriora. Prepararse para rotar capital hacia oportunidades de alta convicción con rsi_1h cruzando al alza desde niveles de sobreventa."
+> "Monitorear de cerca las posiciones abiertas (MSFT, NVDA, ETH-USD). Ejecutar stop-loss preventivo si alguna posición supera el -2.0% de pérdida o si el momentum se deteriora. Mantener la liquidez disponible para aprovechar oportunidades de alta convicción en cripto o tech cuando los indicadores técnicos muestren rupturas claras al alza."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
