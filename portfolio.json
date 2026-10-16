@@ -1371,7 +1371,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en MSFT, QQQ y NVDA en espera de la apertura del mercado tradicional para evaluar tomas de beneficios en el rango de +2.0% a +3.5% o ejecutar salidas defensivas si se activan stops. Para ETH-USD, mantenemos la posición con objetivo de take-profit en +2.5% (~$2,514) o stop-loss en -2.0% (~$2,403). La liquidez actual se encuentra en $7.17 USD, ligeramente por encima del mínimo requerido de $4.00 USD, por lo que priorizamos la consolidación y vigilancia de los activos abiertos.",
-    "updated_at": "2026-10-16T04:50:44.889849-03:00"
+    "notes": "Mantendremos las posiciones actuales en MSFT, QQQ y NVDA en espera de la apertura del mercado tradicional para buscar tomas de beneficios en el rango de +2.0% a +3.5% o evaluar salidas defensivas. Para ETH-USD, mantenemos la posición con objetivo de take-profit en +2.5% (~$2,514) o stop-loss estricto en -2.0% (~$2,403). La liquidez actual de $7.17 USD supera el mínimo de reserva de $4.00 USD, por lo que conservamos el efectivo disponible a la espera de una entrada de alta convicción en cripto si se presenta una ruptura clara de volumen.",
+    "updated_at": "2026-10-16T05:00:44.639596-03:00"
   }
 }
