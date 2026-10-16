@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 14.121538139407736,
+  "cash": 17.065386899407734,
   "positions": {
     "MSFT": {
       "shares": 0.012145673337444178,
@@ -16,11 +16,6 @@
       "shares": 0.0028549288307027202,
       "avg_price": 2451.9,
       "opened_at": "2026-10-16T04:30:59.644575-03:00"
-    },
-    "SOL-USD": {
-      "shares": 0.028214050597197404,
-      "avg_price": 106.33,
-      "opened_at": "2026-10-16T05:10:52.397960-03:00"
     }
   },
   "history": [
@@ -1388,10 +1383,21 @@
       "pnl_usd": -0.04,
       "pnl_pct": -0.45,
       "reason": "QQQ lleva más de 22 horas abierto operando bajo la SMA20 con un RSI de 1 hora en 30.2 y un rendimiento negativo sostenido. Aplicamos nuestra regla de rotación activa y protección contra pérdidas prolongadas para asegurar el capital remanente y buscar mejores oportunidades."
+    },
+    {
+      "timestamp": "2026-10-16T12:50:49.066940-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 2.94,
+      "shares": 0.028214,
+      "price": 104.34,
+      "pnl_usd": -0.06,
+      "pnl_pct": -1.87,
+      "reason": "SOL-USD lleva varias horas abierto sin generar el rebote esperado, acumulando una pérdida de -1.87% y mostrando un cambio negativo de 1h (-1.13%). De acuerdo con nuestras reglas de gestión de riesgo y rotación de capital ante momentum fallido, cerramos la posición para proteger el capital y evitar mayores pérdidas."
     }
   ],
   "memory": {
-    "notes": "Monitorearemos de cerca las posiciones abiertas en MSFT, NVDA, ETH-USD y SOL-USD. Si SOL-USD o ETH-USD rompen soportes adicionales o se estancan, procederemos a recortar las posiciones para liberar liquidez. Buscaremos puntos de entrada con mayor fuerza direccional en activos que presenten RSI de 1 hora saliendo de sobreventa extrema.",
-    "updated_at": "2026-10-16T12:40:51.199989-03:00"
+    "notes": "Monitorearemos de cerca la posición en SOL-USD debido a su pérdida cercana al límite del -2.0% y la falta de rebote en su RSI de 1 hora. Si SOL-USD profundiza su caída o continúa estancada, procederemos a venderla para cortar pérdidas y liberar liquidez. Mantendremos NVDA, MSFT y ETH-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5%.",
+    "updated_at": "2026-10-16T12:50:49.064235-03:00"
   }
 }
