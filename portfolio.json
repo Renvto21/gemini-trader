@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) hasta la apertura de Wall Street para buscar take-profit rápido entre +2.0% y +3.5%. Conservar la liquidez actual para capturar entradas tácticas en cripto si se presentan caídas con RSI de 1h por debajo de 35.",
-    "updated_at": "2026-10-16T01:40:38.019753-03:00"
+    "notes": "Mantener las posiciones abiertas (MSFT, QQQ, NVDA) durante el cierre de mercado. Monitorear la apertura de Wall Street para asegurar beneficios en el rango de +2.0% a +3.5% o salir inmediatamente si alguna posición vulnera el stop-loss de -2.0%. Si ETH o SOL presentan caídas tácticas con RSI de 1h por debajo de 35, desplegar la liquidez excedente (manteniendo los $4.00 USD de reserva mínima).",
+    "updated_at": "2026-10-16T01:50:42.528450-03:00"
   }
 }
