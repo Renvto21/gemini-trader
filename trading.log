@@ -1,39 +1,3 @@
-"El mercado bursátil tradicional se encuentra cerrado (fin de semana o fuera de horario), por lo que la liquidez activa debe centrarse en el mercado cripto que opera 24/7. Las criptomonedas principales como ETH-USD y SOL-USD muestran señales interesantes de soporte y un RSI diario en zonas atractivas de sobreventa para buscar rebotes técnicos. Las posiciones en acciones están congeladas temporalmente y se mantendrán a la espera de la apertura."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones actuales en cripto (ETH-USD y SOL-USD) y monitorear su evolución hacia objetivos de ganancia de +2.0% a +3.5%. El efectivo disponible es de $4.17 USD, muy cerca del límite mínimo de reserva, por lo que no se realizarán nuevas compras en este ciclo a menos que se cierre alguna posición previa. Vigilar de cerca el comportamiento de ETH-USD y SOL-USD."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] ETH-USD (Confianza: 80%)
-    Razón: La posición mantiene un rendimiento positivo de +0.34% y el RSI de 1 hora se encuentra en 62.4 mostrando buen tono alcista. Mantenemos la posición buscando alcanzar el objetivo de toma de ganancias de +2.0%.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.76 USD (Cash: $4.17 USD)
-
-[2026-10-16 10:10:30] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $4.17 USD
- Valor en Activos:     $34.58 USD
- Balance Total:        $38.74 USD
- Ganancia/Pérdida:     🔴 $-1.26 USD (-3.14%)
-
- 💼 Posiciones Abiertas:
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.44 | Total: $6.55 📈 (+0.80%) [Tiempo: 23h 19m]
-   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $728.0 | Total: $10.04 📈 (+0.40%) [Tiempo: 21h 49m]
-   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.23 | Total: $8.0 📈 (-0.04%) [Tiempo: 21h 19m]
-   • ETH-USD: 0.002855 u. | Compra: $2451.9 | Actual: $2457.03 | Total: $7.01 📈 (+0.21%) [Tiempo: 5h 39m]
-   • SOL-USD: 0.028214 u. | Compra: $106.33 | Actual: $105.34 | Total: $2.97 📉 (-0.93%) [Tiempo: 4h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado tradicional se encuentra CERRADO, por lo que toda la atención se centra en las criptomonedas (ABIERTO 24/7). ETH-USD y SOL-USD se mantienen operando con ligeras variaciones, mientras que las acciones en cartera (MSFT, QQQ, NVDA) están congeladas a la espera de la apertura de Wall Street. El sentimiento macro sigue siendo defensivo pero con oportunidades de rebote técnico latentes."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -151,3 +115,39 @@ Balance final del ciclo: $38.67 USD (Cash: $4.17 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.56 USD (Cash: $4.17 USD)
+
+[2026-10-16 10:50:38] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $4.17 USD
+ Valor en Activos:     $34.37 USD
+ Balance Total:        $38.54 USD
+ Ganancia/Pérdida:     🔴 $-1.46 USD (-3.66%)
+
+ 💼 Posiciones Abiertas:
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $537.02 | Total: $6.52 📈 (+0.35%) [Tiempo: 23h 59m]
+   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $721.83 | Total: $9.96 📉 (-0.45%) [Tiempo: 22h 30m]
+   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $215.68 | Total: $7.94 📉 (-0.75%) [Tiempo: 22h 0m]
+   • ETH-USD: 0.002855 u. | Compra: $2451.9 | Actual: $2446.65 | Total: $6.99 📉 (-0.21%) [Tiempo: 6h 19m]
+   • SOL-USD: 0.028214 u. | Compra: $106.33 | Actual: $105.15 | Total: $2.97 📉 (-1.11%) [Tiempo: 5h 39m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado muestra un sesgo defensivo con la mayoría de los activos bajo la media móvil de 20 días y caídas en la última hora. QQQ y NVDA presentan caídas con RSI de 1 hora en niveles de sobreventa extrema (30.2 y 21.4 respectivamente), lo que incrementa el riesgo de un desplome o requiere una rotación rápida si el rebote falla. Dado que operamos bajo una táctica agresiva de gestión de riesgo estricta, debemos cortar posiciones estancadas o con pérdida cercana al umbral de protección antes de que el circuit breaker actúe."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendremos las posiciones de MSFT, ETH-USD y SOL-USD por ahora, monitoreando de cerca su evolución. QQQ y NVDA muestran debilidad prolongada cerca de sus límites de pérdida; si la situación no mejora en el siguiente ciclo, procederemos a liquidar QQQ y NVDA para liberar capital. Mantendremos liquidez cercana al mínimo operativo de $4.00 USD y buscaremos reasignar a activos con momentum alcista confirmado."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [SELL] QQQ (Confianza: 85%)
+    Razón: QQQ lleva más de 22 horas abierto operando bajo la SMA20 con un RSI de 1 hora en 30.2 y un rendimiento negativo sostenido. Aplicamos nuestra regla de rotación activa y protección contra pérdidas prolongadas para asegurar el capital remanente y buscar mejores oportunidades.
+    ✅ Venta ejecutada: 0.013791 de QQQ a $721.83
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.54 USD (Cash: $14.12 USD)

@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 4.166780609407736,
+  "cash": 14.121538139407736,
   "positions": {
     "MSFT": {
       "shares": 0.012145673337444178,
       "avg_price": 535.17,
       "opened_at": "2026-10-15T10:50:47.123357-03:00"
-    },
-    "QQQ": {
-      "shares": 0.013791391413479705,
-      "avg_price": 725.09,
-      "opened_at": "2026-10-15T12:20:42.843151-03:00"
     },
     "NVDA": {
       "shares": 0.03681207436039021,
@@ -1382,10 +1377,21 @@
       "shares": 0.028214,
       "price": 106.33,
       "reason": "SOL-USD presenta un RSI diario en zona de sobreventa extrema (29.0) y un cambio positivo en la última hora (0.95% en 24h y 0.09% en 1h), lo cual activa nuestra estrategia de rebotes técnicos (Mean Reversion) aprovechando el mercado abierto 24/7."
+    },
+    {
+      "timestamp": "2026-10-16T10:50:52.679337-03:00",
+      "action": "SELL",
+      "ticker": "QQQ",
+      "amount_usd": 9.95,
+      "shares": 0.013791,
+      "price": 721.83,
+      "pnl_usd": -0.04,
+      "pnl_pct": -0.45,
+      "reason": "QQQ lleva más de 22 horas abierto operando bajo la SMA20 con un RSI de 1 hora en 30.2 y un rendimiento negativo sostenido. Aplicamos nuestra regla de rotación activa y protección contra pérdidas prolongadas para asegurar el capital remanente y buscar mejores oportunidades."
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de MSFT, QQQ, NVDA, ETH-USD y SOL-USD ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit del rango +2.0% a +3.5%. NVDA presenta un RSI de 1h en sobreventa extrema (21.4), por lo que evaluaremos su rebote en el próximo ciclo; si el momentum sigue sin reaccionar o se profundiza la pérdida hacia el -2.0%, ejecutaremos la venta para proteger capital.",
-    "updated_at": "2026-10-16T10:40:59.016751-03:00"
+    "notes": "Mantendremos las posiciones de MSFT, ETH-USD y SOL-USD por ahora, monitoreando de cerca su evolución. QQQ y NVDA muestran debilidad prolongada cerca de sus límites de pérdida; si la situación no mejora en el siguiente ciclo, procederemos a liquidar QQQ y NVDA para liberar capital. Mantendremos liquidez cercana al mínimo operativo de $4.00 USD y buscaremos reasignar a activos con momentum alcista confirmado.",
+    "updated_at": "2026-10-16T10:50:52.671416-03:00"
   }
 }
