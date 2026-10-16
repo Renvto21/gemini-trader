@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) en tanto el mercado accionario siga cerrado. Monitorear de cerca la apertura de Wall Street para asegurar beneficios en MSFT o QQQ si se acercan al objetivo del +2.0% o muestran sobrecompra intradiaria. Vigilar el comportamiento de NVDA para cortar pérdidas rápidamente si perfora el soporte estricto de -2.0%. En criptomonedas, mantener liquidez en reserva ante posibles correcciones que permitan cazar rebotes con RSI de 1h inferior a 35.",
-    "updated_at": "2026-10-15T22:00:47.136201-03:00"
+    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) aprovechando que Wall Street reanudará operaciones pronto. Vigilar de cerca la ganancia de MSFT y QQQ para asegurar beneficios si rozan el objetivo de +2.0%, y proteger con stop-loss en NVDA si la tendencia bajista persiste tras la apertura. No operar en cripto por ahora debido al RSI de 1h elevado (>70).",
+    "updated_at": "2026-10-15T22:10:41.052587-03:00"
   }
 }
