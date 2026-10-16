@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de MSFT, QQQ y NVDA hasta la apertura del mercado bursátil para gestionar take-profit o stop-loss según la evolución del precio. En el sector cripto, monitorear el enfriamiento de los indicadores RSI 1h por debajo de 50 para cazar posibles rebotes de tipo mean reversion. No se realizarán nuevas compras de criptomonedas en este ciclo debido al estado de sobrecompra intradiaria.",
-    "updated_at": "2026-10-16T00:30:43.869325-03:00"
+    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) esperando la apertura de Wall Street para buscar take-profit si alcanzan ganancias del +2.0% al +3.5%, o aplicar stop-loss estricto si caen por debajo del -2.0%. En criptomonedas, esperar a que el RSI de 1h baje de 50 para cazar posibles rebotes tipo mean reversion.",
+    "updated_at": "2026-10-16T00:40:39.662083-03:00"
   }
 }
