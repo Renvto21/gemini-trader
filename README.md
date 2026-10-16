@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 12:50:49`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 13:01:01`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$17.07 USD** | **$21.41 USD** | **$38.48 USD** | 🔴 **-3.80%** ($-1.52) |
+| **$40.00 USD** | **$17.07 USD** | **$21.34 USD** | **$38.40 USD** | 🔴 **-3.99%** ($-1.60) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $530.76 | $6.45 | 📉 -0.82% | 1d 2h |
-| `NVDA` | 0.036812 | $217.32 | $217.83 | $8.02 | 📈 +0.23% | 1d 0h |
-| `ETH-USD` | 0.002855 | $2451.90 | $2433.65 | $6.95 | 📉 -0.74% | 8h 19m |
+| `MSFT` | 0.012146 | $535.17 | $527.89 | $6.41 | 📉 -1.36% | 1d 2h |
+| `NVDA` | 0.036812 | $217.32 | $217.26 | $8.00 | 📉 -0.03% | 1d 0h |
+| `ETH-USD` | 0.002855 | $2451.90 | $2426.48 | $6.93 | 📉 -1.04% | 8h 30m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un tono de cautela y debilidad general con la mayoría de los activos operando bajo sus medias móviles de 20 días. Las criptomonedas continúan con presión bajista a nivel diario, y SOL-USD se acerca al límite de tolerancia de pérdida (-1.87%), mostrando debilidad continuada tras varias horas de tenencia. Mantenemos una postura defensiva pero listos para rotar capital hacia activos con mayor ímpetu."
+> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
-- **[SELL] SOL-USD** (Confianza: 85%): SOL-USD lleva varias horas abierto sin generar el rebote esperado, acumulando una pérdida de -1.87% y mostrando un cambio negativo de 1h (-1.13%). De acuerdo con nuestras reglas de gestión de riesgo y rotación de capital ante momentum fallido, cerramos la posición para proteger el capital y evitar mayores pérdidas.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Monitorearemos de cerca la posición en SOL-USD debido a su pérdida cercana al límite del -2.0% y la falta de rebote en su RSI de 1 hora. Si SOL-USD profundiza su caída o continúa estancada, procederemos a venderla para cortar pérdidas y liberar liquidez. Mantendremos NVDA, MSFT y ETH-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5%."
+> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
