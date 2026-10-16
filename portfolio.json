@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré las posiciones actuales de MSFT, QQQ y NVDA hasta la apertura del mercado bursátil tradicional, monitoreando de cerca el objetivo de take-profit entre +2.0% y +3.5% o el stop-loss en -2.0%. En criptomonedas, esperaré una corrección intradiaria en ETH o SOL que permita un reingreso con RSI de 1h saliendo de sobreventa.",
-    "updated_at": "2026-10-15T23:50:41.338985-03:00"
+    "notes": "Mantener posiciones de MSFT, QQQ y NVDA vigentes hasta la apertura del mercado bursátil. Monitorear de cerca los objetivos de take-profit entre +2.0% y +3.5% o el stop-loss en -2.0%. En criptomonedas, esperar una corrección intradiaria que reduzca el RSI de 1h por debajo de 50 para considerar un reingreso en ETH o SOL.",
+    "updated_at": "2026-10-16T00:00:42.310885-03:00"
   }
 }
