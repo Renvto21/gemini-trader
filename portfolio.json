@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear la apertura de Wall Street para asegurar ganancias en NVDA si cruza el umbral del +2.0% o muestra sobrecompra. Mantener MSFT y QQQ evaluando su comportamiento inicial. Conservar la liquidez actual en efectivo para reaccionar ante cualquier volatilidad en la apertura o buscar oportunidades de rotación hacia activos con mayor momentum.",
-    "updated_at": "2026-10-15T21:30:48.389701-03:00"
+    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) a la espera de la apertura de Wall Street para buscar la toma de beneficios si rozan el objetivo del +2.0% o muestran sobrecompra. No realizar operaciones en criptomonedas debido a que los indicadores de corto plazo (RSI 1h > 70 en SOL y ETH) no ofrecen un punto de entrada óptimo para rebotes.",
+    "updated_at": "2026-10-15T21:40:41.338784-03:00"
   }
 }
