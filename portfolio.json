@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 14.166780609407736,
+  "cash": 7.166780609407736,
   "positions": {
     "MSFT": {
       "shares": 0.012145673337444178,
@@ -16,6 +16,11 @@
       "shares": 0.03681207436039021,
       "avg_price": 217.32,
       "opened_at": "2026-10-15T12:50:41.257936-03:00"
+    },
+    "ETH-USD": {
+      "shares": 0.0028549288307027202,
+      "avg_price": 2451.9,
+      "opened_at": "2026-10-16T04:30:59.644575-03:00"
     }
   },
   "history": [
@@ -1354,10 +1359,19 @@
       "pnl_usd": -0.1,
       "pnl_pct": -0.95,
       "reason": "AAPL lleva más de un día abierta (1d 5h) sin mostrar un momentum significativo ni alcanzar el objetivo de ganancia, manteniéndose con un PnL negativo de -0.95%. Se ejecuta la venta para liberar capital y rotar hacia oportunidades de mayor dinamismo."
+    },
+    {
+      "timestamp": "2026-10-16T04:30:59.644583-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 7.0,
+      "shares": 0.002855,
+      "price": 2451.9,
+      "reason": "Aprovechamos la liquidez disponible sobre la reserva mínima ($14.17 vs $4.00 requeridos) para capturar el rebote técnico en ETH-USD, el cual muestra fortaleza relativa frente al resto de criptos con cambio positivo en 1h (+0.23%) y despegue desde zona de sobreventa en gráfico diario (RSI 32.8)."
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas (MSFT, QQQ, NVDA) vigilando la apertura de Wall Street para asegurar ganancias si alcanzan el rango de +2.0% a +3.5%, o activar stop-loss estricto si descienden por debajo de -2.0%. Mantener reserva de efectivo en 14.17 USD y vigilar el comportamiento de ETH-USD y SOL-USD para posibles entradas tácticas rápidas en caso de un rompimiento alcista con volumen.",
-    "updated_at": "2026-10-16T04:20:46.606968-03:00"
+    "notes": "Wall Street cerrado; mantener posiciones en MSFT, QQQ y NVDA intactas hasta la campana de apertura para evaluar take-profit (+2.0% a +3.5%) o stop-loss dinámico (-2.0%). Para la nueva entrada táctica en ETH-USD ($7.00), objetivo de salida rápida en +2.5% (~$2,513) o toma de ganancias si RSI 1h supera 70. Stop-loss estricto fijado en -2.0% (~$2,402). Reserva de liquidez remanente protegida por encima del mínimo de $4.00 USD.",
+    "updated_at": "2026-10-16T04:30:59.642812-03:00"
   }
 }
