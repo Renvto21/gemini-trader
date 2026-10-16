@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 12:01:01`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 12:11:08`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$14.12 USD** | **$24.48 USD** | **$38.60 USD** | 🔴 **-3.49%** ($-1.40) |
+| **$40.00 USD** | **$14.12 USD** | **$24.35 USD** | **$38.47 USD** | 🔴 **-3.83%** ($-1.53) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $534.79 | $6.50 | 📉 -0.07% | 1d 1h |
-| `NVDA` | 0.036812 | $217.32 | $217.43 | $8.00 | 📈 +0.05% | 23h 10m |
-| `ETH-USD` | 0.002855 | $2451.90 | $2454.38 | $7.01 | 📈 +0.10% | 7h 30m |
-| `SOL-USD` | 0.028214 | $106.33 | $105.44 | $2.97 | 📉 -0.84% | 6h 50m |
+| `MSFT` | 0.012146 | $535.17 | $532.30 | $6.47 | 📉 -0.54% | 1d 1h |
+| `NVDA` | 0.036812 | $217.32 | $216.23 | $7.96 | 📉 -0.50% | 23h 20m |
+| `ETH-USD` | 0.002855 | $2451.90 | $2441.40 | $6.97 | 📉 -0.43% | 7h 40m |
+| `SOL-USD` | 0.028214 | $106.33 | $104.65 | $2.95 | 📉 -1.58% | 7h 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sentimiento mixto con sesgo lateral a bajista en los índices principales, mientras que las criptomonedas operan en un entorno 24/7 con señales incipientes de recuperación técnica desde zonas de soporte diario. Mantenemos el enfoque táctico protegiendo el capital y buscando rotaciones ágiles."
+> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
-- *Sin cambios en este ciclo (HOLD)*
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Monitorear de cerca el rendimiento de ETH-USD y su acercamiento a niveles de sobrecompra en 1h para asegurar beneficios si supera RSI 70. Evaluar el comportamiento de NVDA y MSFT ahora que el mercado está abierto, y estar listos para cortar pérdidas si alguna posición cae del límite del -2.0%."
+> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
