@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 09:40:43`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 09:50:50`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$4.17 USD** | **$34.64 USD** | **$38.81 USD** | 🔴 **-2.98%** ($-1.19) |
+| **$40.00 USD** | **$4.17 USD** | **$34.61 USD** | **$38.78 USD** | 🔴 **-3.05%** ($-1.22) |
 
 ---
 
@@ -16,26 +16,26 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 22h 49m |
-| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 21h 20m |
-| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 20h 50m |
-| `ETH-USD` | 0.002855 | $2451.90 | $2471.18 | $7.06 | 📈 +0.79% | 5h 9m |
-| `SOL-USD` | 0.028214 | $106.33 | $106.23 | $3.00 | 📉 -0.09% | 4h 29m |
+| `MSFT` | 0.012146 | $535.17 | $539.44 | $6.55 | 📈 +0.80% | 23h 0m |
+| `QQQ` | 0.013791 | $725.09 | $728.00 | $10.04 | 📈 +0.40% | 21h 30m |
+| `NVDA` | 0.036812 | $217.32 | $217.23 | $8.00 | 📉 -0.04% | 21h 0m |
+| `ETH-USD` | 0.002855 | $2451.90 | $2465.71 | $7.04 | 📈 +0.56% | 5h 19m |
+| `SOL-USD` | 0.028214 | $106.33 | $105.75 | $2.98 | 📉 -0.55% | 4h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado con precios congelados, por lo que toda la actividad se concentra en criptomonedas. ETH-USD muestra un RSI en 60.7 y un rendimiento diario positivo, acercándose a la zona de toma de beneficios, mientras que SOL-USD mantiene un perfil técnico estable en busca de un rebote mayor desde soporte diario."
+> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 75%): La posición mantiene un rendimiento positivo de +0.79% y se acerca gradualmente al objetivo de take-profit sin mostrar signos de agotamiento inmediato en el corto plazo.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en criptomonedas (ETH-USD y SOL-USD) y monitorear su evolución. Objetivo de take-profit en ETH-USD si supera el rango de sobrecompra (>70 RSI). Prepararse para la apertura de Wall Street para evaluar la rotación de capital en acciones tecnológicas con mejor momentum."
+> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
