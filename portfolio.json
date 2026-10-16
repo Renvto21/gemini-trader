@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en SOL-USD y ETH-USD para permitir que alcancen la zona objetivo de take-profit entre +2.0% y +3.5%. Monitorear de cerca el RSI de 1 hora y el comportamiento del precio; si alcanzan la rentabilidad esperada o entran en sobrecompra (> 70), proceder con la venta para asegurar beneficios. Vigilar los límites de stop-loss (-2.0%) para cortar pérdidas inmediatamente si el mercado cripto gira a la baja. La liquidez de $18.29 USD se mantendrá intacta hasta el próximo ciclo o hasta que aparezca una oportunidad de alta convicción.",
-    "updated_at": "2026-10-16T20:10:41.985667-03:00"
+    "notes": "Mantener las posiciones abiertas en SOL-USD y ETH-USD mientras evolucionan hacia la zona de take-profit (+2.0% a +3.5%). Monitorear el RSI de 1 hora y el comportamiento de los precios; si alguna cruza el umbral de ganancia objetivo o entra en sobrecompra (> 70 RSI), proceder a la venta inmediata para asegurar beneficios. Vigilar estrictamente el stop-loss (-2.0%) para cortar pérdidas ante cualquier giro bajista abrupto. Mantener la liquidez actual a la espera de un fuerte momentum en activos abiertos.",
+    "updated_at": "2026-10-16T20:20:34.459880-03:00"
   }
 }
