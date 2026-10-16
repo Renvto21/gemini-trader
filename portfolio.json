@@ -1385,7 +1385,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de MSFT, QQQ, NVDA, ETH-USD y SOL-USD ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit del rango +2.0% a +3.5%. Vigilaré de cerca a MSFT para asegurar beneficios si se acerca al objetivo superior, y estaré atento a NVDA dado su RSI de 1h en sobreventa extrema para evaluar un posible rebalanceo si el momentum se invierte.",
-    "updated_at": "2026-10-16T10:30:48.362370-03:00"
+    "notes": "Mantendremos las posiciones actuales de MSFT, QQQ, NVDA, ETH-USD y SOL-USD ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit del rango +2.0% a +3.5%. NVDA presenta un RSI de 1h en sobreventa extrema (21.4), por lo que evaluaremos su rebote en el próximo ciclo; si el momentum sigue sin reaccionar o se profundiza la pérdida hacia el -2.0%, ejecutaremos la venta para proteger capital.",
+    "updated_at": "2026-10-16T10:40:59.016751-03:00"
   }
 }
