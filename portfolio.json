@@ -1385,7 +1385,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en MSFT, QQQ, NVDA, ETH-USD y SOL-USD. Como el mercado tradicional está cerrado, no se realizarán operaciones en equities. Monitorear de cerca a ETH-USD y SOL-USD en busca de un aumento de momentum que permita asegurar ganancias parciales, y vigilar la liquidez de efectivo actual ($4.17 USD) que se encuentra cerca del límite mínimo requerido de $4.00 USD.",
-    "updated_at": "2026-10-16T05:20:54.209572-03:00"
+    "notes": "Mantener las posiciones abiertas actuales (MSFT, QQQ, NVDA, ETH-USD, SOL-USD). Vigilar de cerca el comportamiento de ETH-USD y SOL-USD para asegurar ganancias si alcanzan el rango de +2.0% a +3.5%, o recortar si rompen soportes a la baja. El efectivo actual se encuentra ligeramente por encima del mínimo de $4.00 USD, por lo que no se requieren compras adicionales inmediatas hasta ver una señal clara de alta convicción.",
+    "updated_at": "2026-10-16T05:30:51.617252-03:00"
   }
 }
