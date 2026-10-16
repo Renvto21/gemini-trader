@@ -1,39 +1,3 @@
-"Mantendremos las posiciones de ETH-USD y SOL-USD vigilando el objetivo de take-profit entre +2.0% y +3.5%. Las acciones tradicionales (MSFT, QQQ, NVDA) permanecen retenidas debido al cierre del mercado. Si ETH-USD o SOL-USD alcanzan la zona de sobrecompra en 1H o rozan el +2% de beneficio, realizaremos una toma de ganancias parcial para liberar efectivo y buscar nuevas entradas."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] ETH-USD (Confianza: 80%)
-    Razón: ETH-USD muestra un comportamiento alcista continuo con un PnL de +1.02% y un RSI de 59.8 en 1H, acercándose de forma saludable a nuestra zona objetivo de take-profit sin mostrar signos de agotamiento.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.84 USD (Cash: $4.17 USD)
-
-[2026-10-16 08:50:45] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $4.17 USD
- Valor en Activos:     $34.66 USD
- Balance Total:        $38.83 USD
- Ganancia/Pérdida:     🔴 $-1.17 USD (-2.93%)
-
- 💼 Posiciones Abiertas:
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.44 | Total: $6.55 📈 (+0.80%) [Tiempo: 22h 0m]
-   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $728.0 | Total: $10.04 📈 (+0.40%) [Tiempo: 20h 30m]
-   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.23 | Total: $8.0 📈 (-0.04%) [Tiempo: 20h 0m]
-   • ETH-USD: 0.002855 u. | Compra: $2451.9 | Actual: $2475.47 | Total: $7.07 📈 (+0.96%) [Tiempo: 4h 19m]
-   • SOL-USD: 0.028214 u. | Compra: $106.33 | Actual: $106.48 | Total: $3.0 📈 (+0.14%) [Tiempo: 3h 39m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado accionario tradicional (QQQ, MSFT, NVDA) se encuentra cerrado, por lo que la operativa se concentra exclusivamente en el mercado cripto (24/7). ETH-USD muestra un impulso positivo constante en la última hora (change_1h_pct +0.53% y rsi_1h en 59.2), acercándose a nuestra zona objetivo de take-profit pero sin sobrepasarla todavía. SOL-USD mantiene una dinámica moderada. No se ejecutan ventas ni compras adicionales en este ciclo ya que el efectivo disponible se encuentra en el límite mínimo prudente y las posiciones abiertas operan dentro de los márgenes previstos de ganancia o pérdida."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
 "Mantendremos las posiciones abiertas de ETH-USD y SOL-USD vigilando de cerca el objetivo de take-profit entre +2.0% y +3.5%. Si ETH-USD alcanza la zona de sobrecompra en 1H o se acerca al umbral de beneficio del +2%, realizaremos una toma de ganancias parcial para asegurar capital. Las acciones tradicionales se mantendrán retenidas hasta la apertura del mercado."
 
 ⚡ ACCIONES DECIDIDAS:
@@ -151,3 +115,39 @@ Balance final del ciclo: $38.80 USD (Cash: $4.17 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.79 USD (Cash: $4.17 USD)
+
+[2026-10-16 09:30:41] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $4.17 USD
+ Valor en Activos:     $34.65 USD
+ Balance Total:        $38.81 USD
+ Ganancia/Pérdida:     🔴 $-1.19 USD (-2.97%)
+
+ 💼 Posiciones Abiertas:
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $539.44 | Total: $6.55 📈 (+0.80%) [Tiempo: 22h 39m]
+   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $728.0 | Total: $10.04 📈 (+0.40%) [Tiempo: 21h 10m]
+   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.23 | Total: $8.0 📈 (-0.04%) [Tiempo: 20h 40m]
+   • ETH-USD: 0.002855 u. | Compra: $2451.9 | Actual: $2472.03 | Total: $7.06 📈 (+0.82%) [Tiempo: 4h 59m]
+   • SOL-USD: 0.028214 u. | Compra: $106.33 | Actual: $106.33 | Total: $3.0 📈 (+0.00%) [Tiempo: 4h 19m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado de valores tradicional (Wall Street) se encuentra cerrado, por lo que la liquidez activa y las oportunidades operativas se centran exclusivamente en el mercado de criptomonedas (24/7). ETH-USD y SOL-USD muestran signos de estabilización tras rebotes previos, mientras que el efectivo disponible se mantiene cerca de la reserva mínima."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales en criptomonedas (ETH-USD y SOL-USD) y acciones con precios congelados hasta la apertura de Wall Street. Monitorear de cerca el RSI de ETH y SOL para asegurar ganancias si se aproximan a sobrecompra, o cortar pérdidas si rompen soportes clave. Preparar capital para rotaciones rápidas en cuanto abra el mercado tradicional."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] ETH-USD (Confianza: 75%)
+    Razón: ETH-USD muestra un rendimiento positivo constante y se mantiene dentro de los parámetros esperados tras su reciente apertura, con RSI de 1h en zona saludable (61.3).
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.81 USD (Cash: $4.17 USD)
