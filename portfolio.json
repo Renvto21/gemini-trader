@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones vigentes en NVDA, QQQ y MSFT durante el cierre del mercado bursátil, esperando la apertura de Wall Street para asegurar beneficios en cuanto alcancen el rango de take-profit entre +2.0% y +3.5%, o para aplicar stop-loss en caso de movimientos adversos. La liquidez de $14.17 USD se mantendrá reservada a la espera de una corrección intradiaria más clara en Cripto (SOL-USD o ETH-USD) o hasta la apertura de los mercados tradicionales para buscar nuevas oportunidades de momentum.",
-    "updated_at": "2026-10-15T21:00:50.165722-03:00"
+    "notes": "Mantendremos las posiciones vigentes en NVDA, QQQ y MSFT hasta la apertura de Wall Street para buscar objetivos de take-profit entre +2.0% y +3.5% o aplicar stop-loss en caso de caídas superiores a -2.0%. La liquidez de $14.17 USD se conserva intacta a la espera de entradas claras en criptomonedas si surge un fuerte impulso o para aprovechar la apertura del mercado bursátil.",
+    "updated_at": "2026-10-15T21:10:40.312849-03:00"
   }
 }
