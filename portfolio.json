@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) a la espera de la apertura de Wall Street. Monitorear de cerca los objetivos de take-profit en MSFT y QQQ si rozan el +2.0%, y activar stop-loss si alguna posición quiebra soportes o cae por debajo de -2.0%. En cuanto a cripto, vigilar un retroceso en el RSI de 1h hacia zonas de sobreventa para buscar posibles rebotes tácticos con el efectivo disponible (manteniendo la reserva mínima de $4.00 USD).",
-    "updated_at": "2026-10-15T22:20:41.568316-03:00"
+    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) aprovechando que están en zona de retención y control de riesgo estricto por debajo de -2.0%. Dado que los mercados de Wall Street están cerrados y las criptomonedas no presentan señales claras de rebote desde sobreventa (< 35), preservamos el efectivo actual y la reserva mínima ($4.00 USD). Monitorear la apertura de los mercados tradicionales en el próximo ciclo para evaluar la toma de beneficios si se roza el +2.0% o cortar pérdidas si hay quiebres bajistas.",
+    "updated_at": "2026-10-15T22:30:50.422069-03:00"
   }
 }
