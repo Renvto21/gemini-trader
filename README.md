@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 14:01:00`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 14:11:00`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$25.05 USD** | **$13.34 USD** | **$38.39 USD** | 🔴 **-4.03%** ($-1.61) |
+| **$40.00 USD** | **$25.05 USD** | **$13.28 USD** | **$38.33 USD** | 🔴 **-4.19%** ($-1.67) |
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $527.79 | $6.41 | 📉 -1.38% | 1d 3h |
-| `ETH-USD` | 0.002855 | $2451.90 | $2428.44 | $6.93 | 📉 -0.96% | 9h 30m |
+| `MSFT` | 0.012146 | $535.17 | $525.54 | $6.38 | 📉 -1.80% | 1d 3h |
+| `ETH-USD` | 0.002855 | $2451.90 | $2415.57 | $6.90 | 📉 -1.48% | 9h 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo bajista generalizado con la mayoría de los activos cotizando por debajo de su SMA20. Las criptomonedas continúan operando 24/7 con una presión de venta moderada, mientras que los índices y acciones tecnológicas en Wall Street muestran debilidad de corto plazo pero manteniendo algunos soportes críticos diarios."
+> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 70%): MSFT se mantiene con una pérdida controlada de -1.38% dentro del tiempo de retención aceptable, operando sobre su tendencia alcista diaria. Mantengo la posición esperando el rebote.
-- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD muestra un RSI diario de 31.0 indicando sobreventa profunda y un soporte potencial de mediano plazo. La pérdida actual es de -0.96% y el activo sigue abierto 24/7.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendré las posiciones abiertas de MSFT y ETH-USD supervisando de cerca el soporte del stop-loss en -2.0%. Si MSFT o ETH-USD rompen sus niveles clave a la baja, ejecutaré ventas inmediatas para proteger capital. Mantendré el efectivo disponible esperando señales claras de rebote con RSI de 1 hora saliendo de sobreventa para realizar nuevas entradas tácticas."
+> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

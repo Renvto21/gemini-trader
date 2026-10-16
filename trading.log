@@ -1,36 +1,3 @@
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 60%)
-    Razón: ETH-USD registra una leve pérdida de -0.55% con un RSI diario atractivo en zona de sobreventa (31.5). Damos margen a la posición buscando el rebote técnico.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.46 USD (Cash: $17.07 USD)
-
-[2026-10-16 13:30:41] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $17.07 USD
- Valor en Activos:     $21.39 USD
- Balance Total:        $38.46 USD
- Ganancia/Pérdida:     🔴 $-1.54 USD (-3.85%)
-
- 💼 Posiciones Abiertas:
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $529.01 | Total: $6.43 📉 (-1.15%) [Tiempo: 1d 2h]
-   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $217.42 | Total: $8.0 📈 (+0.05%) [Tiempo: 1d 0h]
-   • ETH-USD: 0.002855 u. | Compra: $2451.9 | Actual: $2439.89 | Total: $6.97 📉 (-0.49%) [Tiempo: 8h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado muestra un sesgo bajista general con la mayoría de los activos operando bajo sus medias móviles de 20 períodos, aunque Wall Street se encuentra abierto permitiendo la gestión de acciones y criptoactivos 24/7. Las posiciones actuales se mantienen en rangos estables con ligeras pérdidas pero sin alcanzar los umbrales de stop-loss estricto, mientras que el efectivo se preserva adecuadamente."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones abiertas actuales (MSFT, NVDA, ETH-USD) vigilando de cerca sus soportes. Si MSFT o NVDA profundizan pérdidas acercándose al -2.0% o si ETH-USD pierde fuerza en su rebote, ejecutaré ventas para proteger el capital. Monitorearé el comportamiento de cripto y tech en busca de rupturas con alto volumen para desplegar la liquidez disponible."
 
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] MSFT (Confianza: 70%)
@@ -151,3 +118,36 @@ Balance final del ciclo: $38.40 USD (Cash: $25.05 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.39 USD (Cash: $25.05 USD)
+
+[2026-10-16 14:10:39] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $25.05 USD
+ Valor en Activos:     $13.28 USD
+ Balance Total:        $38.33 USD
+ Ganancia/Pérdida:     🔴 $-1.67 USD (-4.19%)
+
+ 💼 Posiciones Abiertas:
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $525.54 | Total: $6.38 📉 (-1.80%) [Tiempo: 1d 3h]
+   • ETH-USD: 0.002855 u. | Compra: $2451.9 | Actual: $2415.57 | Total: $6.9 📉 (-1.48%) [Tiempo: 9h 39m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] PORTFOLIO (Confianza: 100%)
+    Razón: Error temporal de conexión, manteniendo posiciones de forma segura.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.33 USD (Cash: $25.05 USD)
