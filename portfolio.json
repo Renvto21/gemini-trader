@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 7.166780609407736,
+  "cash": 4.166780609407736,
   "positions": {
     "MSFT": {
       "shares": 0.012145673337444178,
@@ -21,6 +21,11 @@
       "shares": 0.0028549288307027202,
       "avg_price": 2451.9,
       "opened_at": "2026-10-16T04:30:59.644575-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.028214050597197404,
+      "avg_price": 106.33,
+      "opened_at": "2026-10-16T05:10:52.397960-03:00"
     }
   },
   "history": [
@@ -1368,10 +1373,19 @@
       "shares": 0.002855,
       "price": 2451.9,
       "reason": "Aprovechamos la liquidez disponible sobre la reserva mínima ($14.17 vs $4.00 requeridos) para capturar el rebote técnico en ETH-USD, el cual muestra fortaleza relativa frente al resto de criptos con cambio positivo en 1h (+0.23%) y despegue desde zona de sobreventa en gráfico diario (RSI 32.8)."
+    },
+    {
+      "timestamp": "2026-10-16T05:10:52.397976-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 3.0,
+      "shares": 0.028214,
+      "price": 106.33,
+      "reason": "SOL-USD presenta un RSI diario en zona de sobreventa extrema (29.0) y un cambio positivo en la última hora (0.95% en 24h y 0.09% en 1h), lo cual activa nuestra estrategia de rebotes técnicos (Mean Reversion) aprovechando el mercado abierto 24/7."
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en MSFT, QQQ y NVDA en espera de la apertura del mercado tradicional para buscar tomas de beneficios en el rango de +2.0% a +3.5% o evaluar salidas defensivas. Para ETH-USD, mantenemos la posición con objetivo de take-profit en +2.5% (~$2,514) o stop-loss estricto en -2.0% (~$2,403). La liquidez actual de $7.17 USD supera el mínimo de reserva de $4.00 USD, por lo que conservamos el efectivo disponible a la espera de una entrada de alta convicción en cripto si se presenta una ruptura clara de volumen.",
-    "updated_at": "2026-10-16T05:00:44.639596-03:00"
+    "notes": "Mantendremos las posiciones actuales en MSFT, QQQ, NVDA y ETH-USD esperando la apertura del mercado tradicional para buscar tomas de ganancias entre +2.0% y +3.5%, o activar salidas defensivas si pierden soportes clave. Dado que la liquidez está ajustada en $7.17 USD, realizaremos una toma parcial o rotación si es necesario, pero aprovecharemos para mantener la exposición en cripto mediante una nueva entrada en SOL-USD utilizando parte del efectivo disponible.",
+    "updated_at": "2026-10-16T05:10:52.394513-03:00"
   }
 }
