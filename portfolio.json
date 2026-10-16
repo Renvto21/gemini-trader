@@ -1423,7 +1423,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantengo la posición en MSFT vigilando el soporte y buscando el objetivo de take-profit en +2.0%, con un stop-loss estricto a -2.0%. En cuanto a SOL-USD, la posición recién abierta se mantiene vigilando el rebote técnico desde la sobreventa, estableciendo el mismo criterio de stop-loss estricto del -2.0% y take-profit rápido del +2.5%. Mantendré liquidez o evaluaré entradas adicionales si el momentum de BTC-USD o SOL-USD se consolida en las siguientes horas.",
-    "updated_at": "2026-10-16T15:10:50.316067-03:00"
+    "notes": "Mantengo la posición en MSFT vigilando el soporte y buscando el take-profit en +2.0%, pero aplicaré un stop-loss estricto si rompe el -2.0%. En cuanto a SOL-USD, el rebote muestra un comportamiento lateral leve y mantendremos la vigilancia estricta con un stop-loss del -2.0% y take-profit del +2.5%. Mantendré la liquidez actual para evaluar entradas adicionales si el momentum se consolida o rotar capital si alguna posición se estanca.",
+    "updated_at": "2026-10-16T15:20:46.675087-03:00"
   }
 }
