@@ -1391,7 +1391,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en MSFT, NVDA, ETH-USD y SOL-USD vigilando de cerca los niveles de stop-loss a -2.0%. Si SOL-USD o ETH-USD no muestran recuperación en el próximo ciclo, procederemos a recortarlas para liberar capital. Estaremos atentos a la evolución del RSI de 1 hora en los activos tecnológicos para posibles rotaciones de capital.",
-    "updated_at": "2026-10-16T12:30:57.202360-03:00"
+    "notes": "Monitorearemos de cerca las posiciones abiertas en MSFT, NVDA, ETH-USD y SOL-USD. Si SOL-USD o ETH-USD rompen soportes adicionales o se estancan, procederemos a recortar las posiciones para liberar liquidez. Buscaremos puntos de entrada con mayor fuerza direccional en activos que presenten RSI de 1 hora saliendo de sobreventa extrema.",
+    "updated_at": "2026-10-16T12:40:51.199989-03:00"
   }
 }

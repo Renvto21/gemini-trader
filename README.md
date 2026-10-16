@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 12:30:57`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 12:40:51`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$14.12 USD** | **$24.33 USD** | **$38.45 USD** | 🔴 **-3.87%** ($-1.55) |
+| **$40.00 USD** | **$14.12 USD** | **$24.39 USD** | **$38.51 USD** | 🔴 **-3.73%** ($-1.49) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $530.68 | $6.45 | 📉 -0.84% | 1d 1h |
-| `NVDA` | 0.036812 | $217.32 | $216.84 | $7.98 | 📉 -0.22% | 23h 40m |
-| `ETH-USD` | 0.002855 | $2451.90 | $2438.17 | $6.96 | 📉 -0.56% | 7h 59m |
-| `SOL-USD` | 0.028214 | $106.33 | $104.30 | $2.94 | 📉 -1.91% | 7h 20m |
+| `MSFT` | 0.012146 | $535.17 | $531.03 | $6.45 | 📉 -0.77% | 1d 1h |
+| `NVDA` | 0.036812 | $217.32 | $217.90 | $8.02 | 📈 +0.27% | 23h 50m |
+| `ETH-USD` | 0.002855 | $2451.90 | $2440.42 | $6.97 | 📉 -0.47% | 8h 9m |
+| `SOL-USD` | 0.028214 | $106.33 | $104.55 | $2.95 | 📉 -1.67% | 7h 29m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general se encuentra bajo presión con una tendencia bajista de corto plazo (muchos activos operando bajo la SMA20), aunque se observan niveles interesantes de sobreventa en gráficos diarios que sugieren oportunidades de rebote técnico (Mean Reversion). El efectivo disponible se mantiene saludable por encima de la reserva mínima, permitiendo maniobras tácticas."
+> "El mercado muestra un tono de cautela con la mayoría de los activos bajo sus medias móviles de 20 periodos. Los índices y grandes tecnológicas intentan estabilizarse, mientras que las criptomonedas exhiben una alta volatilidad de corto plazo. Mantenemos una postura defensiva pero listos para rotar capital hacia oportunidades con mejor momentum."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 75%): La posición se mantiene estable con una pérdida menor de -0.84% y un RSI diario fuerte en 64.6. Mantenemos la posición buscando continuar el rebote alcista dentro de su tendencia principal.
+- **[HOLD] MSFT** (Confianza: 60%): La posición se mantiene estable con una pérdida marginal del -0.77% y un RSI de 1 hora en recuperación (37.8). Esperamos la evolución de la sesión para decidir si se mantiene o se rota.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones actuales en MSFT, NVDA, ETH-USD y SOL-USD vigilando de cerca los niveles de stop-loss a -2.0%. Si SOL-USD o ETH-USD no muestran recuperación en el próximo ciclo, procederemos a recortarlas para liberar capital. Estaremos atentos a la evolución del RSI de 1 hora en los activos tecnológicos para posibles rotaciones de capital."
+> "Monitorearemos de cerca las posiciones abiertas en MSFT, NVDA, ETH-USD y SOL-USD. Si SOL-USD o ETH-USD rompen soportes adicionales o se estancan, procederemos a recortar las posiciones para liberar liquidez. Buscaremos puntos de entrada con mayor fuerza direccional en activos que presenten RSI de 1 hora saliendo de sobreventa extrema."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
