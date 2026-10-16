@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 25.046228499407732,
+  "cash": 31.89777220021119,
   "positions": {
     "MSFT": {
       "shares": 0.012145673337444178,
       "avg_price": 535.17,
       "opened_at": "2026-10-15T10:50:47.123357-03:00"
-    },
-    "ETH-USD": {
-      "shares": 0.0028549288307027202,
-      "avg_price": 2451.9,
-      "opened_at": "2026-10-16T04:30:59.644575-03:00"
     }
   },
   "history": [
@@ -1400,10 +1395,21 @@
       "pnl_usd": -0.02,
       "pnl_pct": -0.24,
       "reason": "NVDA lleva más de 24 horas abierto operando bajo la SMA20 con un momentum débil, acumula un holding time prolongado sin el rebote esperado y su RSI de 1 hora se encuentra en 33.4 con tendencia bajista. Es momento de rotar el capital para cortar la exposición estancada."
+    },
+    {
+      "timestamp": "2026-10-16T14:30:58.059045-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 6.85,
+      "shares": 0.002855,
+      "price": 2399.9,
+      "pnl_usd": -0.15,
+      "pnl_pct": -2.12,
+      "reason": "ETH-USD ha rebasado el umbral estricto de stop-loss (-2.12%), operando en tendencia bajista bajo la SMA20 sin lograr el rebote esperado tras casi 10 horas de holding. Se ejecuta la venta para cortar pérdidas y preservar el capital."
     }
   ],
   "memory": {
-    "notes": "Mantener la disciplina ante las caídas. MSFT acumula una pérdida cercana al -1.91% tras más de un día abierta, pero su tendencia diaria sigue siendo alcista sobre la SMA20; mantendré el stop-loss estricto en -2.0%. ETH-USD muestra un PnL de -2.3% con holding time de casi 10 horas, operando en tendencia bajista pero con RSI diario en zona de sobreventa extrema (29.5); evaluaré su salida si rompe soportes adicionales. No realizaré nuevas compras en este ciclo debido a la debilidad generalizada del mercado y la prioridad de proteger la liquidez disponible.",
-    "updated_at": "2026-10-16T14:20:49.187878-03:00"
+    "notes": "ETH-USD ha superado la pauta de stop-loss estricto (-2.12%), por lo que se procede a vender para cortar pérdidas y proteger capital. MSFT se mantiene cerca del límite con un PnL de -1.7%, respetando aún su tendencia diaria alcista sobre la SMA20; mantendré la vigilancia estricta para recortar si rompe soporte. Con el efectivo liberado, buscaré oportunidades de mayor dinamismo técnico en el siguiente ciclo.",
+    "updated_at": "2026-10-16T14:30:58.056369-03:00"
   }
 }
