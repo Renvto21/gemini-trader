@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD mientras no rompan a la baja el soporte del -2.0% o alcancen el objetivo de take-profit entre +2.0% y +3.5%. Monitorearemos de cerca el RSI de 1 hora de ambos activos. Si alguna posición se estanca o pierde momentum, procederemos a rotar el capital hacia oportunidades con mayor volumen en el siguiente ciclo.",
-    "updated_at": "2026-10-16T19:00:50.514711-03:00"
+    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD durante este ciclo. Vigilaremos de cerca si alcanzan el objetivo de take-profit (+2.0% a +3.5%) o si por el contrario rompen el soporte del -2.0% para activar el stop-loss. El efectivo disponible se mantendrá temporalmente protegido hasta identificar una oportunidad clara de fuerte momentum en los activos abiertos.",
+    "updated_at": "2026-10-16T19:10:42.534232-03:00"
   }
 }
