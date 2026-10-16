@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones de MSFT, QQQ y NVDA vigentes hasta la apertura del mercado bursátil. Monitorear de cerca los objetivos de take-profit entre +2.0% y +3.5% o el stop-loss en -2.0%. En criptomonedas, esperar una corrección intradiaria que reduzca el RSI de 1h por debajo de 50 para considerar un reingreso en ETH o SOL.",
-    "updated_at": "2026-10-16T00:00:42.310885-03:00"
+    "notes": "Mantener las posiciones abiertas de MSFT, QQQ y NVDA hasta la apertura de Wall Street para evaluar su take-profit o stop-loss dinámico. En el sector cripto (BTC-USD, ETH-USD, SOL-USD), esperar a que los indicadores de RSI de 1h disminuyan por debajo de 50 tras la actual sobrecompra para buscar puntos de entrada óptimos bajo la estrategia de mean reversion.",
+    "updated_at": "2026-10-16T00:10:39.806976-03:00"
   }
 }
