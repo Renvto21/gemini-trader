@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición en SOL-USD ya que continúa consolidando su base tras salir de sobreventa, monitoreando de cerca su evolución y aplicando un stop-loss estricto si pierde el soporte de 101 USD o buscando take-profit cerca del +2.5%. Respecto a MSFT, al llevar más de un día sin momentum alcista claro y acercarse al límite de tolerancia de pérdida (-1.68%), he decidido liquidarla para liberar efectivo y capturar oportunidades de mayor dinamismo en criptoactivos como ETH-USD.",
-    "updated_at": "2026-10-16T16:30:48.160487-03:00"
+    "notes": "Mantendré temporalmente las posiciones de SOL-USD y ETH-USD para permitirles desarrollar el rebote técnico desde zonas de sobreventa extrema en marcos de tiempo de 1 hora y diario. Monitorizaré de cerca el stop-loss estricto del -2.0% y buscaré tomas de ganancia (take-profit) en el rango de +2.0% a +3.5%. Mantendré una reserva de efectivo adecuada de $18.29 USD para reaccionar rápidamente ante cualquier cambio abrupto en el momentum.",
+    "updated_at": "2026-10-16T16:40:44.641032-03:00"
   }
 }
