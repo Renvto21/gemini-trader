@@ -1,38 +1,3 @@
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantendremos las posiciones actuales de MSFT, QQQ, NVDA, ETH-USD y SOL-USD ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit del rango +2.0% a +3.5%. Vigilaré de cerca a MSFT para asegurar beneficios si se acerca al objetivo superior, y estaré atento a NVDA dado su RSI de 1h en sobreventa extrema para evaluar un posible rebalanceo si el momentum se invierte."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] MSFT (Confianza: 80%)
-    Razón: MSFT muestra un rendimiento positivo constante (+1.22%) con tendencia alcista sólida sobre la SMA20 y un RSI diario elevado. Mantenemos la posición para capturar una mayor expansión hacia el objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.67 USD (Cash: $4.17 USD)
-
-[2026-10-16 10:40:36] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $4.17 USD
- Valor en Activos:     $34.40 USD
- Balance Total:        $38.56 USD
- Ganancia/Pérdida:     🔴 $-1.44 USD (-3.59%)
-
- 💼 Posiciones Abiertas:
-   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $535.8 | Total: $6.51 📈 (+0.12%) [Tiempo: 23h 49m]
-   • QQQ: 0.013791 u. | Compra: $725.09 | Actual: $722.34 | Total: $9.96 📉 (-0.38%) [Tiempo: 22h 19m]
-   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $215.65 | Total: $7.94 📉 (-0.77%) [Tiempo: 21h 50m]
-   • ETH-USD: 0.002855 u. | Compra: $2451.9 | Actual: $2457.89 | Total: $7.02 📈 (+0.24%) [Tiempo: 6h 9m]
-   • SOL-USD: 0.028214 u. | Compra: $106.33 | Actual: $105.28 | Total: $2.97 📉 (-0.99%) [Tiempo: 5h 29m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado accionario muestra una tendencia general de debilidad con varios índices y tecnológicas operando bajo su SMA20, destacando caídas moderadas en QQQ y NVDA. Las criptomonedas se mantienen operativas 24/7 con un comportamiento lateral a ligeramente bajista, aunque con indicadores de sobreventa diarios interesantes en activos como SOL-USD y ETH-USD. La liquidez actual se encuentra casi totalmente invertida cumpliendo con la regla de mantener el mínimo de efectivo."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -151,3 +116,38 @@ Balance final del ciclo: $38.60 USD (Cash: $14.12 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.57 USD (Cash: $14.12 USD)
+
+[2026-10-16 11:20:39] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $14.12 USD
+ Valor en Activos:     $24.58 USD
+ Balance Total:        $38.70 USD
+ Ganancia/Pérdida:     🔴 $-1.30 USD (-3.26%)
+
+ 💼 Posiciones Abiertas:
+   • MSFT: 0.012146 u. | Compra: $535.17 | Actual: $537.78 | Total: $6.53 📈 (+0.49%) [Tiempo: 1d 0h]
+   • NVDA: 0.036812 u. | Compra: $217.32 | Actual: $216.86 | Total: $7.98 📉 (-0.21%) [Tiempo: 22h 30m]
+   • ETH-USD: 0.002855 u. | Compra: $2451.9 | Actual: $2473.36 | Total: $7.06 📈 (+0.88%) [Tiempo: 6h 49m]
+   • SOL-USD: 0.028214 u. | Compra: $106.33 | Actual: $106.31 | Total: $3.0 📈 (-0.02%) [Tiempo: 6h 9m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] PORTFOLIO (Confianza: 100%)
+    Razón: Error temporal de conexión, manteniendo posiciones de forma segura.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.70 USD (Cash: $14.12 USD)
