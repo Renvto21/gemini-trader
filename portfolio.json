@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear la apertura de Wall Street para asegurar beneficios en MSFT, QQQ y NVDA si alcanzan la meta de +2.0% a +3.5%, o activar el stop-loss si el precio cae por debajo de -2.0%. En criptomonedas, esperar a que el RSI de 1h descienda por debajo de 50 antes de desplegar la liquidez en un nuevo rebote de tipo mean reversion.",
-    "updated_at": "2026-10-16T00:50:36.440987-03:00"
+    "notes": "Mantener las posiciones actuales (MSFT, QQQ, NVDA) en espera de la apertura de Wall Street para buscar la toma de beneficios si alcanzan el rango de +2.0% a +3.5%. En criptomonedas, continuar vigilando SOL-USD y ETH-USD en busca de caídas en el RSI de 1h por debajo de 35 para desplegar capital remanente si surge una oportunidad clara de rebote.",
+    "updated_at": "2026-10-16T01:00:50.590184-03:00"
   }
 }
