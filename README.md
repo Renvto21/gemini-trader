@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 13:31:00`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 13:40:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$17.07 USD** | **$21.39 USD** | **$38.46 USD** | 🔴 **-3.85%** ($-1.54) |
+| **$40.00 USD** | **$25.05 USD** | **$13.37 USD** | **$38.42 USD** | 🔴 **-3.95%** ($-1.58) |
 
 ---
 
@@ -16,44 +16,41 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $529.01 | $6.43 | 📉 -1.15% | 1d 2h |
-| `NVDA` | 0.036812 | $217.32 | $217.42 | $8.00 | 📈 +0.05% | 1d 0h |
-| `ETH-USD` | 0.002855 | $2451.90 | $2439.89 | $6.97 | 📉 -0.49% | 9h 0m |
+| `MSFT` | 0.012146 | $535.17 | $528.29 | $6.42 | 📉 -1.29% | 1d 2h |
+| `ETH-USD` | 0.002855 | $2451.90 | $2437.08 | $6.96 | 📉 -0.60% | 9h 9m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo bajista general con la mayoría de los activos operando bajo sus medias móviles de 20 períodos, aunque Wall Street se encuentra abierto permitiendo la gestión de acciones y criptoactivos 24/7. Las posiciones actuales se mantienen en rangos estables con ligeras pérdidas pero sin alcanzar los umbrales de stop-loss estricto, mientras que el efectivo se preserva adecuadamente."
+> "El mercado se encuentra en un entorno predominantemente bajista por debajo de las medias móviles clave, con presión en renta variable y criptomonedas. Los indicadores a corto plazo muestran fatiga y rebotes débiles, lo que exige una postura defensiva pero flexible para cortar pérdidas a tiempo y proteger el capital restante."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 70%): MSFT se mantiene con una pérdida moderada de -1.15% dentro de un canal alcista a nivel diario. No ha roto el stop-loss estricto del -2.0% y su RSI de 1 hora está en 35.8, por lo que es prudente mantener y esperar un rebote.
-- **[HOLD] NVDA** (Confianza: 70%): NVDA se encuentra prácticamente en equilibrio (0.05%) tras un día de tenencia. Aunque su tendencia es bajista a corto plazo, el RSI de 1 hora en 34.9 sugiere estabilización. Mantendremos la posición vigilando posibles take-profits o recortes.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD muestra un cambio de 1 hora positivo (+0.48%) y un RSI diario en zona de soporte (31.6). La pérdida actual es marginal (-0.49%) y se espera que continúe el intento de rebote técnico.
+- **[SELL] NVDA** (Confianza: 85%): NVDA lleva más de 24 horas abierto operando bajo la SMA20 con un momentum débil, acumula un holding time prolongado sin el rebote esperado y su RSI de 1 hora se encuentra en 33.4 con tendencia bajista. Es momento de rotar el capital para cortar la exposición estancada.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones abiertas actuales (MSFT, NVDA, ETH-USD) vigilando de cerca sus soportes. Si MSFT o NVDA profundizan pérdidas acercándose al -2.0% o si ETH-USD pierde fuerza en su rebote, ejecutaré ventas para proteger el capital. Monitorearé el comportamiento de cripto y tech en busca de rupturas con alto volumen para desplegar la liquidez disponible."
+> "Mantendré la vigilancia estricta sobre NVDA y MSFT. Dado que NVDA lleva más de 24 horas abierto sin mostrar tracción alcista sólida y su RSI de 1 hora está debilitado (33.4), ejecutaré su venta si profundiza pérdidas para liberar capital. Vigilaré el comportamiento del efectivo para posibles entradas tácticas rápidas si aparecen oportunidades de sobreventa extrema en cripto o activos abiertos."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
 
 | Operaciones Cerradas | Tasa de Acierto (Win Rate) | Beneficio Realizado | Mejor Trade | Peor Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **60** | 🎯 **40.0%** (24W / 22L / 14BE) | 🔴 **$-1.32 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
+| **61** | 🎯 **39.3%** (24W / 23L / 14BE) | 🔴 **$-1.34 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
 ---
 
 ### 📜 Últimos Movimientos
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-16 13:40` | 🔴 SELL (-0.02$) | `NVDA` | $7.98 | $216.80 | NVDA lleva más de 24 horas abierto operando bajo la SMA20 con un momentum débil, acumula u... |
 | `2026-10-16 12:50` | 🔴 SELL (-0.06$) | `SOL-USD` | $2.94 | $104.34 | SOL-USD lleva varias horas abierto sin generar el rebote esperado, acumulando una pérdida ... |
 | `2026-10-16 10:50` | 🔴 SELL (-0.04$) | `QQQ` | $9.95 | $721.83 | QQQ lleva más de 22 horas abierto operando bajo la SMA20 con un RSI de 1 hora en 30.2 y un... |
 | `2026-10-16 05:10` | 🟢 BUY | `SOL-USD` | $3.00 | $106.33 | SOL-USD presenta un RSI diario en zona de sobreventa extrema (29.0) y un cambio positivo e... |
 | `2026-10-16 04:30` | 🟢 BUY | `ETH-USD` | $7.00 | $2451.90 | Aprovechamos la liquidez disponible sobre la reserva mínima ($14.17 vs $4.00 requeridos) p... |
-| `2026-10-15 16:20` | 🔴 SELL (-0.10$) | `AAPL` | $9.90 | $342.86 | AAPL lleva más de un día abierta (1d 5h) sin mostrar un momentum significativo ni alcanzar... |
 
 ---
 
