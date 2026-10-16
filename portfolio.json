@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en MSFT, QQQ y NVDA hasta la apertura de Wall Street para buscar objetivos de take-profit entre +2.0% y +3.5% o recortar si alguna amenaza con romper el soporte de -2.0%. En el mercado cripto, mantenernos atentos a posibles correcciones de corto plazo en SOL-USD o ETH-USD con RSI de 1h inferior a 35 para desplegar capital excedente por encima de la reserva mínima de $4.00 USD.",
-    "updated_at": "2026-10-16T02:10:58.573356-03:00"
+    "notes": "Mantener las posiciones actuales en MSFT, QQQ y NVDA durante el cierre de mercado. Monitorear de cerca la apertura de Wall Street para asegurar ganancias si alcanzan el rango de +2.0% a +3.5%, o recortar posiciones si se acercan al stop-loss del -2.0%. En el mercado cripto, mantener la liquidez por encima de los $4.00 USD mínimos y vigilar a SOL-USD y ETH-USD en busca de caídas con RSI de 1h inferior a 35 para activar compras por impulso.",
+    "updated_at": "2026-10-16T02:20:43.637196-03:00"
   }
 }
