@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales en SOL-USD y ETH-USD durante este ciclo sin cambios operativos. Vigilar de cerca los niveles de soporte y estar preparados para tomar ganancias si el RSI de 1h rebota hacia la zona de sobrecompra o cortar pérdidas si el precio cae por debajo del -2.0%. Mantener la reserva de efectivo requerida y no realizar nuevas entradas hasta observar un cambio claro de tendencia en cripto.",
-    "updated_at": "2026-10-16T18:00:51.853831-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras construyen momentum. Establecer take-profit si SOL-USD o ETH-USD alcanzan ganancias del +2.5% o si su RSI de 1h supera 70. Activar stop-loss estricto si alguna posición cae por debajo del -2.0%. Mantener la reserva de efectivo requerida de $4.00 USD y vigilar el comportamiento de BTC-USD como indicador macro para el sector cripto.",
+    "updated_at": "2026-10-16T18:10:42.881181-03:00"
   }
 }
