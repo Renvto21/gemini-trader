@@ -1371,7 +1371,7 @@
     }
   ],
   "memory": {
-    "notes": "Wall Street cerrado; mantener posiciones en MSFT, QQQ y NVDA intactas hasta la campana de apertura para evaluar take-profit (+2.0% a +3.5%) o stop-loss dinámico (-2.0%). Para la nueva entrada táctica en ETH-USD ($7.00), objetivo de salida rápida en +2.5% (~$2,513) o toma de ganancias si RSI 1h supera 70. Stop-loss estricto fijado en -2.0% (~$2,402). Reserva de liquidez remanente protegida por encima del mínimo de $4.00 USD.",
-    "updated_at": "2026-10-16T04:30:59.642812-03:00"
+    "notes": "Mantener las posiciones actuales en MSFT, QQQ y NVDA intactas a la espera de la apertura de Wall Street para evaluar tomas de beneficios en el rango de +2.0% a +3.5% o ejecutar stops si se deterioran. Para ETH-USD, mantener la posición con un objetivo de take-profit en +2.5% (~$2,513) o una salida defensiva si el precio rompe el stop-loss en -2.0% (~$2,402). La liquidez actual se encuentra ligeramente por encima de la reserva mínima de $4.00 USD, por lo que se prioriza la gestión de riesgo y la espera de catalizadores en los activos abiertos.",
+    "updated_at": "2026-10-16T04:40:48.311041-03:00"
   }
 }
