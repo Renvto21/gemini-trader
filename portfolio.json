@@ -1385,7 +1385,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de ETH-USD y SOL-USD vigilando de cerca el objetivo de take-profit entre +2.0% y +3.5%. Si ETH-USD alcanza la zona de sobrecompra en 1H o se acerca al umbral de beneficio del +2%, realizaremos una toma de ganancias parcial para asegurar capital. Las acciones tradicionales se mantendrán retenidas hasta la apertura del mercado.",
-    "updated_at": "2026-10-16T08:50:54.813078-03:00"
+    "notes": "Monitorear de cerca ETH-USD y SOL-USD para asegurar ganancias parciales si alcanzan el rango de +2.0% a +3.5% o si el RSI de 1 hora entra en sobrecompra severa. Mantener liquidez reservada según la regla de $4.00 y esperar la apertura del mercado tradicional para reevaluar posiciones en tech.",
+    "updated_at": "2026-10-16T09:00:56.351877-03:00"
   }
 }
