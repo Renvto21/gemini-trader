@@ -1385,7 +1385,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales en criptomonedas (ETH-USD y SOL-USD) y acciones (MSFT, QQQ, NVDA) mientras el mercado accionario esté cerrado. Vigilar de cerca el comportamiento de ETH-USD y SOL-USD para asegurar beneficios si se acercan al objetivo de +2.0% o cortar pérdidas si rompen soportes. En cuanto abra Wall Street, evaluar la rotación de capital de posiciones estancadas si surge mejor momentum.",
-    "updated_at": "2026-10-16T07:00:51.879178-03:00"
+    "notes": "Mantener las posiciones actuales en cripto (ETH-USD y SOL-USD) monitoreando de cerca el soporte para evitar activar el stop-loss del -2.0%. Esperar la apertura de Wall Street para evaluar la rotación de capital de las acciones si alguna se estanca o buscar oportunidades en take-profit si alcanzan la zona de +2.0% a +3.5%.",
+    "updated_at": "2026-10-16T07:10:49.302251-03:00"
   }
 }
