@@ -1385,7 +1385,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (ETH-USD y SOL-USD) y acciones con precios congelados hasta la apertura de Wall Street. Monitorear de cerca el RSI de ETH y SOL para asegurar ganancias si se aproximan a sobrecompra, o cortar pérdidas si rompen soportes clave. Preparar capital para rotaciones rápidas en cuanto abra el mercado tradicional.",
-    "updated_at": "2026-10-16T09:30:55.056276-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (ETH-USD y SOL-USD) y monitorear su evolución. Objetivo de take-profit en ETH-USD si supera el rango de sobrecompra (>70 RSI). Prepararse para la apertura de Wall Street para evaluar la rotación de capital en acciones tecnológicas con mejor momentum.",
+    "updated_at": "2026-10-16T09:40:43.537107-03:00"
   }
 }
