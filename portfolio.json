@@ -1391,7 +1391,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos ETH-USD buscando maximizar el take-profit si el RSI de 1h cruza el nivel de 70. Monitorizaremos la posición de NVDA y MSFT; si no muestran recuperación de impulso en las próximas horas, rotaremos capital hacia activos con mayor inercia alcista. La liquidez actual se mantendrá prudente por encima del umbral mínimo requerido.",
-    "updated_at": "2026-10-16T11:30:53.078359-03:00"
+    "notes": "Mantendremos ETH-USD y monitorizaremos su RSI de 1h buscando el nivel de 70 para asegurar ganancias de forma óptima. Las posiciones en MSFT, NVDA y SOL-USD se mantendrán temporalmente mientras sigan protegiendo el capital, pero rotaremos hacia activos con mayor inercia si el impulso lateral persiste. Operaremos con cautela manteniendo la liquidez por encima del mínimo requerido.",
+    "updated_at": "2026-10-16T11:40:48.615263-03:00"
   }
 }
