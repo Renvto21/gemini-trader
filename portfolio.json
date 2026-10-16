@@ -1357,7 +1357,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear la apertura de Wall Street para las posiciones abiertas (MSFT, QQQ, NVDA). El objetivo principal sigue siendo asegurar ganancias entre +2.0% y +3.5% o ejecutar un stop-loss estricto si alguna posición quiebra el soporte de -2.0%. Mantener liquidez en reserva y vigilar el comportamiento de las criptomonedas para posibles entradas si aparece un momentum intradiario fuerte.",
-    "updated_at": "2026-10-16T03:30:45.944347-03:00"
+    "notes": "Monitorear la apertura de Wall Street para las posiciones abiertas (MSFT, QQQ, NVDA). Mantener las posiciones actuales ya que ninguna ha alcanzado el stop-loss de -2.0%. Esperar a la apertura para buscar la toma de ganancias si alcanzan el objetivo de +2.0% a +3.5% o rotar capital si pierden momentum.",
+    "updated_at": "2026-10-16T03:40:45.558215-03:00"
   }
 }
