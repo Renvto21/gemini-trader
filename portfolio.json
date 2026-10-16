@@ -1397,7 +1397,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca las posiciones abiertas (MSFT, NVDA, ETH-USD). Ejecutar stop-loss preventivo si alguna posición supera el -2.0% de pérdida o si el momentum se deteriora. Mantener la liquidez disponible para aprovechar oportunidades de alta convicción en cripto o tech cuando los indicadores técnicos muestren rupturas claras al alza.",
-    "updated_at": "2026-10-16T13:20:53.269280-03:00"
+    "notes": "Mantener las posiciones abiertas actuales (MSFT, NVDA, ETH-USD) vigilando de cerca sus soportes. Si MSFT o NVDA profundizan pérdidas acercándose al -2.0% o si ETH-USD pierde fuerza en su rebote, ejecutaré ventas para proteger el capital. Monitorearé el comportamiento de cripto y tech en busca de rupturas con alto volumen para desplegar la liquidez disponible.",
+    "updated_at": "2026-10-16T13:31:00.536170-03:00"
   }
 }
