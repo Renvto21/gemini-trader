@@ -1385,7 +1385,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD y SOL-USD vigilando de cerca los soportes para evitar activar el stop-loss del -2.0%. En cuanto abra Wall Street, evaluar la toma de beneficios en MSFT y QQQ si alcanzan el objetivo de +2.0% a +3.5%, o rotar capital si pierden momentum. Esperar confirmación de volumen en cripto para posibles reentradas.",
-    "updated_at": "2026-10-16T07:20:52.257818-03:00"
+    "notes": "Monitorear de cerca las posiciones abiertas en ETH-USD y SOL-USD para asegurar que no rompan soportes críticos. Mantener preparadas las órdenes de venta con objetivo de +2.0% a +3.5% para MSFT y QQQ en cuanto abra Wall Street. Vigilar la liquidez en efectivo ($4.17 USD) y evaluar la rotación de capital si alguna posición secundaria pierde momentum.",
+    "updated_at": "2026-10-16T07:30:50.676108-03:00"
   }
 }
