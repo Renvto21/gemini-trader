@@ -1385,7 +1385,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de criptomonedas actuales (ETH-USD y SOL-USD) buscando alcanzar el rango de take-profit del +2.0% al +3.5% o un RSI de 1H superior a 70. Las posiciones de acciones (MSFT, QQQ, NVDA) permanecerán en HOLD hasta la apertura de Wall Street. No se ejecutan nuevas compras en este ciclo para preservar el efectivo por encima del límite mínimo de $4.00.",
-    "updated_at": "2026-10-16T05:51:18.719595-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (ETH-USD y SOL-USD) y en renta variable (MSFT, QQQ, NVDA) mientras operamos bajo estrictos márgenes de control de riesgo. Vigilar que ETH-USD y SOL-USD alcancen el rango de take-profit (+2.0% a +3.5%) o un RSI de 1H superior a 70. Prepararse para rotar capital hacia oportunidades de alta convicción en cuanto Wall Street abra o si surge una ruptura clara en cripto.",
+    "updated_at": "2026-10-16T06:00:49.627344-03:00"
   }
 }
