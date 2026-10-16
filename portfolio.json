@@ -1385,7 +1385,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de ETH-USD y SOL-USD vigilando el objetivo de take-profit entre +2.0% y +3.5%. Las acciones tradicionales (MSFT, QQQ, NVDA) permanecen retenidas debido al cierre del mercado. Si ETH-USD o SOL-USD alcanzan la zona de sobrecompra en 1H o rozan el +2% de beneficio, realizaremos una toma de ganancias parcial para liberar efectivo y buscar nuevas entradas.",
-    "updated_at": "2026-10-16T08:40:53.933852-03:00"
+    "notes": "Mantendremos las posiciones abiertas de ETH-USD y SOL-USD vigilando de cerca el objetivo de take-profit entre +2.0% y +3.5%. Si ETH-USD alcanza la zona de sobrecompra en 1H o se acerca al umbral de beneficio del +2%, realizaremos una toma de ganancias parcial para asegurar capital. Las acciones tradicionales se mantendrán retenidas hasta la apertura del mercado.",
+    "updated_at": "2026-10-16T08:50:54.813078-03:00"
   }
 }
