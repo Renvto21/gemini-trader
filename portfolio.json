@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD operando bajo supervisión cercana de los stop-loss en -2.0% y buscando zonas de take-profit entre +2.0% y +3.5%. La liquidez se mantiene ajustada en reserva mientras esperamos la consolidación del impulso en cripto para evaluar posibles nuevas entradas o rotaciones de capital.",
-    "updated_at": "2026-10-16T17:30:49.834147-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD. Monitorear de cerca el RSI de 1 hora y el cambio porcentual para asegurar ganancias si se alcanza el rango de +2.0% a +3.5%, o recortar si el precio rompe el soporte del stop-loss en -2.0%. Mantener la reserva de efectivo mínima de $4.00 y evaluar nuevas entradas solo si se presenta una oportunidad de alta convicción en cripto.",
+    "updated_at": "2026-10-16T17:40:45.160446-03:00"
   }
 }
