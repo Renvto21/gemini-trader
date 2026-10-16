@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras construyen momentum. Establecer take-profit si SOL-USD o ETH-USD alcanzan ganancias del +2.5% o si su RSI de 1h supera 70. Activar stop-loss estricto si alguna posición cae por debajo del -2.0%. Mantener la reserva de efectivo requerida de $4.00 USD y vigilar el comportamiento de BTC-USD como indicador macro para el sector cripto.",
-    "updated_at": "2026-10-16T18:10:42.881181-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras continúan consolidando tras sus rebotes desde la sobreventa. Monitorear de cerca los objetivos de take-profit cercanos al +2.5% o si el RSI de 1 hora supera los 70 puntos. Mantener un stop-loss estricto a -2.0%. La liquidez en efectivo disponible de $18.29 USD se mantendrá temporalmente a la espera de una ruptura alcista más clara o una confirmación de momentum en BTC-USD.",
+    "updated_at": "2026-10-16T18:20:46.972405-03:00"
   }
 }
