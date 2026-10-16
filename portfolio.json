@@ -1423,7 +1423,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré la posición abierta en SOL-USD buscando consolidar el rebote técnico hacia la zona de take-profit (+2.5%), operando con un stop-loss estricto de -2.0%. En MSFT, supervisaré el comportamiento del holding actual de 1d 4h para asegurar la toma de ganancias si se acerca al +2.0% o aplicar corte de pérdidas si rompe el soporte del -2.0%. Mantendré liquidez disponible para futuras entradas en criptomonedas o tecnología si el impulso mejora.",
-    "updated_at": "2026-10-16T15:30:53.498999-03:00"
+    "notes": "Mantendré abierta la posición en SOL-USD evaluando su consolidación y buscando el objetivo de take-profit en +2.5%, con un stop-loss estricto en -2.0%. En MSFT, monitorearé la duración del holding (> 1 día) y su PnL cercano a -1.62%; si no logra romper al alza y se acerca al límite de pérdida, ejecutaré la venta para rotar el capital. Mantendré la reserva de liquidez y vigilaré posibles entradas en activos con mayor momentum.",
+    "updated_at": "2026-10-16T15:41:05.288769-03:00"
   }
 }
