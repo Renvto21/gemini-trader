@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras continúan su consolidación. Estar atentos a alcanzar el objetivo de take-profit entre +2.0% y +3.5%, o un RSI de 1 hora superior a 70. Mantener un stop-loss estricto en -2.0% para proteger el capital. La liquidez restante de $18.29 USD se mantendrá a la espera de una mayor confirmación de volumen o una ruptura alcista más clara en BTC-USD o altcoins.",
-    "updated_at": "2026-10-16T18:40:47.392597-03:00"
+    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD a la espera de un incremento en el volumen que impulse el rebote técnico hacia el objetivo de take-profit (+2.0% a +3.5%). Monitorearemos de cerca el RSI de 1 hora y el comportamiento de BTC-USD. Si alguna posición rompe a la baja superando el -2.0% de pérdida, ejecutaremos el stop-loss de inmediato para proteger el capital. No se realizarán nuevas compras en este ciclo para conservar la liquidez y dejar trabajar a las posiciones actuales.",
+    "updated_at": "2026-10-16T18:50:36.258475-03:00"
   }
 }
