@@ -1,11 +1,16 @@
 {
   "initial_capital": 40.0,
-  "cash": 31.89777220021119,
+  "cash": 21.89777220021119,
   "positions": {
     "MSFT": {
       "shares": 0.012145673337444178,
       "avg_price": 535.17,
       "opened_at": "2026-10-15T10:50:47.123357-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.09642271719217048,
+      "avg_price": 103.71,
+      "opened_at": "2026-10-16T15:01:05.667404-03:00"
     }
   },
   "history": [
@@ -1406,10 +1411,19 @@
       "pnl_usd": -0.15,
       "pnl_pct": -2.12,
       "reason": "ETH-USD ha rebasado el umbral estricto de stop-loss (-2.12%), operando en tendencia bajista bajo la SMA20 sin lograr el rebote esperado tras casi 10 horas de holding. Se ejecuta la venta para cortar pérdidas y preservar el capital."
+    },
+    {
+      "timestamp": "2026-10-16T15:01:05.667416-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.0,
+      "shares": 0.096423,
+      "price": 103.71,
+      "reason": "SOL-USD presenta un RSI de 1 hora en 34.3 saliendo de la zona de sobreventa extrema, acompañado de un cambio positivo de 0.14% en la última hora. Aprovechamos la oportunidad de alta convicción para cazar un rebote técnico rápido (mean reversion) asignando $10.0 USD de la liquidez disponible."
     }
   ],
   "memory": {
-    "notes": "Mantengo la posición en MSFT vigilando el soporte y esperando una extensión del rebote hacia la zona de take-profit (+2%). Si MSFT rompe a la baja el stop-loss estricto de -2%, procederé a vender inmediatamente para cortar pérdidas. Con el efectivo disponible ($31.9 USD), mantendré la liquidez esperando activamente un cruce alcista en el RSI de 1 hora de activos como NVDA o BTC-USD para desplegar capital en el próximo ciclo.",
-    "updated_at": "2026-10-16T14:50:44.471605-03:00"
+    "notes": "Mantengo MSFT vigilando el soporte y esperando el objetivo de take-profit (+2.0%). Si rompe el stop-loss estricto de -2%, venderé inmediatamente. Con el efectivo restante, he abierto una posición en SOL-USD aprovechando el rebote técnico desde la sobreventa; estableceré un stop-loss estricto de -2.0% y buscaré un take-profit rápido del +2.5%.",
+    "updated_at": "2026-10-16T15:01:05.665022-03:00"
   }
 }

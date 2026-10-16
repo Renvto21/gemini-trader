@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 14:50:44`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-16 15:01:05`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.90 USD** | **$6.40 USD** | **$38.30 USD** | 🔴 **-4.25%** ($-1.70) |
+| **$40.00 USD** | **$21.90 USD** | **$16.40 USD** | **$38.30 USD** | 🔴 **-4.26%** ($-1.70) |
 
 ---
 
@@ -16,22 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012146 | $535.17 | $527.28 | $6.40 | 📉 -1.47% | 1d 3h |
+| `MSFT` | 0.012146 | $535.17 | $526.88 | $6.40 | 📉 -1.55% | 1d 4h |
+| `SOL-USD` | 0.096423 | $103.71 | $103.71 | $10.00 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo bajista general con la mayoría de los activos operando bajo sus medias móviles diarias (SMA20). Sin embargo, el RSI de 1 hora en varios activos se encuentra en niveles cercanos o inferiores a 35, lo que sugiere oportunidades inminentes de rebote por reversión a la media (mean reversion). MSFT se mantiene en cartera mostrando un pequeño retroceso (-1.47%) tras un holding de 1 día y 3 horas, pero mantiene una tendencia diaria alcista sólida sobre la SMA20. Mantengo el capital disponible en efectivo para buscar entradas de alta convicción en cripto o tecnología si se confirma el giro de momentum."
+> "El mercado general se encuentra bajo presión con la mayoría de los activos cotizando en tendencia bajista bajo la SMA20. Sin embargo, observamos condiciones interesantes de sobreventa en el corto plazo (RSI de 1 hora bajo 35) que sugieren oportunidades potenciales de rebote técnico. MSFT se mantiene en cartera con una pérdida menor de -1.55% y un holding time superior a 1 día; dado que su RSI de 1 hora está cruzando al alza hacia 35 y muestra un cambio positivo de 0.21%, mantenemos la posición esperando la extensión hacia la zona de take-profit. En cuanto a la liquidez disponible, activos como SOL-USD muestran un RSI de 1 hora en 34.3 saliendo de sobreventa con un cambio positivo de 0.14%, lo que activa nuestra estrategia agresiva de mean reversion."
 
 **Operaciones del ciclo:**
-- **[HOLD] MSFT** (Confianza: 75%): MSFT se mantiene en cartera con una pérdida actual de -1.47%, la cual está lejos de activar el stop-loss estricto de -2.0%. Dado que su tendencia diaria es alcista (sobre la SMA20) y muestra un pequeño repunte en el cambio de 1h (+0.29%), mantengo la posición esperando el rebote hacia el objetivo de take-profit sin forzar ventas prematuras.
+- **[BUY] SOL-USD** (Confianza: 85%): SOL-USD presenta un RSI de 1 hora en 34.3 saliendo de la zona de sobreventa extrema, acompañado de un cambio positivo de 0.14% en la última hora. Aprovechamos la oportunidad de alta convicción para cazar un rebote técnico rápido (mean reversion) asignando $10.0 USD de la liquidez disponible.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantengo la posición en MSFT vigilando el soporte y esperando una extensión del rebote hacia la zona de take-profit (+2%). Si MSFT rompe a la baja el stop-loss estricto de -2%, procederé a vender inmediatamente para cortar pérdidas. Con el efectivo disponible ($31.9 USD), mantendré la liquidez esperando activamente un cruce alcista en el RSI de 1 hora de activos como NVDA o BTC-USD para desplegar capital en el próximo ciclo."
+> "Mantengo MSFT vigilando el soporte y esperando el objetivo de take-profit (+2.0%). Si rompe el stop-loss estricto de -2%, venderé inmediatamente. Con el efectivo restante, he abierto una posición en SOL-USD aprovechando el rebote técnico desde la sobreventa; estableceré un stop-loss estricto de -2.0% y buscaré un take-profit rápido del +2.5%."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
@@ -45,11 +46,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-16 15:01` | 🟢 BUY | `SOL-USD` | $10.00 | $103.71 | SOL-USD presenta un RSI de 1 hora en 34.3 saliendo de la zona de sobreventa extrema, acomp... |
 | `2026-10-16 14:30` | 🔴 SELL (-0.15$) | `ETH-USD` | $6.85 | $2399.90 | ETH-USD ha rebasado el umbral estricto de stop-loss (-2.12%), operando en tendencia bajist... |
 | `2026-10-16 13:40` | 🔴 SELL (-0.02$) | `NVDA` | $7.98 | $216.80 | NVDA lleva más de 24 horas abierto operando bajo la SMA20 con un momentum débil, acumula u... |
 | `2026-10-16 12:50` | 🔴 SELL (-0.06$) | `SOL-USD` | $2.94 | $104.34 | SOL-USD lleva varias horas abierto sin generar el rebote esperado, acumulando una pérdida ... |
 | `2026-10-16 10:50` | 🔴 SELL (-0.04$) | `QQQ` | $9.95 | $721.83 | QQQ lleva más de 22 horas abierto operando bajo la SMA20 con un RSI de 1 hora en 30.2 y un... |
-| `2026-10-16 05:10` | 🟢 BUY | `SOL-USD` | $3.00 | $106.33 | SOL-USD presenta un RSI diario en zona de sobreventa extrema (29.0) y un cambio positivo e... |
 
 ---
 
