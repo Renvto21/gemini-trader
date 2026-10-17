@@ -1,11 +1,21 @@
 {
   "initial_capital": 40.0,
-  "cash": 28.0463702487084,
+  "cash": 8.0463702487084,
   "positions": {
     "BTC-USD": {
       "shares": 0.00012319723939625962,
       "avg_price": 81170.65,
       "opened_at": "2026-10-17T19:00:46.892906-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.0974184120798831,
+      "avg_price": 102.65,
+      "opened_at": "2026-10-17T19:10:46.160645-03:00"
+    },
+    "ETH-USD": {
+      "shares": 0.004192784218360202,
+      "avg_price": 2385.05,
+      "opened_at": "2026-10-17T19:10:46.162893-03:00"
     }
   },
   "history": [
@@ -1506,10 +1516,28 @@
       "shares": 0.000123,
       "price": 81170.65,
       "reason": "BTC-USD muestra un RSI de 1H saliendo de niveles bajos (37.5) con un cambio positivo de 0.16% en la última hora, cumpliendo la condición táctica de rebote técnico. Asignamos $10.00 USD por alta convicción para buscar una recuperación rápida hacia la media."
+    },
+    {
+      "timestamp": "2026-10-17T19:10:46.160659-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.0,
+      "shares": 0.097418,
+      "price": 102.65,
+      "reason": "SOL-USD presenta un RSI de 1H en 31.5 saliendo de zona de sobreventa estricta y un cambio positivo de 0.1h en 0.5%, lo que indica un fuerte potencial de rebote táctico a corto plazo dentro de nuestra estrategia cuantitativa agresiva."
+    },
+    {
+      "timestamp": "2026-10-17T19:10:46.162905-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 10.0,
+      "shares": 0.004193,
+      "price": 2385.05,
+      "reason": "ETH-USD muestra un RSI de 1H en 29.0 (sobreventa profunda) combinado con un cambio de 1h positivo de 0.3%, cumpliendo perfectamente con los criterios de mean reversion y momentum de rebote para maximizar el rendimiento del portafolio."
     }
   ],
   "memory": {
-    "notes": "Mantenemos $38.05 USD en efectivo. Para este ciclo, decidimos realizar una entrada moderada en BTC-USD aprovechando que su RSI de 1H ha cruzado al alza con un cambio positivo, ofreciendo mayor estabilidad que las altcoins. Estableceremos un take-profit agresivo en +2.5% y un stop-loss estricto en -2.0% para proteger el capital. Seguiremos monitoreando ETH-USD y SOL-USD para una posible entrada secundaria si confirman el momentum alcista en el próximo ciclo.",
-    "updated_at": "2026-10-17T19:00:46.891622-03:00"
+    "notes": "Mantenemos la posición actual en BTC-USD monitoreando de cerca su evolución hacia el objetivo de take-profit del +2.5% o el stop-loss en -2.0%. Aprovechamos la liquidez disponible para reingresar en SOL-USD y ETH-USD capturando sus rebotes desde niveles de sobreventa extrema en temporalidad de 1H. Mantendremos la reserva mínima de efectivo requerida y seguiremos evaluando la rotación de capital para ciclos futuros.",
+    "updated_at": "2026-10-17T19:10:46.158198-03:00"
   }
 }
