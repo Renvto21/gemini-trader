@@ -1469,7 +1469,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición actual en SOL-USD ya que lleva poco tiempo abierta (40m) y su comportamiento es estable. Establecemos nuestro objetivo de salida (take-profit) entre +2.0% y +3.5% o cuando el RSI de 1 hora supere los 70 puntos. El stop-loss estricto se mantiene en -2.0% para proteger el capital. Si el impulso se agota sin alcanzar el objetivo, consideraremos rotar hacia ETH-USD en los siguientes ciclos.",
-    "updated_at": "2026-10-17T11:00:45.608462-03:00"
+    "notes": "Mantendremos la posición actual en SOL-USD por el momento, ya que lleva solo 50 minutos abierta y su PnL es plano. Monitorearemos de cerca el RSI de 1 hora y el cambio porcentual. Si el precio alcanza el objetivo de +2.0% a +3.5% o si el RSI de 1 hora supera los 70 puntos, realizaremos un TAKE-PROFIT inmediato. El stop-loss estricto se mantiene en -2.0% para proteger el capital. Si el impulso se estanca, consideraremos rotar hacia ETH-USD.",
+    "updated_at": "2026-10-17T11:10:38.868312-03:00"
   }
 }
