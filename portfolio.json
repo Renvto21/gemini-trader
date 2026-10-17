@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD durante este ciclo ya que se encuentran con pérdidas mínimas (-0.2% y -0.46%) y los mercados tradicionales cerrados limitan otras opciones líquidas. Seguiremos vigilando el RSI de 1 hora y el cambio porcentual de corto plazo para identificar el momento en que se dispare el volumen y el rebote técnico hacia la zona objetivo de +2.0% a +3.5%. Si alguna de las posiciones vulnera el soporte crítico y se acerca al límite de -2.0%, ejecutaremos la venta inmediata para proteger el capital disponible.",
-    "updated_at": "2026-10-17T16:10:38.948088-03:00"
+    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo ya que el PnL se mantiene controlado dentro de rangos aceptables y no se han activado los stop-loss de -2.0%. Monitorearemos de cerca el RSI de 1 hora en busca de un aumento de volumen que impulse los precios hacia el objetivo de ganancia de +2.0% a +3.5%. Si el impulso falla y se acercan al límite de pérdidas, procederemos a vender inmediatamente para proteger el capital.",
+    "updated_at": "2026-10-17T16:20:42.065532-03:00"
   }
 }
