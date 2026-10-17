@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en SOL-USD y ETH-USD supervisando de cerca que no rompan el stop-loss del -2.0%. Estar preparados para asegurar ganancias si el RSI de 1 hora supera los 70 o si el rendimiento alcanza el rango de +2.0% a +3.5%. Conservar la liquidez restante de $18.29 USD y evaluar entradas adicionales en BTC-USD o continuar rotando capital si el impulso alcista intradiario se desacelera.",
-    "updated_at": "2026-10-16T21:00:50.001970-03:00"
+    "notes": "Monitorear estrictamente las posiciones abiertas en SOL-USD y ETH-USD para asegurar ganancias si se alcanza el rango de +2.0% a +3.5%, o activar el stop-loss en caso de que caigan por debajo del -2.0%. Mantener la liquidez remanente lista para desplegar en cuanto se detecte una mejora clara en el momentum intradiario.",
+    "updated_at": "2026-10-16T21:10:35.455839-03:00"
   }
 }
