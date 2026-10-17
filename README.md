@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 13:20:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 13:30:44`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$18.48 USD** | **$19.87 USD** | **$38.34 USD** | 🔴 **-4.15%** ($-1.66) |
+| **$40.00 USD** | **$18.48 USD** | **$19.85 USD** | **$38.33 USD** | 🔴 **-4.18%** ($-1.67) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.096209 | $103.94 | $103.36 | $9.94 | 📉 -0.56% | 3h 0m |
-| `ETH-USD` | 0.004126 | $2423.75 | $2404.80 | $9.92 | 📉 -0.78% | 1h 29m |
+| `SOL-USD` | 0.096209 | $103.94 | $103.28 | $9.94 | 📉 -0.63% | 3h 10m |
+| `ETH-USD` | 0.004126 | $2423.75 | $2403.24 | $9.92 | 📉 -0.85% | 1h 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de Wall Street se encuentra cerrado por lo que la liquidez activa se concentra en criptomonedas. Los activos SOL-USD y ETH-USD muestran consolidación ligera tras las recientes entradas en busca de rebotes, manteniendo pérdidas menores y lejos de los límites de stop-loss. El RSI de 1 hora se mantiene estable sin señales inmediatas de sobrecompra o sobreventa extrema."
+> "El mercado cripto se mantiene operando 24/7 pero con un sesgo lateral a bajista de corto plazo, con SOL-USD y ETH-USD mostrando ligeras contracciones tras sus intentos de rebote. Los mercados tradicionales (Wall Street) se encuentran cerrados, limitando las opciones puramente tácticas a los activos digitales abiertos. Mantenemos la disciplina observando los niveles de soporte actuales sin alcanzar aún los gatillos de take-profit o stop-loss."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 75%): La posición en SOL-USD se encuentra estable con una pérdida marginal del -0.56%, muy por encima del stop-loss y con el mercado cripto operando lateralmente. Esperamos la confirmación del rebote en el corto plazo.
-- **[HOLD] ETH-USD** (Confianza: 75%): La posición en ETH-USD registra una pérdida menor del -0.78%, manteniendo el plan táctico inicial a la espera de un impulso alcista que acerque el RSI de 1 hora hacia la zona de take-profit.
+- **[HOLD] SOL-USD** (Confianza: 70%): La posición en SOL-USD se mantiene dentro de parámetros aceptables con una pérdida menor del -0.63%. El RSI de 1 hora está en 34.0, próximo a zonas de rebote potencial. Esperamos confirmación de momentum positivo antes de realizar cualquier movimiento.
+- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD registra una leve pérdida del -0.85%, muy lejos del stop-loss del -2.0%. El RSI diario en niveles de sobreventa profunda respalda mantener la posición a la espera de un rebote técnico.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener posiciones abiertas en SOL-USD y ETH-USD. Monitorear de cerca el indicador RSI de 1 hora y el cambio porcentual para asegurar beneficios en cuanto se aproximen a la zona de sobrecompra (>70) o activar un cierre defensivo si se rompen los soportes de -2.0%."
+> "Monitorear las posiciones abiertas en SOL-USD y ETH-USD durante los siguientes ciclos. Esperar a que el RSI de 1 hora supere la zona de 70 para asegurar beneficios o que se active el stop-loss estricto si rompen el soporte del -2.0%. Mantener la liquidez actual intacta hasta ver un cambio claro de momentum en el mercado cripto."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
