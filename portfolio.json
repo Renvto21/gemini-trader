@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD durante este ciclo para permitir que alcancen el objetivo de take-profit entre +2.0% y +3.5% o niveles de sobrecompra en el RSI de 1 hora (>70). El stop-loss se mantiene estricto en -2.0% y no realizaremos nuevas operaciones por ahora para preservar la liquidez mínima requerida.",
-    "updated_at": "2026-10-17T15:50:35.311790-03:00"
+    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo ya que se encuentran con pérdidas mínimas (-0.17% y -0.45%) y aún no han alcanzado el objetivo de take-profit entre +2.0% y +3.5% ni el stop-loss estricto de -2.0%. Estaremos monitoreando de cerca el RSI de 1 hora en busca de un aumento en el volumen y un cambio porcentual positivo que dispare el rebote técnico esperado. Si alguna posición rompe a la baja el límite de -2.0%, ejecutaremos la venta inmediata para proteger el capital.",
+    "updated_at": "2026-10-17T16:00:49.448233-03:00"
   }
 }
