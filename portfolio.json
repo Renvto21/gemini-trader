@@ -1469,7 +1469,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la posición actual en SOL-USD vigilando un objetivo de take-profit entre +2.0% y +3.5% o una sobrecompra en RSI de 1 hora (>70). Mantener un stop-loss estricto en -2.0%. Preservar el efectivo disponible respetando la reserva mínima de $4.00 USD y estar atentos a cualquier aceleración alcista en ETH-USD o SOL-USD para rotar capital si fuera necesario.",
-    "updated_at": "2026-10-17T10:30:46.146696-03:00"
+    "notes": "Mantendremos la posición actual en SOL-USD bajo vigilancia estricta. Monitorearemos un objetivo de take-profit entre +2.0% y +3.5% o una sobrecompra en el RSI de 1 hora (>70). El stop-loss se mantiene firme en -2.0%. Si el precio rompe el soporte o el holding time se extiende sin momentum positivo, evaluaremos rotar hacia ETH-USD o capitalizar nuevas oportunidades en cripto.",
+    "updated_at": "2026-10-17T10:40:36.101528-03:00"
   }
 }
