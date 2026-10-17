@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD activas por unas horas más para evaluar si el momentum intradiario logra consolidar ganancias hacia la meta de +2.0% / +3.5%. El stop-loss estricto se mantiene firmemente vigilado en -2.0% por posición. Si transcurren más ciclos sin movimiento o perforan soportes críticos, procederemos a vender para asegurar liquidez.",
-    "updated_at": "2026-10-17T17:00:45.268564-03:00"
+    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD por unos ciclos adicionales dado que se mantienen estables dentro de los rangos de riesgo permitidos. Monitorearemos de cerca un incremento en el volumen o RSI de 1 hora para asegurar ganancias si rozan el +2%, o cortar de inmediato si las pérdidas se acercan al -2%. No se abrirán nuevas posiciones en este momento para preservar el efectivo mínimo.",
+    "updated_at": "2026-10-17T17:10:38.520702-03:00"
   }
 }
