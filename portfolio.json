@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo ya que el PnL se mantiene controlado dentro de rangos aceptables y no se han activado los stop-loss de -2.0%. Monitorearemos de cerca el RSI de 1 hora en busca de un aumento de volumen que impulse los precios hacia el objetivo de ganancia de +2.0% a +3.5%. Si el impulso falla y se acercan al límite de pérdidas, procederemos a vender inmediatamente para proteger el capital.",
-    "updated_at": "2026-10-17T16:20:42.065532-03:00"
+    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD ya que se encuentran con pérdidas controladas (dentro de los límites del stop-loss de -2.0%). Continuaremos monitoreando de cerca el RSI de 1 hora y el volumen de transacciones en busca de la confirmación alcista que impulse los precios hacia el rango objetivo de take-profit de +2.0% a +3.5%. Si alguna de las posiciones rompe a la baja superando el -2.0% de pérdida, ejecutaremos el cierre inmediato.",
+    "updated_at": "2026-10-17T16:30:46.209901-03:00"
   }
 }
