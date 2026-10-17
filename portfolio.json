@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD supervisando su avance hacia el objetivo de ganancia de +2.0% a +3.5% o hasta que el RSI de 1 hora supere los 70. Conservar la reserva de efectivo mínima y preparar el capital para rotar en cuanto se detecte una mayor aceleración del momentum o reabran los mercados tradicionales.",
-    "updated_at": "2026-10-17T03:20:38.466120-03:00"
+    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD esperando que alcancen el objetivo de take-profit entre +2.0% y +3.5%, o recortarlas si pierden el soporte del 2.0% de stop-loss. Vigilar la apertura de los mercados tradicionales para buscar oportunidades de rebote en tecnológicas de alta beta si el sentimiento macro mejora.",
+    "updated_at": "2026-10-17T03:30:41.664952-03:00"
   }
 }
