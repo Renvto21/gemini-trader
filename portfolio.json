@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear las posiciones abiertas en SOL-USD y ETH-USD. Esperar a que el RSI de 1 hora supere la zona de 70 para asegurar beneficios o que se acerquen al stop-loss estricto de -2.0%. Mantener la liquidez actual intacta hasta ver un repunte claro en el momentum de las criptomonedas.",
-    "updated_at": "2026-10-17T13:40:38.269649-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD durante este ciclo a la espera de un repunte en el momentum intradiario. Vigilar de cerca el nivel de soporte actual y estar preparados para asegurar beneficios parciales si el RSI de 1 hora rebota hacia la zona de 70, o ejecutar un stop-loss estricto si las pérdidas superan el -2.0% en cualquiera de los dos activos.",
+    "updated_at": "2026-10-17T13:50:48.529540-03:00"
   }
 }
