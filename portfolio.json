@@ -1,18 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 18.475610699053938,
-  "positions": {
-    "SOL-USD": {
-      "shares": 0.09620935154897056,
-      "avg_price": 103.94,
-      "opened_at": "2026-10-17T10:20:35.662812-03:00"
-    },
-    "ETH-USD": {
-      "shares": 0.0041258380608561115,
-      "avg_price": 2423.75,
-      "opened_at": "2026-10-17T11:50:39.611653-03:00"
-    }
-  },
+  "cash": 38.0463702487084,
+  "positions": {},
   "history": [
     {
       "timestamp": "2026-10-07T20:09:58.250279",
@@ -1480,10 +1469,32 @@
       "shares": 0.004126,
       "price": 2423.75,
       "reason": "ETH-USD presenta un RSI diario en niveles de sobreventa profunda (28.9) y un cambio positivo en su última hora de 0.14%, lo que indica un fuerte potencial de rebote técnico (mean reversion) en el mercado cripto 24/7."
+    },
+    {
+      "timestamp": "2026-10-17T18:40:40.076633-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 9.79,
+      "shares": 0.096209,
+      "price": 101.78,
+      "pnl_usd": -0.21,
+      "pnl_pct": -2.08,
+      "reason": "La posición ha alcanzado una pérdida de -2.08%, rompiendo el límite de stop-loss estricto del -2.0%. El momentum de corto plazo sigue deteriorándose con un RSI de 1 hora en 23.8 y un cambio de -2.18% en la última hora, por lo que es imperativo cortar la pérdida y proteger el capital."
+    },
+    {
+      "timestamp": "2026-10-17T18:40:40.078958-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 9.78,
+      "shares": 0.004126,
+      "price": 2370.09,
+      "pnl_usd": -0.22,
+      "pnl_pct": -2.21,
+      "reason": "La posición acumula una pérdida de -2.21%, excediendo el umbral de stop-loss del -2.0%. El RSI de 1 hora se mantiene en niveles muy débiles (23.3) y el impulso bajista persiste, obligando a la liquidación inmediata para preservar liquidez."
     }
   ],
   "memory": {
-    "notes": "Mantendremos SOL-USD y ETH-USD un ciclo más ya que las pérdidas se mantienen acotadas alrededor del -1.0% y no han tocado el stop-loss de -2.0%. El RSI de 1 hora se encuentra en niveles cercanos a sobreventa (28.9 para SOL y 31.1 para ETH), lo que podría anticipar un rebote técnico inminente. Si en el próximo ciclo las pérdidas superan el -1.5% o el impulso bajista continúa sin respetarse el soporte, procederemos a vender para cortar pérdidas y proteger el capital. Take-profit objetivo entre +2.0% y +3.5%.",
-    "updated_at": "2026-10-17T18:30:43.690905-03:00"
+    "notes": "Las posiciones abiertas en SOL-USD y ETH-USD han superado nuestro límite de tolerancia de pérdida del -2.0% (actualmente rondando el -2.08% y -2.21%). Siguiendo estrictamente el plan táctico, procedemos a liquidar ambas posiciones para cortar las pérdidas a tiempo, preservar el capital remanente en efectivo y evitar un mayor deterioro ante la persistencia de la tendencia bajista. En el próximo ciclo buscaremos puntos de entrada con confirmación real de volumen y giro de RSI.",
+    "updated_at": "2026-10-17T18:40:40.073466-03:00"
   }
 }

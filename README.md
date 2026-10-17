@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 18:30:43`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 18:40:40`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$18.48 USD** | **$19.79 USD** | **$38.27 USD** | 🔴 **-4.33%** ($-1.73) |
+| **$40.00 USD** | **$38.05 USD** | **$0.00 USD** | **$38.05 USD** | 🔴 **-4.88%** ($-1.95) |
 
 ---
 
@@ -16,42 +16,41 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.096209 | $103.94 | $102.85 | $9.90 | 📉 -1.05% | 8h 10m |
-| `ETH-USD` | 0.004126 | $2423.75 | $2398.95 | $9.90 | 📉 -1.02% | 6h 40m |
+| *(Ninguna posición abierta - 100% en efectivo)* | - | - | - | - | - | - |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado durante el fin de semana, por lo que la operativa se concentra exclusivamente en criptomonedas (ABIERTO 24/7). Las criptomonedas principales (SOL-USD, ETH-USD y BTC-USD) muestran una ligera presión a la baja en el corto plazo con caídas en el cambio de 1 hora y 24 horas, situándose en tendencias bajistas bajo la SMA20. Sin embargo, nuestros activos en cartera (SOL-USD y ETH-USD) se mantienen relativamente estables con pérdidas controladas (-1.05% y -1.02%) tras varias horas de tenencia. No se ha alcanzado aún el stop-loss estricto del -2.0% ni el rebote esperado para tomar ganancias, por lo que decidimos mantener la postura actual y seguir vigilando de cerca."
+> "El mercado de criptomonedas continúa bajo una fuerte presión bajista, con SOL-USD y ETH-USD rompiendo soportes de corto plazo y registrando pérdidas cercanas al -2.1% y -2.2% respectivamente, situándose por debajo de sus medias móviles de 20 días y con un RSI de 1 hora profundamente deprimido (por debajo de 24). Los mercados tradicionales de Wall Street se encuentran cerrados. El momentum alcista esperado no se materializó y el soporte ha cedido, activando nuestras reglas de gestión de riesgo."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 70%): La posición en SOL-USD muestra una pérdida moderada del -1.05% tras 8 horas abierta. El RSI de 1 hora está en 28.9 (sobreventa de corto plazo) y el RSI diario en 21.7, manteniendo la expectativa de un rebote técnico inminente sin haber tocado el stop-loss del -2.0%.
-- **[HOLD] ETH-USD** (Confianza: 70%): La posición en ETH-USD acumula una pérdida del -1.02% con un tiempo abierto de casi 7 horas. El RSI de 1 hora se sitúa en 31.1 y el diario en 27.5, manteniendo intacto el soporte macro y la posibilidad de un repunte a corto plazo.
+- **[SELL] SOL-USD** (Confianza: 95%): La posición ha alcanzado una pérdida de -2.08%, rompiendo el límite de stop-loss estricto del -2.0%. El momentum de corto plazo sigue deteriorándose con un RSI de 1 hora en 23.8 y un cambio de -2.18% en la última hora, por lo que es imperativo cortar la pérdida y proteger el capital.
+- **[SELL] ETH-USD** (Confianza: 95%): La posición acumula una pérdida de -2.21%, excediendo el umbral de stop-loss del -2.0%. El RSI de 1 hora se mantiene en niveles muy débiles (23.3) y el impulso bajista persiste, obligando a la liquidación inmediata para preservar liquidez.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos SOL-USD y ETH-USD un ciclo más ya que las pérdidas se mantienen acotadas alrededor del -1.0% y no han tocado el stop-loss de -2.0%. El RSI de 1 hora se encuentra en niveles cercanos a sobreventa (28.9 para SOL y 31.1 para ETH), lo que podría anticipar un rebote técnico inminente. Si en el próximo ciclo las pérdidas superan el -1.5% o el impulso bajista continúa sin respetarse el soporte, procederemos a vender para cortar pérdidas y proteger el capital. Take-profit objetivo entre +2.0% y +3.5%."
+> "Las posiciones abiertas en SOL-USD y ETH-USD han superado nuestro límite de tolerancia de pérdida del -2.0% (actualmente rondando el -2.08% y -2.21%). Siguiendo estrictamente el plan táctico, procedemos a liquidar ambas posiciones para cortar las pérdidas a tiempo, preservar el capital remanente en efectivo y evitar un mayor deterioro ante la persistencia de la tendencia bajista. En el próximo ciclo buscaremos puntos de entrada con confirmación real de volumen y giro de RSI."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
 
 | Operaciones Cerradas | Tasa de Acierto (Win Rate) | Beneficio Realizado | Mejor Trade | Peor Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **65** | 🎯 **40.0%** (26W / 25L / 14BE) | 🔴 **$-1.41 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
+| **67** | 🎯 **38.8%** (26W / 27L / 14BE) | 🔴 **$-1.84 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
 ---
 
 ### 📜 Últimos Movimientos
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-17 18:40` | 🔴 SELL (-0.22$) | `ETH-USD` | $9.78 | $2370.09 | La posición acumula una pérdida de -2.21%, excediendo el umbral de stop-loss del -2.0%. El... |
+| `2026-10-17 18:40` | 🔴 SELL (-0.21$) | `SOL-USD` | $9.79 | $101.78 | La posición ha alcanzado una pérdida de -2.08%, rompiendo el límite de stop-loss estricto ... |
 | `2026-10-17 11:50` | 🟢 BUY | `ETH-USD` | $10.00 | $2423.75 | ETH-USD presenta un RSI diario en niveles de sobreventa profunda (28.9) y un cambio positi... |
 | `2026-10-17 10:20` | 🟢 BUY | `SOL-USD` | $10.00 | $103.94 | SOL-USD presenta un RSI diario en niveles de sobreventa extrema (22.5) y un cambio positiv... |
 | `2026-10-17 04:30` | 🔴 SELL (+0.12$) | `SOL-USD` | $10.12 | $104.94 | SOL-USD ha alcanzado un RSI de 1 hora de 70.4, entrando en zona de sobrecompra, y acumula ... |
-| `2026-10-17 04:00` | 🔴 SELL (+0.07$) | `ETH-USD` | $10.07 | $2429.64 | ETH-USD ha alcanzado un RSI de 1 hora de 73.3, entrando en zona de sobrecompra. Siguiendo ... |
-| `2026-10-16 16:30` | 🟢 BUY | `ETH-USD` | $10.00 | $2412.98 | ETH-USD muestra un RSI diario en niveles de sobreventa extrema (30.3) y un cambio positivo... |
 
 ---
 
