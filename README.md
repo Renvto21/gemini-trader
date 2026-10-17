@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 18:20:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 18:30:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$18.48 USD** | **$19.96 USD** | **$38.44 USD** | 🔴 **-3.90%** ($-1.56) |
+| **$40.00 USD** | **$18.48 USD** | **$19.79 USD** | **$38.27 USD** | 🔴 **-4.33%** ($-1.73) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.096209 | $103.94 | $103.81 | $9.99 | 📉 -0.13% | 8h 0m |
-| `ETH-USD` | 0.004126 | $2423.75 | $2417.97 | $9.98 | 📉 -0.24% | 6h 30m |
+| `SOL-USD` | 0.096209 | $103.94 | $102.85 | $9.90 | 📉 -1.05% | 8h 10m |
+| `ETH-USD` | 0.004126 | $2423.75 | $2398.95 | $9.90 | 📉 -1.02% | 6h 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado por lo que la liquidez activa se concentra en criptomonedas. Los activos SOL-USD y ETH-USD muestran una consolidación lateral tras haber ingresado en zonas de sobreventa diaria, manteniendo un PnL plano sin rupturas claras de momentum alcista en 1 hora."
+> "El mercado tradicional se encuentra cerrado durante el fin de semana, por lo que la operativa se concentra exclusivamente en criptomonedas (ABIERTO 24/7). Las criptomonedas principales (SOL-USD, ETH-USD y BTC-USD) muestran una ligera presión a la baja en el corto plazo con caídas en el cambio de 1 hora y 24 horas, situándose en tendencias bajistas bajo la SMA20. Sin embargo, nuestros activos en cartera (SOL-USD y ETH-USD) se mantienen relativamente estables con pérdidas controladas (-1.05% y -1.02%) tras varias horas de tenencia. No se ha alcanzado aún el stop-loss estricto del -2.0% ni el rebote esperado para tomar ganancias, por lo que decidimos mantener la postura actual y seguir vigilando de cerca."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 70%): La posición se mantiene dentro de los límites de riesgo con una pérdida menor del 0.2%. El RSI diario sigue en zona de rebote potencial, por lo que esperamos una señal de momentum en 1 hora para buscar el take-profit.
-- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD registra una variación marginal negativa. El soporte macro diario sigue intacto y no hay señales de pánico que fuercen una salida anticipada antes del stop-loss o del objetivo alcista.
+- **[HOLD] SOL-USD** (Confianza: 70%): La posición en SOL-USD muestra una pérdida moderada del -1.05% tras 8 horas abierta. El RSI de 1 hora está en 28.9 (sobreventa de corto plazo) y el RSI diario en 21.7, manteniendo la expectativa de un rebote técnico inminente sin haber tocado el stop-loss del -2.0%.
+- **[HOLD] ETH-USD** (Confianza: 70%): La posición en ETH-USD acumula una pérdida del -1.02% con un tiempo abierto de casi 7 horas. El RSI de 1 hora se sitúa en 31.1 y el diario en 27.5, manteniendo intacto el soporte macro y la posibilidad de un repunte a corto plazo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos SOL-USD y ETH-USD un ciclo más ya que la pérdida es mínima (-0.13% y -0.24%) y siguen respetando el soporte diario. Si el RSI de 1 hora no despega al alza en el próximo ciclo, procederemos a vender para rotar el capital. Stop-loss estricto a -2.0% y take-profit entre +2.0% y +3.5%."
+> "Mantendremos SOL-USD y ETH-USD un ciclo más ya que las pérdidas se mantienen acotadas alrededor del -1.0% y no han tocado el stop-loss de -2.0%. El RSI de 1 hora se encuentra en niveles cercanos a sobreventa (28.9 para SOL y 31.1 para ETH), lo que podría anticipar un rebote técnico inminente. Si en el próximo ciclo las pérdidas superan el -1.5% o el impulso bajista continúa sin respetarse el soporte, procederemos a vender para cortar pérdidas y proteger el capital. Take-profit objetivo entre +2.0% y +3.5%."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
