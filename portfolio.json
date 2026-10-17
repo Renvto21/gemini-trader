@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas en SOL-USD y ETH-USD durante este ciclo ya que se encuentran dentro de rangos normales de fluctuación (-0.23% y -0.54%) y no han alcanzado los niveles de stop-loss (-2.0%) ni de take-profit (+2.5%). Para el próximo ciclo, vigilaremos de cerca si el RSI de 1 hora cruza el umbral de 70 para asegurar beneficios o si se activan salidas defensivas ante caídas abruptas.",
-    "updated_at": "2026-10-17T13:00:43.586218-03:00"
+    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD durante este ciclo ya que se encuentran estables con pérdidas mínimas (-0.27% y -0.63%) y lejos de los límites de stop-loss (-2.0%). Para los siguientes ciclos, el objetivo es vigilar de cerca el indicador RSI de 1 hora para asegurar beneficios si se aproxima a la zona de sobrecompra (>70) o activar un cierre defensivo si se rompen los soportes actuales.",
+    "updated_at": "2026-10-17T13:10:34.814023-03:00"
   }
 }
