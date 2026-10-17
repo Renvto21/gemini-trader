@@ -1454,7 +1454,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la vigilancia sobre BTC-USD. Esperar a que el RSI de 1 hora rompa por debajo de 35 con un giro alcista claro en el cambio de 1 hora para desplegar una entrada agresiva de $8.00 USD, fijando un objetivo de take-profit a corto plazo del +2.5% y un stop-loss estricto al -2.0%.",
-    "updated_at": "2026-10-17T09:00:50.775547-03:00"
+    "notes": "Mantener la vigilancia sobre BTC-USD. Esperar a que el RSI de 1 hora baje a niveles de sobreventa extrema (< 35) acompañado de un giro alcista claro en el cambio de 1 hora para desplegar una entrada agresiva de $8.00 USD, fijando un objetivo de take-profit a corto plazo del +2.5% y un stop-loss estricto al -2.0%. Preservar efectivo cumpliendo con la reserva mínima.",
+    "updated_at": "2026-10-17T09:10:33.627887-03:00"
   }
 }

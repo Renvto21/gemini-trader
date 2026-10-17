@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 09:00:50`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 09:10:33`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se encuentra abierto 24/7, mientras que los activos tradicionales están cerrados. BTC-USD muestra un RSI de 1 hora en 38.6 y un cambio de 1 hora positivo leve, aproximándose a la zona de interés para buscar un rebote técnico hacia los $83,000 USD, manteniendo una reserva de liquidez operativa por encima de los $4.00 USD."
+> "El mercado tradicional se encuentra cerrado por lo que la liquidez debe centrarse exclusivamente en criptomonedas (24/7). BTC-USD muestra un RSI de 1 hora en 39.5 y un cambio de 1h marginalmente positivo, acercándose a la zona de interés para buscar un rebote técnico. ETH-USD y SOL-USD se mantienen neutrales tras haber completado tomas de ganancias previas. Mantendremos la disciplina esperando mejores condiciones de entrada en cripto según las reglas tácticas."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 70%): El RSI de 1 hora de BTC-USD está en 38.6, acercándose al umbral ideal de < 35 para activar una entrada táctica por rebote. Esperamos la confirmación del siguiente ciclo para ejecutar la compra.
+- **[HOLD] BTC-USD** (Confianza: 70%): BTC-USD se encuentra en un RSI de 1 hora de 39.5, acercándose a la zona de oportunidad, pero aún no rompe por debajo de 35 con la confirmación alcista requerida para una entrada agresiva.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la vigilancia sobre BTC-USD. Esperar a que el RSI de 1 hora rompa por debajo de 35 con un giro alcista claro en el cambio de 1 hora para desplegar una entrada agresiva de $8.00 USD, fijando un objetivo de take-profit a corto plazo del +2.5% y un stop-loss estricto al -2.0%."
+> "Mantener la vigilancia sobre BTC-USD. Esperar a que el RSI de 1 hora baje a niveles de sobreventa extrema (< 35) acompañado de un giro alcista claro en el cambio de 1 hora para desplegar una entrada agresiva de $8.00 USD, fijando un objetivo de take-profit a corto plazo del +2.5% y un stop-loss estricto al -2.0%. Preservar efectivo cumpliendo con la reserva mínima."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
