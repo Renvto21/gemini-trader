@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitoreando las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD que llevan pocos minutos de ejecución. Esperaremos a que alcancen nuestro objetivo de take-profit entre +2.0% y +3.5%, o activaremos el stop-loss si alguna posición perfora el límite de -2.0%. La liquidez en efectivo se mantiene en niveles mínimos para maximizar la exposición en los activos abiertos 24/7.",
-    "updated_at": "2026-10-17T19:20:36.504946-03:00"
+    "notes": "Mantener las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) permitiendo que evolucionen hacia el objetivo de take-profit entre +2.0% y +3.5%. Activar el stop-loss de forma inmediata si alguna posición perfora el -2.0%. La liquidez se mantiene en mínimos ($8.05 USD) con exposición total en criptomonedas. En el siguiente ciclo evaluaremos rotar capital si el impulso se desacelera o si alcanzamos las metas de beneficio.",
+    "updated_at": "2026-10-17T19:30:48.646372-03:00"
   }
 }
