@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de SOL-USD y ETH-USD durante este ciclo a pesar del bajo dinamismo, ya que se encuentran cerca de los precios de entrada y sus RSI diarios siguen en zonas de sobreventa profunda (22.6 y 28.3 respectivamente). Si en las próximas horas no se observa un incremento en el volumen y una ruptura del rsi_1h por encima de 50, procederemos a liquidarlas para buscar mayor volatilidad. Mantendremos una reserva de efectivo para reaccionar ante cualquier cambio abrupto en los criptoactivos.",
-    "updated_at": "2026-10-17T17:40:42.337008-03:00"
+    "notes": "Las posiciones de SOL-USD y ETH-USD llevan varias horas abiertas sin mostrar el rebote de momentum esperado, manteniéndose planas. Mantendremos las posiciones vigentes durante este ciclo evaluando una posible rotación de capital si el RSI de 1 hora no supera la zona de 50 en las próximas horas. El objetivo de take-profit se mantiene entre +2.0% y +3.5%, y los stop-loss se activarán estrictamente si la pérdida alcanza el -2.0% para proteger el capital.",
+    "updated_at": "2026-10-17T17:50:35.617632-03:00"
   }
 }
