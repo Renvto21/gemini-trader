@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD mientras monitoreamos el comportamiento del RSI de 1 hora. El objetivo es asegurar ganancias en cuanto alcancen la zona de +2.0% a +3.5% de beneficio o su RSI cruce los 70 puntos. El stop-loss se mantiene estricto en -2.0% para proteger el capital ante cualquier caída imprevista.",
-    "updated_at": "2026-10-17T14:50:35.614389-03:00"
+    "notes": "Las posiciones en SOL-USD y ETH-USD se mantienen estables con pérdidas mínimas de -0.55% y -0.58%, respectivamente. El tiempo abierto aún es moderado (menos de 5 horas), por lo que no rotaremos el capital todavía. Monitorearemos el RSI de 1 hora buscando la aceleración hacia la zona de +2.0% o +3.5% para tomar beneficios, o ejecutaremos un stop-loss estricto en -2.0% si el impulso bajista retoma fuerza.",
+    "updated_at": "2026-10-17T15:00:43.980984-03:00"
   }
 }
