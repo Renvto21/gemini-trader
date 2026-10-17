@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de SOL-USD y ETH-USD durante unas horas más para evaluar si logran romper al alza hacia el objetivo de take-profit (+2.0% a +3.5%). El stop-loss estricto sigue fijado en -2.0% de pérdida por posición. Si el impulso continúa estancado o perfora los soportes actuales, procederemos a rotar el capital hacia liquidez o BTC-USD en el próximo ciclo.",
-    "updated_at": "2026-10-17T16:40:42.110093-03:00"
+    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD durante las próximas horas para permitir que el momentum alcista intradiario active el take-profit fijado entre +2.0% y +3.5%. El stop-loss estricto permanece vigilado en -2.0% por posición. Si transcurren más ciclos sin movimiento o las criptomonedas perforan soportes críticos, procederemos a vender para asegurar liquidez.",
+    "updated_at": "2026-10-17T16:50:43.450476-03:00"
   }
 }
