@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de SOL-USD y ETH-USD ya que se encuentran estables con pérdidas marginales y un tiempo de retención corto. El plan táctico para el próximo ciclo es vigilar de cerca el RSI de 1 hora y el cambio porcentual: si alguna posición alcanza el rango de take-profit de +2.0% a +3.5% o cruza el RSI de sobrecompra (>70), realizaremos beneficios. Si rompen a la baja superando el -2.0%, aplicaremos el stop-loss de inmediato.",
-    "updated_at": "2026-10-17T12:40:39.258227-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD durante este ciclo ya que se encuentran dentro de rangos normales de fluctuación y no han roto los límites de stop-loss ni alcanzado los niveles de take-profit. Para el próximo ciclo, vigilar si el RSI de 1 hora supera 70 para asegurar ganancias, o si se deterioran por debajo de -2.0% para cortar pérdidas de inmediato.",
+    "updated_at": "2026-10-17T12:50:36.771451-03:00"
   }
 }
