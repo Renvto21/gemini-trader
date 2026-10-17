@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD mientras evolucionan hacia el rango objetivo de take-profit de +2.0% a +3.5%. Vigilar de cerca el RSI de 1 hora en busca de señales de sobrecompra (>70) para asegurar beneficios y rotar capital. Mantener la reserva de efectivo requerida y no abrir nuevas posiciones hasta que se libere capital.",
-    "updated_at": "2026-10-17T00:40:46.861305-03:00"
+    "notes": "Mantener las posiciones actuales de SOL-USD y ETH-USD mientras continúan su avance hacia la zona de take-profit del +2.0% al +3.5%. Vigilar el indicador RSI de 1 hora en busca de niveles de sobrecompra (>70) para asegurar beneficios de manera inmediata. Si alguna posición pierde impulso o se acerca a la zona de stop-loss del -2.0%, proceder a cortar pérdidas para proteger el capital. No abrir nuevas posiciones hasta que se materialice la toma de ganancias y se libere liquidez.",
+    "updated_at": "2026-10-17T00:50:39.324232-03:00"
   }
 }
