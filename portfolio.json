@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo a pesar de la lentitud, ya que sus indicadores de sobreventa sugieren un posible rebote técnico inminente. Monitorear de cerca que el PnL no supere el límite de stop-loss de -2.0% y esperar un aumento de volumen y cruce del RSI de 1 hora por encima de 40 para asegurar ganancias en el rango objetivo de +2.0% a +3.5%. Conservar el efectivo actual como reserva.",
-    "updated_at": "2026-10-16T22:40:44.961382-03:00"
+    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo a pesar de la lentitud temporal y la ligera caída en el RSI de 1 hora. El objetivo sigue siendo buscar un take-profit en el rango de +2.0% a +3.5% en cuanto el volumen repunte y cruce el RSI de 1 hora por encima de 40. Monitorear rigurosamente que las pérdidas no alcancen el límite de stop-loss de -2.0%. Mantener el efectivo actual de reserva.",
+    "updated_at": "2026-10-16T22:50:37.868181-03:00"
   }
 }
