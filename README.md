@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 06:30:54`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 06:40:38`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto mantiene activos abiertos 24/7, pero tanto ETH-USD como SOL-USD muestran RSI de 1 hora en zonas de fuerte sobrecompra (77.8 y 81.5 respectivamente), mientras que BTC-USD se encuentra en un punto neutral (RSI 1h en 54.9). Los activos tradicionales (Wall Street) permanecen cerrados. Dado que no hay condiciones óptimas para cazar rebotes inmediatos en criptomonedas debido a la sobrecompra actual, y respetando la regla de mantener una reserva de liquidez y buscar entradas precisas, el plan es esperar un retroceso intradiario."
+> "El mercado tradicional se encuentra completamente cerrado, por lo que toda la operativa se concentra en las criptomonedas (BTC-USD, ETH-USD, SOL-USD). Tanto ETH-USD como SOL-USD muestran niveles elevados de RSI en 1 hora (> 70), lo cual indica que continúan en zona de sobrecompra tras los rebotes previos, cumpliendo el plan anterior de venta. Por otro lado, BTC-USD muestra un RSI diario de 39 y un RSI de 1 hora neutral en 54.6, sin ofrecer una clara señal de entrada por sobreventa extrema todavía."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 60%): BTC-USD tiene un RSI de 1 hora en 54.9 y no presenta una sobreventa extrema ni un cambio de impulso claro que justifique una entrada agresiva en este momento. Mantenemos el capital en liquidez esperando mejores niveles de descuento.
+- **[HOLD] BTC-USD** (Confianza: 50%): El activo está abierto, pero el RSI de 1 hora se encuentra en 54.6 y el RSI diario en 39.0. No hay una señal clara de sobreventa extrema ni un momentum alcista confirmado para justificar una entrada en este momento, por lo que prefiero mantener liquidez.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantengo mi efectivo disponible de $38.48 USD. Las criptomonedas principales (ETH y SOL) están en sobrecompra intradiaria (RSI 1H > 75). Plan táctico: esperar un retroceso intradiario que hunda el RSI de 1 hora de ETH-USD o SOL-USD por debajo de 35 para activar nuevas compras de alto potencial de rebote. Mantener la disciplina en la reserva de efectivo y evaluar oportunidades en activos tradicionales en cuanto abra el mercado."
+> "Mantengo mi efectivo disponible de $38.48 USD. Las criptomonedas ETH y SOL siguen en sobrecompra intradiaria, descartando compras en este momento. Plan táctico: esperar un retroceso en ETH-USD o SOL-USD que hunda el RSI de 1 hora por debajo de 35 para activar nuevas compras de rebote con alta convicción. Mantendré la paciencia y disciplina respetando la reserva mínima de efectivo."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
