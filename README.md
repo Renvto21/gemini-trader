@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 09:40:43`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 09:50:37`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "Los mercados bursátiles tradicionales se encuentran cerrados, por lo que la liquidez activa se concentra en el mercado cripto (24/7). SOL-USD y ETH-USD muestran RSI diarios extremadamente deprimidos (22.7 y 29.1 respectivamente), pero en este ciclo específico el cambio de 1 hora es levemente negativo y el RSI de 1 hora no muestra una señal clara de cruce alcista inmediato. BTC-USD mantiene un perfil lateral bajista con RSI de 1 hora en 35.8. Mantenemos el enfoque estricto en la estrategia de mean reversion esperando la confirmación exacta del pulso técnico."
+> "El mercado tradicional se encuentra cerrado, por lo que la liquidez debe concentrarse exclusivamente en activos cripto que operan 24/7. En cripto, BTC-USD muestra un RSI de 1 hora en 34.8 bordeando la zona de sobreventa con un cambio de 1h casi plano (-0.08%), mientras que ETH-USD y SOL-USD tienen RSI de 1 hora neutrales (51.0 y 44.2 respectivamente) tras las tomas de ganancias recientes. Esperamos una confirmación más clara de impulso alcista en el RSI de 1 hora para BTC antes de comprometer capital."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 50%): El RSI diario se encuentra en zona de sobreventa extrema (22.7), pero el RSI de 1 hora está en 47.1 y el cambio de 1 hora es negativo (-0.4%). Esperamos una confirmación más clara del impulso técnico antes de desplegar capital.
+- **[HOLD] BTC-USD** (Confianza: 60%): El RSI de 1 hora de BTC-USD está en 34.8 muy cerca de la zona de oportunidad, pero el cambio de 1 hora sigue ligeramente negativo (-0.08%). Esperamos a que el impulso de corto plazo se torne positivo para ejecutar una entrada con alta convicción.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la liquidez actual de $38.48 USD. Monitorear de cerca a SOL-USD y ETH-USD en busca de un quiebre alcista en el RSI de 1 hora (>35) acompañado de un 'change_1h_pct' positivo para desplegar entre $8.00 y $10.00 USD en la próxima oportunidad. Respetar estrictamente los objetivos de take-profit en +2.5% y stop-loss en -2.0% una vez ejecutada la entrada."
+> "Mantener la liquidez actual de $38.48 USD. Monitorear a BTC-USD y ETH-USD en busca de un quiebre alcista definitivo en el RSI de 1 hora (>35) acompañado de un 'change_1h_pct' positivo para desplegar entre $8.00 y $10.00 USD en el próximo ciclo. Respetar estrictamente los objetivos de take-profit en +2.5% y stop-loss en -2.0% una vez ejecutada la entrada."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
