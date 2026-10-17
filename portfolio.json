@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de SOL-USD y ETH-USD ya que se encuentran estables dentro del rango de tolerancia y con poco tiempo de apertura. Monitorearemos la evolución del RSI de 1 hora buscando que supere los 70 puntos para asegurar take-profit o que se acerque al stop-loss estricto en -2.0%. La liquidez se mantiene segura en $18.48 USD esperando la próxima confirmación de momentum alcista.",
-    "updated_at": "2026-10-17T12:20:43.191712-03:00"
+    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD durante este ciclo ya que llevan poco tiempo abiertas y sus caídas actuales son mínimas (-0.03% y -0.4%). El plan táctico para el próximo ciclo es monitorear el RSI de 1 hora: si supera los 70 puntos o el rendimiento alcanza el rango de +2.0% a +3.5%, ejecutaremos un take-profit total o parcial. Si alguna posición rompe a la baja superando el límite de -2.0%, aplicaremos el stop-loss estricto para proteger el capital.",
+    "updated_at": "2026-10-17T12:30:43.570015-03:00"
   }
 }
