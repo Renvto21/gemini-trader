@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) ya que se encuentran estables con pequeñas ganancias y no han tocado el stop-loss estricto (-2.0%). Esperar a que el RSI de 1H alcance niveles superiores a 60-70 o que el PnL llegue al objetivo de +2.0% para realizar tomas de beneficio y liberar efectivo. Monitorear de cerca el impulso de corto plazo en los siguientes ciclos.",
-    "updated_at": "2026-10-17T20:40:41.707494-03:00"
+    "notes": "Mantener las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) ya que se encuentran en terreno positivo y sin tocar el stop-loss estricto (-2.0%). Esperar a que el RSI de 1H de alguno de los activos alcance niveles superiores a 60-70 o que el PnL se aproxime al objetivo de +2.0% para realizar tomas de beneficio y asegurar liquidez en efectivo. En el siguiente ciclo, si el momentum se debilita sin alcanzar el objetivo, evaluar la rotación parcial del capital.",
+    "updated_at": "2026-10-17T20:50:38.662285-03:00"
   }
 }
