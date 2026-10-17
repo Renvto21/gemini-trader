@@ -1469,7 +1469,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición actual en SOL-USD bajo vigilancia estricta. Monitorearemos un objetivo de take-profit entre +2.0% y +3.5% o una sobrecompra en el RSI de 1 hora (>70). El stop-loss se mantiene firme en -2.0%. Si el precio rompe el soporte o el holding time se extiende sin momentum positivo, evaluaremos rotar hacia ETH-USD o capitalizar nuevas oportunidades en cripto.",
-    "updated_at": "2026-10-17T10:40:36.101528-03:00"
+    "notes": "Mantendremos la posición de SOL-USD bajo estricta observación con un holding time inicial de 30 minutos. El RSI de 1 hora se encuentra en 40.7 y esperamos un repunte del cambio porcentual de 1h a terreno positivo para buscar el take-profit entre +2.0% y +3.5% (o sobrecompra RSI 1H > 70). Si la posición se estanca o rompe el soporte inferior con un stop-loss estricto en -2.0%, cerraremos y evaluaremos rotar capital hacia ETH-USD, cuyo RSI diario también marca sobreventa extrema (28.7).",
+    "updated_at": "2026-10-17T10:50:40.051242-03:00"
   }
 }
