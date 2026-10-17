@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 08:10:35`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 08:20:42`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional (Wall Street) se encuentra cerrado, por lo que el foco operativo se concentra exclusivamente en el mercado de criptomonedas (abierto 24/7). En cuanto a las criptodivisas principales, ETH-USD presenta un RSI de 1 hora excesivamente elevado en 80.4 (sobrecompra clara), mientras que SOL-USD muestra un RSI de 1h en 65.9 y BTC-USD en 48.4 con un sesgo lateral bajista. No hay señales claras de entrada por rebote (mean reversion) ya que el RSI de 1h no está en zonas de sobreventa (<35), y los activos abiertos aún no muestran una corrección profunda que justifique desplegar el capital disponible de $38.48 USD en este preciso instante."
+> "El mercado tradicional (Wall Street) se encuentra cerrado, por lo que la liquidez y operativa se concentran exclusivamente en las criptomonedas (ABIERTO 24/7). ETH-USD muestra un RSI de 1 hora elevado en 74.0, manteniendo una zona de sobrecompra tras la toma de ganancias anterior, mientras que SOL-USD y BTC-USD presentan un momentum más neutral o plano en el corto plazo sin ofrecer aún una oportunidad clara de entrada por sobreventa extrema."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 50%): El RSI de 1 hora se encuentra en 48.4 sin mostrar una señal clara de sobreventa ni un cambio de impulso alcista contundente. Prefiero mantener liquidez en este ciclo a la espera de una corrección más profunda que ofrezca un mejor ratio de riesgo-beneficio.
+- **[HOLD] BTC-USD** (Confianza: 50%): El activo se encuentra abierto pero el RSI de 1 hora está en 45.5, sin mostrar sobreventa extrema ni el impulso alcista necesario para una entrada de rebote táctico en este ciclo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendré el capital en efectivo ($38.48 USD) respetando la reserva mínima de liquidez. Continuaré vigilando de cerca a BTC-USD y ETH-USD en los siguientes ciclos en busca de una compresión o enfriamiento del RSI de 1h por debajo de 35 que permita cazar un rebote táctico con alta convicción (>=85%). Planificaré entradas de $6.00 a $8.00 USD una vez se confirme el soporte intradiario."
+> "Mantendré el efectivo actual ($38.48 USD) respetando la reserva mínima de liquidez. Vigilaré de cerca a BTC-USD y SOL-USD en busca de una compresión o caída temporal en el RSI de 1h por debajo de 35 que permita activar un rebote táctico con una convicción mayor o igual al 85%. Planificaré entradas de $6.00 a $8.00 USD en cuanto se presente la condición técnica."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
