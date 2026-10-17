@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD supervisando de cerca el RSI de 1 hora y el cambio porcentual. Esperar a que alcancen el rango objetivo de ganancia (+2.0% a +3.5%) para realizar tomas de beneficio parciales o totales. Proteger estrictamente con stop-loss si alguna posición cae por debajo de -2.0%. Preservar la liquidez actual de 18.29 USD hasta que surja una clara oportunidad de alta convicción con un RSI saliendo de sobreventa extrema en cripto.",
-    "updated_at": "2026-10-17T01:40:37.957549-03:00"
+    "notes": "Mantener las posiciones abiertas en SOL-USD y ETH-USD supervisando de cerca el avance hacia el objetivo de take-profit entre +2.0% y +3.5%. Proteger rigurosamente con stop-loss si alguna posición perfora el -2.0% de pérdida. Conservar la liquidez actual de 18.29 USD hasta que se presente una oportunidad de alta convicción o activación clara de rebote en los activos disponibles.",
+    "updated_at": "2026-10-17T01:50:44.828972-03:00"
   }
 }
