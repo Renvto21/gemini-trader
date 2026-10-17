@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos SOL-USD buscando el objetivo de take-profit entre +2.0% y +3.5% o hasta que el RSI de 1 hora supere los 70 puntos, manteniendo un stop-loss estricto en -2.0%. Adicionalmente, hemos abierto una nueva posición en ETH-USD aprovechando su sobreventa diaria; vigilaremos de cerca su evolución para asegurar ganancias rápidas si rompe al alza o cortar pérdidas si perfora soportes.",
-    "updated_at": "2026-10-17T11:50:39.547053-03:00"
+    "notes": "Mantendremos las posiciones abiertas en SOL-USD y ETH-USD supervisando su evolución de corto plazo. Establecemos como objetivo de take-profit un rendimiento de +2.0% a +3.5% o una lectura de RSI de 1 hora superior a 70. El stop-loss estricto se mantiene en -2.0% para proteger el capital. Si el momentum se estanca y surge una oportunidad de mayor convicción en BTC-USD u otro activo, evaluaremos rotar capital.",
+    "updated_at": "2026-10-17T12:00:49.199687-03:00"
   }
 }
