@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD. Monitorear de cerca el RSI de 1 hora para buscar niveles de sobrecompra superior a 70 que permitan asegurar ganancias parciales o totales entre el +2.0% y +3.5%. Vigilar el soporte para evitar activar el stop-loss en -2.0%. Preservar el efectivo restante hasta que las criptomonedas alcancen sus objetivos de salida o surja una nueva oportunidad clara de rebote.",
-    "updated_at": "2026-10-17T01:00:45.423369-03:00"
+    "notes": "Monitorear de cerca SOL-USD y ETH-USD en busca de una aceleración del RSI de 1 hora hacia la zona de sobrecompra (>70) para ejecutar tomas de ganancias parciales o totales entre el +2.0% y +3.5%. Vigilar el soporte para evitar activar el stop-loss estricto en -2.0%. Mantener la liquidez disponible para futuras oportunidades de alta convicción en cripto mientras los activos tradicionales permanezcan cerrados.",
+    "updated_at": "2026-10-17T01:10:38.219472-03:00"
   }
 }
