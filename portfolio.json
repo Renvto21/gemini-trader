@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD un ciclo más ya que la pérdida no supera el umbral de -2.0%. Si el RSI de 1 hora no rompe al alza y el precio continúa estancado, procederemos a vender en el próximo ciclo para rotar el capital hacia oportunidades con mayor momentum.",
-    "updated_at": "2026-10-17T18:10:39.088783-03:00"
+    "notes": "Mantendremos SOL-USD y ETH-USD un ciclo más ya que la pérdida es mínima (-0.13% y -0.24%) y siguen respetando el soporte diario. Si el RSI de 1 hora no despega al alza en el próximo ciclo, procederemos a vender para rotar el capital. Stop-loss estricto a -2.0% y take-profit entre +2.0% y +3.5%.",
+    "updated_at": "2026-10-17T18:20:40.625251-03:00"
   }
 }
