@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 09:30:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 09:40:43`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado, por lo que la liquidez activa se concentra en el mercado cripto (24/7). En criptomonedas, ETH-USD muestra un RSI diario muy deprimido (29.4) y un precio estable alrededor de 2428.5, mientras que BTC-USD presenta un RSI de 1 hora en 37.0 y SOL-USD un RSI diario extremo de 22.8. No se observan en este preciso instante las condiciones ideales de ruptura alcista inmediata en el cambio de 1 hora (que permanece ligeramente negativo o plano), por lo que se prioriza mantener la paciencia táctica y conservar el efectivo para el momento exacto en que se active el impulso."
+> "Los mercados bursátiles tradicionales se encuentran cerrados, por lo que la liquidez activa se concentra en el mercado cripto (24/7). SOL-USD y ETH-USD muestran RSI diarios extremadamente deprimidos (22.7 y 29.1 respectivamente), pero en este ciclo específico el cambio de 1 hora es levemente negativo y el RSI de 1 hora no muestra una señal clara de cruce alcista inmediato. BTC-USD mantiene un perfil lateral bajista con RSI de 1 hora en 35.8. Mantenemos el enfoque estricto en la estrategia de mean reversion esperando la confirmación exacta del pulso técnico."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 50%): ETH-USD tiene un RSI diario en sobreventa (29.4), pero el cambio de 1 hora es ligeramente negativo (-0.09%) y el RSI de 1 hora está en 58.8. Esperamos una confirmación más clara del impulso alcista de corto plazo antes de ejecutar una entrada de alta convicción.
+- **[HOLD] SOL-USD** (Confianza: 50%): El RSI diario se encuentra en zona de sobreventa extrema (22.7), pero el RSI de 1 hora está en 47.1 y el cambio de 1 hora es negativo (-0.4%). Esperamos una confirmación más clara del impulso técnico antes de desplegar capital.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la liquidez actual de $38.48 USD. Vigilar de cerca el comportamiento de ETH-USD y SOL-USD ante sus bajos niveles de RSI diario. Esperar confirmación de giro en el RSI de 1 hora (>35) con cambio positivo de 1 hora para desplegar entre $8.00 y $10.00 USD en una jugada de rebote técnico. Objetivos de take-profit en +2.5% y stop-loss estricto a -2.0%."
+> "Mantener la liquidez actual de $38.48 USD. Monitorear de cerca a SOL-USD y ETH-USD en busca de un quiebre alcista en el RSI de 1 hora (>35) acompañado de un 'change_1h_pct' positivo para desplegar entre $8.00 y $10.00 USD en la próxima oportunidad. Respetar estrictamente los objetivos de take-profit en +2.5% y stop-loss en -2.0% una vez ejecutada la entrada."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
