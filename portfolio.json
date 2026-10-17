@@ -1454,7 +1454,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantengo mi liquidez en $38.48 USD respetando la reserva mínima de efectivo. Las criptomonedas principales se encuentran en zonas de sobrecompra intradiaria (RSI 1H > 70), impidiendo nuevas compras bajo nuestra estrategia de rebotes. Plan táctico para el siguiente ciclo: vigilar de cerca un retroceso en ETH-USD o SOL-USD que devuelva el RSI de 1 hora por debajo de 35 para reingresar con una confianza superior al 85%.",
-    "updated_at": "2026-10-17T05:00:48.046135-03:00"
+    "notes": "Mantengo mi efectivo disponible en $38.48 USD, respetando la reserva mínima. Las posiciones en criptomonedas siguen en sobrecompra intradiaria (RSI 1H > 70), impidiendo nuevas compras. Plan táctico para el próximo ciclo: vigilar de cerca una corrección intradiaria en ETH-USD o SOL-USD que devuelva el RSI de 1 hora por debajo de 35 para ejecutar una compra agresiva buscando el siguiente rebote técnico.",
+    "updated_at": "2026-10-17T05:10:35.404149-03:00"
   }
 }
