@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear SOL-USD para asegurar ganancias totales si su RSI de 1 hora supera 70 o si el precio se mantiene en el rango objetivo de take-profit (+2.0% a +3.5%). Mantener ETH-USD vigilando un stop-loss estricto en -2.0% y buscar nuevas entradas en criptoactivos si se presentan retrocesos a soportes con fuerte sobreventa.",
-    "updated_at": "2026-10-17T02:30:45.643739-03:00"
+    "notes": "Monitorear SOL-USD para asegurar ganancias si su RSI de 1 hora se acerca a 70 o si el precio alcanza la zona objetivo de take-profit (+2.0% a +3.5%). Vigilar ETH-USD de cerca manteniendo el stop-loss en -2.0% y preparado para rotar capital o tomar beneficios parciales si el impulso de corto plazo se intensifica.",
+    "updated_at": "2026-10-17T02:40:39.758418-03:00"
   }
 }
