@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos SOL-USD y ETH-USD en este ciclo mientras esperamos un incremento de volumen y una ruptura del rsi_1h por encima de 50 que active el impulso alcista hacia el objetivo de +2.0% o más. Si las posiciones continúan estancadas sin movimiento en las siguientes horas, rotaremos el capital hacia oportunidades con mayor volatilidad en cripto.",
-    "updated_at": "2026-10-17T17:30:44.712674-03:00"
+    "notes": "Mantendremos las posiciones actuales de SOL-USD y ETH-USD durante este ciclo a pesar del bajo dinamismo, ya que se encuentran cerca de los precios de entrada y sus RSI diarios siguen en zonas de sobreventa profunda (22.6 y 28.3 respectivamente). Si en las próximas horas no se observa un incremento en el volumen y una ruptura del rsi_1h por encima de 50, procederemos a liquidarlas para buscar mayor volatilidad. Mantendremos una reserva de efectivo para reaccionar ante cualquier cambio abrupto en los criptoactivos.",
+    "updated_at": "2026-10-17T17:40:42.337008-03:00"
   }
 }
