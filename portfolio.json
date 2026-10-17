@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD. Vigilar de cerca el RSI de 1 hora de SOL-USD (actualmente en 62.4): si alcanza la zona de sobrecompra (>70) o llega al rango de take-profit del +2.0% al +3.5%, proceder a vender para tomar beneficios y liberar efectivo. Mantener el stop-loss estricto en -2.0% para proteger el capital.",
-    "updated_at": "2026-10-17T03:40:35.078383-03:00"
+    "notes": "Mantener posiciones abiertas de SOL-USD y ETH-USD. Monitorear de cerca el RSI de 1 hora y el avance de los precios hacia el objetivo de take-profit (+2.0% a +3.5%). Si SOL-USD o ETH-USD se acercan a la zona de resistencia o alcanzan la ganancia objetivo, proceder a vender para tomar beneficios y asegurar liquidez. Mantener el stop-loss estricto en -2.0% ante cualquier reversión del mercado.",
+    "updated_at": "2026-10-17T03:50:40.460646-03:00"
   }
 }
