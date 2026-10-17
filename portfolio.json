@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD ya que se mantienen dentro del rango aceptable de tolerancia al riesgo antes de activar el stop-loss estricto del -2.0%. Estaremos monitoreando de cerca el RSI de 1 hora para buscar un impulso alcista que supere los 50 puntos o zonas de take-profit (>70) para realizar tomas de ganancias rápidas. Si alguna posición rompe los soportes y profundiza la pérdida más allá del -2.0%, ejecutaremos venta inmediata.",
-    "updated_at": "2026-10-17T14:10:42.190121-03:00"
+    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD por este ciclo. Estableceremos un stop-loss estricto en -2.0% para ambas posiciones y buscaremos zonas de take-profit cuando el RSI de 1 hora supere los 70 puntos o el rendimiento alcance el rango de +2.0% a +3.5%. Si el mercado profundiza las pérdidas y toca el umbral de -2.0%, ejecutaremos venta inmediata para proteger capital.",
+    "updated_at": "2026-10-17T14:20:42.303431-03:00"
   }
 }
