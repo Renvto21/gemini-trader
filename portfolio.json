@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras continúan buscando el objetivo de take-profit (+2.0% a +3.5%) o hasta que alcancen niveles de sobrecompra en el RSI de 1 hora (> 70). Monitorear de cerca los stop-loss (-2.0%) para cortar pérdidas ante cualquier giro bajista repentino. Dado que las posiciones llevan pocas horas abiertas y muestran estabilidad, optamos por hacer HOLD en este ciclo y conservar la liquidez en efectivo.",
-    "updated_at": "2026-10-16T20:50:44.887579-03:00"
+    "notes": "Mantener las posiciones abiertas en SOL-USD y ETH-USD supervisando de cerca que no rompan el stop-loss del -2.0%. Estar preparados para asegurar ganancias si el RSI de 1 hora supera los 70 o si el rendimiento alcanza el rango de +2.0% a +3.5%. Conservar la liquidez restante de $18.29 USD y evaluar entradas adicionales en BTC-USD o continuar rotando capital si el impulso alcista intradiario se desacelera.",
+    "updated_at": "2026-10-16T21:00:50.001970-03:00"
   }
 }
