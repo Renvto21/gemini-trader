@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en SOL-USD y ETH-USD supervisando de cerca el stop-loss estricto a -2.0% y buscando tomar beneficios si alcanzan el rango objetivo de +2.0% a +3.5%. La liquidez actual se mantendrá en $18.29 USD a la espera de nuevas señales de volumen alcista en cripto para rotar o incrementar exposición.",
-    "updated_at": "2026-10-16T23:20:40.211110-03:00"
+    "notes": "Monitorear las posiciones de SOL-USD y ETH-USD esperando que alcancen el objetivo de take-profit entre +2.0% y +3.5%. Mantener la disciplina con el stop-loss estricto a -2.0%. La liquidez actual de 18.29 USD se mantendrá a la espera de una ruptura de volumen alcista más clara en cripto para rotar o incrementar exposición sin violar la reserva mínima.",
+    "updated_at": "2026-10-16T23:30:50.377232-03:00"
   }
 }
