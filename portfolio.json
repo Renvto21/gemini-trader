@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD supervisando la recuperación del RSI de 1 hora por encima de 40 para buscar el objetivo de ganancia de +2.0% a +3.5%. Conservar los 18.29 USD de liquidez para operar en cuanto el mercado cripto rompa a la baja o genere una fuerte vela de impulso alcista. Monitorear de cerca el comportamiento en los siguientes ciclos y estar listos para recortar si el soporte falla.",
-    "updated_at": "2026-10-16T22:00:51.053145-03:00"
+    "notes": "Mantener las posiciones en SOL-USD y ETH-USD esperando un impulso alcista que nos permita alcanzar el objetivo de take-profit entre +2.0% y +3.5%. Conservar los 18.29 USD de efectivo para desplegarlos si BTC-USD o ETH-USD rompen con fuerza al alza o si se presenta una oportunidad clara de rebote. Si las posiciones actuales rompen soporte a la baja o caen por debajo de -1.5%, recortaremos para proteger capital.",
+    "updated_at": "2026-10-16T22:10:41.552742-03:00"
   }
 }
