@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD vigentes mientras se mantengan por encima del stop-loss de -2.0% y buscaremos asegurar beneficios si alcanzan el rango de take-profit entre +2.0% y +3.5%. La liquidez actual se mantendrá en reserva estricta de $4.00 USD, y operaremos en HOLD en este ciclo para permitir que las posiciones alcancen sus objetivos técnicos.",
-    "updated_at": "2026-10-17T00:30:42.833798-03:00"
+    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD mientras evolucionan hacia el rango objetivo de take-profit de +2.0% a +3.5%. Vigilar de cerca el RSI de 1 hora en busca de señales de sobrecompra (>70) para asegurar beneficios y rotar capital. Mantener la reserva de efectivo requerida y no abrir nuevas posiciones hasta que se libere capital.",
+    "updated_at": "2026-10-17T00:40:46.861305-03:00"
   }
 }
