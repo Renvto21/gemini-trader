@@ -1454,7 +1454,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la liquidez actual de $38.48 USD. Monitorear a BTC-USD y ETH-USD en busca de un quiebre alcista definitivo en el RSI de 1 hora (>35) acompañado de un 'change_1h_pct' positivo para desplegar entre $8.00 y $10.00 USD en el próximo ciclo. Respetar estrictamente los objetivos de take-profit en +2.5% y stop-loss en -2.0% una vez ejecutada la entrada.",
-    "updated_at": "2026-10-17T09:50:37.494665-03:00"
+    "notes": "Mantener la reserva de efectivo en $38.48 USD. Monitorear de cerca a SOL-USD y ETH-USD para detectar un quiebre claro y sostenido del RSI de 1 hora por encima de 50 con momentum positivo, lo que activará una entrada de $8.00 a $10.00 USD buscando un rebote rápido de corto plazo. Seguir respetando los límites estrictos de take-profit en +2.5% y stop-loss en -2.0%.",
+    "updated_at": "2026-10-17T10:00:48.289295-03:00"
   }
 }
