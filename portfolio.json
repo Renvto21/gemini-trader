@@ -1,11 +1,16 @@
 {
   "initial_capital": 40.0,
-  "cash": 28.475610699053938,
+  "cash": 18.475610699053938,
   "positions": {
     "SOL-USD": {
       "shares": 0.09620935154897056,
       "avg_price": 103.94,
       "opened_at": "2026-10-17T10:20:35.662812-03:00"
+    },
+    "ETH-USD": {
+      "shares": 0.0041258380608561115,
+      "avg_price": 2423.75,
+      "opened_at": "2026-10-17T11:50:39.611653-03:00"
     }
   },
   "history": [
@@ -1466,10 +1471,19 @@
       "shares": 0.096209,
       "price": 103.94,
       "reason": "SOL-USD presenta un RSI diario en niveles de sobreventa extrema (22.5) y un cambio positivo en la última hora de 0.13%, cumpliendo con la estrategia agresiva de caza de rebotes y mean reversion en activos abiertos 24/7."
+    },
+    {
+      "timestamp": "2026-10-17T11:50:39.611677-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 10.0,
+      "shares": 0.004126,
+      "price": 2423.75,
+      "reason": "ETH-USD presenta un RSI diario en niveles de sobreventa profunda (28.9) y un cambio positivo en su última hora de 0.14%, lo que indica un fuerte potencial de rebote técnico (mean reversion) en el mercado cripto 24/7."
     }
   ],
   "memory": {
-    "notes": "Mantendremos SOL-USD buscando alcanzar el objetivo de take-profit entre +2.0% y +3.5% o hasta que el RSI de 1 hora supere los 70 puntos. El stop-loss estricto para SOL-USD se mantiene en -2.0%. Estaremos atentos a la evolución del momentum de ETH-USD para evaluar una posible entrada si consolida su tendencia de recuperación intradiaria.",
-    "updated_at": "2026-10-17T11:40:35.702324-03:00"
+    "notes": "Mantendremos SOL-USD buscando el objetivo de take-profit entre +2.0% y +3.5% o hasta que el RSI de 1 hora supere los 70 puntos, manteniendo un stop-loss estricto en -2.0%. Adicionalmente, hemos abierto una nueva posición en ETH-USD aprovechando su sobreventa diaria; vigilaremos de cerca su evolución para asegurar ganancias rápidas si rompe al alza o cortar pérdidas si perfora soportes.",
+    "updated_at": "2026-10-17T11:50:39.547053-03:00"
   }
 }
