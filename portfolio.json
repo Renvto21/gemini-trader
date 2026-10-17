@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de SOL-USD y ETH-USD por debajo del umbral de stop-loss del -2.0% y buscaremos un take-profit entre +2.0% y +3.5%. Si el RSI de 1 hora vuelve a caer o se debilita el impulso, rotaremos el capital hacia liquidez o BTC-USD en el próximo ciclo.",
-    "updated_at": "2026-10-17T00:20:38.055724-03:00"
+    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD vigentes mientras se mantengan por encima del stop-loss de -2.0% y buscaremos asegurar beneficios si alcanzan el rango de take-profit entre +2.0% y +3.5%. La liquidez actual se mantendrá en reserva estricta de $4.00 USD, y operaremos en HOLD en este ciclo para permitir que las posiciones alcancen sus objetivos técnicos.",
+    "updated_at": "2026-10-17T00:30:42.833798-03:00"
   }
 }
