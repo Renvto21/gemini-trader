@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 10:00:48`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 10:10:37`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado por lo que la liquidez activa se enfoca completamente en criptomonedas. ETH-USD y SOL-USD muestran indicadores diarios en zona de sobreventa con intentos de estabilización en el corto plazo, pero carecen de la fuerza alcista necesaria en el RSI de 1 hora (>35 con cambio positivo fuerte) para justificar una entrada inmediata en este ciclo. Se mantiene la paciencia táctica para no forzar operaciones sin el momentum adecuado."
+> "El mercado accionario de EE. UU. se encuentra cerrado temporalmente, por lo que toda la atención se centra en los activos cripto que operan 24/7. En criptomonedas, ETH-USD y SOL-USD muestran RSI diarios extremadamente deprimidos (28.5 y 22.5 respectivamente) tras caídas semanales, lo que indica condiciones ideales de mean reversion. Sin embargo, en el corto plazo (1 hora), sus indicadores muestran consolidación con un impulso plano o ligeramente negativo, por lo que mantendremos una postura de espera para evitar entradas prematuras y conservar nuestra liquidez."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 60%): El RSI diario se mantiene bajo en 28.9, pero el RSI de 1 hora está neutral en 54.9 sin un cambio porcentual impulsivo relevante en la última hora. Esperando una mejor confirmación de volumen y momentum para ejecutar una entrada.
+- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD muestra un RSI diario atractivo de 28.5 en zona de sobreventa profunda, pero el RSI de 1 hora está en 50.0 y el cambio horario es ligeramente negativo (-0.12%). Esperamos una confirmación alcista de corto plazo para activar la compra.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener la reserva de efectivo en $38.48 USD. Monitorear de cerca a SOL-USD y ETH-USD para detectar un quiebre claro y sostenido del RSI de 1 hora por encima de 50 con momentum positivo, lo que activará una entrada de $8.00 a $10.00 USD buscando un rebote rápido de corto plazo. Seguir respetando los límites estrictos de take-profit en +2.5% y stop-loss en -2.0%."
+> "Mantener la reserva de efectivo principal activa. Monitorear de cerca a ETH-USD y SOL-USD en busca de un quiebre claro del RSI de 1 hora por encima de 50 acompañado de un 'change_1h_pct' positivo fuerte, lo que confirmará el rebote táctico para abrir posiciones de $8.00 a $10.00 USD. Respetar estrictamente los objetivos de take-profit entre +2.0% y +3.5% y el stop-loss en -2.0%."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

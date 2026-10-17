@@ -1454,7 +1454,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener la reserva de efectivo en $38.48 USD. Monitorear de cerca a SOL-USD y ETH-USD para detectar un quiebre claro y sostenido del RSI de 1 hora por encima de 50 con momentum positivo, lo que activará una entrada de $8.00 a $10.00 USD buscando un rebote rápido de corto plazo. Seguir respetando los límites estrictos de take-profit en +2.5% y stop-loss en -2.0%.",
-    "updated_at": "2026-10-17T10:00:48.289295-03:00"
+    "notes": "Mantener la reserva de efectivo principal activa. Monitorear de cerca a ETH-USD y SOL-USD en busca de un quiebre claro del RSI de 1 hora por encima de 50 acompañado de un 'change_1h_pct' positivo fuerte, lo que confirmará el rebote táctico para abrir posiciones de $8.00 a $10.00 USD. Respetar estrictamente los objetivos de take-profit entre +2.0% y +3.5% y el stop-loss en -2.0%.",
+    "updated_at": "2026-10-17T10:10:37.453854-03:00"
   }
 }
