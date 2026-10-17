@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 18.288582596907567,
+  "cash": 28.357010756907567,
   "positions": {
     "SOL-USD": {
       "shares": 0.09642271719217048,
       "avg_price": 103.71,
       "opened_at": "2026-10-16T15:01:05.667404-03:00"
-    },
-    "ETH-USD": {
-      "shares": 0.004144253164137291,
-      "avg_price": 2412.98,
-      "opened_at": "2026-10-16T16:30:48.165479-03:00"
     }
   },
   "history": [
@@ -1440,10 +1435,21 @@
       "shares": 0.004144,
       "price": 2412.98,
       "reason": "ETH-USD muestra un RSI diario en niveles de sobreventa extrema (30.3) y un cambio positivo en la última hora (0.4%), lo que indica una sólida oportunidad táctica de rebote por mean reversion (reversión a la media) aprovechando la liquidez liberada."
+    },
+    {
+      "timestamp": "2026-10-17T04:00:48.500355-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 10.07,
+      "shares": 0.004144,
+      "price": 2429.64,
+      "pnl_usd": 0.07,
+      "pnl_pct": 0.69,
+      "reason": "ETH-USD ha alcanzado un RSI de 1 hora de 73.3, entrando en zona de sobrecompra. Siguiendo la regla de take-profit rápido, vendemos la posición completa para asegurar la ganancia acumulada y elevar la liquidez."
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones abiertas de SOL-USD y ETH-USD. Monitorear de cerca el RSI de 1 hora y el avance de los precios hacia el objetivo de take-profit (+2.0% a +3.5%). Si SOL-USD o ETH-USD se acercan a la zona de resistencia o alcanzan la ganancia objetivo, proceder a vender para tomar beneficios y asegurar liquidez. Mantener el stop-loss estricto en -2.0% ante cualquier reversión del mercado.",
-    "updated_at": "2026-10-17T03:50:40.460646-03:00"
+    "notes": "Ejecutar la venta total de ETH-USD para asegurar beneficios al alcanzar la zona de sobrecompra en 1 hora (>70). Mantener SOL-USD por unas horas adicionales o vender si toca el objetivo de +2.0% a +3.5%. Una vez liberada la liquidez, buscar nuevas oportunidades de entrada con fuerte momentum técnico en el mercado cripto 24/7.",
+    "updated_at": "2026-10-17T04:00:48.497768-03:00"
   }
 }
