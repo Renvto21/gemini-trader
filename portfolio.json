@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD durante este ciclo a la espera de un repunte en el momentum intradiario. Vigilar de cerca el nivel de soporte actual y estar preparados para asegurar beneficios parciales si el RSI de 1 hora rebota hacia la zona de 70, o ejecutar un stop-loss estricto si las pérdidas superan el -2.0% en cualquiera de los dos activos.",
-    "updated_at": "2026-10-17T13:50:48.529540-03:00"
+    "notes": "Mantendremos las posiciones abiertas en SOL-USD y ETH-USD durante este ciclo actual mientras no rompan el stop-loss estricto del -2.0%. Si el RSI de 1 hora rompe al alza con fuerza superando los 50 puntos o se acerca a la zona de sobrecompra (>70), ejecutaremos take-profit. Si por el contrario el precio perfora los soportes y las pérdidas superan el -2.0%, procederemos a vender inmediatamente para proteger el capital y buscar liquidez.",
+    "updated_at": "2026-10-17T14:00:48.045718-03:00"
   }
 }
