@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 18:40:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 18:50:33`
 
 ---
 
@@ -22,17 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas continúa bajo una fuerte presión bajista, con SOL-USD y ETH-USD rompiendo soportes de corto plazo y registrando pérdidas cercanas al -2.1% y -2.2% respectivamente, situándose por debajo de sus medias móviles de 20 días y con un RSI de 1 hora profundamente deprimido (por debajo de 24). Los mercados tradicionales de Wall Street se encuentran cerrados. El momentum alcista esperado no se materializó y el soporte ha cedido, activando nuestras reglas de gestión de riesgo."
+> "El mercado general se encuentra bajo presión bajista y con los activos tradicionales cerrados (Wall Street). Los mercados cripto activos 24/7 (BTC-USD, ETH-USD, SOL-USD) muestran caídas continuas en la última hora y día, con RSI de 1 hora en niveles bajos pero sin una confirmación clara de giro alcista o cambio de tendencia que active nuestro gatillo de rebote técnico. Mantenemos la liquidez protegida mientras esperamos señales claras de reversión."
 
 **Operaciones del ciclo:**
-- **[SELL] SOL-USD** (Confianza: 95%): La posición ha alcanzado una pérdida de -2.08%, rompiendo el límite de stop-loss estricto del -2.0%. El momentum de corto plazo sigue deteriorándose con un RSI de 1 hora en 23.8 y un cambio de -2.18% en la última hora, por lo que es imperativo cortar la pérdida y proteger el capital.
-- **[SELL] ETH-USD** (Confianza: 95%): La posición acumula una pérdida de -2.21%, excediendo el umbral de stop-loss del -2.0%. El RSI de 1 hora se mantiene en niveles muy débiles (23.3) y el impulso bajista persiste, obligando a la liquidación inmediata para preservar liquidez.
+- **[HOLD] BTC-USD** (Confianza: 50%): Aunque el RSI de 1 hora se encuentra en 31.1, el cambio de la última hora sigue siendo negativo (-0.67%) y no hay confirmación de rebote definitivo. Mantenemos el efectivo en reserva esperando mejores condiciones.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Las posiciones abiertas en SOL-USD y ETH-USD han superado nuestro límite de tolerancia de pérdida del -2.0% (actualmente rondando el -2.08% y -2.21%). Siguiendo estrictamente el plan táctico, procedemos a liquidar ambas posiciones para cortar las pérdidas a tiempo, preservar el capital remanente en efectivo y evitar un mayor deterioro ante la persistencia de la tendencia bajista. En el próximo ciclo buscaremos puntos de entrada con confirmación real de volumen y giro de RSI."
+> "Hemos liquidado con éxito las posiciones anteriores para cortar pérdidas conforme al plan de gestión de riesgo estricto. Actualmente contamos con $38.05 USD en efectivo (por encima de la reserva mínima de $4.00 USD). Para el próximo ciclo, esperaremos a que ETH-USD o BTC-USD muestren un cruce alcista en su 'rsi_1h' saliendo de sobreventa con un 'change_1h_pct' positivo antes de desplegar capital en nuevas operaciones de rebote (mean reversion)."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

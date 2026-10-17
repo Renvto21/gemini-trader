@@ -1494,7 +1494,7 @@
     }
   ],
   "memory": {
-    "notes": "Las posiciones abiertas en SOL-USD y ETH-USD han superado nuestro límite de tolerancia de pérdida del -2.0% (actualmente rondando el -2.08% y -2.21%). Siguiendo estrictamente el plan táctico, procedemos a liquidar ambas posiciones para cortar las pérdidas a tiempo, preservar el capital remanente en efectivo y evitar un mayor deterioro ante la persistencia de la tendencia bajista. En el próximo ciclo buscaremos puntos de entrada con confirmación real de volumen y giro de RSI.",
-    "updated_at": "2026-10-17T18:40:40.073466-03:00"
+    "notes": "Hemos liquidado con éxito las posiciones anteriores para cortar pérdidas conforme al plan de gestión de riesgo estricto. Actualmente contamos con $38.05 USD en efectivo (por encima de la reserva mínima de $4.00 USD). Para el próximo ciclo, esperaremos a que ETH-USD o BTC-USD muestren un cruce alcista en su 'rsi_1h' saliendo de sobreventa con un 'change_1h_pct' positivo antes de desplegar capital en nuevas operaciones de rebote (mean reversion).",
+    "updated_at": "2026-10-17T18:50:33.451634-03:00"
   }
 }
