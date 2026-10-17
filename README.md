@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 06:50:38`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 07:00:45`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "Los mercados bursátiles tradicionales se encuentran cerrados, por lo que toda la atención se centra en el mercado de criptomonedas (ABIERTO 24/7). Tanto ETH-USD como SOL-USD muestran niveles de RSI de 1 hora elevados en zona de sobrecompra (por encima de 80), lo que descarta compras inmediatas de rebote en este momento según nuestra estrategia de mean reversion. Mantengo la paciencia y el efectivo disponible esperando un retroceso intradiario que hunda los indicadores de corto plazo a niveles atractivos."
+> "El mercado cripto mantiene un sesgo mixto con ETH-USD mostrando un RSI de 1 hora elevado en 74.8 (sobrecompra) y SOL-USD en 67.0, mientras que BTC-USD presenta un RSI neutral de 1 hora en 42.2 y un RSI diario de 38.7. Los activos tradicionales como acciones y ETFs están cerrados este fin de semana, por lo que toda la atención táctica se centra en las criptomonedas disponibles 24/7. Esperamos un enfriamiento en ETH y SOL para buscar puntos de entrada óptimos por reversión a la media."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 85%): ETH-USD se encuentra con un RSI de 1 hora en 80.7 (sobrecompra), por lo que no es momento de comprar. Esperaré un retroceso hacia soportes para cazar un nuevo rebote técnico.
+- **[HOLD] BTC-USD** (Confianza: 60%): El activo se encuentra en un RSI neutral de 42.2 en 1 hora y 38.7 en diario, sin mostrar aún una señal clara de rebote impulsivo. Mantengo la postura de observación a la espera de una mayor divergencia o confirmación de volumen.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantengo mi efectivo disponible de $38.48 USD. Las criptomonedas ETH y SOL continúan en sobrecompra en el gráfico de 1 hora (RSI > 80), por lo que sigo esperando un retroceso que sitúe el RSI por debajo de 35 para reingresar con compras de alta convicción. Mantendré la disciplina estricta respetando la reserva mínima de efectivo."
+> "Mantengo mi efectivo disponible de $38.48 USD. ETH-USD y SOL-USD están en zonas de sobrecompra en gráficos de corto plazo, por lo que esperaré a que el RSI de 1 hora baje de 35 o muestre una confirmación alcista para abrir nuevas posiciones de alta convicción. Mantendré la estricta disciplina de reserva mínima de liquidez y evaluaré entrar en BTC-USD si rompe rangos actuales."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
