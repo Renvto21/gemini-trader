@@ -1443,7 +1443,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca SOL-USD ya que su RSI de 1 hora se aproxima al nivel de sobrecompra (>70) para ejecutar un Take-Profit si alcanza el rango objetivo de +2.0% a +3.5%. Mantener ETH-USD esperando mayor tracción alcista. Proteger ambas posiciones con stop-loss estricto en caso de reversión por debajo del -2.0% y buscar rotar capital adicional si surge una nueva señal de entrada clara.",
-    "updated_at": "2026-10-17T02:10:59.437923-03:00"
+    "notes": "Monitorear de cerca SOL-USD para ejecutar un Take-Profit total o parcial si alcanza el rango de +2.0% a +3.5% o si su RSI de 1 hora supera 70. Mantener ETH-USD para permitir que su rebote diario madure, estableciendo un stop-loss estricto en -2.0% para ambas posiciones. Mantener la reserva de efectivo requerida y buscar nuevas entradas si se genera sobreventa extrema en otros activos abiertos.",
+    "updated_at": "2026-10-17T02:20:44.893698-03:00"
   }
 }
