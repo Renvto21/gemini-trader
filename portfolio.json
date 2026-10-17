@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD por unos ciclos adicionales dado que se mantienen estables dentro de los rangos de riesgo permitidos. Monitorearemos de cerca un incremento en el volumen o RSI de 1 hora para asegurar ganancias si rozan el +2%, o cortar de inmediato si las pérdidas se acercan al -2%. No se abrirán nuevas posiciones en este momento para preservar el efectivo mínimo.",
-    "updated_at": "2026-10-17T17:10:38.520702-03:00"
+    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD durante este ciclo a la espera de un volumen de ruptura o la reactivación del momentum en 1 hora. Si el rsi_1h supera 70 o logramos un take-profit de +2%, cerraremos para asegurar efectivo. Si alguna posición rompe los niveles de soporte o se acerca al límite de pérdida del -2%, procederemos a vender inmediatamente para proteger la cuenta y buscar alternativas en activos con mayor volatilidad.",
+    "updated_at": "2026-10-17T17:20:38.407842-03:00"
   }
 }
