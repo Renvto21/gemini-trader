@@ -1483,7 +1483,7 @@
     }
   ],
   "memory": {
-    "notes": "Las posiciones de SOL-USD y ETH-USD llevan varias horas abiertas sin mostrar el rebote de momentum esperado, manteniéndose planas. Mantendremos las posiciones vigentes durante este ciclo evaluando una posible rotación de capital si el RSI de 1 hora no supera la zona de 50 en las próximas horas. El objetivo de take-profit se mantiene entre +2.0% y +3.5%, y los stop-loss se activarán estrictamente si la pérdida alcanza el -2.0% para proteger el capital.",
-    "updated_at": "2026-10-17T17:50:35.617632-03:00"
+    "notes": "Las posiciones actuales de SOL-USD y ETH-USD llevan más de 6-7 horas con movimientos laterales mínimos (P&L cercano a 0%). Dado que no muestran el momentum de rebote esperado en el RSI de 1 hora, mantendremos las posiciones por un ciclo más vigilando de cerca el soporte. Si el RSI de 1 hora rompe a la baja o la posición se acerca al stop-loss del -2.0%, procederemos a cortar pérdidas de inmediato para liberar efectivo y buscar mejores setups en activos con mayor volatilidad y momento técnico.",
+    "updated_at": "2026-10-17T18:00:49.304240-03:00"
   }
 }
