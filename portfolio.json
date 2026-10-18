@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo. Monitorear de cerca el RSI de 1H; si las ganancias rozan el rango de +2.0% a +3.5% o el RSI supera los 70 puntos, ejecutaremos take-profit inmediato para asegurar liquidez. Si el momentum se deteriora y alguna posición vulnera el -1.5% o -2.0% de pérdida, aplicaremos stop-loss preventivo.",
-    "updated_at": "2026-10-17T21:30:47.422395-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD. Monitorear de cerca el RSI de 1H y la evolución de los precios. Objetivo de take-profit entre +2.0% y +3.5% o RSI de 1H superior a 70. Stop-loss estricto en -2.0% o si el momentum decae bruscamente. Mantener la liquidez actual intacta hasta ver una confirmación de ruptura o un nuevo punto de entrada de alta convicción.",
+    "updated_at": "2026-10-17T21:40:44.167053-03:00"
   }
 }
