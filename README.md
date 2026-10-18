@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-18 12:40:43`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-18 12:50:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$18.37 USD** | **$19.85 USD** | **$38.22 USD** | 🔴 **-4.44%** ($-1.78) |
+| **$40.00 USD** | **$18.37 USD** | **$19.90 USD** | **$38.27 USD** | 🔴 **-4.32%** ($-1.73) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.097172 | $102.91 | $101.72 | $9.88 | 📉 -1.16% | 1h 39m |
-| `ETH-USD` | 0.004205 | $2377.97 | $2370.46 | $9.97 | 📉 -0.32% | 39m |
+| `SOL-USD` | 0.097172 | $102.91 | $102.01 | $9.91 | 📉 -0.87% | 1h 49m |
+| `ETH-USD` | 0.004205 | $2377.97 | $2374.91 | $9.99 | 📉 -0.13% | 49m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario tradicional se encuentra cerrado y congelado durante el fin de semana, por lo que el foco absoluto está en el mercado cripto (24/7). Las criptomonedas principales como ETH-USD y SOL-USD se mantienen en niveles de sobreventa diaria profunda (RSI diario en 21.8 y 15.8 respectivamente), consolidando tras las recientes compras. El holding time de nuestras posiciones abiertas sigue siendo bajo (menos de 2 horas), y aunque muestran ligeras pérdidas no estructurales (-1.16% y -0.32%), el contexto de soporte macro invita a mantener la paciencia a la espera del rebote técnico."
+> "El mercado tradicional se encuentra cerrado por fin de semana, por lo que el foco operativo se centra exclusivamente en criptomonedas, que operan 24/7. Las cripto principales (SOL-USD, ETH-USD y BTC-USD) muestran condiciones de sobreventa diaria extrema, aunque el momentum de corto plazo en 1 hora se mantiene plano o con ligeras variaciones sin confirmar el rebote esperado todavía."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD tiene un tiempo abierto de menos de 2 horas. Su RSI diario se encuentra en 15.8 (sobreventa profunda) y el RSI de 1h está en 34.0. No se ha alcanzado el stop-loss de -2.0% (-1.16% actual), por lo que se mantiene la posición buscando el rebote técnico esperado.
-- **[HOLD] ETH-USD** (Confianza: 80%): ETH-USD lleva menos de 1 hora abierta. Presenta un RSI diario en 21.8 y una pérdida marginal de -0.32%, manteniéndose dentro de los parámetros esperados de acumulación en zona de soporte para capturar el próximo impulso alcista de corto plazo.
+- **[HOLD] SOL-USD** (Confianza: 75%): La posición en SOL-USD lleva poco tiempo abierta (1h 49m) con una pérdida menor de -0.87%. El RSI diario está extremadamente bajo (15.9), manteniendo la tesis de rebote por reversión a la media. Se mantiene a la espera de que el RSI de 1 hora cruce al alza con mayor fuerza.
+- **[HOLD] ETH-USD** (Confianza: 75%): La posición en ETH-USD muestra una pérdida marginal de -0.13% tras 49 minutos de haber sido abierta. El contexto de sobreventa diaria (RSI diario en 21.9) justifica mantener la posición activa en busca de un impulso alcista que permita capturar una ganancia rápida del +2.0%.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones abiertas de SOL-USD y ETH-USD ya que el tiempo en cartera es bajo y los indicadores diarios se mantienen en sobreventa extrema. Monitorear de cerca el RSI de 1 hora y el cambio porcentual: si el RSI de 1 hora supera los 55-60 y las posiciones logran una ganancia de +2.0% a +3.5%, ejecutar la toma de beneficios para rotar capital. Activar el stop-loss estricto en -2.0% de manera individual para proteger el capital si la presión bajista rompe los soportes actuales."
+> "Mantener las posiciones abiertas de SOL-USD y ETH-USD ya que el tiempo en cartera sigue siendo bajo (menos de dos horas) y los indicadores diarios se encuentran en niveles de sobreventa profunda. Monitorear de cerca el RSI de 1 hora y el cambio porcentual: si el RSI de 1 hora supera los 55-60 y las posiciones logran una ganancia de +2.0% a +3.5%, ejecutar la toma de beneficios. Mantener activo el stop-loss estricto en -2.0% individual para proteger la cuenta ante cualquier extensión bajista."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
