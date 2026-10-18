@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas actuales (BTC-USD, SOL-USD, ETH-USD) mientras continúan su proceso de recuperación desde los mínimos recientes. El RSI de 1 hora se mantiene en rangos estables sin sobrecompra extrema aún. Mantendré la observación estricta de las posiciones para asegurar beneficios en cuanto toquen el rango de +2.0% a +3.5% o ejecutar el stop-loss si el precio revierte hacia la zona de -2.0%. No se realizarán nuevas compras en este ciclo para preservar liquidez y permitir que las posiciones actuales maduren.",
-    "updated_at": "2026-10-18T00:00:46.661665-03:00"
+    "notes": "Mantener las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) mientras continúan su avance. Monitorear de cerca el RSI de 1 hora y el avance de los precios: si alguna posición alcanza la zona de +2.0% a +3.5% de beneficio, proceder a vender para asegurar ganancias y rotar liquidez. Mantener el stop-loss estricto en -2.0%. No abrir nuevas posiciones en este ciclo para consolidar la recuperación del portafolio.",
+    "updated_at": "2026-10-18T00:10:39.772462-03:00"
   }
 }
