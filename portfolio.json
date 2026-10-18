@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD. Monitorear de cerca los niveles de RSI de 1H y el progreso del precio hacia nuestra zona objetivo de take-profit (+2.0% a +3.5%). Si alguna posición muestra pérdida superior a -2.0% o pérdida de momentum, procederemos a vender inmediatamente para rotar el capital. La liquidez en efectivo se mantiene en el mínimo operativo requerido.",
-    "updated_at": "2026-10-18T05:40:36.805760-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD dado que se encuentran en zona positiva y sin señales de reversión bajista. El objetivo es mantener el monitoreo continuo para asegurar ganancias al llegar al rango de +2.0% a +3.5% de beneficio, o recortar de inmediato si se observa pérdida de momentum o ruptura del soporte del -2.0%. La liquidez se mantiene operativamente ajustada.",
+    "updated_at": "2026-10-18T05:50:37.793336-03:00"
   }
 }
