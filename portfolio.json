@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD dado que evolucionan positivamente. Monitorear de cerca el RSI de 1H en los siguientes ciclos: si ETH-USD u otro activo alcanza el rango objetivo de take-profit (+2.0% a +3.5%) o cruza 70 en RSI de 1H, procederemos a vender de inmediato para realizar beneficios y acumular liquidez. El stop-loss se mantiene rigurosamente en -2.0%.",
-    "updated_at": "2026-10-18T06:10:39.831181-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD. Monitorear de cerca los niveles de RSI de 1H en busca del rango objetivo de take-profit (+2.0% a +3.5%) o señales de sobrecompra (>70) para proceder con la venta y asegurar beneficios. El stop-loss se mantiene rigurosamente en -2.0%.",
+    "updated_at": "2026-10-18T06:20:39.661938-03:00"
   }
 }
