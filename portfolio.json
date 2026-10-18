@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantengo SOL-USD buscando el take-profit entre +2.0% y +3.5% o salida si el RSI de 1 hora supera los 55 puntos. Con el efectivo disponible, ejecuto una entrada en ETH-USD para capturar un rebote por sobreventa extrema. Stop-loss estricto en -2.0% para ambas posiciones en cripto.",
-    "updated_at": "2026-10-18T12:00:53.438161-03:00"
+    "notes": "Mantengo SOL-USD y ETH-USD esperando el desarrollo del rebote técnico. El objetivo de take-profit se mantiene entre +2.0% y +3.5% o salida si el RSI de 1 hora supera los 55-60 puntos. El stop-loss se mantiene estricto en -2.0% para proteger el capital. Mantendré la liquidez actual intacta hasta ver una confirmación más clara del impulso alcista.",
+    "updated_at": "2026-10-18T12:10:34.021551-03:00"
   }
 }
