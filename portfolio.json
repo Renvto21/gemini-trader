@@ -1643,7 +1643,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD y SOL-USD mientras continúen su ascenso técnico. Vigilar el RSI de 1 hora y el porcentaje de ganancia para ejecutar la venta (take-profit) tan pronto como alcancen el rango de +2.0% a +3.5% o si el RSI supera 70. Mantener la reserva de efectivo requerida y no abrir nuevas posiciones hasta asegurar capital.",
-    "updated_at": "2026-10-18T19:50:36.711414-03:00"
+    "notes": "Monitorear de cerca ETH-USD y SOL-USD. Si alguna de las dos alcanza un rendimiento entre +2.0% y +3.5% o su RSI de 1 hora supera 70, proceder a vender inmediatamente para asegurar ganancias. Mantener la reserva de efectivo requerida y no abrir nuevas posiciones hasta liberar capital de las actuales.",
+    "updated_at": "2026-10-18T20:01:14.597544-03:00"
   }
 }
