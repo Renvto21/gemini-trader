@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-18 13:50:38`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-18 14:00:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$18.37 USD** | **$19.84 USD** | **$38.21 USD** | 🔴 **-4.48%** ($-1.79) |
+| **$40.00 USD** | **$18.37 USD** | **$19.88 USD** | **$38.25 USD** | 🔴 **-4.37%** ($-1.75) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.097172 | $102.91 | $101.87 | $9.90 | 📉 -1.01% | 2h 49m |
-| `ETH-USD` | 0.004205 | $2377.97 | $2363.39 | $9.94 | 📉 -0.61% | 1h 49m |
+| `SOL-USD` | 0.097172 | $102.91 | $102.16 | $9.93 | 📉 -0.73% | 2h 59m |
+| `ETH-USD` | 0.004205 | $2377.97 | $2366.68 | $9.95 | 📉 -0.47% | 1h 59m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se mantiene en una fase de consolidación bajista con los activos principales operando en 24/7 y mostrando RSI de 1 hora en zonas cercanas o dentro de sobreventa (SOL en 31.2 y ETH en 25.9), sin haber cruzado aún al alza en su momentum de corto plazo. Los mercados tradicionales de Wall Street permanecen cerrados, por lo que la liquidez activa se concentra exclusivamente en criptomonedas."
+> "El mercado de valores tradicional (Wall Street) se encuentra cerrado por lo que el foco se centra exclusivamente en el mercado de criptomonedas que opera 24/7. Las principales criptomonedas muestran un sesgo bajista general pero con niveles de sobreventa diarios extremos, manteniendo un tono consolidado de corto plazo mientras esperamos la ruptura definitiva de los indicadores de impulso de 1 hora."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 75%): La posición en SOL-USD registra una pérdida leve de -1.01% con un holding time de casi 3 horas. El RSI de 1 hora está en 31.2 y el RSI diario en 15.9, lo que indica sobreventa extrema. Se mantiene la posición respetando el stop-loss de -2.0% a la espera de un cambio de momentum intradiario.
-- **[HOLD] ETH-USD** (Confianza: 75%): La posición en ETH-USD muestra una pérdida de -0.61% y se encuentra abierta desde hace casi 2 horas. El RSI de 1 hora está en 25.9 y el RSI diario en 21.5. Mantenemos la posición por debajo del límite de stop-loss estricto, esperando la ruptura del RSI hacia la zona de take-profit.
+- **[HOLD] SOL-USD** (Confianza: 75%): La posición en SOL-USD acumula una pérdida menor de -0.73% con un tiempo de tenencia de casi 3 horas. Aunque el RSI diario está en sobreventa profunda (16.0), el RSI de 1h permanece bajo (26.8). Se mantiene la posición respetando el stop-loss estricto a la espera del rebote.
+- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD registra una ligera pérdida de -0.47% con 2 horas en cartera. El contexto técnico muestra sobreventa extrema (RSI diario en 21.6), pero aún falta la confirmación de impulso alcista en temporalidades de 1 hora para buscar la toma de beneficios.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones abiertas de SOL-USD y ETH-USD mientras respeten el límite de stop-loss estricto de -2.0%. Esperar la ruptura del RSI de 1 hora por encima de 45-50 y un cambio de momentum positivo (change_1h_pct > 0) para buscar la toma de beneficios entre +2.0% y +3.5%. Conservar liquidez actual y no abrir nuevas posiciones hasta que se confirme una reversión clara en temporalidades cortas."
+> "Mantener las posiciones abiertas de SOL-USD y ETH-USD respetando estrictamente el stop-loss en -2.0%. Se espera un repunte en el RSI de 1 hora por encima de 40-45 acompañado de un cambio de momentum positivo (change_1h_pct sostenido) para buscar objetivos de take profit entre +2.0% y +3.5%. Mantener la liquidez actual intacta hasta una confirmación clara de reversión."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
