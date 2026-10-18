@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD mientras sigan consolidando su rebote técnico y no toquen la zona de take-profit (+2.0% a +3.5%) o se acerquen al stop-loss (-2.0%). Monitorear de cerca los indicadores de RSI de 1H para asegurar beneficios en cuanto crucen el umbral de sobrecompra o alcancen la rentabilidad deseada. Conservar la liquidez disponible para futuras oportunidades.",
-    "updated_at": "2026-10-18T07:10:45.377594-03:00"
+    "notes": "Las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD están madurando adecuadamente. Mantendré las posiciones vigentes hasta que alcancen la zona de take-profit entre +2.0% y +3.5%, o hasta que el indicador RSI de 1H muestre signos claros de sobrecompra (>70). Monitorearé la evolución del precio para asegurar utilidades y mantener el efectivo disponible por encima de la reserva mínima.",
+    "updated_at": "2026-10-18T07:20:38.868257-03:00"
   }
 }
