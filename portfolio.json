@@ -1623,7 +1623,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD esperando que extiendan su rebote técnico hacia la zona de take-profit (+2.0% a +3.5%). Monitorearemos de cerca el stop-loss en -2.0% para proteger el capital. Mantendremos la reserva de efectivo por encima de los $4.00 USD y evaluaremos rotación si el momentum se debilita en los próximos ciclos.",
-    "updated_at": "2026-10-18T18:50:41.228417-03:00"
+    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD supervisando de cerca el avance hacia la zona de take-profit entre +2.0% y +3.5%. Mantendremos el stop-loss estricto en -2.0% y la reserva de efectivo por encima de $4.00 USD. No se realizarán nuevas compras en este ciclo para consolidar el capital actual.",
+    "updated_at": "2026-10-18T19:00:45.854615-03:00"
   }
 }
