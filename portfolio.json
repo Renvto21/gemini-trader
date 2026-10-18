@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD ya que muestran un comportamiento constructivo en el corto plazo, aunque el holding time aún es bajo (< 4h). Vigilar de cerca el indicador RSI de 1H en busca de sobrecompra (> 70) para ejecutar tomas de beneficio parciales o totales hacia el rango de +2.0% a +3.5%. Mantener los stop-loss estrictos configurados ante cualquier caída por debajo de -2.0%. Si el momentum se desacelera significativamente en las próximas horas, rotar el capital hacia activos con mayor velocidad.",
-    "updated_at": "2026-10-17T22:10:40.536678-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD mientras el precio se mantenga constructivo. Vigilar de cerca el indicador RSI de 1H en busca de la zona de sobrecompra (> 70) o rangos de ganancia entre +2.0% y +3.5% para ejecutar tomas de beneficio y asegurar liquidez. Proteger las posiciones con stop-loss estrictos ante cualquier reversión bajista.",
+    "updated_at": "2026-10-17T22:20:48.335487-03:00"
   }
 }
