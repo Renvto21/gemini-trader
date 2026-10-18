@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-18 10:30:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-18 10:40:40`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario está cerrado, por lo que la liquidez activa se enfoca en criptomonedas (24/7). BTC-USD, SOL-USD y ETH-USD muestran ligeros retrocesos intradiarios con RSI en zonas neutrales (alrededor de 40-49), aproximándose a niveles atractivos de sobreventa para buscar rebotes técnicos, aunque aún no alcanzan los umbrales extremos requeridos (< 35 o < 40). Mantengo la paciencia táctica y la reserva de liquidez."
+> "El mercado bursátil tradicional se encuentra cerrado, por lo que toda la atención se centra en los criptoactivos que operan 24/7. BTC-USD, ETH-USD y SOL-USD muestran ligeros retrocesos intradiarios con un RSI de 1H rondando los niveles de 44 a 49, acercándose gradualmente a zonas atractivas de soporte pero sin mostrar aún una sobreventa extrema o un cambio de impulso alcista definitivo. Mantenemos la disciplina a la espera de una mayor compresión del precio."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 75%): El activo muestra un retroceso intradiario de -0.65% y un RSI de 1H en 49.0. Aunque se encamina hacia niveles de soporte, esperaré a que el RSI rompa por debajo de 40 para ejecutar una compra de alta convicción buscando un rebote rápido.
+- **[HOLD] BTC-USD** (Confianza: 50%): El activo se encuentra operando en un rango neutral con un RSI de 1H en 49.4. No cumple con la regla de entrada por sobreventa profunda (< 35) ni muestra aún un rebote confirmado. Mantengo liquidez a la espera de un mejor punto de entrada.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantengo $38.37 USD en efectivo tras la rotación exitosa previa. Los criptoactivos se encuentran en retroceso pero por encima de los niveles ideales de sobreventa profunda (RSI 1H < 40). Esperaré a que BTC-USD o SOL-USD profundicen su corrección intradiaria con un RSI de 1H por debajo de 40 para desplegar entre $8.00 y $10.00 USD buscando un rebote rápido. Priorizo la preservación del capital y la disciplina en las entradas técnicas."
+> "Mantengo $38.37 USD en efectivo tras la rotación previa. Los criptoactivos continúan consolidando sin alcanzar todavía los niveles de RSI 1H < 40 que busco para una entrada de alta convicción. Esperaré a que BTC-USD o SOL-USD profundicen su corrección intradiaria o muestren una señal clara de giro alcista para desplegar entre $8.00 y $10.00 USD. Priorizo la preservación del capital y la paciencia operativa."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
