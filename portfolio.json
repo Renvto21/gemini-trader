@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD. Monitorear de cerca los indicadores intradiarios de 1 hora: si el RSI supera los 40 y el change_1h_pct se mantiene favorable, buscar la toma de ganancias (take-profit) entre +2.0% y +3.5%. En caso de perforar el stop-loss estricto del -2.0%, ejecutar la venta inmediata para proteger el capital.",
-    "updated_at": "2026-10-18T14:20:39.647069-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD ya que se encuentran en zonas de extrema sobreventa a la espera de un volumen de compra que active el rebote técnico. Monitorear de cerca el RSI de 1 hora: si cruza al alza superando los 40 y el change_1h_pct se torna positivo de manera sostenida, buscaremos la toma de ganancias (take-profit) entre +2.0% y +3.5%. En caso de que se acerquen al stop-loss estricto del -2.0%, ejecutaremos la venta inmediata para proteger el capital.",
+    "updated_at": "2026-10-18T14:30:49.423197-03:00"
   }
 }
