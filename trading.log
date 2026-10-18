@@ -1,37 +1,3 @@
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $8.05 USD
- Valor en Activos:     $30.10 USD
- Balance Total:        $38.15 USD
- Ganancia/Pérdida:     🔴 $-1.85 USD (-4.62%)
-
- 💼 Posiciones Abiertas:
-   • BTC-USD: 0.000123 u. | Compra: $81170.65 | Actual: $81291.58 | Total: $10.01 📈 (+0.15%) [Tiempo: 2h 9m]
-   • SOL-USD: 0.097418 u. | Compra: $102.65 | Actual: $103.12 | Total: $10.05 📈 (+0.46%) [Tiempo: 1h 59m]
-   • ETH-USD: 0.004193 u. | Compra: $2385.05 | Actual: $2395.54 | Total: $10.04 📈 (+0.44%) [Tiempo: 1h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"Los mercados bursátiles tradicionales se encuentran cerrados, por lo que toda la actividad se centra en el mercado cripto 24/7. Las principales criptomonedas (BTC, ETH, SOL) muestran un ligero retroceso en la última hora con caídas cercanas al -0.89% y RSI de 1H rondando zonas de sobreventa o cerca de soportes. Nuestras posiciones actuales muestran ganancias muy ligeras (entre +0.15% y +0.46%), manteniéndose seguras lejos del stop-loss, pero aún sin alcanzar la meta de take-profit del +2.0%."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo mientras se encuentran estables. Establecer objetivos estrictos de take-profit en +2.0% de PnL o si el RSI de 1H supera los 65-70 puntos para asegurar capital. Mantener la vigilancia sobre los niveles de soporte actuales; si el momentum se deteriora y rompen a la baja, se procederá a recortar pérdidas para proteger el efectivo."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] BTC-USD (Confianza: 75%)
-    Razón: BTC-USD se mantiene estable con un PnL positivo de +0.15% tras dos horas de retención. Aunque el cambio de 1h es ligeramente negativo (-0.29%), el precio respeta los rangos de entrada y no ha activado ninguna señal de salida ni de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] SOL-USD (Confianza: 75%)
-    Razón: SOL-USD registra un PnL de +0.46%. A pesar de un retroceso menor en la última hora, el activo se mantiene en zona operativa saludable, por lo que se mantiene la posición buscando el objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.15 USD (Cash: $8.05 USD)
-
 [2026-10-17 21:20:32] 🔍 Iniciando ciclo de análisis...
 📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
 
@@ -147,6 +113,40 @@ Balance final del ciclo: $38.17 USD (Cash: $8.05 USD)
     ⏸️ Manteniendo posición actual sin cambios.
   • Acción: [HOLD] ETH-USD (Confianza: 70%)
     Razón: ETH-USD mantiene una ganancia de +0.65%. El RSI de 1H está en 31.1, lo cual sugiere soporte continuo tras el rebote inicial. Sostenemos la posición buscando la zona del +2.0% para asegurar beneficios.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.20 USD (Cash: $8.05 USD)
+
+[2026-10-17 21:50:33] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $8.05 USD
+ Valor en Activos:     $30.15 USD
+ Balance Total:        $38.20 USD
+ Ganancia/Pérdida:     🔴 $-1.80 USD (-4.51%)
+
+ 💼 Posiciones Abiertas:
+   • BTC-USD: 0.000123 u. | Compra: $81170.65 | Actual: $81371.61 | Total: $10.02 📈 (+0.25%) [Tiempo: 2h 49m]
+   • SOL-USD: 0.097418 u. | Compra: $102.65 | Actual: $103.23 | Total: $10.06 📈 (+0.57%) [Tiempo: 2h 39m]
+   • ETH-USD: 0.004193 u. | Compra: $2385.05 | Actual: $2401.39 | Total: $10.07 📈 (+0.69%) [Tiempo: 2h 39m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado cripto muestra un ligero retroceso en la última hora tras el rebote inicial, con los activos (BTC-USD, ETH-USD, SOL-USD) manteniendo ganancias moderadas pero un momentum de corto plazo ligeramente debilitado (RSI 1H oscilando entre 31 y 40). Los mercados tradicionales permanecen cerrados. Nuestra prioridad es mantener las posiciones activas para capturar el take-profit entre +2.0% y +3.5% o salir preventivamente si el momentum se deteriora hacia el stop-loss."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo. Vigilar estrictamente que el RSI de 1H no rompa soportes a la baja y activar stop-loss si alguna posición cae al umbral de -2.0%. Mantener la orden de take-profit lista si se alcanza el rango de +2.0% a +3.5% o si el RSI de 1H supera 70."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] BTC-USD (Confianza: 70%)
+    Razón: BTC-USD muestra una ganancia leve de 0.25%. El RSI de 1H está en 40.2 y el precio se mantiene estable tras casi 3 horas de holding. No hay señales para vender ni justificación para rotar todavía.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.
