@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré las posiciones actuales en BTC-USD, SOL-USD y ETH-USD ya que se encuentran en terreno positivo pero por debajo del objetivo de take-profit (+2.0% a +3.5%). Vigilaré de cerca el indicador RSI de 1 hora: si cualquiera de los activos supera el umbral de 70 o alcanza el objetivo de ganancia, ejecutaré una venta inmediata para asegurar liquidez. Mantendré la reserva de efectivo libre de $8.05 USD y esperaré al siguiente ciclo.",
-    "updated_at": "2026-10-18T03:10:37.919074-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo ya que se encuentran en terreno positivo y operando dentro de los márgenes normales de riesgo. Monitorear de cerca el RSI de 1 hora y el avance de precios: si alguno de los activos alcanza el objetivo de ganancia de +2.0% a +3.5% o cruza a sobrecompra (>70), ejecutaré la venta inmediata para asegurar liquidez. El efectivo disponible se mantendrá reservado a la espera de una mayor divergencia o volatilidad que active nuevas entradas agresivas.",
+    "updated_at": "2026-10-18T03:20:35.287029-03:00"
   }
 }
