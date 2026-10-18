@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo ya que el holding time es inferior a 5 horas y las pérdidas no han alcanzado el stop-loss del -2.0%. Monitorearemos de cerca el RSI de 1 hora para buscar un cruce al alza por encima de 50 y asegurar beneficios en el rango de +2.0% a +3.5%.",
-    "updated_at": "2026-10-18T15:50:42.530438-03:00"
+    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo para permitir que madure el rebote técnico desde los niveles de sobreventa diaria. Estableceremos el take-profit en el rango de +2.0% a +3.5% y el stop-loss estricto en -2.0%. Si el RSI de 1 hora no muestra recuperación en las próximas horas, consideraremos rotación de capital.",
+    "updated_at": "2026-10-18T16:00:52.424913-03:00"
   }
 }
