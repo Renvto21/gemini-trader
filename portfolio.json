@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD vigilando de cerca su evolución hacia el objetivo de take-profit de +2.0% a +3.5% o hasta que el RSI de 1 hora alcance la zona de sobrecompra superior a 70. El stop-loss estricto a -2.0% permanece activo como mecanismo de protección de capital. No se realizarán nuevas operaciones en este ciclo con el fin de preservar la liquidez disponible y evaluar la estabilidad del impulso alcista actual.",
-    "updated_at": "2026-10-18T04:20:43.449239-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD dado que continúan con rendimientos positivos y un holding time de aproximadamente 9.5 horas. El plan táctico es vigilar de cerca la evolución del RSI de 1 hora hacia el objetivo de take-profit de +2.0% a +3.5% o salida por sobrecompra (>70). El stop-loss estricto a -2.0% sigue operando como salvaguarda. La liquidez en efectivo se mantiene en reserva mínima ($8.05 USD), por lo que no se abrirán nuevas posiciones en este ciclo hasta realizar tomas de beneficios o detectar una señal de alta convicción.",
+    "updated_at": "2026-10-18T04:30:40.463986-03:00"
   }
 }
