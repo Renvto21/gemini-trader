@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD mientras el precio se mantenga constructivo. Vigilar de cerca el indicador RSI de 1H en busca de la zona de sobrecompra (> 70) o rangos de ganancia entre +2.0% y +3.5% para ejecutar tomas de beneficio y asegurar liquidez. Proteger las posiciones con stop-loss estrictos ante cualquier reversión bajista.",
-    "updated_at": "2026-10-17T22:20:48.335487-03:00"
+    "notes": "Mantener las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD mientras evolucionen favorablemente. Vigilar la zona de RSI 1H hacia la sobrecompra (>70) o los objetivos de ganancia de +2.0% a +3.5% para ejecutar tomas de beneficio parciales o totales. Mantener el stop-loss estricto en caso de que el precio revierta y rompa soportes de corto plazo, protegiendo el capital ante cualquier giro bajista repentino.",
+    "updated_at": "2026-10-17T22:30:45.406208-03:00"
   }
 }
