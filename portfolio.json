@@ -1609,7 +1609,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición actual en SOL-USD adquirida recientemente por $8.00 USD, la cual lleva pocos minutos abierta y muestra un ligero cambio positivo de 1h (0.11%) aunque con RSI de 1h aún bajo (23.3). Mantendremos el objetivo de take-profit entre +2.0% y +3.5% y un stop-loss estricto a -2.0%. Dado que la liquidez restante es de $29.98 USD, evaluaremos próximas entradas en ETH-USD o BTC-USD si confirman un repunte en el RSI de 1 hora por encima de 30 acompañado de un cambio de 1 hora positivo.",
-    "updated_at": "2026-10-18T17:20:42.147833-03:00"
+    "notes": "Mantendremos la posición actual en SOL-USD con un objetivo de take-profit entre +2.0% y +3.5% y un stop-loss estricto a -2.0%. Monitorearemos ETH-USD y BTC-USD para posibles entradas tácticas adicionales si el RSI de 1 hora confirma un giro al alza con cambio positivo.",
+    "updated_at": "2026-10-18T17:30:48.223456-03:00"
   }
 }
