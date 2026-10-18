@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantengo las posiciones de SOL-USD y ETH-USD ya que el holding time aún es bajo y los indicadores diarios muestran una sobreventa profunda. El plan táctico consiste en esperar el cruce del RSI de 1 hora por encima de 55-60 para tomar ganancias entre +2.0% y +3.5%, o activar el stop-loss estricto en -2.0% si el precio perfora los soportes actuales.",
-    "updated_at": "2026-10-18T12:20:42.548275-03:00"
+    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD dado que el holding time aún es bajo y los indicadores diarios reflejan una sobreventa extrema. Monitorear de cerca el RSI de 1 hora: si supera los 55-60 y las posiciones alcanzan una ganancia de +2.0% a +3.5%, proceder a tomar beneficios. Activar el stop-loss estricto en -2.0% si el precio perfora los soportes actuales para proteger el capital.",
+    "updated_at": "2026-10-18T12:30:45.023156-03:00"
   }
 }
