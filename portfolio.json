@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Continuar monitoreando las posiciones actuales en BTC-USD, ETH-USD y SOL-USD. El plan táctico es mantenerlas firmemente mientras no activen el stop-loss de -2.0% y buscar asegurar beneficios parciales o totales tan pronto como alcancen el rango de ganancia de +2.0% a +3.5% o si el RSI de 1 hora cruza el nivel de sobrecompra (>70). No realizar nuevas compras en este ciclo para preservar la liquidez.",
-    "updated_at": "2026-10-17T23:10:43.964245-03:00"
+    "notes": "Mantener firmemente las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD durante este ciclo. Monitorear de cerca los niveles de ganancia para ejecutar take-profit tan pronto como alcancen el rango de +2.0% a +3.5% o si el RSI de 1 hora cruza el nivel de sobrecompra (>70). Mantener activo el stop-loss estricto a -2.0% para proteger el capital. No realizar nuevas operaciones en este ciclo para preservar la liquidez mínima requerida de $4.00 USD.",
+    "updated_at": "2026-10-17T23:20:41.770053-03:00"
   }
 }
