@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) a la espera de que el RSI de 1 hora supere la zona de 70 o que las ganancias alcancen el rango objetivo de +2.0% a +3.5% para proceder a la toma de beneficios y liberar liquidez. Los stop-loss se mantienen estrictos por debajo de -2.0% para proteger el portafolio ante cualquier volatilidad imprevista.",
-    "updated_at": "2026-10-18T02:10:43.413478-03:00"
+    "notes": "Mantendré las posiciones abiertas (BTC-USD, SOL-USD, ETH-USD) durante este ciclo ya que muestran un rendimiento positivo. Estaré vigilando de cerca el RSI de 1 hora en cada activo: si se acercan o superan la zona de 70 o alcanzan la banda de beneficio de +2.0% a +3.5%, procederé a vender para asegurar ganancias y liberar liquidez. El stop-loss se mantiene estricto en -2.0%.",
+    "updated_at": "2026-10-18T02:20:38.531160-03:00"
   }
 }
