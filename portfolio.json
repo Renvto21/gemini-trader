@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de SOL-USD y ETH-USD durante unas horas más para permitir que el momentum alcista se materialice desde la sobreventa. Establecemos objetivo de take-profit en +2.0% y stop-loss estricto en -2.0%. Si el RSI de 1 hora no rompe al alza pronto, evaluaremos rotación de capital.",
-    "updated_at": "2026-10-18T16:10:39.868064-03:00"
+    "notes": "Las posiciones en SOL-USD y ETH-USD llevan abiertas más de 4 horas con variaciones estancadas y sin el momentum alcista esperado. Mantendremos las posiciones vigentes un ciclo más vigilando de cerca el soporte crítico de -2.0% para aplicar stop-loss estricto si el RSI de 1 hora continúa deteriorándose, evitando así una mayor erosión del capital. No realizaremos nuevas compras hasta ver una ruptura clara del RSI por encima de 35.",
+    "updated_at": "2026-10-18T16:20:41.206359-03:00"
   }
 }
