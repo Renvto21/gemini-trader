@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) en este ciclo ya que muestran un comportamiento estable y positivo tras más de 5 horas abiertas. Monitorear de cerca si alguna posición alcanza el rango de beneficio del +2.0% al +3.5% para proceder con la toma de ganancias y rotar liquidez. El stop-loss permanece estricto en -2.0% para proteger el capital. No se abren nuevas posiciones por ahora para consolidar el portafolio.",
-    "updated_at": "2026-10-18T00:20:41.133879-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD mientras sigan con momentum positivo y sin amenazar el stop-loss del -2.0%. Estar alerta para ejecutar la toma de ganancias (SELL) de inmediato en cuanto alguna de las posiciones alcance el rango objetivo de +2.0% a +3.5% o si el RSI de 1H entra en sobrecompra (>70). No se abrirán nuevas posiciones en este ciclo para consolidar la liquidez y esperar la rotación de capital tras el cierre o toma de beneficios.",
+    "updated_at": "2026-10-18T00:30:38.423620-03:00"
   }
 }
