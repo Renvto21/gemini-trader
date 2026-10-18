@@ -1,11 +1,16 @@
 {
   "initial_capital": 40.0,
-  "cash": 29.983465662312312,
+  "cash": 21.983465662312312,
   "positions": {
     "SOL-USD": {
       "shares": 0.07934146583358127,
       "avg_price": 100.83,
       "opened_at": "2026-10-18T17:00:52.153309-03:00"
+    },
+    "ETH-USD": {
+      "shares": 0.0033880790438840943,
+      "avg_price": 2361.22,
+      "opened_at": "2026-10-18T18:40:42.711289-03:00"
     }
   },
   "history": [
@@ -1606,10 +1611,19 @@
       "shares": 0.079341,
       "price": 100.83,
       "reason": "SOL-USD muestra un RSI diario extremadamente deprimido en 15.3 y un RSI de 1 hora en 23.4 que comienza a girar al alza con un cambio positivo de +0.12% en la última hora. Cumple con los criterios tácticos de mean reversion para un rebote rápido, permitiendo desplegar capital de forma eficiente."
+    },
+    {
+      "timestamp": "2026-10-18T18:40:42.711300-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 8.0,
+      "shares": 0.003388,
+      "price": 2361.22,
+      "reason": "ETH-USD muestra un RSI diario deprimido en 21.5 y un RSI de 1 hora que se recupera a 34.3 con un cambio positivo del 0.55% en la última hora, cumpliendo la regla de entrada por rebote técnico al salir de sobreventa."
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición abierta en SOL-USD buscando alcanzar el objetivo de take-profit entre +2.0% y +3.5% (aprox. $103.50 - $105.00), utilizando un stop-loss estricto de -2.0% para proteger capital. Evaluaremos la entrada en ETH-USD en el próximo ciclo si el RSI de 1 hora consolida su recuperación por encima de 35. Mantendremos estrictamente la reserva mínima de efectivo de $4.00 USD.",
-    "updated_at": "2026-10-18T18:30:45.998661-03:00"
+    "notes": "Mantendremos la posición en SOL-USD buscando el objetivo de take-profit entre +2.0% y +3.5% (aprox. $103.50 - $105.00) con stop-loss en -2.0%. Aprovecharemos la liquidez disponible para abrir una nueva posición en ETH-USD dado que su RSI de 1 hora cruza al alza la zona de 34 y muestra momentum de recuperación. Mantendremos el efectivo estricto de reserva operativa por encima de $4.00 USD.",
+    "updated_at": "2026-10-18T18:40:42.707556-03:00"
   }
 }

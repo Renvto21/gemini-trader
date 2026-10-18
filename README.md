@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-18 18:30:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-18 18:40:42`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$29.98 USD** | **$8.05 USD** | **$38.03 USD** | 🔴 **-4.92%** ($-1.97) |
+| **$40.00 USD** | **$21.98 USD** | **$16.06 USD** | **$38.05 USD** | 🔴 **-4.88%** ($-1.95) |
 
 ---
 
@@ -16,22 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `SOL-USD` | 0.079341 | $100.83 | $101.45 | $8.05 | 📈 +0.61% | 1h 29m |
+| `SOL-USD` | 0.079341 | $100.83 | $101.63 | $8.06 | 📈 +0.79% | 1h 39m |
+| `ETH-USD` | 0.003388 | $2361.22 | $2361.22 | $8.00 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se encuentra operando en fin de semana con un sesgo bajista generalizado en temporalidad diaria, pero mostrando signos iniciales de recuperación en el corto plazo (1 hora). Los activos tradicionales (Wall Street) permanecen cerrados. El RSI de 1 hora en SOL-USD y ETH-USD está saliendo de la zona de sobreventa extrema, permitiendo buscar oportunidades tácticas de rebote (mean reversion) mientras mantenemos la disciplina de riesgo."
+> "Los mercados de renta variable tradicional se encuentran cerrados, por lo que toda la actividad se concentra en criptomonedas. SOL-USD muestra un rebote leve con un RSI de 1 hora recuperándose a 36.2 y cambio positivo del 0.52% en la última hora, manteniendo una ganancia actual del +0.79%. ETH-USD muestra señales similares con un RSI de 1 hora en 34.3 y cambio positivo del 0.55%, saliendo de la zona de sobreventa extrema y abriendo una oportunidad táctica de rebote técnico."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): La posición en SOL-USD presenta una ganancia actual de +0.61% tras 1 hora y 29 minutos de holding. El RSI de 1 hora se sitúa en 34.0 con un cambio positivo reciente de +0.36%, cumpliendo con la tesis de rebote técnico. Mantendremos la posición para buscar el objetivo de take-profit entre +2.0% y +3.5%.
+- **[BUY] ETH-USD** (Confianza: 85%): ETH-USD muestra un RSI diario deprimido en 21.5 y un RSI de 1 hora que se recupera a 34.3 con un cambio positivo del 0.55% en la última hora, cumpliendo la regla de entrada por rebote técnico al salir de sobreventa.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos la posición abierta en SOL-USD buscando alcanzar el objetivo de take-profit entre +2.0% y +3.5% (aprox. $103.50 - $105.00), utilizando un stop-loss estricto de -2.0% para proteger capital. Evaluaremos la entrada en ETH-USD en el próximo ciclo si el RSI de 1 hora consolida su recuperación por encima de 35. Mantendremos estrictamente la reserva mínima de efectivo de $4.00 USD."
+> "Mantendremos la posición en SOL-USD buscando el objetivo de take-profit entre +2.0% y +3.5% (aprox. $103.50 - $105.00) con stop-loss en -2.0%. Aprovecharemos la liquidez disponible para abrir una nueva posición en ETH-USD dado que su RSI de 1 hora cruza al alza la zona de 34 y muestra momentum de recuperación. Mantendremos el efectivo estricto de reserva operativa por encima de $4.00 USD."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
@@ -45,11 +46,11 @@
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-18 18:40` | 🟢 BUY | `ETH-USD` | $8.00 | $2361.22 | ETH-USD muestra un RSI diario deprimido en 21.5 y un RSI de 1 hora que se recupera a 34.3 ... |
 | `2026-10-18 17:00` | 🟢 BUY | `SOL-USD` | $8.00 | $100.83 | SOL-USD muestra un RSI diario extremadamente deprimido en 15.3 y un RSI de 1 hora en 23.4 ... |
 | `2026-10-18 16:40` | 🔴 SELL (-0.19$) | `ETH-USD` | $9.81 | $2332.39 | ETH-USD registra una pérdida del -1.92% con un RSI de 1 hora en 18.5 que refleja debilidad... |
 | `2026-10-18 16:40` | 🔴 SELL (-0.20$) | `SOL-USD` | $9.80 | $100.90 | La posición en SOL-USD lleva casi 6 horas abierta con una pérdida del -1.95% y un RSI de 1... |
 | `2026-10-18 12:00` | 🟢 BUY | `ETH-USD` | $10.00 | $2377.97 | ETH-USD presenta un RSI diario extremadamente bajo en 22.0 y un RSI de 1 hora saliendo de ... |
-| `2026-10-18 11:01` | 🟢 BUY | `SOL-USD` | $10.00 | $102.91 | SOL-USD muestra un RSI diario extremadamente bajo (16.4) en zona de sobreventa profunda y ... |
 
 ---
 
