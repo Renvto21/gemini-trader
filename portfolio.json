@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo mientras se encuentran estables. Establecer objetivos estrictos de take-profit en +2.0% de PnL o si el RSI de 1H supera los 65-70 puntos para asegurar capital. Mantener la vigilancia sobre los niveles de soporte actuales; si el momentum se deteriora y rompen a la baja, se procederá a recortar pérdidas para proteger el efectivo.",
-    "updated_at": "2026-10-17T21:10:38.315925-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo ya que se encuentran estables y dentro de rangos operativos seguros. Monitorear de cerca el RSI de 1H y la acción de precio; si alguna posición alcanza la zona de take-profit entre +2.0% y +3.5% o su RSI supera los 70 puntos, procederemos a vender para asegurar capital en efectivo. Si el momentum se deteriora y rompe los soportes actuales, aplicaremos stop-loss inmediato.",
+    "updated_at": "2026-10-17T21:20:40.388867-03:00"
   }
 }
