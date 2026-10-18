@@ -1643,7 +1643,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD y SOL-USD. Monitorear de cerca para ejecutar la venta (take-profit) en cuanto alcancen el rango de +2.0% a +3.5% o si el RSI de 1 hora supera 70. Mantener la reserva de efectivo requerida y no abrir nuevas posiciones hasta liberar capital.",
-    "updated_at": "2026-10-18T20:20:42.655405-03:00"
+    "notes": "Monitorear de cerca ETH-USD y SOL-USD para ejecutar la venta (take-profit) tan pronto alcancen el rango de +2.0% a +3.5% o si el RSI de 1 hora entra en sobrecompra (>70). Mantener la reserva de efectivo requerida y preparar el terreno para rotar capital hacia nuevas oportunidades una vez cerradas estas posiciones.",
+    "updated_at": "2026-10-18T20:30:50.319260-03:00"
   }
 }
