@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD ya que se encuentran en terreno positivo. Monitorear de cerca el RSI de 1H y el porcentaje de ganancia para ejecutar el TAKE-PROFITS (SELL) en cuanto alcancen el rango de +2.0% a +3.5% o si el RSI de 1H supera 70. No se abrirán nuevas posiciones en este ciclo para preservar la liquidez actual ($8.05 USD) y asegurar los beneficios una vez se active la toma de ganancias.",
-    "updated_at": "2026-10-18T00:40:42.843801-03:00"
+    "notes": "Mantener posiciones activas en BTC-USD, SOL-USD y ETH-USD ya que se encuentran cerca de la zona de toma de beneficios (+2.0% a +3.5%). Monitorear de cerca el RSI de 1H y el porcentaje de ganancia en el siguiente ciclo para ejecutar un SELL parcial o total si alcanzan el umbral de take-profit, liberando liquidez hacia efectivo.",
+    "updated_at": "2026-10-18T00:50:42.165865-03:00"
   }
 }
