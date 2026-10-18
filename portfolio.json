@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré las posiciones abiertas (BTC-USD, SOL-USD, ETH-USD) durante este ciclo ya que muestran un rendimiento positivo. Estaré vigilando de cerca el RSI de 1 hora en cada activo: si se acercan o superan la zona de 70 o alcanzan la banda de beneficio de +2.0% a +3.5%, procederé a vender para asegurar ganancias y liberar liquidez. El stop-loss se mantiene estricto en -2.0%.",
-    "updated_at": "2026-10-18T02:20:38.531160-03:00"
+    "notes": "Mantendré las posiciones de BTC-USD, SOL-USD y ETH-USD durante este ciclo ya que se encuentran en terreno positivo y operando dentro de parámetros normales. Vigilaré de cerca el RSI de 1 hora y el porcentaje de beneficio: en cuanto alcancen el rango de +2.0% a +3.5% o crucen la zona de sobrecompra (>70), realizaré la venta total para asegurar ganancias y liberar liquidez. El stop-loss se mantiene estricto en -2.0% para proteger el capital ante cualquier giro repentino del mercado.",
+    "updated_at": "2026-10-18T02:30:53.775831-03:00"
   }
 }
