@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo. Continuar monitoreando el RSI de 1 hora de cerca: si cualquiera de los activos alcanza el rango objetivo de ganancia de +2.0% a +3.5% o cruza a sobrecompra (>70), ejecutaré la venta inmediata para asegurar beneficios y rotar liquidez. Vigilar el stop-loss estricto a -2.0% para proteger el capital ante cualquier giro bajista repentino.",
-    "updated_at": "2026-10-18T03:30:46.539352-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD mientras continúan su movimiento de recuperación hacia el objetivo de take-profit de +2.0% a +3.5%. Monitorear de cerca los niveles de RSI de 1 hora para asegurar beneficios si se acercan a la zona de sobrecompra (>70). Mantener activo el stop-loss estricto a -2.0% para proteger el capital ante cualquier reversión imprevista.",
+    "updated_at": "2026-10-18T03:40:38.167223-03:00"
   }
 }
