@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD. Monitorear de cerca los niveles de RSI de 1H en busca del rango objetivo de take-profit (+2.0% a +3.5%) o señales de sobrecompra (>70) para proceder con la venta y asegurar beneficios. El stop-loss se mantiene rigurosamente en -2.0%.",
-    "updated_at": "2026-10-18T06:20:39.661938-03:00"
+    "notes": "Monitorear activamente las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD. Esperar a que alcancen el rango de take-profit del +2.0% al +3.5% o señales de sobrecompra en el RSI de 1H (>70) para realizar la toma de beneficios y asegurar liquidez. Mantener el stop-loss estricto en -2.0% para proteger el capital.",
+    "updated_at": "2026-10-18T06:30:40.971759-03:00"
   }
 }
