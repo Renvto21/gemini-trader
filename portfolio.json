@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD mientras respeten el límite estricto de stop-loss de -2.0%. Estar atentos a la ruptura del RSI de 1 hora por encima de 45-50 y un cambio de momentum en change_1h_pct para preparar la toma de beneficios entre +2.0% y +3.5%. Conservar liquidez de reserva y no realizar nuevas entradas hasta ver una confirmación clara de reversión en temporalidades cortas.",
-    "updated_at": "2026-10-18T13:40:42.749573-03:00"
+    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD mientras respeten el límite de stop-loss estricto de -2.0%. Esperar la ruptura del RSI de 1 hora por encima de 45-50 y un cambio de momentum positivo (change_1h_pct > 0) para buscar la toma de beneficios entre +2.0% y +3.5%. Conservar liquidez actual y no abrir nuevas posiciones hasta que se confirme una reversión clara en temporalidades cortas.",
+    "updated_at": "2026-10-18T13:50:38.943763-03:00"
   }
 }
