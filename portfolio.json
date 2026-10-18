@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo ya que se encuentran en terreno positivo sin activar ningún stop-loss. Seguiremos monitoreando la acción del precio para asegurar beneficios tan pronto como alcancen el rango de take-profit de +2.0% a +3.5%. La reserva de efectivo se mantiene estricta en el nivel operativo mínimo.",
-    "updated_at": "2026-10-18T05:30:40.790246-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD. Monitorear de cerca los niveles de RSI de 1H y el progreso del precio hacia nuestra zona objetivo de take-profit (+2.0% a +3.5%). Si alguna posición muestra pérdida superior a -2.0% o pérdida de momentum, procederemos a vender inmediatamente para rotar el capital. La liquidez en efectivo se mantiene en el mínimo operativo requerido.",
+    "updated_at": "2026-10-18T05:40:36.805760-03:00"
   }
 }
