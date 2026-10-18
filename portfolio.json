@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD para asegurar beneficios en cuanto alcancen una rentabilidad entre +2.0% y +3.5% o crucen un RSI de 1H superior a 70. Mantener el stop-loss estricto en -2.0% y la reserva mínima de efectivo de $4.05 USD. No realizar nuevas compras este ciclo dado que la liquidez restante está por debajo del tamaño operativo mínimo y las posiciones actuales están consolidando sus rebotes.",
-    "updated_at": "2026-10-18T07:00:50.742820-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD mientras sigan consolidando su rebote técnico y no toquen la zona de take-profit (+2.0% a +3.5%) o se acerquen al stop-loss (-2.0%). Monitorear de cerca los indicadores de RSI de 1H para asegurar beneficios en cuanto crucen el umbral de sobrecompra o alcancen la rentabilidad deseada. Conservar la liquidez disponible para futuras oportunidades.",
+    "updated_at": "2026-10-18T07:10:45.377594-03:00"
   }
 }
