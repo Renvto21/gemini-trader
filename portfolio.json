@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 21.983465662312312,
+  "cash": 30.14924138231231,
   "positions": {
-    "SOL-USD": {
-      "shares": 0.07934146583358127,
-      "avg_price": 100.83,
-      "opened_at": "2026-10-18T17:00:52.153309-03:00"
-    },
     "ETH-USD": {
       "shares": 0.0033880790438840943,
       "avg_price": 2361.22,
@@ -1620,10 +1615,21 @@
       "shares": 0.003388,
       "price": 2361.22,
       "reason": "ETH-USD muestra un RSI diario deprimido en 21.5 y un RSI de 1 hora que se recupera a 34.3 con un cambio positivo del 0.55% en la última hora, cumpliendo la regla de entrada por rebote técnico al salir de sobreventa."
+    },
+    {
+      "timestamp": "2026-10-18T19:10:39.667025-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 8.17,
+      "shares": 0.079341,
+      "price": 102.92,
+      "pnl_usd": 0.17,
+      "pnl_pct": 2.07,
+      "reason": "SOL-USD ha alcanzado un rendimiento de +2.07% cumpliendo con nuestra regla de toma rápida de ganancias (take-profit entre +2.0% y +3.5%) para asegurar efectivo y rotar capital."
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD supervisando de cerca el avance hacia la zona de take-profit entre +2.0% y +3.5%. Mantendremos el stop-loss estricto en -2.0% y la reserva de efectivo por encima de $4.00 USD. No se realizarán nuevas compras en este ciclo para consolidar el capital actual.",
-    "updated_at": "2026-10-18T19:00:45.854615-03:00"
+    "notes": "Asegurar beneficios vendiendo la posición de SOL-USD que ha alcanzado el objetivo de take-profit del +2.07%. Mantener la posición de ETH-USD vigilando de cerca su evolución hacia el objetivo de +2.0% a +3.5%. Mantener la reserva de efectivo por encima de los $4.00 USD requeridos y buscar reingresos tácticos si se presentan nuevas oportunidades en el sector cripto.",
+    "updated_at": "2026-10-18T19:10:39.663597-03:00"
   }
 }
