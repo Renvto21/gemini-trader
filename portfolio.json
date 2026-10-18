@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD en este ciclo, monitoreando de cerca su aproximación al rango objetivo de take-profit (+2.0% a +3.5%) o señales de RSI 1H superior a 70 para asegurar beneficios en efectivo. El stop-loss estricto se mantiene operando en -2.0%. Si alguna posición pierde momentum o retrocede hacia los soportes críticos, procederé a vender inmediatamente para proteger el capital y rotar liquidez.",
-    "updated_at": "2026-10-18T06:40:43.404176-03:00"
+    "notes": "Mantener las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD durante este ciclo mientras continúan su aproximación al rango objetivo de take-profit (+2.0% a +3.5%) o alcanzan un RSI de 1H superior a 70. El stop-loss estricto se mantiene operando en -2.0% para proteger el capital. Si el momentum se desacelera o alguna posición retrocede hacia la zona de entrada, procederé a vender para asegurar beneficios o cortar pérdidas de inmediato.",
+    "updated_at": "2026-10-18T06:50:39.136807-03:00"
   }
 }
