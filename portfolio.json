@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD ya que el tiempo en cartera sigue siendo bajo (menos de dos horas) y los indicadores diarios se encuentran en niveles de sobreventa profunda. Monitorear de cerca el RSI de 1 hora y el cambio porcentual: si el RSI de 1 hora supera los 55-60 y las posiciones logran una ganancia de +2.0% a +3.5%, ejecutar la toma de beneficios. Mantener activo el stop-loss estricto en -2.0% individual para proteger la cuenta ante cualquier extensión bajista.",
-    "updated_at": "2026-10-18T12:50:39.897873-03:00"
+    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD debido a que el tiempo en cartera sigue siendo bajo y los fundamentos técnicos de sobreventa diaria extrema siguen intactos. Monitorear de cerca el RSI de 1 hora: si el RSI de 1 hora supera los 55-60 y las posiciones logran una ganancia de +2.0% a +3.5%, ejecutar la toma de beneficios. Mantener estricto el stop-loss en -2.0% para cada posición abierta y proteger el capital ante cualquier extensión bajista inesperada.",
+    "updated_at": "2026-10-18T13:00:48.813549-03:00"
   }
 }
