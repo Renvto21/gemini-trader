@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 21:20:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-17 21:30:47`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$8.05 USD** | **$30.13 USD** | **$38.18 USD** | 🔴 **-4.56%** ($-1.82) |
+| **$40.00 USD** | **$8.05 USD** | **$30.12 USD** | **$38.17 USD** | 🔴 **-4.57%** ($-1.83) |
 
 ---
 
@@ -16,26 +16,26 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `BTC-USD` | 0.000123 | $81170.65 | $81363.18 | $10.02 | 📈 +0.24% | 2h 19m |
-| `SOL-USD` | 0.097418 | $102.65 | $103.15 | $10.05 | 📈 +0.49% | 2h 9m |
-| `ETH-USD` | 0.004193 | $2385.05 | $2398.97 | $10.06 | 📈 +0.58% | 2h 9m |
+| `BTC-USD` | 0.000123 | $81170.65 | $81331.15 | $10.02 | 📈 +0.20% | 2h 30m |
+| `SOL-USD` | 0.097418 | $102.65 | $103.18 | $10.05 | 📈 +0.52% | 2h 20m |
+| `ETH-USD` | 0.004193 | $2385.05 | $2397.69 | $10.05 | 📈 +0.53% | 2h 20m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra completamente CERRADO (fines de semana/fuera de horario), por lo que la liquidez activa se concentra estrictamente en el mercado cripto 24/7. Las criptomonedas principales (BTC-USD, ETH-USD y SOL-USD) muestran un comportamiento lateral a ligeramente bajista en la última hora, con los indicadores RSI de 1H comprimiéndose cerca o por debajo de 40 tras el rebote inicial. Mantenemos nuestras posiciones abiertas con ganancias marginales (entre +0.24% y +0.58%), sin alcanzar aún los objetivos de take-profit (+2.0%) ni activar los stop-loss."
+> "El mercado tradicional se encuentra cerrado, por lo que la operativa se concentra 100% en las criptomonedas (BTC-USD, ETH-USD, SOL-USD) que operan 24/7. Las posiciones actuales muestran ligeras ganancias marginales (entre +0.2% y +0.53%), pero los indicadores de 1 hora (cambios negativos recientes y RSI acercándose nuevamente a zonas de soporte) reflejan un momentum de corto plazo plano a ligeramente bajista. No se han alcanzado los objetivos de take-profit (+2.0% a +3.5%) ni los niveles de stop-loss (-2.0%), por lo que se decide mantener las posiciones actuales mientras se consolida la estructura de precios."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 70%): La posición en BTC-USD registra una ganancia moderada de +0.24% tras más de 2 horas de tenencia. Aunque el cambio de 1h es ligeramente negativo (-0.22%), el precio se mantiene estable y por encima del precio de entrada, por lo que se prefiere mantener a la espera de un mayor impulso alcista.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD mantiene una rentabilidad positiva de +0.58% con un RSI de 1H en 30.5. No ha alcanzado el objetivo de take-profit del +2.0% pero se mantiene firme sobre el soporte inicial, por lo que se mantiene la posición.
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD presenta un PnL positivo de +0.49%. El precio muestra estabilidad a corto plazo y el sesgo operativo actual sugiere mantener para buscar una extensión del rebote hacia la zona de sobrecompra.
+- **[HOLD] BTC-USD** (Confianza: 75%): La posición mantiene un beneficio menor de +0.20% tras 2.5 horas de holding. El RSI de 1H está en 39.7 y no ha dado señal clara de salida ni ha alcanzado el take-profit deseado, por lo que se mantiene para permitir que el rebote continúe.
+- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD registra una ganancia del +0.52%. A pesar de un leve retroceso en la última hora, se mantiene por encima del precio de entrada y dentro del rango operativo seguro, esperando el catalizador alcista hacia el objetivo de take-profit.
+- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD muestra un rendimiento positivo de +0.53%. Mantenemos la posición abierta ya que no se han activado ni el take-profit ni el stop-loss, y el sesgo técnico de soporte diario sigue vigente.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo ya que se encuentran estables y dentro de rangos operativos seguros. Monitorear de cerca el RSI de 1H y la acción de precio; si alguna posición alcanza la zona de take-profit entre +2.0% y +3.5% o su RSI supera los 70 puntos, procederemos a vender para asegurar capital en efectivo. Si el momentum se deteriora y rompe los soportes actuales, aplicaremos stop-loss inmediato."
+> "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo. Monitorear de cerca el RSI de 1H; si las ganancias rozan el rango de +2.0% a +3.5% o el RSI supera los 70 puntos, ejecutaremos take-profit inmediato para asegurar liquidez. Si el momentum se deteriora y alguna posición vulnera el -1.5% o -2.0% de pérdida, aplicaremos stop-loss preventivo."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
