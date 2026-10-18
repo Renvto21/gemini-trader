@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas de SOL-USD y ETH-USD respetando estrictamente el stop-loss en -2.0%. Se espera un repunte en el RSI de 1 hora por encima de 40-45 acompañado de un cambio de momentum positivo (change_1h_pct sostenido) para buscar objetivos de take profit entre +2.0% y +3.5%. Mantener la liquidez actual intacta hasta una confirmación clara de reversión.",
-    "updated_at": "2026-10-18T14:00:46.434796-03:00"
+    "notes": "Mantener posiciones de SOL-USD y ETH-USD vigentes. Monitorear de cerca los indicadores de 1 hora; si el RSI de 1h supera los 40 y el change_1h_pct se mantiene firmemente positivo, buscar la toma de beneficios (take-profit) entre +2.0% y +3.5%. En caso de perforar el stop-loss del -2.0%, cortar pérdidas inmediatamente y liberar liquidez.",
+    "updated_at": "2026-10-18T14:10:44.671280-03:00"
   }
 }
