@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD. Monitorear el RSI de 1 hora y el avance de los precios para ejecutar take-profit tan pronto como las posiciones alcancen el rango de +2.0% a +3.5%, o activar el stop-loss estricto si alguna posición cae por debajo de -2.0%. Preservar la liquidez actual y evaluar posibles rotaciones de capital en los siguientes ciclos si el impulso se desacelera.",
-    "updated_at": "2026-10-17T23:30:45.989448-03:00"
+    "notes": "Mantener las posiciones abiertas en BTC-USD, SOL-USD y ETH-USD mientras continúen con tendencia alcista de corto plazo. Vigilar de cerca el RSI de 1 hora y el avance de precios; si alguna posición alcanza el rango de ganancia de +2.0% a +3.5% o su RSI cruza 70, ejecutar SELL para asegurar beneficios y liberar capital. Si el momentum se desacelera sin llegar al objetivo, preparar una rotación hacia nuevas oportunidades.",
+    "updated_at": "2026-10-17T23:40:40.296352-03:00"
   }
 }
