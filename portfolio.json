@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas actuales (BTC-USD, SOL-USD, ETH-USD) evaluando el avance del precio hacia el objetivo de +2.0% a +3.5% de ganancia. Vigilar si el RSI de 1 hora cruza 70 para ejecutar el take-profit y asegurar efectivo. Si el impulso se agota y las ganancias retroceden hacia la zona de stop-loss (-2.0%), cortar pérdidas inmediatamente para liberar capital hacia nuevas oportunidades.",
-    "updated_at": "2026-10-17T23:50:36.975443-03:00"
+    "notes": "Mantener las posiciones abiertas actuales (BTC-USD, SOL-USD, ETH-USD) mientras continúan su proceso de recuperación desde los mínimos recientes. El RSI de 1 hora se mantiene en rangos estables sin sobrecompra extrema aún. Mantendré la observación estricta de las posiciones para asegurar beneficios en cuanto toquen el rango de +2.0% a +3.5% o ejecutar el stop-loss si el precio revierte hacia la zona de -2.0%. No se realizarán nuevas compras en este ciclo para preservar liquidez y permitir que las posiciones actuales maduren.",
+    "updated_at": "2026-10-18T00:00:46.661665-03:00"
   }
 }
