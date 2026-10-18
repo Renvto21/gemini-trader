@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Las posiciones en BTC-USD, SOL-USD y ETH-USD acumulan casi 10 horas abiertas con rendimientos positivos marginales (entre +0.48% y +0.87%). El RSI de 1 hora se ha enfriado hacia la zona neutral tras el rebote inicial. Mantendremos las posiciones vigentes por un ciclo más esperando que alcancen el objetivo de take-profit del +2.0% al +3.5%, o activaremos el stop-loss estricto en caso de que rompan soportes a la baja.",
-    "updated_at": "2026-10-18T04:50:40.081376-03:00"
+    "notes": "Las posiciones llevan casi 10 horas abiertas con rendimientos muy planos y RSI de 1 hora neutralizado. Mantendremos las posiciones vigentes (BTC, SOL, ETH) por un ciclo más esperando la aceleración del volumen, pero si en el siguiente ciclo no muestran avance hacia la zona de +2.0%, procederemos a rotar el capital hacia activos con mayor dinamismo. Los niveles de stop-loss se mantienen estrictos en -2.0% de pérdida por posición.",
+    "updated_at": "2026-10-18T05:00:44.010478-03:00"
   }
 }
