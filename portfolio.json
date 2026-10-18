@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD. Monitorear los indicadores de 1H y vigilar si alguna posición alcanza el objetivo de take-profit (+2.0% a +3.5%) o si el RSI de 1H cruza 70 para asegurar ganancias en efectivo. Si el impulso se debilita o lateraliza sin alcanzar el objetivo, considerar la rotación de capital en el siguiente ciclo.",
-    "updated_at": "2026-10-18T01:10:39.786106-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo. Continuar vigilando los indicadores de 1H y el RSI para asegurar beneficios parciales o totales en cuanto alcancen el rango de take-profit (+2.0% a +3.5%) o si el RSI de 1H cruza 70. Si el impulso se estanca y los precios retroceden hacia el punto de entrada, evaluar rotación de capital.",
+    "updated_at": "2026-10-18T01:20:44.062227-03:00"
   }
 }
