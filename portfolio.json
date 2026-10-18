@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD por ahora, ya que el holding time es inferior a 5 horas y las caídas se mantienen dentro del margen de tolerancia antes de activar el stop-loss estricto de -2.0%. Estaremos atentos a que el RSI de 1 hora supere los niveles de 50-70 o que la rentabilidad alcance el rango de +2.0% a +3.5% para tomar beneficios. Si el precio rompe a la baja superando el -2.0%, ejecutaremos la venta inmediata para proteger el capital.",
-    "updated_at": "2026-10-18T15:30:42.051925-03:00"
+    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD un ciclo más ya que sus holding times son menores a 5 horas y las pérdidas se mantienen por debajo del umbral de stop-loss del -2.0%. Estaremos monitoreando de cerca el RSI de 1 hora esperando que cruce por encima de 50 y que los precios alcancen el rango de beneficio de +2.0% a +3.5% para tomar ganancias y rotar el capital.",
+    "updated_at": "2026-10-18T15:40:40.408806-03:00"
   }
 }
