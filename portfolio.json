@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) ya que se mantienen estables y rentables, aunque sin alcanzar aún el objetivo del take-profit de +2.0% a +3.5%. Vigilaré la evolución del RSI de 1 hora para asegurar ganancias si rozan la sobrecompra o salir inmediatamente si el mercado retrocede y rompe el soporte del -2.0%. Mantengo la reserva mínima de liquidez en efectivo.",
-    "updated_at": "2026-10-18T02:40:46.217299-03:00"
+    "notes": "Mantendré las posiciones abiertas en BTC-USD, ETH-USD y SOL-USD para permitirles buscar la zona objetivo de take-profit entre +2.0% y +3.5%. Vigilaré de cerca el RSI de 1 hora; si alguno se acerca a niveles de sobrecompra (>70), procederé a vender para asegurar ganancias. Mantendré la reserva mínima de efectivo de $4.00 y no abriré nuevas posiciones hasta el próximo ciclo.",
+    "updated_at": "2026-10-18T02:50:39.353753-03:00"
   }
 }
