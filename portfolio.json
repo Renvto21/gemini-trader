@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD durante este ciclo para permitir que madure el rebote técnico desde niveles extremos de sobreventa. Monitorearemos de cerca que el RSI de 1 hora cruce al alza y el cambio de 1h se mantenga positivo para asegurar beneficios entre +2.0% y +3.5%. Stop-loss estricto en -2.0% para ambas posiciones. No realizaremos nuevas entradas por ahora para proteger el remanente de liquidez de $18.37 USD.",
-    "updated_at": "2026-10-18T14:50:41.977506-03:00"
+    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo, vigilando que el RSI de 1 hora rompa al alza con mayor fuerza para asegurar beneficios entre +2.0% y +3.5%. Stop-loss estricto ajustado al -2.0% para evitar pérdidas mayores. La liquidez remanente se mantiene intacta hasta detectar una señal clara de confirmación alcista.",
+    "updated_at": "2026-10-18T15:00:57.339759-03:00"
   }
 }
