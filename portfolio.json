@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) buscando alcanzar la zona objetivo de take-profit entre +2.0% y +3.5%. Si el RSI 1H supera los 70 o las ganancias alcanzan el objetivo, procederemos a vender para asegurar liquidez. Los stop-loss se mantienen estrictos por debajo de -2.0% para proteger el capital.",
-    "updated_at": "2026-10-18T02:00:46.524589-03:00"
+    "notes": "Mantener las posiciones actuales (BTC-USD, SOL-USD, ETH-USD) a la espera de que el RSI de 1 hora supere la zona de 70 o que las ganancias alcancen el rango objetivo de +2.0% a +3.5% para proceder a la toma de beneficios y liberar liquidez. Los stop-loss se mantienen estrictos por debajo de -2.0% para proteger el portafolio ante cualquier volatilidad imprevista.",
+    "updated_at": "2026-10-18T02:10:43.413478-03:00"
   }
 }
