@@ -1,11 +1,16 @@
 {
   "initial_capital": 40.0,
-  "cash": 30.14924138231231,
+  "cash": 22.14924138231231,
   "positions": {
     "ETH-USD": {
       "shares": 0.0033880790438840943,
       "avg_price": 2361.22,
       "opened_at": "2026-10-18T18:40:42.711289-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.07766236287739053,
+      "avg_price": 103.01000000000002,
+      "opened_at": "2026-10-18T19:30:43.738350-03:00"
     }
   },
   "history": [
@@ -1626,10 +1631,19 @@
       "pnl_usd": 0.17,
       "pnl_pct": 2.07,
       "reason": "SOL-USD ha alcanzado un rendimiento de +2.07% cumpliendo con nuestra regla de toma rápida de ganancias (take-profit entre +2.0% y +3.5%) para asegurar efectivo y rotar capital."
+    },
+    {
+      "timestamp": "2026-10-18T19:30:43.738363-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 8.0,
+      "shares": 0.077662,
+      "price": 103.01,
+      "reason": "SOL-USD presenta un RSI diario extremadamente bajo (16.5) y un RSI de 1h recuperándose hasta 49.7, acompañado de un cambio de 1h positivo del 1.0%. Esto confirma un potente rebote técnico de mean reversion de alta convicción."
     }
   ],
   "memory": {
-    "notes": "Mantener la posición de ETH-USD vigilando de cerca su evolución hasta alcanzar el objetivo de take-profit entre +2.0% y +3.5% o hasta que su RSI de 1 hora se acerque a zona de sobrecompra (>70). Monitorear la evolución de SOL-USD para un posible reingreso táctico si consolida el impulso actual, manteniendo la disciplina de liquidez mínima por encima de $4.00 USD.",
-    "updated_at": "2026-10-18T19:20:44.598678-03:00"
+    "notes": "Mantener la posición actual en ETH-USD vigilando que se acerque al objetivo de take-profit (+2.0% a +3.5%) o que su RSI de 1 hora alcance la zona de sobrecompra (>70). Reingresar en SOL-USD aprovechando su fuerte impulso de corto plazo y el RSI diario sobrevendido. Proteger las posiciones con una estricta disciplina de stop-loss a -2.0% y asegurar una liquidez mínima de efectivo.",
+    "updated_at": "2026-10-18T19:30:43.734696-03:00"
   }
 }
