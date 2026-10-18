@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones activas en BTC-USD, SOL-USD y ETH-USD ya que se encuentran cerca de la zona de toma de beneficios (+2.0% a +3.5%). Monitorear de cerca el RSI de 1H y el porcentaje de ganancia en el siguiente ciclo para ejecutar un SELL parcial o total si alcanzan el umbral de take-profit, liberando liquidez hacia efectivo.",
-    "updated_at": "2026-10-18T00:50:42.165865-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo mientras se acercan al objetivo de take-profit (+2.0% a +3.5%). Monitorear de cerca los indicadores de 1H; si alguna posición cruza el umbral de ganancia o su RSI de 1H supera los 70 puntos, ejecutar una venta parcial o total para asegurar liquidez en efectivo. Si el impulso se debilita lateralmente, rotar el capital hacia nuevas oportunidades de momentum.",
+    "updated_at": "2026-10-18T01:00:46.993088-03:00"
   }
 }
