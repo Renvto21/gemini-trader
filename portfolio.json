@@ -1537,7 +1537,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD durante este ciclo. Vigilar estrictamente que el RSI de 1H no rompa soportes a la baja y activar stop-loss si alguna posición cae al umbral de -2.0%. Mantener la orden de take-profit lista si se alcanza el rango de +2.0% a +3.5% o si el RSI de 1H supera 70.",
-    "updated_at": "2026-10-17T21:50:40.355649-03:00"
+    "notes": "Mantener las posiciones actuales en BTC-USD, SOL-USD y ETH-USD. Vigilar que el RSI de 1H no rompa a la baja y aplicar stop-loss estricto si alguna posición cae al umbral de -2.0%. Mantener la orden de take-profit lista si se alcanza el rango de +2.0% a +3.5% o si el RSI de 1H supera 70. Si el mercado cripto pierde dinamismo en los próximos ciclos, rotar capital hacia oportunidades de mayor velocidad.",
+    "updated_at": "2026-10-17T22:00:49.136998-03:00"
   }
 }
