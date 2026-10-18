@@ -1623,7 +1623,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición en SOL-USD buscando el objetivo de take-profit entre +2.0% y +3.5% (aprox. $103.50 - $105.00) con stop-loss en -2.0%. Aprovecharemos la liquidez disponible para abrir una nueva posición en ETH-USD dado que su RSI de 1 hora cruza al alza la zona de 34 y muestra momentum de recuperación. Mantendremos el efectivo estricto de reserva operativa por encima de $4.00 USD.",
-    "updated_at": "2026-10-18T18:40:42.707556-03:00"
+    "notes": "Mantendremos las posiciones actuales en SOL-USD y ETH-USD esperando que extiendan su rebote técnico hacia la zona de take-profit (+2.0% a +3.5%). Monitorearemos de cerca el stop-loss en -2.0% para proteger el capital. Mantendremos la reserva de efectivo por encima de los $4.00 USD y evaluaremos rotación si el momentum se debilita en los próximos ciclos.",
+    "updated_at": "2026-10-18T18:50:41.228417-03:00"
   }
 }
