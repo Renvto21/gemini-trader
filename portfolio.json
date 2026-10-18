@@ -1583,7 +1583,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD durante este ciclo para permitir que el rebote técnico se desarrolle, ya que el holding time sigue siendo corto (~4h). El stop-loss estricto se mantiene en -2.0% y buscaremos tomar beneficios (take-profit) si el RSI de 1 hora supera 70 o la ganancia alcanza el rango de +2.0% a +3.5%. La liquidez actual de $18.37 USD se reservará para posibles entradas adicionales o para cubrir cualquier contingencia táctica.",
-    "updated_at": "2026-10-18T15:20:49.607847-03:00"
+    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD por ahora, ya que el holding time es inferior a 5 horas y las caídas se mantienen dentro del margen de tolerancia antes de activar el stop-loss estricto de -2.0%. Estaremos atentos a que el RSI de 1 hora supere los niveles de 50-70 o que la rentabilidad alcance el rango de +2.0% a +3.5% para tomar beneficios. Si el precio rompe a la baja superando el -2.0%, ejecutaremos la venta inmediata para proteger el capital.",
+    "updated_at": "2026-10-18T15:30:42.051925-03:00"
   }
 }
