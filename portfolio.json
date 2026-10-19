@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición en QQQ vigilando de cerca que alcance el rango de take-profit de +2.0% a +3.5% o aplicaremos el stop-loss si rompe a la baja. Desplegaremos un nuevo BUY en ETH-USD aprovechando su RSI de 1h cercano a 35 buscando un rebote técnico rápido. Mantendremos liquidez mínima según las reglas operativas.",
-    "updated_at": "2026-10-19T12:51:35.145393-03:00"
+    "notes": "Mantendremos las posiciones actuales en QQQ y ETH-USD mientras monitoreamos sus niveles de take-profit entre +2.0% y +3.5% o aplicamos stop-loss estrictos si rompen a la baja. No realizaremos nuevas aperturas en este ciclo para preservar la liquidez mínima requerida y evaluar la consolidación de los precios actuales.",
+    "updated_at": "2026-10-19T13:00:56.176019-03:00"
   }
 }
