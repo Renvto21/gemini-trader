@@ -1663,7 +1663,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD supervisando de cerca la zona de take-profit entre +2.0% y +3.5%. Si SOL-USD alcanza dicho umbral, realizaremos una venta parcial para asegurar capital y mantener la disciplina de rotación rápida. Stop-loss estricto en -2.0% para proteger la cuenta.",
-    "updated_at": "2026-10-18T22:40:36.060699-03:00"
+    "notes": "Monitorear de cerca SOL-USD ya que se aproxima al rango de take-profit entre +2.0% y +3.5%. Si alcanza dicho umbral, ejecutar venta parcial o total para asegurar ganancias. Mantener ETH-USD esperando mayor impulso alcista en 1H y proteger con stop-loss estricto a -2.0%.",
+    "updated_at": "2026-10-18T22:50:42.598986-03:00"
   }
 }
