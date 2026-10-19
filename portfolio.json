@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantenemos $38.57 USD en efectivo tras haber asegurado ganancias en ciclos anteriores. El plan táctico para los siguientes ciclos es vigilar la caída del rsi_1h por debajo de 35 en ETH-USD, SOL-USD o BTC-USD con momentum positivo para desplegar entre $8.00 y $10.00 USD en una entrada de alta convicción. No compramos con indicadores elevados en 1 hora.",
-    "updated_at": "2026-10-19T09:00:54.579856-03:00"
+    "notes": "Mantenemos $38.57 USD en liquidez total al no haber encontrado entradas con RSI de 1 hora en sobreventa (<35) en este momento (los activos cripto abiertos tienen rsi_1h entre 64 y 69). El plan para los siguientes ciclos es vigilar de cerca a SOL-USD, ETH-USD y BTC-USD en busca de un retroceso de corto plazo que hunda el rsi_1h por debajo de 35 con momentum positivo, momento en el cual asignaremos entre $8.00 y $10.00 USD para aprovechar el rebote diario.",
+    "updated_at": "2026-10-19T09:10:39.752713-03:00"
   }
 }
