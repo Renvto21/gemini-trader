@@ -1709,7 +1709,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición abierta en QQQ esperando que consolide su impulso alcista hacia el objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto a -2.0% para proteger el capital. Dado que la liquidez actual es de $28.57 USD, por encima de la reserva mínima requerida, y no hay oportunidades claras con alta convicción en criptomonedas, decidimos mantener la asignación actual y esperar confirmaciones más fuertes en el siguiente ciclo.",
-    "updated_at": "2026-10-19T11:10:42.307486-03:00"
+    "notes": "Mantendremos la posición abierta en QQQ esperando que alcance nuestro objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto a -2.0%. Estaremos monitoreando de cerca el comportamiento de NVDA y QQQ para posibles rotaciones o aumentos de exposición si el momentum se consolida en el siguiente ciclo.",
+    "updated_at": "2026-10-19T11:20:41.636982-03:00"
   }
 }
