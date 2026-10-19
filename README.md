@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 08:20:37`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 08:30:49`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de Wall Street se encuentra cerrado con precios congelados y debilidad generalizada en la tendencia diaria. En el mercado de criptomonedas, que opera 24/7, tanto ETH-USD como SOL-USD muestran niveles de RSI de 1 hora elevados (74.8 y 72.8 respectivamente), lo que indica condiciones de sobrecompra a corto plazo tras los rebotes recientes. Mantenemos la liquidez intacta a la espera de un retroceso intradiario que permita reingresar con ventaja técnica."
+> "El mercado bursátil tradicional se encuentra cerrado, por lo que toda la atención se concentra en los criptoactivos (SOL-USD, ETH-USD y BTC-USD), que operan 24/7. Tanto SOL-USD como ETH-USD presentan un RSI diario profundamente deprimido en zona de sobreventa (20.7 y 25.3 respectivamente), pero en el corto plazo (1 hora) sus RSI se han elevado por encima de 70 tras recientes impulsos, encontrándose momentáneamente en sobrecompra sin un retroceso claro previo que active nuestra entrada ideal. Mantenemos la disciplina táctica de esperar una corrección intradiaria que hunda el RSI de 1 hora por debajo de 35 antes de comprometer capital."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): El activo se encuentra en sobrecompra con un RSI de 1 hora en 72.8, por lo que no es momento de comprar. Esperamos una corrección intradiaria para buscar una entrada óptima de rebote.
+- **[HOLD] SOL-USD** (Confianza: 90%): El RSI diario de SOL-USD en 20.7 muestra un potencial de rebote masivo a mediano plazo, pero el rsi_1h actual está en 73.1 (sobrecompra de corto plazo). Comprar ahora violaría nuestra regla de entrar tras una corrección intradiaria. Esperamos un retroceso de precio para ejecutar una compra de alta convicción.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantenemos $38.57 USD en efectivo tras la exitosa toma de ganancias previa. El plan táctico consiste en esperar pacientemente a que ETH-USD o SOL-USD corrijan y lleven su RSI de 1 hora por debajo de 35. Cuando esto ocurra, desplegaremos entre $8.00 y $10.00 USD para cazar el siguiente rebote técnico de alta convicción."
+> "Mantenemos $38.57 USD en efectivo tras las operaciones recientes. El plan táctico para los siguientes ciclos consiste en vigilar de cerca a SOL-USD y ETH-USD: esperamos que sus indicadores de 1 hora (rsi_1h) corrijan por debajo de 35 para desplegar entre $8.00 y $10.00 USD en una entrada de alta convicción buscando el rebote técnico hacia la media. No realizaremos compras con RSI en zona de sobrecompra superior a 70."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
