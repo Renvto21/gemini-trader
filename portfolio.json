@@ -1737,7 +1737,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales (QQQ, ETH-USD, SOL-USD) vigilando estrictamente el stop-loss en -2.0% y buscando asegurar beneficios si se alcanza el take-profit entre +2.0% y +3.5%. En el próximo ciclo evaluaremos la rotación de capital si el momentum de 1h no muestra signos de recuperación en estos niveles.",
-    "updated_at": "2026-10-19T16:50:46.973678-03:00"
+    "notes": "Mantendremos las posiciones actuales en QQQ, ETH-USD y SOL-USD ya que las pérdidas no han alcanzado el stop-loss estricto del -2.0%. Dado que el mercado tradicional está cerrado, operaremos solo sobre los activos cripto si muestran un cambio de momentum más claro. Establecemos objetivos de salida entre +2.0% y +3.5% para asegurar beneficios rápidamente, y mantendremos el stop-loss ajustado a -2.0%.",
+    "updated_at": "2026-10-19T17:00:49.205450-03:00"
   }
 }
