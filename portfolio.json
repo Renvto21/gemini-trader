@@ -1663,7 +1663,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantenemos las posiciones abiertas en SOL-USD y ETH-USD mientras monitoreamos de cerca su evolución hacia el objetivo de take-profit entre +2.0% y +3.5% o hasta que el RSI de 1h alcance la zona de sobrecompra (>70). El stop-loss se mantiene estricto en -2.0% para proteger el capital ante cualquier giro repentino. Tenemos suficiente liquidez disponible pero preferimos consolidar estas posiciones actuales antes de expandirnos.",
-    "updated_at": "2026-10-18T21:40:39.152084-03:00"
+    "notes": "Mantenemos las posiciones abiertas en SOL-USD (PnL +1.18%) y ETH-USD (PnL +0.36%) mientras se aproximan a la zona de take-profit entre +2.0% y +3.5%. Monitorearemos de cerca el RSI de 1h en busca de sobrecompra (>70) para realizar la toma parcial o total de beneficios, manteniendo el stop-loss estricto en -2.0%. No realizamos nuevas compras en este ciclo para consolidar las ganancias actuales y gestionar adecuadamente la liquidez.",
+    "updated_at": "2026-10-18T21:50:37.661369-03:00"
   }
 }
