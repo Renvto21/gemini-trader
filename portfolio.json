@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales en ETH-USD, SOL-USD, BTC-USD y QQQ. Monitorear de cerca los objetivos de take-profit (+2.0% a +3.5%) en los criptoactivos activos y estar preparados para rotar capital si el impulso se detiene. Conservar la reserva mínima de efectivo de $4.00 USD. No se realizarán nuevas operaciones en este ciclo para dejar madurar las posiciones abiertas.",
-    "updated_at": "2026-10-19T20:00:45.231005-03:00"
+    "notes": "Mantener las posiciones actuales en ETH-USD, SOL-USD, BTC-USD y QQQ mientras maduran los rebotes. Monitorear de cerca los objetivos de take-profit (+2.0% a +3.5%) o los niveles de stop-loss estricto (-2.0%) para proteger capital. Conservar la reserva mínima de efectivo de $4.00 USD. No se ejecutan nuevas operaciones en este ciclo.",
+    "updated_at": "2026-10-19T20:10:42.265140-03:00"
   }
 }
