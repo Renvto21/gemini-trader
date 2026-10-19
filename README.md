@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 07:50:43`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 08:00:51`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional se encuentra cerrado y las criptomonedas operan 24/7, pero mantienen un RSI de 1 hora elevado en sobrecompra (ETH-USD en 87.0, BTC-USD en 75.7, SOL-USD en 81.4), lo que impide realizar nuevas compras en este ciclo según nuestra estrategia táctica de mean reversion y búsqueda de correcciones."
+> "Los mercados tradicionales (Wall Street) se encuentran cerrados, por lo que toda la actividad se concentra en las criptomonedas (ABIERTO 24/7). Los activos principales como BTC-USD, SOL-USD y ETH-USD muestran niveles de RSI de 1 hora elevados (superiores a 70 y hasta 80.2 en ETH), lo que indica condiciones de sobrecompra a corto plazo. No se presentan oportunidades de entrada óptimas bajo nuestra estrategia de Mean Reversion, ya que buscamos recortes intradiarios con RSI de 1 hora por debajo de 35. Mantenemos la liquidez intacta esperando el reingreso a zonas de sobreventa."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): El activo se encuentra abierto pero su RSI de 1 hora está en sobrecompra extrema (81.4). Mantenemos la liquidez en espera de una corrección intradiaria para ejecutar nuestra estrategia de rebote técnico.
+- **[HOLD] BTC-USD** (Confianza: 80%): El RSI de 1 hora en 71.2 indica sobrecompra a corto plazo. No es momento de comprar; esperamos una corrección hacia niveles de RSI < 35 para ejecutar un rebote técnico.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantenemos $38.57 USD en liquidez. Las criptomonedas principales siguen en sobrecompra de corto plazo (RSI 1h > 75). El plan táctico para los siguientes ciclos continúa siendo monitorear una corrección intradiaria que hunda el RSI de 1 hora de SOL-USD, ETH-USD o BTC-USD por debajo de 35 para desplegar entre $8.00 y $10.00 USD en una entrada de alta convicción buscando un nuevo rebote técnico."
+> "Continuamos con $38.57 USD en liquidez. Las criptomonedas siguen en sobrecompra de corto plazo. El plan táctico para los siguientes ciclos consiste en esperar una corrección intradiaria que hunda el RSI de 1 hora de SOL-USD, ETH-USD o BTC-USD por debajo de 35 para desplegar capital en una entrada de alta convicción buscando un rebote técnico rápido."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
