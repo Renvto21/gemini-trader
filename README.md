@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 11:20:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 11:30:47`
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $721.11 | $10.03 | 📈 +0.30% | 39m |
+| `QQQ` | 0.013910 | $718.92 | $721.10 | $10.03 | 📈 +0.30% | 50m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un rebote técnico interesante en activos tecnológicos y principales índices con un cambio de 1h positivo, destacando QQQ y NVDA con momentum al alza. Los activos cripto se mantienen laterales con baja volatilidad en el corto plazo. El mercado general opera con un sesgo de recuperación de corto plazo."
+> "El mercado muestra un comportamiento lateral a ligeramente bajista en el corto plazo, con la mayoría de los activos operando bajo sus medias móviles de 20 días. QQQ se mantiene dentro de nuestra cartera con una ganancia marginal del +0.3% tras 50 minutos de tenencia. El momentum intradiario se ha enfriado, por lo que mantendremos la posición actual mientras vigilamos de cerca los niveles de soporte y resistencia sin forzar nuevas entradas hasta que aparezcan señales claras de volumen y cambio en el RSI de 1 hora."
 
 **Operaciones del ciclo:**
-- **[HOLD] QQQ** (Confianza: 75%): La posición en QQQ lleva poco tiempo abierta (39m) y presenta una ganancia actual de +0.3%. El cambio de 1h es sólido (+1.57%) y mantiene el potencial de alcanzar el objetivo de take-profit sin necesidad de cerrar la operación prematuramente.
+- **[HOLD] QQQ** (Confianza: 70%): La posición en QQQ lleva poco tiempo abierta (50 minutos) y se encuentra en terreno positivo (+0.3%). No ha alcanzado el objetivo de take-profit (+2.0% a +3.5%) ni ha activado el stop-loss (-2.0%). Mantenemos la disciplina táctica permitiendo que el precio evolucione.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos la posición abierta en QQQ esperando que alcance nuestro objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto a -2.0%. Estaremos monitoreando de cerca el comportamiento de NVDA y QQQ para posibles rotaciones o aumentos de exposición si el momentum se consolida en el siguiente ciclo."
+> "Mantendremos la posición abierta en QQQ esperando que alcance nuestro objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto a -2.0%. Mantendremos una reserva de liquidez prudente y evaluaremos rotaciones en el siguiente ciclo si el RSI diario de activos como MSFT o AAPL ofrece una mejor oportunidad de rebote."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

@@ -1709,7 +1709,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición abierta en QQQ esperando que alcance nuestro objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto a -2.0%. Estaremos monitoreando de cerca el comportamiento de NVDA y QQQ para posibles rotaciones o aumentos de exposición si el momentum se consolida en el siguiente ciclo.",
-    "updated_at": "2026-10-19T11:20:41.636982-03:00"
+    "notes": "Mantendremos la posición abierta en QQQ esperando que alcance nuestro objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto a -2.0%. Mantendremos una reserva de liquidez prudente y evaluaremos rotaciones en el siguiente ciclo si el RSI diario de activos como MSFT o AAPL ofrece una mejor oportunidad de rebote.",
+    "updated_at": "2026-10-19T11:30:47.552461-03:00"
   }
 }
