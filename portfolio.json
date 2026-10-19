@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones abiertas (QQQ, ETH-USD, SOL-USD, BTC-USD). Monitorear de cerca a SOL-USD y ETH-USD para asegurar beneficios parciales o totales si alcanzan el rango de take-profit (+2.0% a +3.5%) o si el RSI de 1 hora supera 70. Establecer stop-loss estricto a -2.0% en cada posición abierta. No se realizan nuevas compras para conservar la liquidez mínima de $4.00 USD.",
-    "updated_at": "2026-10-19T19:20:44.181618-03:00"
+    "notes": "Mantener posiciones activas en SOL-USD, ETH-USD, BTC-USD y QQQ. Las acciones de QQQ están cerradas y operarán en el siguiente ciclo. Monitorear de cerca los objetivos de take-profit entre +2.0% y +3.5% para liquidar parcialmente y asegurar ganancias. Establecer stop-loss estricto a -2.0%. Mantener la liquidez reservada.",
+    "updated_at": "2026-10-19T19:30:46.633105-03:00"
   }
 }
