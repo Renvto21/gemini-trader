@@ -1663,7 +1663,7 @@
     }
   ],
   "memory": {
-    "notes": "Bitácora de ciclo: Mantenemos SOL-USD buscando alcanzar el objetivo de take-profit entre +2.0% y +3.5%, o la zona de sobrecompra en el RSI de 1h (> 70). Abrimos una nueva posición en ETH-USD para aprovechar su RSI diario extremadamente bajo (23.2) y el impulso alcista de corto plazo. Establecemos un stop-loss estricto en -2.0% para ambas posiciones y mantendremos la disciplina de rotación de capital.",
-    "updated_at": "2026-10-18T21:20:41.373658-03:00"
+    "notes": "Bitácora de ciclo: Mantenemos SOL-USD y ETH-USD esperando que continúe el impulso hacia nuestro objetivo de take-profit entre +2.0% y +3.5%, o hasta ver sobrecompra en RSI de 1h (> 70). Mantenemos un stop-loss estricto en -2.0% y preservaremos disciplina de rotación si el impulso decae.",
+    "updated_at": "2026-10-18T21:30:40.182311-03:00"
   }
 }
