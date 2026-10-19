@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y la posición en QQQ a la espera de la apertura de Wall Street. Monitorear de cerca los objetivos de take-profit entre +2.0% y +3.5% o niveles de RSI de 1 hora cercanos a sobrecompra para rotar capital rápidamente. El stop-loss estricto se mantiene en -2.0% para proteger el capital ante cualquier fallo en el rebote.",
-    "updated_at": "2026-10-19T17:30:45.265668-03:00"
+    "notes": "Mantener las posiciones activas en SOL-USD, ETH-USD y BTC-USD mientras muestran un comportamiento estable y buscan el objetivo de take-profit entre +2.0% y +3.5%. La posición en QQQ se mantiene congelada por el cierre de mercado. Monitorear de cerca los niveles de RSI de 1 hora y el stop-loss estricto en -2.0% para proteger el capital ante cualquier cambio drástico.",
+    "updated_at": "2026-10-19T17:40:40.580599-03:00"
   }
 }
