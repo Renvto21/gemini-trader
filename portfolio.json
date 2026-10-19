@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones activas en ETH-USD, SOL-USD y BTC-USD vigilando de cerca la evolución del RSI de 1 hora hacia la zona de sobrecompra (>70) para ejecutar tomas de ganancias progresivas (Take-Profit). QQQ permanece cerrado y sin cambios. El stop-loss se mantiene estrictamente en -2.0% para proteger el capital. Si el momentum se desacelera sin alcanzar el objetivo, se evaluará rotar capital en el siguiente ciclo.",
-    "updated_at": "2026-10-19T18:30:48.029405-03:00"
+    "notes": "Mantener las posiciones actuales en ETH-USD, SOL-USD y BTC-USD mientras buscamos una extensión alcista hacia zonas de RSI de 1 hora superiores a 60-70 para ejecutar tomas de ganancias progresivas (Take-Profit). QQQ permanece retenido hasta la apertura del mercado tradicional. Si las criptomonedas pierden soporte o se estancan por completo en el siguiente ciclo, realizaremos rotación de capital.",
+    "updated_at": "2026-10-19T18:40:44.592393-03:00"
   }
 }
