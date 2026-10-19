@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD, SOL-USD, BTC-USD y QQQ. Monitorear de cerca el RSI de 1 hora en cripto buscando que cruce por encima de 60 para ejecutar tomas de ganancias progresivas (Take-Profit) de entre +2% y +3.5%. QQQ se mantiene inalterado hasta la apertura del mercado tradicional. No se requieren nuevas compras en este ciclo dado que la liquidez en efectivo está al límite mínimo ($4.00 USD).",
-    "updated_at": "2026-10-19T18:50:40.172493-03:00"
+    "notes": "Mantener las posiciones abiertas actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran en zona de recuperación y aún no alcanzan los objetivos de take-profit entre +2.0% y +3.5%. QQQ permanece inalterado hasta la apertura del mercado tradicional. Seguir monitoreando el RSI de 1 hora en cripto; si ETH o SOL superan los objetivos de ganancia o alcanzan sobrecompra en RSI de 1 hora (>70), proceder a la venta parcial para asegurar liquidez. No se requiere realizar compras adicionales en este ciclo debido a que la liquidez se mantiene en el límite mínimo ($4.00 USD).",
+    "updated_at": "2026-10-19T19:00:50.362382-03:00"
   }
 }
