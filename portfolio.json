@@ -1683,7 +1683,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré las posiciones abiertas en ETH-USD y SOL-USD mientras consolidan su recuperación tras la sobreventa diaria. Monitorizaré de cerca si ETH-USD o SOL-USD alcanzan la zona objetivo de +2.0% a +3.5% o si su RSI de 1h se aproxima a sobrecompra (>70) para ejecutar la toma de beneficios y liberar liquidez. El stop-loss se mantiene estricto en -2.0% para ambas posiciones.",
-    "updated_at": "2026-10-18T23:30:42.145498-03:00"
+    "notes": "Mantendré las posiciones actuales en ETH-USD y SOL-USD vigilando de cerca los objetivos de take-profit entre +2.0% y +3.5%, o un acercamiento del RSI de 1h a niveles de sobrecompra (>70). El stop-loss se mantiene estricto en -2.0% para ambas posiciones. La reserva de efectivo se encuentra en $22.48 USD, cumpliendo holgadamente con el mínimo requerido.",
+    "updated_at": "2026-10-18T23:40:41.196804-03:00"
   }
 }
