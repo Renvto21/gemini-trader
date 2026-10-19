@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 04:10:42`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 04:20:39`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se encuentra abierto, pero tanto BTC-USD como SOL-USD y ETH-USD muestran niveles de RSI de 1 hora en zona de sobrecompra superior a 70 (81.2, 76.4 y 74.2 respectivamente), lo cual desaconseja la compra inmediata bajo nuestra estrategia de rebotes técnicos. Los activos de renta variable tradicional (QQQ, NVDA, SPY) están cerrados y sus mercados permanecen inaccesibles. Mantenemos la disciplina táctica de esperar correcciones intradiarias para activar compras."
+> "El mercado de criptomonedas se encuentra activo (24/7), pero los principales activos (SOL-USD, BTC-USD, ETH-USD) muestran en este momento un RSI de 1 hora elevado en zona de sobrecompra (>70), lo que impide realizar entradas de alta convicción bajo nuestra estrategia de rebotes. Los mercados tradicionales (AAPL, MSFT, NVDA, QQQ, SPY, GLD) están cerrados, por lo que no se operarán. Mantenemos nuestra liquidez en efectivo esperando un retroceso intradiario en cripto que baje el RSI de 1h por debajo de 35 para desplegar capital."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 90%): El activo se encuentra abierto, pero su RSI de 1 hora está en 81.2 (sobrecompra severa). Las reglas exigen evitar compras en sobrecompra y esperar un retroceso intradiario para cazar el rebote.
+- **[HOLD] SOL-USD** (Confianza: 50%): El activo se encuentra con un rsi_1h de 75.4 en zona de sobrecompra, lo cual desaconseja la compra en este momento. Esperamos un retroceso intradiario para buscar un rebote técnico.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Continuamos en el ciclo con $38.57 USD en efectivo tras no encontrar puntos óptimos de entrada debido a la sobrecompra intradiaria en cripto. Seguiremos vigilando de cerca los gráficos de BTC, ETH y SOL en busca de una caida temporal en el RSI de 1 hora (< 35) que nos permita desplegar entre $8.00 y $12.00 USD buscando un rebote agresivo, manteniendo siempre una reserva mínima de efectivo de $4.00 USD."
+> "Permanecemos fuera del mercado en este ciclo ya que SOL, BTC y ETH registran rsi_1h superior a 70 (sobrecompra). Mantendremos los $38.57 USD en efectivo y seguiremos vigilando de cerca los gráficos para identificar caídas intradiarias en el RSI de 1 hora (<35) que nos permitan asignar entre $8.00 y $12.00 USD en el próximo ciclo, cumpliendo con la reserva mínima de $4.00 USD."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

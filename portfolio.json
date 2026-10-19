@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Continuamos en el ciclo con $38.57 USD en efectivo tras no encontrar puntos óptimos de entrada debido a la sobrecompra intradiaria en cripto. Seguiremos vigilando de cerca los gráficos de BTC, ETH y SOL en busca de una caida temporal en el RSI de 1 hora (< 35) que nos permita desplegar entre $8.00 y $12.00 USD buscando un rebote agresivo, manteniendo siempre una reserva mínima de efectivo de $4.00 USD.",
-    "updated_at": "2026-10-19T04:10:42.140587-03:00"
+    "notes": "Permanecemos fuera del mercado en este ciclo ya que SOL, BTC y ETH registran rsi_1h superior a 70 (sobrecompra). Mantendremos los $38.57 USD en efectivo y seguiremos vigilando de cerca los gráficos para identificar caídas intradiarias en el RSI de 1 hora (<35) que nos permitan asignar entre $8.00 y $12.00 USD en el próximo ciclo, cumpliendo con la reserva mínima de $4.00 USD.",
+    "updated_at": "2026-10-19T04:20:39.419263-03:00"
   }
 }
