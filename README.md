@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 05:00:51`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 05:10:40`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "Los mercados tradicionales (Wall Street) se encuentran cerrados, por lo que toda la actividad se concentra en criptoactivos (24/7). Los principales criptoactivos analizados (SOL-USD, ETH-USD, BTC-USD) muestran en este momento un RSI de 1 hora en zona de sobrecompra superior a 70 (SOL-USD en 74.4, ETH-USD en 74.3, BTC-USD en 77.1). Mantuvimos una postura paciente esperando esta condición y, dado que no hay caídas por debajo de RSI 1H < 35 todavía, nos mantenemos en liquidez total esperando la corrección táctica para ejecutar compras en los soportes diarios."
+> "Los mercados de valores tradicionales se encuentran cerrados, por lo que toda la actividad se centra en las criptomonedas (BTC-USD, SOL-USD, ETH-USD). Tanto SOL como ETH y BTC muestran lecturas de RSI en gráfico de 1 hora aún en zona de sobrecompra (>70), manteniendo la perspectiva de corrección intradiaria que esperamos para cazar un rebote de mean reversion con alto potencial."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 90%): SOL-USD tiene un RSI de 1 hora en 74.4 (sobrecompra), por lo que comprar ahora iría en contra de la regla de buscar rebotes desde sobreventa. Esperamos la corrección a RSI 1H < 35 para entrar con fuerza.
+- **[HOLD] SOL-USD** (Confianza: 80%): El activo sigue con un RSI de 1 hora en 72.9 (sobrecompra). Esperamos a que el precio corrija y el RSI baje de 35 para ejecutar una compra táctica de rebote.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantenemos $38.57 USD en efectivo (respetando la regla de liquidez mínima). Los activos cripto siguen sobrecomprados en gráfico de 1 hora. Esperaremos pacientemente a que el RSI de 1 hora caiga por debajo de 35 en SOL-USD o ETH-USD para desplegar entre $8.00 y $10.00 USD buscando un rebote de mean reversion. No abriremos posiciones nuevas hasta ver esa corrección intradiaria."
+> "Mantenemos $38.57 USD en efectivo respetando la liquidez mínima. Los activos cripto siguen con RSI de 1 hora elevado por encima de 70. Seguiremos esperando pacientemente a que el RSI de 1 hora caiga por debajo de 35 en SOL-USD o ETH-USD para desplegar entre $8.00 y $10.00 USD buscando un rebote de mean reversion. No abriremos posiciones nuevas hasta ver esa corrección intradiaria."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
