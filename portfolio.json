@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantenemos el efectivo de $38.57 USD intacto debido a la falta de puntos de entrada limpios en criptomonedas. Esperaremos a que BTC-USD, ETH-USD o SOL-USD sufran una corrección intradiaria que hunda el RSI de 1 hora por debajo de 35, permitiendo desplegar compras de entre $8.00 y $10.00 USD buscando un rebote rápido y take-profit del +2.5%.",
-    "updated_at": "2026-10-19T02:50:39.163289-03:00"
+    "notes": "Mantenemos el efectivo de $38.57 USD intacto. El mercado cripto está sobrecomprado a corto plazo (RSI 1H > 70 en los principales activos). Esperaremos pacientemente a que se produzca una corrección intradiaria o un enfriamiento que devuelva el RSI de 1 hora de SOL-USD o ETH-USD por debajo de 35. En cuanto se presente esa oportunidad de mean reversion, desplegaremos entre $8.00 y $10.00 USD buscando un rebote rápido con objetivo de take-profit del +2.5%.",
+    "updated_at": "2026-10-19T03:00:46.052565-03:00"
   }
 }
