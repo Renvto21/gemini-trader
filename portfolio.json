@@ -1683,7 +1683,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones abiertas en ETH-USD y SOL-USD vigilando de cerca el take-profit entre +2.0% y +3.5% o si el RSI de 1 hora supera los 70 puntos. El stop-loss se mantiene estricto en -2.0%. La liquidez actual de 22.48 USD se mantendrá reservada hasta detectar un rompimiento de volumen en BTC-USD o una confirmación de rebote más clara.",
-    "updated_at": "2026-10-19T00:40:40.215083-03:00"
+    "notes": "Mantendremos las posiciones actuales en ETH-USD y SOL-USD vigilando de cerca el take-profit entre +2.0% y +3.5% o si el RSI de 1 hora supera los 70 puntos. El stop-loss se mantiene estricto en -2.0%. La liquidez actual se mantendrá en reserva para buscar una entrada en BTC-USD si rompe al alza con mayor volumen.",
+    "updated_at": "2026-10-19T00:50:41.379690-03:00"
   }
 }
