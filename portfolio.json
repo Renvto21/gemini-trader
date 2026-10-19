@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones de QQQ y ETH-USD mientras no alcancen la zona de take-profit (+2.0% a +3.5%) o activen el stop-loss en -2.0%. Monitorear de cerca el RSI de 1 hora y el momentum de ETH-USD para asegurar ganancias rápidamente y rotar capital si se estanca.",
-    "updated_at": "2026-10-19T13:50:43.734043-03:00"
+    "notes": "Mantener las posiciones actuales en QQQ y ETH-USD mientras se mantengan dentro del rango de tolerancia y no rompan los soportes clave. Vigilar de cerca el RSI de 1 hora para asegurar ganancias si se acercan al objetivo de +2.0% o cortar pérdidas estrictamente si bajan de -2.0%. Preservar liquidez operativa para el próximo ciclo.",
+    "updated_at": "2026-10-19T14:00:45.030142-03:00"
   }
 }
