@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de QQQ y ETH-USD por ahora, monitoreando de cerca si logran alcanzar el umbral de take-profit entre +2.0% y +3.5%. Si el RSI de 1 hora de BTC-USD o SOL-USD rompe decisivamente al alza desde la zona de sobreventa (< 35) con un cambio positivo, evaluaremos rotar capital o abrir una nueva posición utilizando parte de la liquidez disponible, manteniendo siempre la reserva mínima de $4.00 USD.",
-    "updated_at": "2026-10-19T15:00:50.390051-03:00"
+    "notes": "Mantendremos las posiciones actuales de QQQ y ETH-USD mientras se acercan de manera controlada al objetivo de take-profit entre +2.0% y +3.5%. Monitorearemos de cerca el RSI de 1 hora de BTC-USD y SOL-USD para identificar un rompimiento alcista con volumen si deciden acelerar el rebote. Mantendremos la disciplina con el stop-loss en -2.0% y la reserva mínima de efectivo de $4.00 USD.",
+    "updated_at": "2026-10-19T15:10:41.838224-03:00"
   }
 }
