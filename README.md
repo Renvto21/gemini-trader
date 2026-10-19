@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 16:40:45`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 16:50:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$8.57 USD** | **$30.05 USD** | **$38.61 USD** | 🔴 **-3.47%** ($-1.39) |
+| **$40.00 USD** | **$8.57 USD** | **$29.99 USD** | **$38.56 USD** | 🔴 **-3.61%** ($-1.44) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $720.84 | $10.03 | 📈 +0.27% | 6h 0m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2398.40 | $10.02 | 📈 +0.20% | 3h 49m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.13 | $10.00 | 📈 +0.00% | 0m |
+| `QQQ` | 0.013910 | $718.92 | $718.91 | $10.00 | 📈 -0.00% | 6h 10m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2392.62 | $10.00 | 📉 -0.04% | 3h 59m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.09 | $10.00 | 📉 -0.04% | 10m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sentimiento mixto con sesgo bajista en el corto plazo, pero con claros indicios de agotamiento vendedor en activos digitales y criptomonedas. SOL-USD presenta una oportunidad excelente de reverso a la media con un RSI diario extremadamente deprimido en 19.7 y un cambio de 1h ya volviéndose positivo (+0.23%). Las posiciones actuales en QQQ y ETH-USD se mantienen estables con ligeras ganancias del +0.27% y +0.20%, por lo que continuaremos esperando a que alcancen nuestra zona objetivo de take-profit entre +2.0% y +3.5%."
+> "El mercado muestra un sesgo general bajista en los principales índices y criptomonedas, con la mayoría de los activos cotizando por debajo de su SMA20. Sin embargo, el RSI diario de activos como SOL-USD (19.5) y ETH-USD (23.9) se encuentra en niveles de sobreventa extrema, lo que sugiere posibles oportunidades de rebote técnico (mean reversion) a medida que los indicadores de corto plazo intenten estabilizarse."
 
 **Operaciones del ciclo:**
-- **[BUY] SOL-USD** (Confianza: 88%): SOL-USD presenta un RSI diario extremo de 19.7, indicando condiciones de sobreventa profunda, y su cambio de 1h se ha tornado positivo (+0.23%) con un RSI de 34.9 saliendo de mínimos, lo que activa nuestra estrategia de rebote por mean reversion.
+- **[HOLD] QQQ** (Confianza: 70%): La posición en QQQ se mantiene operando dentro del rango esperado, con un PnL neutral. Esperaremos a que el precio confirme un rebote técnico claro sobre su soporte antes de realizar movimientos.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener posiciones de QQQ y ETH-USD vigilando el stop-loss en -2.0% y preparándonos para asegurar beneficios si rozan +2.0% de ganancia o sobrecompra en 1h. Hemos desplegado capital fresco en SOL-USD aprovechando su sobreventa extrema diaria. En el siguiente ciclo evaluaremos la rotación de posiciones si el momentum se debilita."
+> "Mantendremos las posiciones actuales (QQQ, ETH-USD, SOL-USD) vigilando estrictamente el stop-loss en -2.0% y buscando asegurar beneficios si se alcanza el take-profit entre +2.0% y +3.5%. En el próximo ciclo evaluaremos la rotación de capital si el momentum de 1h no muestra signos de recuperación en estos niveles."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

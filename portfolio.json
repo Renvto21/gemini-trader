@@ -1737,7 +1737,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones de QQQ y ETH-USD vigilando el stop-loss en -2.0% y preparándonos para asegurar beneficios si rozan +2.0% de ganancia o sobrecompra en 1h. Hemos desplegado capital fresco en SOL-USD aprovechando su sobreventa extrema diaria. En el siguiente ciclo evaluaremos la rotación de posiciones si el momentum se debilita.",
-    "updated_at": "2026-10-19T16:40:45.755592-03:00"
+    "notes": "Mantendremos las posiciones actuales (QQQ, ETH-USD, SOL-USD) vigilando estrictamente el stop-loss en -2.0% y buscando asegurar beneficios si se alcanza el take-profit entre +2.0% y +3.5%. En el próximo ciclo evaluaremos la rotación de capital si el momentum de 1h no muestra signos de recuperación en estos niveles.",
+    "updated_at": "2026-10-19T16:50:46.973678-03:00"
   }
 }
