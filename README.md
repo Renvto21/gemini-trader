@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 08:50:40`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 09:00:54`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario tradicional (SPY, QQQ, NVDA, MSFT, AAPL, GLD) se encuentra CERRADO. Nos enfocamos estrictamente en el mercado de criptomonedas (ABIERTO 24/7). Actualmente, los activos principales (ETH-USD, BTC-USD y SOL-USD) presentan un RSI de 1 hora en zona de sobrecompra superior a 70 (77.2 para ETH, 70.5 para BTC y 74.9 para SOL), lo que incumple nuestra regla de entrada por rebote técnico. Mantenemos el 100% de la cartera en efectivo ($38.57 USD) esperando una corrección intradiaria que sitúe el rsi_1h por debajo de 35."
+> "El mercado tradicional se encuentra cerrado, por lo que la liquidez debe concentrarse exclusivamente en los activos de criptomonedas (ABIERTO 24/7). Actualmente, ETH-USD, SOL-USD y BTC-USD muestran un RSI de 1 hora elevado (cercano o superior a 60), lo cual indica que no estamos en una zona óptima de sobreventa para reingresar tras las tomas de ganancias recientes. Mantenemos la paciencia esperando un retroceso intradiario antes de desplegar capital."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 90%): El activo tiene el mercado abierto, pero su rsi_1h se encuentra en sobrecompra extrema (74.9), lo que imposibilita una entrada por rebote según nuestra estrategia de gestión de riesgo. Esperaremos una corrección intradiaria.
+- **[HOLD] SOL-USD** (Confianza: 80%): El activo muestra un RSI de 1 hora en 62.4, acercándose a niveles de sobrecompra de corto plazo sin ofrecer un punto de entrada óptimo por retroceso. Mantenemos el efectivo en espera de una mejor corrección.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantenemos $38.57 USD en efectivo tras el ciclo anterior. El plan táctico para los siguientes ciclos consiste en vigilar de cerca a SOL-USD, ETH-USD y BTC-USD a la espera de un retroceso en el rsi_1h por debajo de 35 combinado con un cambio de momentum intradiario positivo para desplegar entre $8.00 y $10.00 USD en una entrada de alta convicción. No compramos con indicadores en sobrecompra."
+> "Mantenemos $38.57 USD en efectivo tras haber asegurado ganancias en ciclos anteriores. El plan táctico para los siguientes ciclos es vigilar la caída del rsi_1h por debajo de 35 en ETH-USD, SOL-USD o BTC-USD con momentum positivo para desplegar entre $8.00 y $10.00 USD en una entrada de alta convicción. No compramos con indicadores elevados en 1 hora."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
