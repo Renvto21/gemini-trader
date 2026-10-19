@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 18.565385430488156,
+  "cash": 8.565385430488156,
   "positions": {
     "QQQ": {
       "shares": 0.013909753519167642,
@@ -11,6 +11,11 @@
       "shares": 0.0041777725787719025,
       "avg_price": 2393.62,
       "opened_at": "2026-10-19T12:51:35.147891-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.09603380389897244,
+      "avg_price": 104.13,
+      "opened_at": "2026-10-19T16:40:45.759168-03:00"
     }
   },
   "history": [
@@ -1720,10 +1725,19 @@
       "shares": 0.004178,
       "price": 2393.62,
       "reason": "ETH-USD presenta un RSI de 1 hora en 34.6, entrando en zona de sobreventa de corto plazo, ideal para cazar un rebote técnico (Mean Reversion). Asignamos alta convicción y un monto de $10.00 USD para aprovechar este movimiento en un mercado abierto 24/7."
+    },
+    {
+      "timestamp": "2026-10-19T16:40:45.759188-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.0,
+      "shares": 0.096034,
+      "price": 104.13,
+      "reason": "SOL-USD presenta un RSI diario extremo de 19.7, indicando condiciones de sobreventa profunda, y su cambio de 1h se ha tornado positivo (+0.23%) con un RSI de 34.9 saliendo de mínimos, lo que activa nuestra estrategia de rebote por mean reversion."
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de QQQ y ETH-USD monitoreando de cerca el stop-loss en -2.0% y buscando un take-profit entre +2.0% y +3.5%. Estaremos atentos a un cambio de 1h positivo en SOL-USD para entrar en su inminente rebote por sobreventa extrema en el RSI diario (19.2). Conservaremos la liquidez mínima de reserva.",
-    "updated_at": "2026-10-19T16:30:49.185210-03:00"
+    "notes": "Mantener posiciones de QQQ y ETH-USD vigilando el stop-loss en -2.0% y preparándonos para asegurar beneficios si rozan +2.0% de ganancia o sobrecompra en 1h. Hemos desplegado capital fresco en SOL-USD aprovechando su sobreventa extrema diaria. En el siguiente ciclo evaluaremos la rotación de posiciones si el momentum se debilita.",
+    "updated_at": "2026-10-19T16:40:45.755592-03:00"
   }
 }
