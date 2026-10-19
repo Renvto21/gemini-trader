@@ -1,11 +1,16 @@
 {
   "initial_capital": 40.0,
-  "cash": 30.31113666231231,
+  "cash": 22.31113666231231,
   "positions": {
     "SOL-USD": {
       "shares": 0.07766236287739053,
       "avg_price": 103.01000000000002,
       "opened_at": "2026-10-18T19:30:43.738350-03:00"
+    },
+    "ETH-USD": {
+      "shares": 0.003329504403269573,
+      "avg_price": 2402.76,
+      "opened_at": "2026-10-18T21:20:41.376665-03:00"
     }
   },
   "history": [
@@ -1646,10 +1651,19 @@
       "pnl_usd": 0.16,
       "pnl_pct": 2.03,
       "reason": "ETH-USD ha alcanzado una ganancia del +2.03%, cumpliendo con la regla de toma rápida de ganancias (take-profit) para asegurar beneficios en efectivo y rotar capital."
+    },
+    {
+      "timestamp": "2026-10-18T21:20:41.376680-03:00",
+      "action": "BUY",
+      "ticker": "ETH-USD",
+      "amount_usd": 8.0,
+      "shares": 0.00333,
+      "price": 2402.76,
+      "reason": "ETH-USD muestra un RSI diario fuertemente sobrevendido en 23.2 y un cambio positivo en la última hora del 0.63%, cumpliendo perfectamente con nuestra estrategia de cazar rebotes técnicos en criptomonedas con alta convicción."
     }
   ],
   "memory": {
-    "notes": "Bitácora de ciclo: SOL-USD se mantiene en cartera con una ganancia actual de +1.0%, todavía por debajo del objetivo de take-profit de +2.0% a +3.5%. Mantendremos la posición vigilando de cerca que el RSI de 1h continúe al alza o alcance la zona de sobrecompra superior a 70 para ejecutar la venta. El efectivo disponible se mantiene en reserva táctica esperando nuevas señales o confirmaciones de impulso en activos 24/7.",
-    "updated_at": "2026-10-18T21:10:41.447136-03:00"
+    "notes": "Bitácora de ciclo: Mantenemos SOL-USD buscando alcanzar el objetivo de take-profit entre +2.0% y +3.5%, o la zona de sobrecompra en el RSI de 1h (> 70). Abrimos una nueva posición en ETH-USD para aprovechar su RSI diario extremadamente bajo (23.2) y el impulso alcista de corto plazo. Establecemos un stop-loss estricto en -2.0% para ambas posiciones y mantendremos la disciplina de rotación de capital.",
+    "updated_at": "2026-10-18T21:20:41.373658-03:00"
   }
 }
