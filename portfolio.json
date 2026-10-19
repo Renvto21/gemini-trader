@@ -1,11 +1,16 @@
 {
   "initial_capital": 40.0,
-  "cash": 30.48040244231231,
+  "cash": 22.48040244231231,
   "positions": {
     "ETH-USD": {
       "shares": 0.003329504403269573,
       "avg_price": 2402.76,
       "opened_at": "2026-10-18T21:20:41.376665-03:00"
+    },
+    "SOL-USD": {
+      "shares": 0.07611074112834174,
+      "avg_price": 105.11,
+      "opened_at": "2026-10-18T23:20:40.243348-03:00"
     }
   },
   "history": [
@@ -1666,10 +1671,19 @@
       "pnl_usd": 0.17,
       "pnl_pct": 2.12,
       "reason": "SOL-USD acumula una ganancia del +2.12%, cumpliendo con la regla de toma rápida de ganancias (+2.0% a +3.5%). Se procede a vender la totalidad de la posición para asegurar el capital en efectivo y rotarlo."
+    },
+    {
+      "timestamp": "2026-10-18T23:20:40.243377-03:00",
+      "action": "BUY",
+      "ticker": "SOL-USD",
+      "amount_usd": 8.0,
+      "shares": 0.076111,
+      "price": 105.11,
+      "reason": "SOL-USD presenta un RSI diario en 21.8 (sobreventa extrema) y un momentum de 24 horas alcista del +1.74%. Cumple con los criterios tácticos de rebote técnico (Mean Reversion) con alta convicción, destinando $8.00 USD para capturar el impulso de corto plazo."
     }
   ],
   "memory": {
-    "notes": "SOL-USD ha alcanzado el objetivo de ganancia (+2.12%); procederé a vender el total de la posición para asegurar beneficios y liberar liquidez. Mantendré ETH-USD buscando que alcance el rango objetivo de +2.0% a +3.5% o que su RSI de 1h se acerque a la zona de sobrecompra para realizar la toma de ganancias. Vigilar posibles puntos de entrada en BTC-USD si se presenta una confirmación de rebote.",
-    "updated_at": "2026-10-18T23:10:40.834363-03:00"
+    "notes": "Mantendré ETH-USD a la espera de que alcance el rango objetivo de +2.0% a +3.5% o que su RSI de 1h entre en zona de sobrecompra (>70) para asegurar beneficios. He abierto una posición en SOL-USD aprovechando su sobreventa diaria extrema; mi objetivo de salida para SOL es una ganancia del +2.5% y mi stop-loss se activará si registra una caída superior al -2.0%.",
+    "updated_at": "2026-10-18T23:20:40.129190-03:00"
   }
 }
