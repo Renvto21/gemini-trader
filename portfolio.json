@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantenemos nuestra liquidez principal intacta en $38.57 USD a la espera de configuraciones de sobreventa en gráficos de 1 hora (RSI < 35) en criptoactivos como SOL-USD o ETH-USD. Seguiremos monitoreando el mercado en busca de caídas de corto plazo para desplegar capital en los siguientes ciclos.",
-    "updated_at": "2026-10-19T09:20:41.150487-03:00"
+    "notes": "Mantenemos los $38.57 USD en efectivo intactos. El plan táctico para los siguientes ciclos es monitorear caídas en BTC-USD, ETH-USD o SOL-USD que lleven el RSI de 1 hora por debajo de 35 para ejecutar compras de rebote (Mean Reversion) con una asignación de $6.00 a $8.00 USD, buscando un take-profit rápido del 2.5% o salida si el RSI de 1 hora cruza 70.",
+    "updated_at": "2026-10-19T09:31:08.701249-03:00"
   }
 }

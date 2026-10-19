@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 09:20:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 09:31:08`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de valores tradicional se encuentra cerrado por lo que la liquidez activa debe centrarse en criptomonedas. Los activos cripto disponibles (SOL-USD, BTC-USD, ETH-USD) se encuentran operando 24/7, pero sus indicadores de RSI de 1 hora se sitúan entre 65 y 70, reflejando zonas de consolidación o acercamiento a sobrecompra, sin mostrar en este momento el retroceso extremo necesario para activar una entrada de alta convicción bajo nuestra estrategia de mean reversion."
+> "El mercado bursátil tradicional se encuentra cerrado, por lo que toda la actividad se concentra en los criptoactivos (24/7). Observamos que ETH-USD y SOL-USD tienen un RSI de 1 hora elevado (71.1 y 67.0 respectivamente) tras ligeros rebotes, acercándose a zonas de sobrecompra pero sin la configuración ideal de entrada inmediata desde sobreventa profunda en corto plazo, ya que el RSI diario sigue bajo presión. Mantenemos la liquidez disponible evaluando nuevas caídas."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 50%): El activo se encuentra abierto pero su RSI de 1 hora está en 65.9, lo cual no cumple con la regla de entrada en sobreventa extrema (< 35). Esperamos un retroceso de corto plazo.
+- **[HOLD] SOL-USD** (Confianza: 50%): El activo muestra un RSI de 1 hora en 67.0 acercándose a la zona de sobrecompra, lo cual no es el punto de entrada idóneo para una estrategia de rebote desde mínimos. Esperamos un retroceso de corto plazo para acumular.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantenemos nuestra liquidez principal intacta en $38.57 USD a la espera de configuraciones de sobreventa en gráficos de 1 hora (RSI < 35) en criptoactivos como SOL-USD o ETH-USD. Seguiremos monitoreando el mercado en busca de caídas de corto plazo para desplegar capital en los siguientes ciclos."
+> "Mantenemos los $38.57 USD en efectivo intactos. El plan táctico para los siguientes ciclos es monitorear caídas en BTC-USD, ETH-USD o SOL-USD que lleven el RSI de 1 hora por debajo de 35 para ejecutar compras de rebote (Mean Reversion) con una asignación de $6.00 a $8.00 USD, buscando un take-profit rápido del 2.5% o salida si el RSI de 1 hora cruza 70."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
