@@ -1,6 +1,6 @@
 {
   "initial_capital": 40.0,
-  "cash": 8.565385430488156,
+  "cash": 3.995385430488156,
   "positions": {
     "QQQ": {
       "shares": 0.013909753519167642,
@@ -16,6 +16,11 @@
       "shares": 0.09603380389897244,
       "avg_price": 104.13,
       "opened_at": "2026-10-19T16:40:45.759168-03:00"
+    },
+    "BTC-USD": {
+      "shares": 5.581744154588664e-05,
+      "avg_price": 81874.05,
+      "opened_at": "2026-10-19T17:10:46.225597-03:00"
     }
   },
   "history": [
@@ -1734,10 +1739,19 @@
       "shares": 0.096034,
       "price": 104.13,
       "reason": "SOL-USD presenta un RSI diario extremo de 19.7, indicando condiciones de sobreventa profunda, y su cambio de 1h se ha tornado positivo (+0.23%) con un RSI de 34.9 saliendo de mínimos, lo que activa nuestra estrategia de rebote por mean reversion."
+    },
+    {
+      "timestamp": "2026-10-19T17:10:46.225627-03:00",
+      "action": "BUY",
+      "ticker": "BTC-USD",
+      "amount_usd": 4.57,
+      "shares": 5.6e-05,
+      "price": 81874.05,
+      "reason": "BTC-USD muestra señales de rebote técnico con un RSI de 1 hora en 31.1 recuperándose y un cambio de 1h positivo del +0.18%, aprovechando la liquidez disponible para maximizar el potencial de crecimiento a corto plazo."
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en QQQ, ETH-USD y SOL-USD ya que las pérdidas no han alcanzado el stop-loss estricto del -2.0%. Dado que el mercado tradicional está cerrado, operaremos solo sobre los activos cripto si muestran un cambio de momentum más claro. Establecemos objetivos de salida entre +2.0% y +3.5% para asegurar beneficios rápidamente, y mantendremos el stop-loss ajustado a -2.0%.",
-    "updated_at": "2026-10-19T17:00:49.205450-03:00"
+    "notes": "Mantener las posiciones actuales en ETH-USD y SOL-USD mientras consoliden sus rebotes técnicos, buscando objetivos de take-profit entre +2.0% y +3.5%. Monitorear de cerca la nueva posición en BTC-USD para protegerla con un stop-loss estricto del -2.0% y rotar capital si el impulso de corto plazo se desvanece.",
+    "updated_at": "2026-10-19T17:10:46.222019-03:00"
   }
 }
