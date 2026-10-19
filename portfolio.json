@@ -1663,7 +1663,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de SOL-USD y ETH-USD mientras sigan mostrando un momentum positivo y no alcancen los niveles objetivo de take-profit (+2.0% a +3.5%) o sobrecompra en 1h (> 70). El stop-loss se mantiene estricto en -2.0% para proteger el capital. No abrimos nuevas posiciones para conservar la liquidez mínima requerida y permitir que las operaciones actuales maduren.",
-    "updated_at": "2026-10-18T22:10:44.286492-03:00"
+    "notes": "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD esperando que alcancen el objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto en -2.0%. Si SOL-USD llega al rango objetivo, ejecutaremos la venta parcial o total para asegurar beneficios.",
+    "updated_at": "2026-10-18T22:20:42.272793-03:00"
   }
 }

@@ -1,39 +1,3 @@
-"El mercado accionario se encuentra cerrado durante el fin de semana, por lo que el foco se concentra exclusivamente en las criptomonedas (ABIERTO 24/7). SOL-USD y ETH-USD muestran un momentum alcista en la última hora y niveles de RSI diario muy deprimidos, manteniendo nuestras expectativas de rebote técnico (Mean Reversion)."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Bitácora de ciclo: Mantenemos SOL-USD y ETH-USD esperando que continúe el impulso hacia nuestro objetivo de take-profit entre +2.0% y +3.5%, o hasta ver sobrecompra en RSI de 1h (> 70). Mantenemos un stop-loss estricto en -2.0% y preservaremos disciplina de rotación si el impulso decae."
-
-⚡ ACCIONES DECIDIDAS:
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.39 USD (Cash: $22.31 USD)
-
-[2026-10-18 21:40:32] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $22.31 USD
- Valor en Activos:     $16.09 USD
- Balance Total:        $38.40 USD
- Ganancia/Pérdida:     🔴 $-1.60 USD (-4.00%)
-
- 💼 Posiciones Abiertas:
-   • SOL-USD: 0.077662 u. | Compra: $103.01 | Actual: $104.0 | Total: $8.08 📈 (+0.96%) [Tiempo: 2h 9m]
-   • ETH-USD: 0.00333 u. | Compra: $2402.76 | Actual: $2406.16 | Total: $8.01 📈 (+0.14%) [Tiempo: 19m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado tradicional se encuentra cerrado, por lo que toda la atención y liquidez se centran exclusivamente en el mercado de criptomonedas (abierto 24/7). Observamos un impulso positivo moderado en los activos principales como SOL-USD y ETH-USD, los cuales muestran un rebote técnico favorable desde niveles diarios muy sobrevendidos con un cambio de 1h positivo, aunque todavía sin alcanzar el objetivo de take-profit óptimo."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantenemos las posiciones abiertas en SOL-USD y ETH-USD mientras monitoreamos de cerca su evolución hacia el objetivo de take-profit entre +2.0% y +3.5% o hasta que el RSI de 1h alcance la zona de sobrecompra (>70). El stop-loss se mantiene estricto en -2.0% para proteger el capital ante cualquier giro repentino. Tenemos suficiente liquidez disponible pero preferimos consolidar estas posiciones actuales antes de expandirnos."
-
-⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] SOL-USD (Confianza: 80%)
     Razón: SOL-USD muestra un rendimiento positivo constante (+0.96%) con un RSI de 1h saludable en 50.9. Mantenemos la posición a la espera de que el impulso alcista continúe hacia el rango de take-profit.
     ⏸️ Manteniendo posición actual sin cambios.
@@ -151,3 +115,39 @@ Balance final del ciclo: $38.43 USD (Cash: $22.31 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.47 USD (Cash: $22.31 USD)
+
+[2026-10-18 22:20:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $22.31 USD
+ Valor en Activos:     $16.18 USD
+ Balance Total:        $38.49 USD
+ Ganancia/Pérdida:     🔴 $-1.51 USD (-3.77%)
+
+ 💼 Posiciones Abiertas:
+   • SOL-USD: 0.077662 u. | Compra: $103.01 | Actual: $104.66 | Total: $8.13 📈 (+1.60%) [Tiempo: 2h 49m]
+   • ETH-USD: 0.00333 u. | Compra: $2402.76 | Actual: $2418.03 | Total: $8.05 📈 (+0.64%) [Tiempo: 59m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado tradicional se encuentra cerrado por lo que la liquidez opera en criptomonedas 24/7. SOL-USD muestra un rendimiento positivo con un PnL de +1.6% acercándose al objetivo de take-profit, mientras que ETH-USD registra un +0.64%. Mantenemos la vigilancia sobre posibles tomas de ganancias si alcanzamos el rango del +2% al +3.5%."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendremos las posiciones abiertas de SOL-USD y ETH-USD esperando que alcancen el objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto en -2.0%. Si SOL-USD llega al rango objetivo, ejecutaremos la venta parcial o total para asegurar beneficios."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] SOL-USD (Confianza: 80%)
+    Razón: SOL-USD tiene un PnL actual de +1.6% tras casi 3 horas de holding. El momentum de 1h sigue positivo y se acerca al objetivo de take-profit del +2.0% al +3.5%.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] ETH-USD (Confianza: 75%)
+    Razón: ETH-USD muestra un PnL de +0.64% con un holding de 59 minutos. Mantiene RSI estables y el rebote técnico sigue su curso natural.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.49 USD (Cash: $22.31 USD)
