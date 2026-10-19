@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 02:20:38`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 02:30:44`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se encuentra abierto 24/7, pero los principales activos (BTC, ETH, SOL) muestran un RSI de 1 hora elevado en zona de sobrecompra o próximos a ella (>65-74) tras los recientes impulsos, sin mostrar la sobreventa extrema (<35) necesaria para una entrada táctica limpia de rebote. Los mercados tradicionales permanecen cerrados. Mantenemos paciencia táctica en efectivo esperando un retroceso claro."
+> "El mercado de Wall Street se encuentra cerrado, por lo que la liquidez activa debe centrarse exclusivamente en criptomonedas (BTC-USD, SOL-USD, ETH-USD). En este momento, los activos cripto muestran indicadores de RSI de 1 hora elevados (BTC-USD en 76.6, SOL-USD en 74.9), lo que indica condiciones de sobrecompra local y nos impide realizar compras directas sin arriesgarnos a un retroceso. Mantendremos la liquidez en efectivo esperando a que se disipe este impulso y el RSI de 1 hora caiga por debajo de 35 para buscar puntos de entrada óptimos bajo nuestra estrategia de mean reversion."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 60%): El RSI de 1 hora de SOL-USD está en 71.5 (sobrecompra), lo que descarta una compra inmediata según la estrategia de mean reversion. Esperamos un retroceso hacia la zona de sobreventa a corto plazo.
+- **[HOLD] SOL-USD** (Confianza: 50%): El RSI de 1 hora se encuentra en 74.9 (sobrecompra), por lo que no es momento de comprar. Mantenemos liquidez a la espera de un retroceso.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Conservamos $38.57 USD en efectivo. Los RSI de 1 hora en cripto están altos, por lo que evitamos chasear compras en este momento. Monitorearemos de cerca un desplome temporal en SOL-USD o BTC-USD que arrastre el RSI de 1 hora por debajo de 35 para desplegar una posición agresiva de $8.00 a $10.00 USD buscando un rebote rápido con take-profit del +2.5%."
+> "Conservamos $38.57 USD en efectivo ya que los activos cripto abiertos presentan un RSI de 1 hora en zona de sobrecompra (>70). Evitamos chasear compras. Monitorearemos de cerca un desplome temporal en SOL-USD o BTC-USD que arrastre el RSI de 1 hora por debajo de 35 para desplegar una posición agresiva de $8.00 a $10.00 USD buscando un rebote rápido con take-profit del +2.5%."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
