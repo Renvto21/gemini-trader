@@ -1,36 +1,3 @@
-  • Acción: [HOLD] SOL-USD (Confianza: 80%)
-    Razón: SOL-USD tiene un PnL actual de +1.6% tras casi 3 horas de holding. El momentum de 1h sigue positivo y se acerca al objetivo de take-profit del +2.0% al +3.5%.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 75%)
-    Razón: ETH-USD muestra un PnL de +0.64% con un holding de 59 minutos. Mantiene RSI estables y el rebote técnico sigue su curso natural.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.49 USD (Cash: $22.31 USD)
-
-[2026-10-18 22:30:42] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $22.31 USD
- Valor en Activos:     $16.19 USD
- Balance Total:        $38.50 USD
- Ganancia/Pérdida:     🔴 $-1.50 USD (-3.76%)
-
- 💼 Posiciones Abiertas:
-   • SOL-USD: 0.077662 u. | Compra: $103.01 | Actual: $104.67 | Total: $8.13 📈 (+1.61%) [Tiempo: 3h 0m]
-   • ETH-USD: 0.00333 u. | Compra: $2402.76 | Actual: $2420.06 | Total: $8.06 📈 (+0.72%) [Tiempo: 1h 10m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado tradicional se encuentra cerrado por fin de semana, por lo que la liquidez y la operativa se concentran 100% en el mercado cripto (abierto 24/7). SOL-USD y ETH-USD muestran un avance favorable, con SOL-USD situándose en un rendimiento de +1.61% y ETH-USD en +0.72%, acercándose al rango objetivo de toma de ganancias."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
 "Mantendremos las posiciones abiertas de SOL-USD y ETH-USD buscando que alcancen el rango de take-profit entre +2.0% y +3.5%. Si SOL-USD llega a este objetivo en las próximas horas, realizaremos una venta parcial para asegurar capital fresco y mantener la disciplina de rotación rápida. Stop-loss estricto en -2.0%."
 
 ⚡ ACCIONES DECIDIDAS:
@@ -151,3 +118,36 @@ Balance final del ciclo: $38.51 USD (Cash: $22.31 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.51 USD (Cash: $22.31 USD)
+
+[2026-10-18 23:10:34] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $22.31 USD
+ Valor en Activos:     $16.25 USD
+ Balance Total:        $38.56 USD
+ Ganancia/Pérdida:     🔴 $-1.44 USD (-3.60%)
+
+ 💼 Posiciones Abiertas:
+   • SOL-USD: 0.077662 u. | Compra: $103.01 | Actual: $105.19 | Total: $8.17 📈 (+2.12%) [Tiempo: 3h 39m]
+   • ETH-USD: 0.00333 u. | Compra: $2402.76 | Actual: $2426.49 | Total: $8.08 📈 (+0.99%) [Tiempo: 1h 49m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado cripto se mantiene abierto y operando en un sesgo alcista de corto plazo dentro de una tendencia macro bajista. SOL-USD muestra un rendimiento positivo con una ganancia del +2.12%, alcanzando el objetivo táctico de toma de ganancias. ETH-USD muestra un rendimiento del +0.99%. Los mercados tradicionales permanecen cerrados, por lo que toda la atención táctica se centra en la rotación y el aseguramiento de beneficios en criptomonedas."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"SOL-USD ha alcanzado el objetivo de ganancia (+2.12%); procederé a vender el total de la posición para asegurar beneficios y liberar liquidez. Mantendré ETH-USD buscando que alcance el rango objetivo de +2.0% a +3.5% o que su RSI de 1h se acerque a la zona de sobrecompra para realizar la toma de ganancias. Vigilar posibles puntos de entrada en BTC-USD si se presenta una confirmación de rebote."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [SELL] SOL-USD (Confianza: 90%)
+    Razón: SOL-USD acumula una ganancia del +2.12%, cumpliendo con la regla de toma rápida de ganancias (+2.0% a +3.5%). Se procede a vender la totalidad de la posición para asegurar el capital en efectivo y rotarlo.
+    ✅ Venta ejecutada: 0.077662 de SOL-USD a $105.19
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.56 USD (Cash: $30.48 USD)

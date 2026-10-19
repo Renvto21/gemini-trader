@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 22.31113666231231,
+  "cash": 30.48040244231231,
   "positions": {
-    "SOL-USD": {
-      "shares": 0.07766236287739053,
-      "avg_price": 103.01000000000002,
-      "opened_at": "2026-10-18T19:30:43.738350-03:00"
-    },
     "ETH-USD": {
       "shares": 0.003329504403269573,
       "avg_price": 2402.76,
@@ -1660,10 +1655,21 @@
       "shares": 0.00333,
       "price": 2402.76,
       "reason": "ETH-USD muestra un RSI diario fuertemente sobrevendido en 23.2 y un cambio positivo en la última hora del 0.63%, cumpliendo perfectamente con nuestra estrategia de cazar rebotes técnicos en criptomonedas con alta convicción."
+    },
+    {
+      "timestamp": "2026-10-18T23:10:40.837516-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 8.17,
+      "shares": 0.077662,
+      "price": 105.19,
+      "pnl_usd": 0.17,
+      "pnl_pct": 2.12,
+      "reason": "SOL-USD acumula una ganancia del +2.12%, cumpliendo con la regla de toma rápida de ganancias (+2.0% a +3.5%). Se procede a vender la totalidad de la posición para asegurar el capital en efectivo y rotarlo."
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en SOL-USD y ETH-USD mientras continúan su camino hacia la zona de take-profit (+2.0% a +3.5%). Monitorear de cerca SOL-USD ya que se encuentra muy cerca del objetivo de ganancia para ejecutar venta parcial o total y asegurar capital. Si el RSI de 1h se eleva a sobrecompra (>70), realizar la venta inmediatamente para liberar liquidez.",
-    "updated_at": "2026-10-18T23:00:47.516097-03:00"
+    "notes": "SOL-USD ha alcanzado el objetivo de ganancia (+2.12%); procederé a vender el total de la posición para asegurar beneficios y liberar liquidez. Mantendré ETH-USD buscando que alcance el rango objetivo de +2.0% a +3.5% o que su RSI de 1h se acerque a la zona de sobrecompra para realizar la toma de ganancias. Vigilar posibles puntos de entrada en BTC-USD si se presenta una confirmación de rebote.",
+    "updated_at": "2026-10-18T23:10:40.834363-03:00"
   }
 }
