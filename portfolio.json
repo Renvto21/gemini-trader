@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD, SOL-USD y BTC-USD mientras se consolida el precio. El objetivo de take-profit se mantiene entre +2.0% y +3.5%. Vigilar estrictamente el stop-loss en -2.0% y el RSI de 1 hora para evitar que el momentum se desvanezca. Si las criptos no muestran tracción alcista en los próximos ciclos, evaluar una rotación parcial.",
-    "updated_at": "2026-10-19T18:02:31.155536-03:00"
+    "notes": "Mantener las posiciones actuales en ETH-USD, SOL-USD y BTC-USD mientras buscamos alcanzar el objetivo de take-profit (+2.0% a +3.5%). QQQ permanece en cartera a la espera de la apertura de Wall Street. Vigilar estrictamente el stop-loss en -2.0% para proteger el capital. No se realizan nuevas compras para conservar la liquidez mínima requerida y evaluar rotaciones en el siguiente ciclo.",
+    "updated_at": "2026-10-19T18:11:25.220444-03:00"
   }
 }
