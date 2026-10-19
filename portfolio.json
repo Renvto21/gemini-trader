@@ -1709,7 +1709,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición en QQQ dado que registra una pequeña ganancia del +0.18% y lleva poco tiempo abierta (59m), esperando que alcance el objetivo de take-profit entre +2.0% y +3.5%. El stop-loss se mantiene estricto en -2.0%. Dado que el efectivo disponible es de $28.57 USD y no hay señales claras de sobreventa extrema en cripto o rebotes intradía fuertes que cumplan con la estrategia, preferimos mantener liquidez y monitorear el comportamiento de QQQ y posibles oportunidades en cripto si el RSI de 1 hora cae por debajo de 35.",
-    "updated_at": "2026-10-19T11:40:40.459634-03:00"
+    "notes": "Mantendremos la posición abierta en QQQ mientras no rompa el stop-loss estricto de -2.0% o alcance nuestro objetivo de take-profit entre +2.0% y +3.5%. El efectivo disponible se mantiene en $28.57 USD. En los siguientes ciclos buscaremos oportunidades de entrada en criptomonedas o renta variable si el RSI de 1 hora desciende por debajo de 35 para cazar rebotes técnicos con alta convicción.",
+    "updated_at": "2026-10-19T11:50:41.646176-03:00"
   }
 }
