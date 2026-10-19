@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD, SOL-USD, BTC-USD y QQQ mientras maduran los rebotes técnicos. Monitorear los objetivos de take-profit entre +2.0% y +3.5% o niveles de stop-loss estricto en -2.0% para proteger el capital. Preservar la liquidez actual y evaluar la rotación de capital si alguna criptomoneda pierde soporte o se estanca en las próximas horas.",
-    "updated_at": "2026-10-19T20:20:39.973839-03:00"
+    "notes": "Mantener las posiciones actuales en SOL-USD, ETH-USD, BTC-USD y QQQ vigilando de cerca los niveles de take-profit entre +2.0% y +3.5% o el stop-loss estricto en -2.0%. Si las criptomonedas continúan estancadas sin superar los umbrales de momentum en las próximas horas, rotaremos el capital hacia oportunidades con mayor volatilidad en el próximo ciclo.",
+    "updated_at": "2026-10-19T20:30:51.588097-03:00"
   }
 }
