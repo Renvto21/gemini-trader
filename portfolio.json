@@ -1709,7 +1709,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos la posición actual en QQQ por el momento, vigilando de cerca si logra extender su ganancia hacia el rango objetivo de +2.0% a +3.5% para asegurar el take-profit, o si pierde soporte para activar nuestro stop-loss estricto en -2.0%. Dado que el holding time es bajo y no hay caídas abruptas ni sobrecompras críticas, conservaremos la liquidez en reserva para cazar oportunidades de rebote más agresivas en criptoactivos (como ETH-USD o SOL-USD) si el RSI de 1 hora desciende nuevamente a zonas de sobreventa.",
-    "updated_at": "2026-10-19T12:30:46.025675-03:00"
+    "notes": "Mantendremos la posición abierta en QQQ vigilando de cerca su evolución hacia el rango objetivo de take-profit (+2.0% a +3.5%) o el stop-loss en -2.0%. En cuanto a la liquidez en reserva, esperaremos a que los criptoactivos (como ETH-USD) profundicen ligeramente su retroceso o muestren una confirmación de RSI de 1 hora por debajo de 35 con giro alcista para desplegar un nuevo BUY agresivo.",
+    "updated_at": "2026-10-19T12:40:41.647330-03:00"
   }
 }
