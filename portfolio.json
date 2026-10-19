@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en ETH-USD, SOL-USD y BTC-USD mientras buscamos alcanzar el objetivo de take-profit (+2.0% a +3.5%). QQQ permanece en cartera a la espera de la apertura de Wall Street. Vigilar estrictamente el stop-loss en -2.0% para proteger el capital. No se realizan nuevas compras para conservar la liquidez mínima requerida y evaluar rotaciones en el siguiente ciclo.",
-    "updated_at": "2026-10-19T18:11:25.220444-03:00"
+    "notes": "Mantener posiciones activas en ETH-USD, SOL-USD y BTC-USD mientras se consolida la recuperación técnica. QQQ permanece congelado por mercado cerrado. Metas de salida rápida (Take-Profit): +2.0% a +3.5% en cada posición cripto o RSI 1H > 70. Nivel de Stop-Loss preventivo fijado estrictamente en -2.0% desde el precio de entrada. Si en los próximos 2 ciclos ETH o BTC no logran acelerar por encima de +1.0% o pierden el momentum horario, se considerará rotar capital para liberar liquidez hacia el activo de mayor fuerza relativa (actualmente SOL).",
+    "updated_at": "2026-10-19T18:21:44.708274-03:00"
   }
 }
