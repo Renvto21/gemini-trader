@@ -1683,7 +1683,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendré ETH-USD a la espera de que alcance el rango objetivo de +2.0% a +3.5% o que su RSI de 1h entre en zona de sobrecompra (>70) para asegurar beneficios. He abierto una posición en SOL-USD aprovechando su sobreventa diaria extrema; mi objetivo de salida para SOL es una ganancia del +2.5% y mi stop-loss se activará si registra una caída superior al -2.0%.",
-    "updated_at": "2026-10-18T23:20:40.129190-03:00"
+    "notes": "Mantendré las posiciones abiertas en ETH-USD y SOL-USD mientras consolidan su recuperación tras la sobreventa diaria. Monitorizaré de cerca si ETH-USD o SOL-USD alcanzan la zona objetivo de +2.0% a +3.5% o si su RSI de 1h se aproxima a sobrecompra (>70) para ejecutar la toma de beneficios y liberar liquidez. El stop-loss se mantiene estricto en -2.0% para ambas posiciones.",
+    "updated_at": "2026-10-18T23:30:42.145498-03:00"
   }
 }
