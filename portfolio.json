@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de QQQ y ETH-USD un ciclo más monitoreando el stop-loss en -2.0% y buscando un take-profit agresivo entre +2.0% y +3.5%. SOL-USD mantiene un RSI diario extremadamente bajo (19.3) y un RSI de 1 hora en 32.4; se evaluará una entrada en cuanto su cambio de 1h vire a terreno positivo para aprovechar el rebote por sobreventa. Conservaremos la liquidez mínima de reserva.",
-    "updated_at": "2026-10-19T16:20:47.632025-03:00"
+    "notes": "Mantendremos las posiciones actuales de QQQ y ETH-USD monitoreando de cerca el stop-loss en -2.0% y buscando un take-profit entre +2.0% y +3.5%. Estaremos atentos a un cambio de 1h positivo en SOL-USD para entrar en su inminente rebote por sobreventa extrema en el RSI diario (19.2). Conservaremos la liquidez mínima de reserva.",
+    "updated_at": "2026-10-19T16:30:49.185210-03:00"
   }
 }
