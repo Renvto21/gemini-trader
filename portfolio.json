@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Permanecemos en liquidez ($38.57 USD) debido a la sobrecompra generalizada en el corto plazo en BTC, ETH y SOL (rsi_1h > 70). Nuestro plan táctico para los siguientes ciclos es vigilar de cerca caídas en el RSI de 1 hora por debajo de 35 en criptoactivos para desplegar entre $8.00 y $12.00 USD, manteniendo siempre la reserva mínima de $4.00 USD en efectivo.",
-    "updated_at": "2026-10-19T04:30:41.070008-03:00"
+    "notes": "Permanecemos en liquidez ($38.57 USD) esperando una corrección intradiaria en criptoactivos (BTC, ETH, SOL) que lleve su RSI de 1 hora por debajo de 35. Una vez se alcance dicha condición de sobreventa a corto plazo, desplegaremos entre $8.00 y $10.00 USD para capturar un rebote técnico, respetando siempre nuestra reserva mínima de efectivo de $4.00 USD.",
+    "updated_at": "2026-10-19T04:40:38.465465-03:00"
   }
 }
