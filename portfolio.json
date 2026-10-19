@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantenemos los $38.57 USD en efectivo intactos. El plan táctico para los siguientes ciclos es monitorear caídas en BTC-USD, ETH-USD o SOL-USD que lleven el RSI de 1 hora por debajo de 35 para ejecutar compras de rebote (Mean Reversion) con una asignación de $6.00 a $8.00 USD, buscando un take-profit rápido del 2.5% o salida si el RSI de 1 hora cruza 70.",
-    "updated_at": "2026-10-19T09:31:08.701249-03:00"
+    "notes": "Mantenemos el 100% del capital ($38.57 USD) en efectivo debido a que los activos cripto disponibles se encuentran en zonas neutrales o de sobrecompra en el RSI de 1 hora (67-71). El plan táctico para los siguientes ciclos es esperar a que se produzca una corrección intradiaria que hunda el RSI de 1 hora por debajo de 35 en SOL-USD o BTC-USD para desplegar entre $6.00 y $8.00 USD en una jugada de rebote, buscando un take-profit rápido del 2.5% o salida si el RSI cruza 70.",
+    "updated_at": "2026-10-19T09:40:44.686907-03:00"
   }
 }
