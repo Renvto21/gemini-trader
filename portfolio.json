@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos nuestras posiciones en QQQ y ETH-USD por ahora, vigilando de cerca el nivel de stop-loss del -2.0% y esperando que alcancen el objetivo de take-profit entre +2.0% y +3.5%. Si QQQ o ETH-USD no muestran aceleración en el próximo ciclo, rotaremos capital hacia SOL-USD, que presenta un RSI diario muy deprimido de 19.2 listo para un rebote de reversión a la media. Mantendremos la liquidez en efectivo por encima de los $4.00 USD requeridos.",
-    "updated_at": "2026-10-19T15:20:42.026887-03:00"
+    "notes": "Mantendremos las posiciones actuales en QQQ y ETH-USD durante este ciclo ya que se encuentran estables con pérdidas mínimas (-0.06% y -0.10%). Monitorearemos de cerca el nivel de stop-loss del -2.0% y buscaremos un take-profit entre +2.0% y +3.5%. Si en el próximo ciclo no muestran la aceleración esperada, evaluaremos rotar hacia activos con mayor sobreventa en cripto como SOL-USD, cuyo RSI diario de 19.1 sigue siendo muy atractivo para un rebote técnico.",
+    "updated_at": "2026-10-19T15:30:50.335463-03:00"
   }
 }
