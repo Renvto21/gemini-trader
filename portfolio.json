@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantenemos $38.57 USD en efectivo respetando la liquidez mínima. Los activos cripto siguen con RSI de 1 hora elevado por encima de 70. Seguiremos esperando pacientemente a que el RSI de 1 hora caiga por debajo de 35 en SOL-USD o ETH-USD para desplegar entre $8.00 y $10.00 USD buscando un rebote de mean reversion. No abriremos posiciones nuevas hasta ver esa corrección intradiaria.",
-    "updated_at": "2026-10-19T05:10:40.306347-03:00"
+    "notes": "Mantenemos $38.57 USD en efectivo ya que los activos cripto disponibles muestran un RSI de 1 hora superior a 70 (sobrecompra). Continuaremos esperando pacientemente a que el RSI de 1 hora en SOL-USD o ETH-USD caiga por debajo de 35 para desplegar entre $8.00 y $10.00 USD buscando un rebote táctico. No realizaremos operaciones este ciclo para evitar compras en máximos intradiarios.",
+    "updated_at": "2026-10-19T05:20:46.885991-03:00"
   }
 }
