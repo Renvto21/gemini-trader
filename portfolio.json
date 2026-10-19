@@ -1689,7 +1689,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos ETH-USD abierta pero vigilaremos de cerca el RSI de 1 hora. Si cruza por completo los 70 puntos o alcanza una ganancia del +2.0% al +3.5%, procederemos a vender para asegurar capital en efectivo. Dejaremos una reserva de liquidez adecuada y buscaremos posibles retrocesos en SOL-USD o BTC-USD para reentrar tras una corrección a corto plazo.",
-    "updated_at": "2026-10-19T01:10:42.619527-03:00"
+    "notes": "Mantendremos ETH-USD abierta pero monitorearemos de cerca su RSI de 1 hora. Si cruza los 70 puntos o alcanza el rango objetivo de ganancia del +2.0% al +3.5%, procederemos a vender inmediatamente para asegurar efectivo. Al tener activos tradicionales cerrados, la liquidez se mantendrá protegida y buscaremos reentrar en SOL-USD o BTC-USD una vez que sufran un retroceso técnico saludable que alivie sus indicadores de corto plazo.",
+    "updated_at": "2026-10-19T01:20:41.709702-03:00"
   }
 }
