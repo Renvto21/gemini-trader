@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en QQQ y ETH-USD esperando que alcancen el objetivo de take-profit en el rango de +2.0% a +3.5%. Establecemos stop-loss estricto si alguna posición cae por debajo de -2.0%. En el próximo ciclo evaluaremos la rotación de capital si el momentum intradiario se desacelera o si surge una oportunidad más clara en activos con mayor fuerza relativa.",
-    "updated_at": "2026-10-19T13:20:43.861454-03:00"
+    "notes": "Mantenemos las posiciones actuales en QQQ y ETH-USD mientras se desarrollan dentro de un rango estrecho sin alcanzar todavía el objetivo de take-profit (+2.0% a +3.5%) ni activar el stop-loss estricto (-2.0%). Monitorearemos de cerca el RSI de 1 hora de ETH-USD y QQQ para asegurar beneficios rápidamente si se produce un repunte o para cortar pérdidas si el soporte cede.",
+    "updated_at": "2026-10-19T13:30:54.769017-03:00"
   }
 }
