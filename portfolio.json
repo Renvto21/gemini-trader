@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en QQQ y ETH-USD durante este ciclo ya que se encuentran estables con ganancias mínimas. Monitorearemos de cerca el nivel de stop-loss del -2.0% y buscaremos un take-profit entre +2.0% y +3.5%. Si en el próximo ciclo no muestran la aceleración esperada, evaluaremos rotar hacia activos con mayor sobreventa en cripto como SOL-USD.",
-    "updated_at": "2026-10-19T15:40:42.246617-03:00"
+    "notes": "Mantendremos las posiciones en QQQ y ETH-USD por ahora mientras monitoreamos de cerca los niveles de stop-loss del -2.0% y buscamos un take-profit entre +2.0% y +3.5%. Dado que BTC-USD presenta un RSI de 1 hora en 31.8 y un RSI diario en 35.0 en zona de sobreventa, mantendremos este activo en la mira para una potencial entrada agresiva en el próximo ciclo si el cambio de 1h se acelera al alza, utilizando la liquidez disponible manteniendo el colchón mínimo de efectivo.",
+    "updated_at": "2026-10-19T15:50:44.415718-03:00"
   }
 }
