@@ -1689,7 +1689,7 @@
     }
   ],
   "memory": {
-    "notes": "Vendimos SOL-USD para asegurar ganancias tras alcanzar zona de sobrecompra en el RSI de 1 hora. Mantendremos ETH-USD vigilando un take-profit entre +2.0% y +3.5% o si su RSI de 1 hora supera los 70 puntos. Mantendremos reserva de efectivo esperando nuevas oportunidades de retroceso en cripto.",
-    "updated_at": "2026-10-19T01:00:47.756067-03:00"
+    "notes": "Mantendremos ETH-USD abierta pero vigilaremos de cerca el RSI de 1 hora. Si cruza por completo los 70 puntos o alcanza una ganancia del +2.0% al +3.5%, procederemos a vender para asegurar capital en efectivo. Dejaremos una reserva de liquidez adecuada y buscaremos posibles retrocesos en SOL-USD o BTC-USD para reentrar tras una corrección a corto plazo.",
+    "updated_at": "2026-10-19T01:10:42.619527-03:00"
   }
 }
