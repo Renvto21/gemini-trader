@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de QQQ y ETH-USD por este ciclo al estar estables y dentro de parámetros de riesgo. Monitorearemos de cerca el RSI de 1 hora de ETH-USD y SOL-USD buscando un quiebre alcista con volumen, y evaluaremos tomar ganancias si QQQ o ETH-USD alcanzan la zona de +2.0% o el RSI de 1 hora supera 65. El efectivo se mantiene en $18.57 USD a la espera de un claro catalizador de rebote técnico.",
-    "updated_at": "2026-10-19T14:30:47.260009-03:00"
+    "notes": "Mantendremos QQQ y ETH-USD por el momento al estar estables, pero vigilaremos de cerca sus niveles de RSI de 1 hora y rentabilidad. Si ETH-USD o QQQ alcanzan el objetivo de take-profit entre +2.0% y +3.5%, o si su RSI de 1 hora supera los 65, procederemos a vender para asegurar ganancias. Mantendremos el efectivo restante de $18.57 USD a la espera de un gatillo más fuerte en SOL-USD o BTC-USD para desplegar capital.",
+    "updated_at": "2026-10-19T14:40:48.930153-03:00"
   }
 }
