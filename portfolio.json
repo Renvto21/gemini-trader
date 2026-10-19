@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 22.48040244231231,
+  "cash": 30.47811912007846,
   "positions": {
     "ETH-USD": {
       "shares": 0.003329504403269573,
       "avg_price": 2402.76,
       "opened_at": "2026-10-18T21:20:41.376665-03:00"
-    },
-    "SOL-USD": {
-      "shares": 0.07611074112834174,
-      "avg_price": 105.11,
-      "opened_at": "2026-10-18T23:20:40.243348-03:00"
     }
   },
   "history": [
@@ -1680,10 +1675,21 @@
       "shares": 0.076111,
       "price": 105.11,
       "reason": "SOL-USD presenta un RSI diario en 21.8 (sobreventa extrema) y un momentum de 24 horas alcista del +1.74%. Cumple con los criterios tácticos de rebote técnico (Mean Reversion) con alta convicción, destinando $8.00 USD para capturar el impulso de corto plazo."
+    },
+    {
+      "timestamp": "2026-10-19T01:00:47.759121-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 8.0,
+      "shares": 0.076111,
+      "price": 105.08,
+      "pnl_usd": -0.0,
+      "pnl_pct": -0.03,
+      "reason": "SOL-USD ha entrado en sobrecompra con un RSI de 1 hora en 72.7, cumpliendo estrictamente con la regla de toma rápida de ganancias para asegurar efectivo."
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en ETH-USD y SOL-USD vigilando de cerca el take-profit entre +2.0% y +3.5% o si el RSI de 1 hora supera los 70 puntos. El stop-loss se mantiene estricto en -2.0%. La liquidez actual se mantendrá en reserva para buscar una entrada en BTC-USD si rompe al alza con mayor volumen.",
-    "updated_at": "2026-10-19T00:50:41.379690-03:00"
+    "notes": "Vendimos SOL-USD para asegurar ganancias tras alcanzar zona de sobrecompra en el RSI de 1 hora. Mantendremos ETH-USD vigilando un take-profit entre +2.0% y +3.5% o si su RSI de 1 hora supera los 70 puntos. Mantendremos reserva de efectivo esperando nuevas oportunidades de retroceso en cripto.",
+    "updated_at": "2026-10-19T01:00:47.756067-03:00"
   }
 }
