@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantenemos $38.57 USD en liquidez total al no haber encontrado entradas con RSI de 1 hora en sobreventa (<35) en este momento (los activos cripto abiertos tienen rsi_1h entre 64 y 69). El plan para los siguientes ciclos es vigilar de cerca a SOL-USD, ETH-USD y BTC-USD en busca de un retroceso de corto plazo que hunda el rsi_1h por debajo de 35 con momentum positivo, momento en el cual asignaremos entre $8.00 y $10.00 USD para aprovechar el rebote diario.",
-    "updated_at": "2026-10-19T09:10:39.752713-03:00"
+    "notes": "Mantenemos nuestra liquidez principal intacta en $38.57 USD a la espera de configuraciones de sobreventa en gráficos de 1 hora (RSI < 35) en criptoactivos como SOL-USD o ETH-USD. Seguiremos monitoreando el mercado en busca de caídas de corto plazo para desplegar capital en los siguientes ciclos.",
+    "updated_at": "2026-10-19T09:20:41.150487-03:00"
   }
 }
