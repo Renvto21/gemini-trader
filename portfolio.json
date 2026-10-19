@@ -1694,7 +1694,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantenemos $38.57 USD en efectivo ya que las criptomonedas operables muestran sobrecompra en el RSI de 1 hora (SOL en 74.8, ETH en 75.2, BTC en 77.3). Continuaremos esperando pacientemente a que el RSI de 1 hora en SOL-USD o ETH-USD retroceda por debajo de 35 para desplegar entre $8.00 y $10.00 USD buscando un rebote táctico bajo la estrategia de mean reversion.",
-    "updated_at": "2026-10-19T05:31:04.279278-03:00"
+    "notes": "Mantenemos $38.57 USD en efectivo ya que las criptomonedas operables siguen en sobrecompra en el RSI de 1 hora. Mantendremos la paciencia táctica esperando un retroceso claro por debajo de 35 en el RSI de 1 hora en SOL-USD o ETH-USD para desplegar entre $8.00 y $10.00 USD buscando el rebote de mean reversion.",
+    "updated_at": "2026-10-19T05:40:46.527494-03:00"
   }
 }
