@@ -1723,7 +1723,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de QQQ y ETH-USD ya que se encuentran dentro del rango de tolerancia y sin romper los stop-loss de -2.0%. Estaremos vigilando el RSI de 1 hora para asegurar ganancias si alcanzan la zona de +2.0% a +3.5%, o recortar de inmediato si la tendencia se deteriora. Preservaremos la liquidez actual de $18.57 USD esperando una ruptura clara de momentum para desplegar nuevas entradas.",
-    "updated_at": "2026-10-19T14:10:51.359570-03:00"
+    "notes": "Mantendremos las posiciones actuales de QQQ y ETH-USD ya que se encuentran estables con ligeras ganancias (+0.07% y +0.14%) y lejos de los límites de stop-loss del -2.0%. Mantendremos una reserva de efectivo prudente de $18.57 USD y esperaremos a que el RSI de 1 hora en criptomonedas supere 50 con volumen alcista confirmado o que nuestras posiciones alcancen la zona de take-profit del +2.0% al +3.5% para asegurar ganancias.",
+    "updated_at": "2026-10-19T14:20:43.908792-03:00"
   }
 }
