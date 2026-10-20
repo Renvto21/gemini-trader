@@ -40,7 +40,8 @@ def format_duration(opened_at_str: Optional[str]) -> str:
     except Exception:
         return "Reciente"
 
-PORTFOLIO_FILE = "portfolio.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PORTFOLIO_FILE = os.path.join(BASE_DIR, "portfolio.json")
 
 class PortfolioManager:
     def __init__(self, file_path: str = PORTFOLIO_FILE, initial_cash: float = 40.0):
@@ -241,10 +242,10 @@ class PortfolioManager:
     def check_and_execute_circuit_breakers(
         self,
         current_prices: Dict[str, float],
-        stop_loss_pct: float = -3.0,
-        take_profit_pct: float = 4.0
+        stop_loss_pct: float = -2.0,
+        take_profit_pct: float = 4.5
     ) -> List[Dict[str, Any]]:
-        """Verifica automáticamente si alguna posición superó los límites estrictos de Stop-Loss o Take-Profit y la liquida."""
+        """Verifica automáticamente si alguna posición superó los límites estrictos de Stop-Loss (-2.0%) o Take-Profit (+4.5%) y la liquida."""
         triggered = []
         for ticker in list(self.positions.keys()):
             pos = self.positions.get(ticker)
@@ -259,7 +260,7 @@ class PortfolioManager:
             pnl_pct = ((current_price - avg_price) / avg_price) * 100
 
             if pnl_pct <= stop_loss_pct:
-                reason = f"🚨 STOP-LOSS AUTOMÁTICO (CIRCUIT BREAKER): Pérdida de {pnl_pct:+.2f}% superó el límite de seguridad de {stop_loss_pct:.1f}%. Venta ejecutada por código para proteger capital."
+                reason = f"🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of {pnl_pct:+.2f}% hit safety limit ({stop_loss_pct:.1f}%). Liquidated by code to protect capital."
                 self.execute_sell(ticker, shares, current_price, reason)
                 triggered.append({
                     "ticker": ticker,
@@ -269,7 +270,7 @@ class PortfolioManager:
                     "reason": reason
                 })
             elif pnl_pct >= take_profit_pct:
-                reason = f"🎯 TAKE-PROFIT AUTOMÁTICO (CIRCUIT BREAKER): Ganancia de {pnl_pct:+.2f}% superó el objetivo de +{take_profit_pct:.1f}%. Venta ejecutada por código para asegurar ganancias en efectivo."
+                reason = f"🎯 TAKE-PROFIT (CIRCUIT BREAKER): Gain of {pnl_pct:+.2f}% hit target (+{take_profit_pct:.1f}%). Liquidated by code to secure cash."
                 self.execute_sell(ticker, shares, current_price, reason)
                 triggered.append({
                     "ticker": ticker,

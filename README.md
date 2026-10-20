@@ -1,51 +1,50 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 18:00:57`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-20 18:01:02`
 
 ---
 
-### 📊 Resumen del Portafolio
+### 📊 Portfolio Summary
 
-| Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
+| Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.89 USD** | **$39.01 USD** | 🔴 **-2.46%** ($-0.99) |
+| **$40.00 USD** | **$19.12 USD** | **$19.89 USD** | **$39.01 USD** | 🔴 **-2.47%** ($-0.99) |
 
 ---
 
-### 💼 Posiciones Actuales
+### 💼 Current Positions
 
-| Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
+| Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | `AAPL` | 0.029357 | $340.64 | $339.50 | $9.97 | 📉 -0.33% | 5h 59m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2445.43 | $9.92 | 📉 -0.27% | 4h 9m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2445.05 | $9.92 | 📉 -0.29% | 4h 9m |
 
 ---
 
-### 🧠 Último Análisis de Gemini (Ciclo Reciente)
+### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "El mercado tradicional se encuentra cerrado, manteniendo congelados los precios de las acciones y ETFs como AAPL. En cuanto a las criptomonedas, ETH-USD y SOL-USD se mantienen activas 24/7 con un sesgo lateral/levemente alcista en las últimas 24 horas, aunque con un momentum de corto plazo plano en la última hora. Mantenemos una posición prudente en efectivo mientras esperamos confirmaciones de volumen o movimientos más decisivos."
+> "Manual query of portfolio status."
 
-**Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 70%): El mercado accionario está cerrado y la posición en AAPL se mantiene estable con una pérdida marginal de -0.33%. Esperaremos a la apertura del mercado para buscar una salida o tomar ganancias según la evolución del precio.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD se encuentra operando lateralmente en las últimas horas con un rsi_1h en 66.8, cerca de la zona de sobrecompra. Mantendremos la posición buscando alcanzar el objetivo de take-profit del +2.0% al +3.5%.
+**Cycle Actions:**
+- *No changes this cycle (HOLD)*
 
 ---
 
-### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
+### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Mantener posiciones actuales en AAPL y ETH-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5% o sobrecompra en rsi_1h > 70. Como el mercado accionario está cerrado, no se pueden abrir nuevas posiciones en AAPL, y en cripto esperaremos a que se genere un retesteo o un impulso más claro antes de comprometer más liquidez."
+> "Mantener las posiciones actuales en AAPL y ETH-USD mientras el mercado accionario reabre y vigilar que ETH-USD alcance el rango de take-profit de +2.0% a +3.5% o cruce el rsi_1h de 70. Mantener una reserva de efectivo estricta y monitorear SOL-USD para una posible entrada si consolida su tendencia alcista en el corto plazo."
 ---
 
-### 📈 Rendimiento Histórico & Estadísticas Quant
+### 📈 Quantitative Performance & Historical Stats
 
-| Operaciones Cerradas | Tasa de Acierto (Win Rate) | Beneficio Realizado | Mejor Trade | Peor Trade |
+| Closed Trades | Win Rate | Realized PnL | Best Trade | Worst Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **82** | 🎯 **43.9%** (36W / 31L / 15BE) | 🔴 **$-0.79 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
+| **82** | 🎯 **43.9%** (36W / 31L / 15BE) | 🔴 **$-0.79 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
 ---
 
-### 📜 Últimos Movimientos
+### 📜 Recent Trades
 
-| Fecha | Acción | Activo | Monto | Precio | Motivo |
+| Date | Action | Asset | Amount | Price | Reasoning |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | `2026-10-20 13:51` | 🟢 BUY | `ETH-USD` | $9.95 | $2452.17 | ETH-USD muestra un excelente impulso de corto plazo con change_1h_pct positivo (+0.55%) y ... |
 | `2026-10-20 13:51` | 🔴 SELL (-0.05$) | `GLD` | $9.95 | $377.90 | GLD se encuentra estancado con un rendimiento ligeramente negativo (-0.47%) y un rsi_1h de... |
@@ -56,18 +55,18 @@
 ---
 
 <details>
-<summary>⚙️ Ver configuración técnica y comandos locales</summary>
+<summary>⚙️ View technical configuration and local commands</summary>
 
-### Comandos disponibles
-* **Ver estado actual:** `python main.py --status`
-* **Ejecutar 1 ciclo de prueba:** `python main.py --run-once`
-* **Ejecutar en bucle local:** `python main.py --loop --interval 300`
+### Available commands
+* **Check current status:** `python main.py --status --lang en`
+* **Run 1 test cycle:** `python main.py --run-once --lang en`
+* **Run continuous loop:** `python main.py --loop --interval 300 --lang en`
 
-### Módulos del sistema
-* `main.py`: Orquestador principal del bot.
-* `dashboard.py`: Generador del panel dinámico en README.
-* `agent.py`: Conexión con Gemini Flash y reglas de riesgo.
-* `portfolio.py`: Registro de operaciones, cálculo de saldo y PnL.
-* `market_data.py`: Descarga y cálculo técnico con yfinance.
-* `portfolio.json`: Base de datos de posiciones.
+### System modules
+* `main.py`: Main orchestrator and risk filter guards.
+* `dashboard.py`: Dynamic README dashboard generator (EN/ES).
+* `agent.py`: Gemini Flash decision engine and quantitative prompt.
+* `portfolio.py`: Portfolio ledger, PnL calculations, and Circuit Breakers.
+* `market_data.py`: Real-time market data, SMA20, and 1H/daily RSI via yfinance.
+* `portfolio.json`: Portfolio database and operational journal.
 </details>

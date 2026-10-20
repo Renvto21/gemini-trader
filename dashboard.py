@@ -2,6 +2,9 @@ import os
 from datetime import datetime
 from typing import Dict, Any, List, Optional
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+README_FILE = os.path.join(BASE_DIR, "README.md")
+
 def get_chile_now():
     try:
         from zoneinfo import ZoneInfo
@@ -16,13 +19,15 @@ def update_readme_dashboard(
     actions: List[Any],
     history: List[Dict[str, Any]],
     memory_notes: str = "",
-    stats: Optional[Dict[str, Any]] = None
+    stats: Optional[Dict[str, Any]] = None,
+    lang: str = "en"
 ):
     pnl = summary.get('total_pnl_usd', 0.0)
     pnl_pct = summary.get('total_pnl_pct', 0.0)
     pnl_icon = "🟢" if pnl >= 0 else "🔴"
     
     now_str = get_chile_now().strftime("%Y-%m-%d %H:%M:%S")
+    is_en = (lang.lower() == "en")
     
     positions = summary.get("positions", [])
     if positions:
@@ -30,13 +35,14 @@ def update_readme_dashboard(
         for p in positions:
             p_pnl = p.get('pnl_pct', 0.0)
             p_icon = "📈" if p_pnl >= 0 else "📉"
-            holding = p.get('holding_time', 'Reciente')
+            holding = p.get('holding_time', 'Recent' if is_en else 'Reciente')
             pos_rows.append(
                 f"| `{p['ticker']}` | {p['shares']:.6f} | ${p['avg_price']:.2f} | ${p['current_price']:.2f} | ${p['current_value']:.2f} | {p_icon} {p_pnl:+.2f}% | {holding} |"
             )
         pos_table = "\n".join(pos_rows)
     else:
-        pos_table = "| *(Ninguna posición abierta - 100% en efectivo)* | - | - | - | - | - | - |"
+        empty_msg = "*(No open positions - 100% in cash)*" if is_en else "*(Ninguna posición abierta - 100% en efectivo)*"
+        pos_table = f"| {empty_msg} | - | - | - | - | - | - |"
 
     # Acciones decididas en este ciclo
     action_texts = []
@@ -45,15 +51,19 @@ def update_readme_dashboard(
         act = getattr(a, 'action', None) or (a.get('action') if isinstance(a, dict) else '')
         conf = getattr(a, 'confidence', 0.0) or (a.get('confidence', 0.0) if isinstance(a, dict) else 0.0)
         reason = getattr(a, 'reasoning', '') or (a.get('reasoning', '') if isinstance(a, dict) else '')
-        action_texts.append(f"- **[{act}] {ticker}** (Confianza: {conf*100:.0f}%): {reason}")
-    actions_formatted = "\n".join(action_texts) if action_texts else "- *Sin cambios en este ciclo (HOLD)*"
+        label_conf = "Confidence" if is_en else "Confianza"
+        action_texts.append(f"- **[{act}] {ticker}** ({label_conf}: {conf*100:.0f}%): {reason}")
+    
+    no_actions_msg = "- *No changes this cycle (HOLD)*" if is_en else "- *Sin cambios en este ciclo (HOLD)*"
+    actions_formatted = "\n".join(action_texts) if action_texts else no_actions_msg
 
     # Sección de bitácora / memoria para próximos ciclos
     memory_section = ""
     if memory_notes:
+        mem_title = "### 📝 Operational Memory & Journal (Next Cycles)" if is_en else "### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)"
         memory_section = f"""---
 
-### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
+{mem_title}
 
 > \"{memory_notes}\"
 """
@@ -63,11 +73,22 @@ def update_readme_dashboard(
     if stats:
         best = stats.get("best_trade")
         worst = stats.get("worst_trade")
-        best_str = f"+${best['pnl_usd']:.2f} ({best['pnl_pct']:+.1f}%) en {best['ticker']}" if best else "-"
-        worst_str = f"${worst['pnl_usd']:.2f} ({worst['pnl_pct']:+.1f}%) en {worst['ticker']}" if worst else "-"
+        prep = "on" if is_en else "en"
+        best_str = f"+${best['pnl_usd']:.2f} ({best['pnl_pct']:+.1f}%) {prep} {best['ticker']}" if best else "-"
+        worst_str = f"${worst['pnl_usd']:.2f} ({worst['pnl_pct']:+.1f}%) {prep} {worst['ticker']}" if worst else "-"
         realized_icon = "🟢" if stats['realized_pnl_usd'] >= 0 else "🔴"
         
-        stats_section = f"""---
+        if is_en:
+            stats_section = f"""---
+
+### 📈 Quantitative Performance & Historical Stats
+
+| Closed Trades | Win Rate | Realized PnL | Best Trade | Worst Trade |
+| :---: | :---: | :---: | :---: | :---: |
+| **{stats['total_closed_trades']}** | 🎯 **{stats['win_rate_pct']:.1f}%** ({stats['wins']}W / {stats['losses']}L / {stats['breakevens']}BE) | {realized_icon} **${stats['realized_pnl_usd']:+.2f} USD** | 🏆 `{best_str}` | 🛡️ `{worst_str}` |
+"""
+        else:
+            stats_section = f"""---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
 
@@ -97,9 +118,68 @@ def update_readme_dashboard(
             )
         hist_table = "\n".join(hist_rows)
     else:
-        hist_table = "| *(Sin movimientos aún)* | - | - | - | - | - |"
+        empty_hist = "*(No movements recorded yet)*" if is_en else "*(Sin movimientos aún)*"
+        hist_table = f"| {empty_hist} | - | - | - | - | - |"
 
-    readme_content = f"""# 🤖 Gemini Autonomous Trader
+    if is_en:
+        readme_content = f"""# 🤖 Gemini Autonomous Trader
+
+> **Status:** 🟢 Cloud Active | **Last Updated:** `{now_str}`
+
+---
+
+### 📊 Portfolio Summary
+
+| Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
+| :---: | :---: | :---: | :---: | :---: |
+| **${summary['initial_capital']:.2f} USD** | **${summary['cash']:.2f} USD** | **${summary['positions_value']:.2f} USD** | **${summary['total_equity']:.2f} USD** | {pnl_icon} **{pnl_pct:+.2f}%** (${pnl:+.2f}) |
+
+---
+
+### 💼 Current Positions
+
+| Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+{pos_table}
+
+---
+
+### 🧠 Latest Gemini Market Analysis (Current Cycle)
+
+> \"{decision_summary}\"
+
+**Cycle Actions:**
+{actions_formatted}
+
+{memory_section}{stats_section}---
+
+### 📜 Recent Trades
+
+| Date | Action | Asset | Amount | Price | Reasoning |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+{hist_table}
+
+---
+
+<details>
+<summary>⚙️ View technical configuration and local commands</summary>
+
+### Available commands
+* **Check current status:** `python main.py --status --lang en`
+* **Run 1 test cycle:** `python main.py --run-once --lang en`
+* **Run continuous loop:** `python main.py --loop --interval 300 --lang en`
+
+### System modules
+* `main.py`: Main orchestrator and risk filter guards.
+* `dashboard.py`: Dynamic README dashboard generator (EN/ES).
+* `agent.py`: Gemini Flash decision engine and quantitative prompt.
+* `portfolio.py`: Portfolio ledger, PnL calculations, and Circuit Breakers.
+* `market_data.py`: Real-time market data, SMA20, and 1H/daily RSI via yfinance.
+* `portfolio.json`: Portfolio database and operational journal.
+</details>
+"""
+    else:
+        readme_content = f"""# 🤖 Gemini Autonomous Trader
 
 > **Estado:** 🟢 Activo en la Nube | **Última revisión:** `{now_str}`
 
@@ -147,19 +227,21 @@ def update_readme_dashboard(
 * **Ejecutar en bucle local:** `python main.py --loop --interval 300`
 
 ### Módulos del sistema
-* `main.py`: Orquestador principal del bot.
-* `dashboard.py`: Generador del panel dinámico en README.
-* `agent.py`: Conexión con Gemini Flash y reglas de riesgo.
-* `portfolio.py`: Registro de operaciones, cálculo de saldo y PnL.
-* `market_data.py`: Descarga y cálculo técnico con yfinance.
-* `portfolio.json`: Base de datos de posiciones.
+* `main.py`: Orquestador principal del bot y guardas de riesgo.
+* `dashboard.py`: Generador del panel dinámico en README (EN/ES).
+* `agent.py`: Conexión con Gemini Flash y reglas cuantitativas.
+* `portfolio.py`: Registro de operaciones, cálculo de saldo y Circuit Breakers.
+* `market_data.py`: Descarga y cálculo técnico con yfinance (SMA20, RSI 1H/Diario).
+* `portfolio.json`: Base de datos de posiciones y bitácora.
 </details>
 """
 
-    with open("README.md", "w", encoding="utf-8") as f:
+    with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(readme_content)
 
-def trim_trading_log(file_path: str = "trading.log", max_lines: int = 150):
+def trim_trading_log(file_path: str = None, max_lines: int = 150):
+    if file_path is None:
+        file_path = os.path.join(BASE_DIR, "trading.log")
     if os.path.exists(file_path):
         try:
             with open(file_path, "r", encoding="utf-8") as f:

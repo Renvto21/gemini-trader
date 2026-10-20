@@ -1,3 +1,39 @@
+   • ETH-USD: 0.004058 u. | Compra: $2452.17 | Actual: $2437.31 | Total: $9.89 📉 (-0.61%) [Tiempo: 3h 19m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado tradicional se encuentra completamente cerrado, por lo que toda la operativa se concentra exclusivamente en el mercado de criptomonedas (24/7). Las posiciones abiertas en AAPL y ETH-USD muestran ligeras pérdidas no realizadas, pero se mantienen estables dentro de parámetros de riesgo aceptables. ETH-USD opera en un entorno favorable con momentum positivo a 24 horas, mientras que AAPL se encuentra en estado de espera debido al cierre bursátil. Mantendremos la disciplina táctica y la paciencia operativa."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales en AAPL (pendiente de apertura de mercado) y ETH-USD. Vigilar de cerca el rendimiento de ETH-USD para asegurar take-profit si alcanza el rango objetivo del +2.0% o si el RSI de 1 hora se aproxima a la zona de sobrecompra (>70). Monitorear estrictamente el stop-loss en -2.0% para evitar caídas mayores y evaluar la rotación hacia SOL-USD o BTC-USD si surge un catalizador alcista más fuerte."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] ETH-USD (Confianza: 75%)
+    Razón: ETH-USD mantiene un comportamiento estable con un rendimiento positivo a 24 horas del 1.35% y un RSI de 1 hora en 62.4. Aunque no ha alcanzado el objetivo de take-profit, el impulso se mantiene favorable y no amerita venta anticipada.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] AAPL (Confianza: 70%)
+    Razón: AAPL se encuentra en un mercado actualmente CERRADO con precios congelados y una pérdida menor del -0.33%. No es posible operar en este momento, por lo que se mantiene la posición a la espera de la apertura de Wall Street.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.98 USD (Cash: $19.12 USD)
+
+[2026-10-20 17:20:32] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $19.12 USD
+ Valor en Activos:     $19.85 USD
+ Balance Total:        $38.97 USD
+ Ganancia/Pérdida:     🔴 $-1.03 USD (-2.57%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.029357 u. | Compra: $340.64 | Actual: $339.5 | Total: $9.97 📉 (-0.33%) [Tiempo: 5h 18m]
    • ETH-USD: 0.004058 u. | Compra: $2452.17 | Actual: $2434.69 | Total: $9.88 📉 (-0.71%) [Tiempo: 3h 29m]
 =======================================================
 
@@ -116,38 +152,17 @@ Balance final del ciclo: $39.00 USD (Cash: $19.12 USD)
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.01 USD (Cash: $19.12 USD)
 
-[2026-10-20 18:00:46] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
 =======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
+ 📊 CURRENT PORTFOLIO STATUS
 =======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $19.12 USD
- Valor en Activos:     $19.89 USD
- Balance Total:        $39.01 USD
- Ganancia/Pérdida:     🔴 $-0.99 USD (-2.46%)
+ Initial Capital:     $40.00 USD
+ Available Cash:      $19.12 USD
+ Assets Value:        $19.89 USD
+ Total Balance:       $39.01 USD
+ Net PnL:             🔴 $-0.99 USD (-2.47%)
 
- 💼 Posiciones Abiertas:
-   • AAPL: 0.029357 u. | Compra: $340.64 | Actual: $339.5 | Total: $9.97 📉 (-0.33%) [Tiempo: 5h 59m]
-   • ETH-USD: 0.004058 u. | Compra: $2452.17 | Actual: $2445.43 | Total: $9.92 📉 (-0.27%) [Tiempo: 4h 9m]
+ 💼 Open Positions:
+   • AAPL: 0.029357 u. | Buy: $340.64 | Now: $339.5 | Total: $9.97 📉 (-0.33%) [Time: 5h 59m]
+   • ETH-USD: 0.004058 u. | Buy: $2452.17 | Now: $2445.05 | Total: $9.92 📉 (-0.29%) [Time: 4h 9m]
 =======================================================
 
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado tradicional se encuentra cerrado, manteniendo congelados los precios de las acciones y ETFs como AAPL. En cuanto a las criptomonedas, ETH-USD y SOL-USD se mantienen activas 24/7 con un sesgo lateral/levemente alcista en las últimas 24 horas, aunque con un momentum de corto plazo plano en la última hora. Mantenemos una posición prudente en efectivo mientras esperamos confirmaciones de volumen o movimientos más decisivos."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener posiciones actuales en AAPL y ETH-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5% o sobrecompra en rsi_1h > 70. Como el mercado accionario está cerrado, no se pueden abrir nuevas posiciones en AAPL, y en cripto esperaremos a que se genere un retesteo o un impulso más claro antes de comprometer más liquidez."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] AAPL (Confianza: 70%)
-    Razón: El mercado accionario está cerrado y la posición en AAPL se mantiene estable con una pérdida marginal de -0.33%. Esperaremos a la apertura del mercado para buscar una salida o tomar ganancias según la evolución del precio.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] ETH-USD (Confianza: 75%)
-    Razón: ETH-USD se encuentra operando lateralmente en las últimas horas con un rsi_1h en 66.8, cerca de la zona de sobrecompra. Mantendremos la posición buscando alcanzar el objetivo de take-profit del +2.0% al +3.5%.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.01 USD (Cash: $19.12 USD)

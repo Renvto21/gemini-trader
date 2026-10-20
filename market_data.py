@@ -128,6 +128,7 @@ def get_market_snapshot(watchlist: List[str] = None) -> Dict[str, Any]:
                 "rsi_1h": round(rsi_1h, 1),
                 "rsi_daily": round(rsi_daily, 1),
                 "trend": trend,
+                "is_above_sma20": current_price > sma_20,
                 "recent_news": news_headlines
             }
         except Exception as e:
