@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran dentro de los rangos de tolerancia antes del stop-loss estricto de -2.0%. Estar preparado para asegurar ganancias si ETH-USD o SOL-USD rebotan hacia el objetivo de +2.0% a +3.5%, o para recortar BTC-USD si rompe nuevos mínimos de corto plazo.",
-    "updated_at": "2026-10-19T23:10:40.156352-03:00"
+    "notes": "Mantener las posiciones actuales ya que no han alcanzado el stop-loss estricto de -2.0% y QQQ se encuentra cerrado. Monitorear de cerca el RSI de 1 hora de BTC-USD para buscar confirmación de rebote o planificar un recorte si rompe soportes clave. Preparado para tomar ganancias en SOL-USD si alcanza el objetivo de +2.0% a +3.5%.",
+    "updated_at": "2026-10-19T23:20:39.968595-03:00"
   }
 }
