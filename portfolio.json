@@ -1812,7 +1812,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos nuestras posiciones abiertas en AAPL y GLD ya que ninguna ha alcanzado los umbrales de stop-loss (-2.0%) o take-profit (+2.0% a +3.5%). El RSI de GLD en 30.5 sugiere que la presión vendedora podría estar agotándose; vigilaremos de cerca la siguiente hora para confirmar el rebote o proceder al cierre si perfora soportes.",
-    "updated_at": "2026-10-20T13:31:13.321895-03:00"
+    "notes": "Mantendremos nuestras posiciones abiertas actuales (AAPL y GLD) durante un ciclo más al no haber alcanzado ni el stop-loss de -2.0% ni el take-profit de +2.0%. Si en el próximo ciclo AAPL o GLD no muestran un incremento claro en su momentum (rsi_1h superior a 50) y se estancan, procederemos a la rotación de capital hacia activos de mayor volatilidad o cripto con mayor dinamismo.",
+    "updated_at": "2026-10-20T13:40:57.561261-03:00"
   }
 }
