@@ -1,41 +1,6 @@
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.
-Balance final del ciclo: $38.55 USD (Cash: $0.00 USD)
-
-[2026-10-19 23:20:34] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $0.00 USD
- Valor en Activos:     $38.56 USD
- Balance Total:        $38.56 USD
- Ganancia/Pérdida:     🔴 $-1.44 USD (-3.61%)
-
- 💼 Posiciones Abiertas:
-   • QQQ: 0.01391 u. | Compra: $718.92 | Actual: $718.36 | Total: $9.99 📉 (-0.08%) [Tiempo: 12h 39m]
-   • ETH-USD: 0.004178 u. | Compra: $2393.62 | Actual: $2390.77 | Total: $9.99 📉 (-0.12%) [Tiempo: 10h 29m]
-   • SOL-USD: 0.096034 u. | Compra: $104.13 | Actual: $104.51 | Total: $10.04 📈 (+0.36%) [Tiempo: 6h 39m]
-   • BTC-USD: 0.000105 u. | Compra: $81767.7 | Actual: $81525.32 | Total: $8.54 📉 (-0.30%) [Tiempo: 6h 9m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado general se encuentra mayoritariamente con tendencia bajista por debajo de la SMA20. Los mercados tradicionales (como QQQ) están cerrados, por lo que el foco operativo debe recaer en las criptomonedas que operan 24/7. BTC-USD muestra un RSI de 1 hora en niveles de sobreventa profunda (26.1), mientras que ETH-USD y SOL-USD se mantienen estables dentro de los rangos de tolerancia permitidos antes de activar stops."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones actuales ya que no han alcanzado el stop-loss estricto de -2.0% y QQQ se encuentra cerrado. Monitorear de cerca el RSI de 1 hora de BTC-USD para buscar confirmación de rebote o planificar un recorte si rompe soportes clave. Preparado para tomar ganancias en SOL-USD si alcanza el objetivo de +2.0% a +3.5%."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] BTC-USD (Confianza: 70%)
-    Razón: BTC-USD presenta un RSI de 1 hora en 26.1 reflejando sobreventa profunda; a pesar del ligero cambio negativo reciente, se mantiene la posición esperando el rebote técnico hacia la media sin superar el límite de stop-loss.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
 Balance final del ciclo: $38.56 USD (Cash: $0.00 USD)
 
 [2026-10-19 23:30:32] 🔍 Iniciando ciclo de análisis...
@@ -151,3 +116,38 @@ Balance final del ciclo: $38.59 USD (Cash: $0.00 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.68 USD (Cash: $0.00 USD)
+
+[2026-10-20 00:00:41] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $0.00 USD
+ Valor en Activos:     $38.64 USD
+ Balance Total:        $38.64 USD
+ Ganancia/Pérdida:     🔴 $-1.36 USD (-3.40%)
+
+ 💼 Posiciones Abiertas:
+   • QQQ: 0.01391 u. | Compra: $718.92 | Actual: $718.36 | Total: $9.99 📉 (-0.08%) [Tiempo: 13h 20m]
+   • ETH-USD: 0.004178 u. | Compra: $2393.62 | Actual: $2396.85 | Total: $10.01 📈 (+0.13%) [Tiempo: 11h 9m]
+   • SOL-USD: 0.096034 u. | Compra: $104.13 | Actual: $104.96 | Total: $10.08 📈 (+0.80%) [Tiempo: 7h 20m]
+   • BTC-USD: 0.000105 u. | Compra: $81767.7 | Actual: $81664.63 | Total: $8.55 📉 (-0.13%) [Tiempo: 6h 50m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"Aviso temporal de Gemini (500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] PORTFOLIO (Confianza: 100%)
+    Razón: Error temporal de conexión, manteniendo posiciones de forma segura.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.64 USD (Cash: $0.00 USD)

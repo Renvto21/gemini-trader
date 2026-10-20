@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-19 23:50:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 00:00:47`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.68 USD** | **$38.68 USD** | 🔴 **-3.30%** ($-1.32) |
+| **$40.00 USD** | **$0.00 USD** | **$38.64 USD** | **$38.64 USD** | 🔴 **-3.40%** ($-1.36) |
 
 ---
 
@@ -16,28 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 13h 9m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2399.52 | $10.02 | 📈 +0.25% | 10h 59m |
-| `SOL-USD` | 0.096034 | $104.13 | $105.18 | $10.10 | 📈 +1.01% | 7h 9m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81738.69 | $8.56 | 📉 -0.04% | 6h 39m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 13h 20m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2396.85 | $10.01 | 📈 +0.13% | 11h 9m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.96 | $10.08 | 📈 +0.80% | 7h 20m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81664.63 | $8.55 | 📉 -0.13% | 6h 50m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se encuentra abierto 24/7 mostrando ligeros signos de recuperación en el corto plazo con cambios horarios positivos, mientras que los activos tradicionales permanecen cerrados. SOL-USD muestra un avance favorable con un PnL de +1.01% acercándose a la zona objetivo, y ETH-USD se mantiene estable. BTC-USD y QQQ operan con leves variaciones negativas pero sin perforar los umbrales de stop-loss."
+> "Aviso temporal de Gemini (500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 80%): SOL-USD muestra un comportamiento alcista sostenido con un PnL positivo del 1.01% y un cambio horario positivo. Se mantiene en cartera para buscar el take-profit en el rango de +2.0% a +3.5%.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD se mantiene estable con un pequeño PnL positivo del 0.25% y un RSI de 1 hora recuperándose. Sin motivos para vender todavía.
-- **[HOLD] BTC-USD** (Confianza: 70%): BTC-USD opera ligeramente por debajo del precio de entrada pero muy lejos del stop-loss del -2.0%. Se espera consolidación del rebote técnico.
-- **[HOLD] QQQ** (Confianza: 70%): El mercado de Wall Street está cerrado y QQQ se encuentra sin movimientos significativos y con un PnL casi plano (-0.08%). Se mantiene hasta la apertura del mercado.
+- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales mientras se monitorea de cerca a SOL-USD para asegurar ganancias si alcanza el rango de +2.0% a +3.5%. Estar atento al RSI de 1 hora en BTC-USD y ETH-USD para evaluar salidas tácticas o rotación de capital en caso de pérdida de momentum."
+> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
