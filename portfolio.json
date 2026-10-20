@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca ETH-USD y SOL-USD para una toma de beneficios parcial o total si el RSI de 1 hora se aproxima a la zona de sobrecompra (>70). Mantener las posiciones actuales y evaluar rotaciones de capital hacia activos con mayor impulso si se presentan oportunidades en el mercado abierto.",
-    "updated_at": "2026-10-20T02:40:37.757818-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran estables o con ligeras ganancias. Monitorear de cerca a SOL-USD y ETH-USD para asegurar beneficios si el RSI de 1 hora se acerca a la zona de sobrecompra (>70). No realizar nuevas compras hasta liberar liquidez mediante la toma de ganancias parcial o total de las posiciones con mejor desempeño.",
+    "updated_at": "2026-10-20T02:50:47.947876-03:00"
   }
 }
