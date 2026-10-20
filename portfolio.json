@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca las posiciones en criptomonedas (SOL, ETH, BTC) buscando un incremento en el volumen y momentum que impulse el RSI de 1 hora por encima de 50 para activar los take-profits entre +2.0% y +3.5%. Mantener QQQ en espera hasta la apertura del mercado tradicional. Si las criptomonedas pierden impulso o se acercan al límite de -2.0%, procederemos a cortar pérdidas de inmediato.",
-    "updated_at": "2026-10-20T09:20:53.796596-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (SOL, ETH, BTC) y el activo tradicional QQQ. Monitorear los RSI de 1 hora para asegurar que alcancen niveles superiores a 50 y activen los take-profits entre +2.0% y +3.5%. En caso de que el momentum falle y se acerquen a -2.0%, proceder a cortar pérdidas inmediatamente.",
+    "updated_at": "2026-10-20T09:30:48.861100-03:00"
   }
 }
