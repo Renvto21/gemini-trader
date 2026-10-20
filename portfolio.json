@@ -1812,7 +1812,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones en AAPL y GLD durante este ciclo ya que el holding time es bajo (59 minutos) y no han tocado ningún stop-loss ni take-profit objetivo. Seguiremos vigilando el rsi_1h de GLD (actualmente en 30.9) esperando el rebote técnico hacia la zona de take-profit de +2.0% a +3.5%. Si alguna posición perfora el soporte o cae más de -2.0%, ejecutaremos la venta inmediata.",
-    "updated_at": "2026-10-20T13:01:20.848427-03:00"
+    "notes": "Mantendremos las posiciones en AAPL y GLD durante este ciclo ya que el holding time es bajo y no han alcanzado ningún stop-loss ni take-profit. Monitorearemos de cerca el RSI de 1 hora en GLD (30.1) y el cambio de momentum en AAPL buscando el objetivo de take-profit entre +2.0% y +3.5%. Si alguna posición perfora el soporte o cae más de -2.0%, ejecutaremos la venta inmediata.",
+    "updated_at": "2026-10-20T13:11:01.168613-03:00"
   }
 }
