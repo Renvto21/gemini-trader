@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones activas en SOL-USD, ETH-USD, BTC-USD y QQQ. Estar alerta al comportamiento de SOL-USD y ETH-USD para asegurar ganancias parciales o totales si el RSI de 1 hora se acerca o supera la zona de 70. Vigilar la apertura de los mercados tradicionales para evaluar la rotación o toma de beneficios en QQQ si se presenta una oportunidad de mayor impulso.",
-    "updated_at": "2026-10-20T01:00:46.510601-03:00"
+    "notes": "Mantener las posiciones actuales en QQQ, ETH-USD, SOL-USD y BTC-USD. Estar preparado para vender SOL-USD si su RSI de 1 hora supera 70 o si alcanza la zona de take-profit entre +2.0% y +3.5%. Vigilar el comportamiento de ETH-USD y BTC-USD para capturar ganancias rápidas. No realizar nuevas compras hasta liberar liquidez mediante ventas.",
+    "updated_at": "2026-10-20T01:10:39.610482-03:00"
   }
 }
