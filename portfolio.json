@@ -1766,7 +1766,7 @@
     }
   ],
   "memory": {
-    "notes": "Las posiciones en criptomonedas (ETH-USD, SOL-USD, BTC-USD) muestran estabilidad y ligeros rebotes técnicos, por lo que se mantendrán buscando alcanzar el objetivo de take-profit del +2.0% al +3.5%. Por otro lado, la posición en QQQ lleva 24 horas estancada con tendencia bajista bajo la SMA20 y sin el rebote esperado; procederemos a liquidarla para cortar pérdidas mínimas y liberar capital hacia alternativas de mayor dinamismo.",
-    "updated_at": "2026-10-20T10:50:40.998700-03:00"
+    "notes": "Las posiciones en ETH-USD, SOL-USD y BTC-USD muestran ganancias moderadas pero estables (entre +0.35% y +1.04%). Mantendremos estas posiciones monitoreando de cerca el RSI de 1 hora para asegurar beneficios parciales o totales si alcanzan el rango de take-profit del +2.0% al +3.5%, o si el RSI de 1 hora supera el nivel de sobrecompra de 70. La liquidez en efectivo remanente se mantendrá temporalmente a la espera de una mayor confirmación de volatilidad.",
+    "updated_at": "2026-10-20T11:01:12.822937-03:00"
   }
 }
