@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 07:50:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 08:00:56`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.47 USD** | **$38.47 USD** | 🔴 **-3.83%** ($-1.53) |
+| **$40.00 USD** | **$0.00 USD** | **$38.50 USD** | **$38.50 USD** | 🔴 **-3.76%** ($-1.50) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 21h 9m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2383.64 | $9.96 | 📉 -0.42% | 18h 59m |
-| `SOL-USD` | 0.096034 | $104.13 | $103.97 | $9.98 | 📉 -0.15% | 15h 9m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81446.49 | $8.53 | 📉 -0.39% | 14h 39m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 21h 20m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2385.31 | $9.97 | 📉 -0.35% | 19h 9m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.19 | $10.01 | 📈 +0.06% | 15h 20m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81467.43 | $8.53 | 📉 -0.37% | 14h 50m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se mantiene operando 24/7 pero con un sesgo lateral a bajista de corto plazo, con un RSI de 1 hora recuperándose ligeramente pero sin mostrar la fuerza de volumen necesaria para un rebote explosivo. Los mercados tradicionales (QQQ) se encuentran cerrados. El portafolio actual registra un PnL total de -3.83%, sin embargo, ninguna posición ha tocado el stop-loss estricto de -2.0%. Dado que no disponemos de efectivo libre en este momento y que el momentum técnico actual es moderado, optamos por mantener las posiciones vigentes y monitorear de cerca la evolución del RSI en los criptoactivos."
+> "El mercado accionario tradicional (QQQ y otros) se encuentra cerrado, por lo que toda la atención operativa se desplaza hacia los activos cripto (BTC-USD, ETH-USD, SOL-USD), que operan 24/7. Las posiciones actuales muestran un estancamiento con ligeras variaciones negativas pero controladas, sin superar los límites de stop-loss. El RSI de 1 hora en las criptomonedas se mantiene estable alrededor de 36 a 43, consolidando bases para un posible rebote técnico mientras el RSI diario permanece en niveles de sobreventa profunda, lo que favorece mantener la exposición actual a la espera de un impulso alcista."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 60%): La posición se mantiene dentro de parámetros aceptables con una pérdida menor de -0.39%. Aunque el RSI de 1 hora está en 36.3 y muestra un cambio positivo leve (+0.08%), no hay suficiente liquidez en efectivo para incrementar exposición y el movimiento aún carece de la fuerza compradora necesaria para justificar una rotación.
+- **[HOLD] BTC-USD** (Confianza: 75%): BTC-USD se mantiene operando 24/7 con un RSI de 1 hora en 36.0 y un RSI diario en 34.5. La posición actual está estancada con una pérdida menor de -0.37%, por lo que se mantiene la posición a la espera de un impulso alcista que permita buscar objetivos de take-profit sin activar el stop-loss.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que las pérdidas se mantienen acotadas por debajo del umbral de -2.0%. En el próximo ciclo, si alguna criptomoneda experimenta un impulso alcista que eleve su RSI de 1 hora por encima de 70, realizaremos una toma de beneficios parcial o total para liberar liquidez. Si alguna posición rompe a la baja el soporte crítico con una pérdida cercana al -2.0%, ejecutaremos una venta inmediata para proteger el capital."
+> "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran dentro de los márgenes de riesgo y las pérdidas son acotadas. Monitorear de cerca el RSI de 1 hora de las criptomonedas abiertas; si alguna supera el nivel de 70 o alcanza un beneficio de +2.0%, se procederá a tomar ganancias para liberar efectivo. Mantener la disciplina de no operar en mercados cerrados."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

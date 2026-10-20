@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que las pérdidas se mantienen acotadas por debajo del umbral de -2.0%. En el próximo ciclo, si alguna criptomoneda experimenta un impulso alcista que eleve su RSI de 1 hora por encima de 70, realizaremos una toma de beneficios parcial o total para liberar liquidez. Si alguna posición rompe a la baja el soporte crítico con una pérdida cercana al -2.0%, ejecutaremos una venta inmediata para proteger el capital.",
-    "updated_at": "2026-10-20T07:50:41.908682-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran dentro de los márgenes de riesgo y las pérdidas son acotadas. Monitorear de cerca el RSI de 1 hora de las criptomonedas abiertas; si alguna supera el nivel de 70 o alcanza un beneficio de +2.0%, se procederá a tomar ganancias para liberar efectivo. Mantener la disciplina de no operar en mercados cerrados.",
+    "updated_at": "2026-10-20T08:00:56.886691-03:00"
   }
 }
