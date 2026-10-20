@@ -1,39 +1,4 @@
 🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado tradicional se encuentra cerrado y las criptomonedas operan de manera lateral con bajo impulso en este ciclo. Las posiciones actuales (QQQ, ETH-USD, SOL-USD y BTC-USD) se mantienen estables dentro del margen de riesgo operativo sin alcanzar los límites de stop-loss ni los objetivos de toma de beneficios."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener las posiciones actuales ya que no muestran pérdidas críticas ni se han activado las condiciones de take-profit. Para el próximo ciclo, monitorear de cerca el comportamiento de SOL-USD y ETH-USD para asegurar ganancias si el RSI de 1 hora supera los 70 puntos, o realizar rotación de capital si el mercado tradicional abre con mayor dinamismo."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] SOL-USD (Confianza: 75%)
-    Razón: La posición en SOL-USD muestra un pequeño rendimiento positivo (+0.26%) y se mantiene estable. Dado que el mercado cripto está operando con baja volatilidad y sin alcanzar la zona de sobrecompra (>70 RSI de 1h), mantenemos la posición para permitir que desarrolle el rebote técnico esperado.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.57 USD (Cash: $0.00 USD)
-
-[2026-10-20 03:30:32] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $0.00 USD
- Valor en Activos:     $38.61 USD
- Balance Total:        $38.61 USD
- Ganancia/Pérdida:     🔴 $-1.39 USD (-3.48%)
-
- 💼 Posiciones Abiertas:
-   • QQQ: 0.01391 u. | Compra: $718.92 | Actual: $718.36 | Total: $9.99 📉 (-0.08%) [Tiempo: 16h 49m]
-   • ETH-USD: 0.004178 u. | Compra: $2393.62 | Actual: $2395.58 | Total: $10.01 📈 (+0.08%) [Tiempo: 14h 39m]
-   • SOL-USD: 0.096034 u. | Compra: $104.13 | Actual: $104.62 | Total: $10.05 📈 (+0.47%) [Tiempo: 10h 49m]
-   • BTC-USD: 0.000105 u. | Compra: $81767.7 | Actual: $81709.58 | Total: $8.56 📉 (-0.07%) [Tiempo: 10h 19m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado tradicional (QQQ, SPY, etc.) se encuentra cerrado y con precios congelados, mostrando una tendencia bajista de corto plazo bajo la SMA20. Por otro lado, los mercados cripto (BTC-USD, ETH-USD, SOL-USD) están abiertos 24/7 y muestran signos de estabilización tras las recientes caídas, aunque sin un impulso alcista explosivo todavía. Las posiciones actuales se mantienen en rangos laterales estrechos con ligeras variaciones, por lo que no se han activado los take-profits ni los stop-losses estrictos."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -147,6 +112,41 @@ Balance final del ciclo: $38.61 USD (Cash: $0.00 USD)
 ⚡ ACCIONES DECIDIDAS:
   • Acción: [HOLD] SOL-USD (Confianza: 75%)
     Razón: SOL-USD muestra una pequeña ganancia del 0.36% y se mantiene operando 24/7. El RSI de 1 hora está en 58.6, acercándose a niveles óptimos para evaluar un take-profit parcial si supera los 70 puntos. Mantenemos la posición por ahora.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.59 USD (Cash: $0.00 USD)
+
+[2026-10-20 04:10:33] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $0.00 USD
+ Valor en Activos:     $38.59 USD
+ Balance Total:        $38.59 USD
+ Ganancia/Pérdida:     🔴 $-1.41 USD (-3.53%)
+
+ 💼 Posiciones Abiertas:
+   • QQQ: 0.01391 u. | Compra: $718.92 | Actual: $718.36 | Total: $9.99 📉 (-0.08%) [Tiempo: 17h 29m]
+   • ETH-USD: 0.004178 u. | Compra: $2393.62 | Actual: $2393.71 | Total: $10.0 📈 (+0.00%) [Tiempo: 15h 19m]
+   • SOL-USD: 0.096034 u. | Compra: $104.13 | Actual: $104.54 | Total: $10.04 📈 (+0.39%) [Tiempo: 11h 29m]
+   • BTC-USD: 0.000105 u. | Compra: $81767.7 | Actual: $81677.05 | Total: $8.56 📉 (-0.11%) [Tiempo: 10h 59m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado bursátil tradicional se encuentra cerrado, por lo que toda la atención se desplaza a las criptomonedas que operan 24/7. Las criptos principales (SOL-USD, ETH-USD, BTC-USD) muestran un comportamiento lateral con ligera consolidación tras los intentos previos de rebote. Los indicadores de 1 hora se mantienen neutrales (RSI entre 45 y 60) sin alcanzar aún los niveles de take-profit (>70) ni activar los stop-loss (-2%). La liquidez en efectivo es cero y el portafolio se mantiene en observación activa."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran dentro de rangos normales de fluctuación sin tocar el stop-loss de -2.0%. Estar preparado para asegurar beneficios parciales en SOL-USD si su RSI de 1 hora se acerca a 70 o si el precio muestra un avance hacia el objetivo de take-profit de +2.0%. Monitorear la apertura del mercado tradicional para evaluar rotación de QQQ si persisten las señales débiles."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] SOL-USD (Confianza: 75%)
+    Razón: La posición en SOL-USD muestra un pequeño beneficio (+0.39%) y un RSI de 1h en 59.4. No ha alcanzado el objetivo de take-profit (+2.0% a +3.5% o RSI > 70) ni el stop-loss, por lo que se mantiene para permitir que desarrolle el impulso alcista.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.
