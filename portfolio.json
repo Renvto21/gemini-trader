@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) llevan más de medio día abiertas sin consolidar el rebote esperado. Dado que el efectivo actual es 0.0 USD, mantendremos las posiciones actuales por un ciclo más esperando un catalizador de volumen en cripto que impulse el RSI de 1 hora por encima de 50 para asegurar tomas de ganancias entre +2.0% y +3.5%. Si las posiciones continúan estancadas y se acercan al límite de -2.0% de pérdida, procederemos a vender para cortar pérdidas y rotar capital.",
-    "updated_at": "2026-10-20T10:10:41.189111-03:00"
+    "notes": "Las posiciones abiertas (QQQ, ETH-USD, SOL-USD, BTC-USD) llevan más de medio día sin consolidar el rebote esperado. Mantendremos las posiciones vigentes por un ciclo más esperando un catalizador de volumen en cripto que impulse el RSI de 1 hora por encima de 50 para asegurar tomas de ganancias entre +2.0% y +3.5%. Si el mercado cripto continúa lateralizado y las posiciones se acercan al límite de -2.0% de pérdida, procederemos a vender para cortar pérdidas y rotar capital hacia nuevas oportunidades de momentum.",
+    "updated_at": "2026-10-20T10:20:57.069833-03:00"
   }
 }

@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 10:10:41`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 10:20:57`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.52 USD** | **$38.52 USD** | 🔴 **-3.69%** ($-1.48) |
+| **$40.00 USD** | **$0.00 USD** | **$38.55 USD** | **$38.55 USD** | 🔴 **-3.63%** ($-1.45) |
 
 ---
 
@@ -16,28 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 23h 29m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2391.38 | $9.99 | 📉 -0.09% | 21h 19m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.31 | $10.02 | 📈 +0.17% | 17h 29m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81361.97 | $8.52 | 📉 -0.50% | 16h 59m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 23h 40m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2393.55 | $10.00 | 📈 -0.00% | 21h 29m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.42 | $10.03 | 📈 +0.28% | 17h 40m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81407.33 | $8.53 | 📉 -0.44% | 17h 10m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se encuentra operando en formato 24/7 con un sesgo lateral a bajista de corto plazo, con ligeros retrocesos en la última hora y las últimas 24 horas. Los activos tradicionales (como QQQ) permanecen con mercado cerrado y precios congelados. Nuestras posiciones en cripto llevan más de 16 horas abiertas sin mostrar el impulso alcista o despegue del RSI por encima de 50 que esperábamos, manteniéndose con variaciones mínimas y ligeramente negativas en el agregado."
+> "El mercado muestra un sentimiento general bajista con la mayoría de los activos tradicionales (QQQ, SPY, NVDA) cerrados y con precios congelados bajo su media móvil de 20 periodos. Los activos cripto (ETH-USD, SOL-USD, BTC-USD) se encuentran abiertos pero muestran un momentum estancado y lateral, con RSI de 1 hora oscilando entre 38 y 42 sin lograr romper al alza de forma decisiva. No hay suficiente presión de compra en el corto plazo para activar los take-profits objetivo, pero las posiciones se mantienen estables sin alcanzar el stop-loss estricto de -2.0%."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 60%): La posición muestra una ganancia marginal de 0.17% con un RSI de 1 hora en 40.1. Mantenemos la posición a la espera de un impulso de volumen que active la toma de beneficios.
-- **[HOLD] ETH-USD** (Confianza: 60%): La posición se encuentra estable con una ligera pérdida de -0.09% y un RSI de 1 hora en 41.2. Esperamos la confirmación del rebote técnico.
-- **[HOLD] BTC-USD** (Confianza: 60%): Registra una pérdida leve de -0.5% con un RSI de 1 hora en 37.0. Se mantiene en vigilancia estricta para evitar superar el umbral de stop-loss.
-- **[HOLD] QQQ** (Confianza: 50%): El mercado de valores se encuentra cerrado. La posición está prácticamente plana (-0.08%) a la espera de la apertura para evaluar su continuidad.
+- **[HOLD] SOL-USD** (Confianza: 60%): SOL-USD se mantiene con una pequeña ganancia del 0.28% tras 17 horas abierto. Aunque el momentum es lento, se encuentra por encima del precio de entrada y no justifica una venta anticipada ni la rotación de capital en este preciso instante. Esperaremos un aumento de volumen.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) llevan más de medio día abiertas sin consolidar el rebote esperado. Dado que el efectivo actual es 0.0 USD, mantendremos las posiciones actuales por un ciclo más esperando un catalizador de volumen en cripto que impulse el RSI de 1 hora por encima de 50 para asegurar tomas de ganancias entre +2.0% y +3.5%. Si las posiciones continúan estancadas y se acercan al límite de -2.0% de pérdida, procederemos a vender para cortar pérdidas y rotar capital."
+> "Las posiciones abiertas (QQQ, ETH-USD, SOL-USD, BTC-USD) llevan más de medio día sin consolidar el rebote esperado. Mantendremos las posiciones vigentes por un ciclo más esperando un catalizador de volumen en cripto que impulse el RSI de 1 hora por encima de 50 para asegurar tomas de ganancias entre +2.0% y +3.5%. Si el mercado cripto continúa lateralizado y las posiciones se acercan al límite de -2.0% de pérdida, procederemos a vender para cortar pérdidas y rotar capital hacia nuevas oportunidades de momentum."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
