@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss estricto del -2.0% ni el objetivo de take-profit del +2.0%. Dado que el efectivo disponible es de 0.0 USD, no se pueden realizar nuevas compras en este ciclo. Monitorear de cerca el impulso de las criptomonedas y esperar a que alcancen zonas de take-profit o que el mercado tradicional abra para evaluar posibles rotaciones de capital.",
-    "updated_at": "2026-10-20T08:30:50.732442-03:00"
+    "notes": "Mantendremos las posiciones abiertas actuales ya que ninguna ha tocado el stop-loss ni el take-profit. Dado que el efectivo es 0.0 USD, no se pueden realizar nuevas compras. Continuaremos monitoreando el comportamiento de las criptomonedas en busca de una aceleración en el RSI de 1 hora o la llegada a zonas de take-profit para asegurar ganancias y rotar capital en los siguientes ciclos.",
+    "updated_at": "2026-10-20T08:40:39.172722-03:00"
   }
 }

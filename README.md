@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 08:30:50`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 08:40:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.47 USD** | **$38.47 USD** | 🔴 **-3.82%** ($-1.53) |
+| **$40.00 USD** | **$0.00 USD** | **$38.52 USD** | **$38.52 USD** | 🔴 **-3.71%** ($-1.48) |
 
 ---
 
@@ -16,28 +16,28 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 21h 50m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2383.60 | $9.96 | 📉 -0.42% | 19h 39m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.08 | $10.00 | 📉 -0.05% | 15h 50m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81403.76 | $8.53 | 📉 -0.45% | 15h 20m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 21h 59m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2386.66 | $9.97 | 📉 -0.29% | 19h 49m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.26 | $10.01 | 📈 +0.12% | 15h 59m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81522.26 | $8.54 | 📉 -0.30% | 15h 29m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional (Wall Street) se encuentra cerrado, por lo que toda la actividad se concentra exclusivamente en el mercado de criptomonedas, que opera 24/7. Las criptomonedas principales (SOL-USD, ETH-USD, BTC-USD) muestran un comportamiento lateral con sesgo ligeramente bajista en el corto plazo, manteniendo RSI de 1 hora en niveles neutrales o de ligera compresión (entre 34 y 41), mientras que sus RSI diarios permanecen en zonas de sobreventa profunda, lo que respalda mantener la tesis de rebote técnico a mediano plazo. Las posiciones actuales se encuentran estables dentro de los márgenes de tolerancia de riesgo sin activar los stop-loss."
+> "El mercado tradicional (QQQ, SPY, etc.) se encuentra cerrado y sin movimiento significativo. Las criptomonedas (SOL-USD, ETH-USD, BTC-USD) operan con un sesgo lateral a ligeramente bajista, manteniendo un comportamiento estable pero sin la fuerza de rebote esperada en el corto plazo tras casi 20 horas de tenencia. No se han alcanzado los límites de stop-loss estricto (-2.0%) ni de take-profit (+2.0%)."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 75%): La posición se mantiene estable con una pérdida marginal del -0.05%. El RSI diario en 21.2 sugiere un soporte macro sólido y potencial de rebote en cuanto el volumen acompañe, por lo que se decide mantener sin realizar cambios.
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD muestra un RSI diario de 24.1 indicando sobreventa profunda. La posición registra una pérdida menor del -0.42%, manteniéndose holgadamente por encima del umbral de stop-loss.
-- **[HOLD] BTC-USD** (Confianza: 75%): Bitcoin se mantiene consolidando cerca de su soporte local con un RSI de 1 hora en 34.4. La pérdida actual es de -0.45%, manteniendo la vigencia de la estrategia de acumulación para el rebote.
-- **[HOLD] QQQ** (Confianza: 70%): El mercado de valores se encuentra cerrado y la posición en QQQ muestra una variación casi nula (-0.08%). Se mantendrá en cartera hasta la apertura de Wall Street para evaluar su desempeño.
+- **[HOLD] SOL-USD** (Confianza: 65%): La posición mantiene un rendimiento plano (+0.12%) tras cerca de 16 horas. El RSI de 1 hora está en 44.4 y el diario en 21.3, lo que sugiere acumulación en soporte. Mantenemos la posición a la espera de un impulso alcista hacia el objetivo de take-profit.
+- **[HOLD] ETH-USD** (Confianza: 60%): La posición registra una pérdida menor del -0.29%. El RSI diario en 24.2 muestra sobreventa profunda, por lo que se mantiene la posición para cazar el rebote técnico sin romper las reglas de riesgo.
+- **[HOLD] BTC-USD** (Confianza: 60%): El precio se mantiene estable con una ligera pérdida del -0.3%. El RSI de 1 hora en 38.0 muestra compresión a la espera de un catalizador de volumen. Mantenemos la posición activa.
+- **[HOLD] QQQ** (Confianza: 70%): El mercado tradicional está cerrado y la posición muestra estabilidad (-0.08%). Se mantiene en cartera a la espera de la apertura de Wall Street para evaluar su evolución y posible rotación si fuera necesario.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones abiertas actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss estricto del -2.0% ni el objetivo de take-profit del +2.0%. Dado que el efectivo disponible es de 0.0 USD, no se pueden realizar nuevas compras en este ciclo. Monitorear de cerca el impulso de las criptomonedas y esperar a que alcancen zonas de take-profit o que el mercado tradicional abra para evaluar posibles rotaciones de capital."
+> "Mantendremos las posiciones abiertas actuales ya que ninguna ha tocado el stop-loss ni el take-profit. Dado que el efectivo es 0.0 USD, no se pueden realizar nuevas compras. Continuaremos monitoreando el comportamiento de las criptomonedas en busca de una aceleración en el RSI de 1 hora o la llegada a zonas de take-profit para asegurar ganancias y rotar capital en los siguientes ciclos."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
