@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales ya que ninguna ha alcanzado el stop-loss de -2.0% (las pérdidas rondan entre -0.08% y -0.55%). No realizaremos nuevas compras de momento debido a la falta de liquidez en efectivo ($0.00) y a que el RSI de 1 hora en cripto no ha roto al alza con fuerza. Mantendremos las posiciones por unas horas más esperando un catalizador técnico o realizaremos ventas parciales/totales para rotar capital si el estancamiento continúa.",
-    "updated_at": "2026-10-20T07:40:42.536210-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que las pérdidas se mantienen acotadas por debajo del umbral de -2.0%. En el próximo ciclo, si alguna criptomoneda experimenta un impulso alcista que eleve su RSI de 1 hora por encima de 70, realizaremos una toma de beneficios parcial o total para liberar liquidez. Si alguna posición rompe a la baja el soporte crítico con una pérdida cercana al -2.0%, ejecutaremos una venta inmediata para proteger el capital.",
+    "updated_at": "2026-10-20T07:50:41.908682-03:00"
   }
 }
