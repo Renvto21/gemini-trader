@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit. Vigilaré de cerca el RSI de 1 hora en criptomonedas para buscar rupturas por encima de 50 que confirmen el rebote técnico y permitan asegurar beneficios. Si persisten los movimientos laterales sin momentum en las próximas horas, procederé a rotar capital.",
-    "updated_at": "2026-10-20T07:30:46.180713-03:00"
+    "notes": "Mantendremos las posiciones actuales ya que ninguna ha alcanzado el stop-loss de -2.0% (las pérdidas rondan entre -0.08% y -0.55%). No realizaremos nuevas compras de momento debido a la falta de liquidez en efectivo ($0.00) y a que el RSI de 1 hora en cripto no ha roto al alza con fuerza. Mantendremos las posiciones por unas horas más esperando un catalizador técnico o realizaremos ventas parciales/totales para rotar capital si el estancamiento continúa.",
+    "updated_at": "2026-10-20T07:40:42.536210-03:00"
   }
 }
