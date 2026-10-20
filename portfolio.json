@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales de criptomonedas (SOL, ETH, BTC) ya que muestran un comportamiento constructivo en busca de mayores rebotes técnicos tras la sobreventa diaria. El ETF QQQ permanece cerrado y se evaluará su continuidad cuando abra Wall Street. Establecer take-profit parcial en SOL si el RSI de 1 hora supera los 70.",
-    "updated_at": "2026-10-20T00:10:45.254734-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y QQQ a la espera de la apertura de Wall Street. El objetivo es monitorear el take-profit parcial si SOL-USD o ETH-USD extienden sus ganancias hacia el rango de +2% a +3.5%, o si su RSI de 1 hora supera consistentemente los 70 puntos. Si no hay suficiente impulso en BTC-USD, consideraremos rotar capital hacia activos con mayor dinamismo en la apertura del mercado bursátil.",
+    "updated_at": "2026-10-20T00:20:39.964931-03:00"
   }
 }
