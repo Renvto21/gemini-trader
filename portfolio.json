@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de AAPL y ETH-USD por debajo del umbral de stop-loss estricto (-2.0%). Vigilaremos de cerca el RSI de 1 hora y el cambio porcentual de ETH-USD para asegurar ganancias si se acerca al objetivo de +2.0% o si el RSI supera 70. Mantendremos liquidez disponible para reaccionar ante cualquier volatilidad inminente.",
-    "updated_at": "2026-10-20T16:10:51.439751-03:00"
+    "notes": "Mantener las posiciones actuales (AAPL y ETH-USD) evaluando su comportamiento durante las próximas horas. Vigilar el RSI de 1 hora de AAPL para detectar un rebote técnico hacia la zona de take-profit (+2.0%) o cortar pérdidas si el precio rompe soportes clave por debajo del -2.0%. Mantener la liquidez actual disponible para reaccionar ante cualquier volatilidad inminente en los mercados de criptomonedas.",
+    "updated_at": "2026-10-20T16:20:52.318817-03:00"
   }
 }

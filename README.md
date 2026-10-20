@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 16:10:51`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 16:20:52`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.84 USD** | **$38.96 USD** | 🔴 **-2.59%** ($-1.04) |
+| **$40.00 USD** | **$19.12 USD** | **$19.81 USD** | **$38.94 USD** | 🔴 **-2.66%** ($-1.06) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $339.32 | $9.96 | 📉 -0.39% | 4h 9m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2433.94 | $9.88 | 📉 -0.74% | 2h 19m |
+| `AAPL` | 0.029357 | $340.64 | $338.93 | $9.95 | 📉 -0.50% | 4h 19m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2430.29 | $9.86 | 📉 -0.89% | 2h 29m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo defensivo general con la mayoría de los activos bajo sus medias móviles de 20 periodos, experimentando correcciones leves en el corto plazo. No obstante, las criptomonedas y algunos valores tecnológicos se mantienen operando de manera continua, presentando oportunidades selectivas para capturar rebotes en zonas de sobreventa diaria."
+> "El mercado general muestra una ligera corrección en el corto plazo con la mayoría de los activos tecnológicos y criptomonedas operando bajo sus medias móviles de 20 periodos en gráfico diario. Sin embargo, los mercados cripto permanecen abiertos 24/7 ofreciendo la mayor flexibilidad táctica. Nuestras posiciones actuales en AAPL y ETH-USD se mantienen estables dentro de márgenes manejables de pérdida, sin haber alcanzado el stop-loss estricto del -2.0%. Mantendremos la calma y daremos espacio a ETH-USD para consolidar su tendencia alcista de 24 horas, mientras que AAPL se mantiene vigilada de cerca por su RSI de 1 hora en niveles bajos."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 75%): AAPL se encuentra dentro de un rango de pérdida aceptable (-0.39%) y con soporte en su tendencia alcista diaria. Esperaremos a que desarrolle el momentum alcista proyectado sin necesidad de rotar el capital en este momento.
-- **[HOLD] ETH-USD** (Confianza: 80%): ETH-USD muestra un rendimiento diario positivo (+1.21%) y se encuentra operando dentro del rango de tolerancia establecido. Mantendremos la posición activa buscando alcanzar el objetivo de take-profit entre +2.0% y +3.5%.
+- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD muestra un rendimiento positivo en 24 horas (+1.06%) a pesar de un pequeño retroceso en la última hora. El holding time actual es de 2h 29m, por lo que debemos darle más tiempo para que desarrolle el rebote técnico esperado sin precipitar una venta anticipada.
+- **[HOLD] AAPL** (Confianza: 70%): AAPL se encuentra con un pequeño retroceso (-0.5%), pero su tendencia diaria sigue siendo alcista sobre la SMA20 y su RSI de 1 hora está en 34.2, cerca de la zona de sobreventa. Mantendremos la posición para buscar el rebote técnico hacia nuestros objetivos de ganancia.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones de AAPL y ETH-USD por debajo del umbral de stop-loss estricto (-2.0%). Vigilaremos de cerca el RSI de 1 hora y el cambio porcentual de ETH-USD para asegurar ganancias si se acerca al objetivo de +2.0% o si el RSI supera 70. Mantendremos liquidez disponible para reaccionar ante cualquier volatilidad inminente."
+> "Mantener las posiciones actuales (AAPL y ETH-USD) evaluando su comportamiento durante las próximas horas. Vigilar el RSI de 1 hora de AAPL para detectar un rebote técnico hacia la zona de take-profit (+2.0%) o cortar pérdidas si el precio rompe soportes clave por debajo del -2.0%. Mantener la liquidez actual disponible para reaccionar ante cualquier volatilidad inminente en los mercados de criptomonedas."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
