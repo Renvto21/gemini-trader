@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos todas las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado los niveles de stop-loss del -2.0% ni el objetivo de take-profit. Para los siguientes ciclos, vigilaremos de cerca el RSI de 1 hora en las criptomonedas abiertas buscando cruces por encima de 55-60 que confirmen el rebote técnico esperado, momento en el cual comenzaremos a asegurar beneficios.",
-    "updated_at": "2026-10-20T06:50:39.733281-03:00"
+    "notes": "Mantendremos todas las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss de -2.0% ni el objetivo de take-profit. Para los siguientes ciclos, seguiremos monitoreando el RSI de 1 hora en las criptomonedas buscando cruces por encima de 55-60 que confirmen el rebote técnico esperado. Si alguna posición se estanca o rompe soportes a la baja antes del rebote, aplicaremos rotación de capital inmediata.",
+    "updated_at": "2026-10-20T07:00:49.737143-03:00"
   }
 }
