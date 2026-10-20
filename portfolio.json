@@ -1,23 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 9.917932454236912,
-  "positions": {
-    "ETH-USD": {
-      "shares": 0.0041777725787719025,
-      "avg_price": 2393.62,
-      "opened_at": "2026-10-19T12:51:35.147891-03:00"
-    },
-    "SOL-USD": {
-      "shares": 0.09603380389897244,
-      "avg_price": 104.13,
-      "opened_at": "2026-10-19T16:40:45.759168-03:00"
-    },
-    "BTC-USD": {
-      "shares": 0.00010475267837005187,
-      "avg_price": 81767.69858074527,
-      "opened_at": "2026-10-19T17:10:46.225597-03:00"
-    }
-  },
+  "cash": 39.12228411424325,
+  "positions": {},
   "history": [
     {
       "timestamp": "2026-10-07T20:09:58.250279",
@@ -1763,10 +1747,43 @@
       "pnl_usd": -0.08,
       "pnl_pct": -0.82,
       "reason": "QQQ lleva más de 24 horas abierto sin momentum alcista, con un rendimiento de -0.82% y bajo la SMA20. Aplicamos la regla de rotación de capital para evitar posiciones estancadas y proteger el portafolio."
+    },
+    {
+      "timestamp": "2026-10-20T11:10:53.579880-03:00",
+      "action": "SELL",
+      "ticker": "ETH-USD",
+      "amount_usd": 10.23,
+      "shares": 0.004178,
+      "price": 2449.11,
+      "pnl_usd": 0.23,
+      "pnl_pct": 2.32,
+      "reason": "ETH-USD ha alcanzado un PnL de +2.32% y su RSI de 1 hora ha tocado el nivel de sobrecompra de 70.0. Procedemos a asegurar las ganancias según la estrategia de toma rápida de beneficios."
+    },
+    {
+      "timestamp": "2026-10-20T11:10:53.582208-03:00",
+      "action": "SELL",
+      "ticker": "SOL-USD",
+      "amount_usd": 10.28,
+      "shares": 0.096034,
+      "price": 107.08,
+      "pnl_usd": 0.28,
+      "pnl_pct": 2.83,
+      "reason": "SOL-USD registra un excelente rendimiento de +2.83% con un RSI de 1 hora en sobrecompra (71.7). Ejecutamos la venta total para asegurar el take-profit."
+    },
+    {
+      "timestamp": "2026-10-20T11:10:53.584566-03:00",
+      "action": "SELL",
+      "ticker": "BTC-USD",
+      "amount_usd": 8.69,
+      "shares": 0.000105,
+      "price": 82949.93,
+      "pnl_usd": 0.12,
+      "pnl_pct": 1.45,
+      "reason": "BTC-USD muestra un RSI de 1 hora en 72.2 (sobrecompra) y un rendimiento positivo de +1.45%. Tomamos beneficios para liberar capital y mantener liquidez."
     }
   ],
   "memory": {
-    "notes": "Las posiciones en ETH-USD, SOL-USD y BTC-USD muestran ganancias moderadas pero estables (entre +0.35% y +1.04%). Mantendremos estas posiciones monitoreando de cerca el RSI de 1 hora para asegurar beneficios parciales o totales si alcanzan el rango de take-profit del +2.0% al +3.5%, o si el RSI de 1 hora supera el nivel de sobrecompra de 70. La liquidez en efectivo remanente se mantendrá temporalmente a la espera de una mayor confirmación de volatilidad.",
-    "updated_at": "2026-10-20T11:01:12.822937-03:00"
+    "notes": "Se han ejecutado las ventas de ETH-USD, SOL-USD y BTC-USD al alcanzar los objetivos de take-profit tras entrar en sobrecompra de 1h. El portafolio ahora cuenta con una sólida posición de efectivo para buscar nuevas oportunidades de rebote técnico o reingresar en correcciones de baja volatilidad. Monitorearemos la acción del precio para el siguiente ciclo.",
+    "updated_at": "2026-10-20T11:10:53.577226-03:00"
   }
 }
