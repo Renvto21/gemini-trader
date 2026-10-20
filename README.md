@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 14:31:15`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 14:43:00`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.94 USD** | **$39.07 USD** | 🔴 **-2.33%** ($-0.93) |
+| **$40.00 USD** | **$19.12 USD** | **$19.93 USD** | **$39.05 USD** | 🔴 **-2.37%** ($-0.95) |
 
 ---
 
@@ -16,14 +16,14 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $341.25 | $10.02 | 📈 +0.18% | 2h 29m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2446.04 | $9.93 | 📉 -0.25% | 40m |
+| `AAPL` | 0.029357 | $340.64 | $340.43 | $9.99 | 📉 -0.06% | 2h 41m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2447.86 | $9.93 | 📉 -0.18% | 51m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "Aviso temporal de Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+> "Aviso temporal de Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
 
 **Operaciones del ciclo:**
 - **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
