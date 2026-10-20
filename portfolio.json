@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas (QQQ, ETH-USD, SOL-USD, BTC-USD) dado que se encuentran en ligera ganancia y no han alcanzado el objetivo de take-profit entre +2.0% y +3.5% ni han roto los stop-loss del -2.0%. Monitorear de cerca a SOL-USD y ETH-USD para asegurar beneficios parciales si se acercan a sobrecompra intradía.",
-    "updated_at": "2026-10-20T01:30:49.485169-03:00"
+    "notes": "Mantener las posiciones abiertas en Cripto (ETH-USD, SOL-USD, BTC-USD) aprovechando que operan 24/7 y muestran resiliencia en sus rebotes. Monitorear de cerca a SOL-USD y ETH-USD para asegurar beneficios parciales si se acercan al rango de take-profit del 2.0% al 3.5% o si el RSI de 1 hora entra en sobrecompra (>70). QQQ se mantiene inalterado por estar cerrado el mercado bursátil.",
+    "updated_at": "2026-10-20T01:40:38.288722-03:00"
   }
 }
