@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales ya que no muestran pérdidas críticas ni se han activado las condiciones de take-profit. Para el próximo ciclo, monitorear de cerca el comportamiento de SOL-USD y ETH-USD para asegurar ganancias si el RSI de 1 hora supera los 70 puntos, o realizar rotación de capital si el mercado tradicional abre con mayor dinamismo.",
-    "updated_at": "2026-10-20T03:20:41.203702-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD y BTC-USD) al no alcanzar los objetivos de take-profit (+2% a +3.5%) ni romper los límites de stop-loss (-2%). Monitorear de cerca a SOL-USD y ETH-USD para asegurar beneficios parciales si el RSI de 1 hora se acerca a la zona de sobrecompra (> 70). En cuanto el mercado tradicional abra, evaluar rotación de capital hacia activos con mayor momentum.",
+    "updated_at": "2026-10-20T03:30:38.787451-03:00"
   }
 }
