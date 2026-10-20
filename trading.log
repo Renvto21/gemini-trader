@@ -1,39 +1,4 @@
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] PORTFOLIO (Confianza: 100%)
-    Razón: Error temporal de conexión, manteniendo posiciones de forma segura.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.64 USD (Cash: $0.00 USD)
-
-[2026-10-20 00:10:37] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $0.00 USD
- Valor en Activos:     $38.71 USD
- Balance Total:        $38.71 USD
- Ganancia/Pérdida:     🔴 $-1.29 USD (-3.22%)
-
- 💼 Posiciones Abiertas:
-   • QQQ: 0.01391 u. | Compra: $718.92 | Actual: $718.36 | Total: $9.99 📉 (-0.08%) [Tiempo: 13h 30m]
-   • ETH-USD: 0.004178 u. | Compra: $2393.62 | Actual: $2405.03 | Total: $10.05 📈 (+0.48%) [Tiempo: 11h 19m]
-   • SOL-USD: 0.096034 u. | Compra: $104.13 | Actual: $105.1 | Total: $10.09 📈 (+0.93%) [Tiempo: 7h 29m]
-   • BTC-USD: 0.000105 u. | Compra: $81767.7 | Actual: $81882.55 | Total: $8.58 📈 (+0.14%) [Tiempo: 6h 59m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado cripto se mantiene abierto con un sesgo de estabilización y ligeros rebotes técnicos tras las recientes caídas, mientras que los mercados tradicionales permanecen cerrados. Las posiciones actuales muestran un rendimiento mixto con ganancias leves en criptoactivos (SOL, ETH, BTC) y una ligera presión lateral en el ETF QQQ."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
 "Mantendremos las posiciones actuales de criptomonedas (SOL, ETH, BTC) ya que muestran un comportamiento constructivo en busca de mayores rebotes técnicos tras la sobreventa diaria. El ETF QQQ permanece cerrado y se evaluará su continuidad cuando abra Wall Street. Establecer take-profit parcial en SOL si el RSI de 1 hora supera los 70."
 
 ⚡ ACCIONES DECIDIDAS:
@@ -151,3 +116,38 @@ Balance final del ciclo: $38.65 USD (Cash: $0.00 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.73 USD (Cash: $0.00 USD)
+
+[2026-10-20 00:50:36] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $0.00 USD
+ Valor en Activos:     $38.75 USD
+ Balance Total:        $38.75 USD
+ Ganancia/Pérdida:     🔴 $-1.25 USD (-3.12%)
+
+ 💼 Posiciones Abiertas:
+   • QQQ: 0.01391 u. | Compra: $718.92 | Actual: $718.36 | Total: $9.99 📉 (-0.08%) [Tiempo: 14h 9m]
+   • ETH-USD: 0.004178 u. | Compra: $2393.62 | Actual: $2410.63 | Total: $10.07 📈 (+0.71%) [Tiempo: 11h 59m]
+   • SOL-USD: 0.096034 u. | Compra: $104.13 | Actual: $105.19 | Total: $10.1 📈 (+1.02%) [Tiempo: 8h 9m]
+   • BTC-USD: 0.000105 u. | Compra: $81767.7 | Actual: $81986.45 | Total: $8.59 📈 (+0.27%) [Tiempo: 7h 39m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado cripto se encuentra abierto 24/7 mostrando un comportamiento lateral con sesgo positivo moderado en las últimas horas, mientras que los mercados tradicionales están cerrados. Nuestras posiciones en criptomonedas (SOL-USD, ETH-USD y BTC-USD) muestran ganancias iniciales pero aún no han alcanzado el objetivo completo de take-profit del rango +2.0% a +3.5%. QQQ se mantiene operando lateralmente en mercado cerrado con ligeras pérdidas latentes pero bajo control técnico."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener posiciones activas en cripto y QQQ. Monitorear de cerca SOL-USD ya que se acerca a zonas clave de resistencia y su RSI de 1 hora se aproxima a la zona de sobrecompra (>70), punto en el cual se ejecutará la toma de beneficios para asegurar liquidez. Si alguna posición reduce su impulso de manera drástica, se procederá a rotar el capital."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] SOL-USD (Confianza: 75%)
+    Razón: SOL-USD mantiene un rendimiento positivo de +1.02% y un RSI de 1h en 63.3, apuntando hacia la zona de sobrecompra donde se ejecutará el take-profit. Se mantiene la posición para maximizar el rebote.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.75 USD (Cash: $0.00 USD)

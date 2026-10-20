@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y QQQ. Monitorear de cerca a SOL-USD y ETH-USD para asegurar ganancias parciales o totales si alcanzan el rango de take-profit de +2.0% a +3.5% o si el RSI de 1 hora supera los 70 puntos. Si alguna posición estanca su impulso o retrocede, se procederá a recortar para asegurar capital de cara a la apertura de los mercados tradicionales.",
-    "updated_at": "2026-10-20T00:40:47.046351-03:00"
+    "notes": "Mantener posiciones activas en cripto y QQQ. Monitorear de cerca SOL-USD ya que se acerca a zonas clave de resistencia y su RSI de 1 hora se aproxima a la zona de sobrecompra (>70), punto en el cual se ejecutará la toma de beneficios para asegurar liquidez. Si alguna posición reduce su impulso de manera drástica, se procederá a rotar el capital.",
+    "updated_at": "2026-10-20T00:50:42.375919-03:00"
   }
 }

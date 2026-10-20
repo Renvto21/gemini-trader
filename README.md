@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 00:40:47`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 00:50:42`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.73 USD** | **$38.73 USD** | 🔴 **-3.17%** ($-1.27) |
+| **$40.00 USD** | **$0.00 USD** | **$38.75 USD** | **$38.75 USD** | 🔴 **-3.12%** ($-1.25) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 14h 0m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2408.66 | $10.06 | 📈 +0.63% | 11h 49m |
-| `SOL-USD` | 0.096034 | $104.13 | $105.13 | $10.10 | 📈 +0.96% | 8h 0m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81928.38 | $8.58 | 📈 +0.20% | 7h 30m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 14h 10m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2410.63 | $10.07 | 📈 +0.71% | 11h 59m |
+| `SOL-USD` | 0.096034 | $104.13 | $105.19 | $10.10 | 📈 +1.02% | 8h 9m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81986.45 | $8.59 | 📈 +0.27% | 7h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado de criptomonedas se mantiene abierto 24/7 mostrando ligeros signos de recuperación gradual, con SOL-USD registrando un rendimiento positivo cercano al +0.96% y ETH-USD en +0.63%, acercándose a nuestra zona de objetivos intermedios. Los activos tradicionales como QQQ y SPY se encuentran cerrados, por lo que la liquidez y la atención táctica se concentran en optimizar las posiciones cripto abiertas sin forzar nuevas entradas hasta alcanzar niveles clave de take-profit o sobrecompra en el RSI de 1 hora."
+> "El mercado cripto se encuentra abierto 24/7 mostrando un comportamiento lateral con sesgo positivo moderado en las últimas horas, mientras que los mercados tradicionales están cerrados. Nuestras posiciones en criptomonedas (SOL-USD, ETH-USD y BTC-USD) muestran ganancias iniciales pero aún no han alcanzado el objetivo completo de take-profit del rango +2.0% a +3.5%. QQQ se mantiene operando lateralmente en mercado cerrado con ligeras pérdidas latentes pero bajo control técnico."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD muestra un rendimiento positivo constante (+0.96%) pero aún no alcanza la zona objetivo de take-profit entre +2.0% y +3.5% ni presenta un RSI de 1 hora en sobrecompra extrema (>70). Mantenemos la posición para dejar correr las ganancias.
+- **[HOLD] SOL-USD** (Confianza: 75%): SOL-USD mantiene un rendimiento positivo de +1.02% y un RSI de 1h en 63.3, apuntando hacia la zona de sobrecompra donde se ejecutará el take-profit. Se mantiene la posición para maximizar el rebote.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y QQQ. Monitorear de cerca a SOL-USD y ETH-USD para asegurar ganancias parciales o totales si alcanzan el rango de take-profit de +2.0% a +3.5% o si el RSI de 1 hora supera los 70 puntos. Si alguna posición estanca su impulso o retrocede, se procederá a recortar para asegurar capital de cara a la apertura de los mercados tradicionales."
+> "Mantener posiciones activas en cripto y QQQ. Monitorear de cerca SOL-USD ya que se acerca a zonas clave de resistencia y su RSI de 1 hora se aproxima a la zona de sobrecompra (>70), punto en el cual se ejecutará la toma de beneficios para asegurar liquidez. Si alguna posición reduce su impulso de manera drástica, se procederá a rotar el capital."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
