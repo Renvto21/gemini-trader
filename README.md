@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 15:01:05`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 15:10:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.91 USD** | **$39.03 USD** | 🔴 **-2.42%** ($-0.97) |
+| **$40.00 USD** | **$19.12 USD** | **$19.91 USD** | **$39.04 USD** | 🔴 **-2.41%** ($-0.96) |
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $339.89 | $9.98 | 📉 -0.22% | 2h 59m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2447.00 | $9.93 | 📉 -0.21% | 1h 10m |
+| `AAPL` | 0.029357 | $340.64 | $340.20 | $9.99 | 📉 -0.13% | 3h 9m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2445.93 | $9.92 | 📉 -0.25% | 1h 19m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un comportamiento mixto con un sesgo bajista general en los principales índices y activos (bajo SMA20), aunque las criptomonedas mantienen un tono relativamente estable con leves ganancias en 24 horas. Los activos en cartera (AAPL y ETH-USD) se encuentran operando con ligeras pérdidas estancadas, sin la fuerza esperada de rebote en este ciclo preciso. AAPL muestra un RSI de 1 hora moderado en 42.7 y ETH-USD se mantiene cerca de la zona de entrada con un RSI de 1 hora en 60.9, pero con un cambio de 1 hora ligeramente negativo (-0.04%). Dado que mantenemos una postura agresiva y de rotación activa, conservaremos ETH-USD a la espera de un impulso mayor hacia el objetivo de take-profit, mientras que mantendremos temporalmente a AAPL evaluando su próximo movimiento."
+> "El mercado muestra un sentimiento mixto con sesgo lateral a bajista en temporalidades diarias, mientras que las criptomonedas continúan operando de forma continua con ligeras recuperaciones en 24 horas pero sin un momentum explosivo en la última hora. Las posiciones actuales en cartera (AAPL y ETH-USD) se mantienen estables cerca del precio de entrada con ligeras variaciones negativas menores al -0.3%, sin alcanzar aún el objetivo de take-profit ni el stop-loss estricto."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD se encuentra abierto 24/7 con una pérdida menor del -0.21%. Su RSI de 1 hora está en 60.9, lo que indica que aún tiene espacio para buscar la zona de sobrecompra (>70) donde ejecutaremos el take-profit según la estrategia.
-- **[HOLD] AAPL** (Confianza: 60%): AAPL registra una pérdida marginal de -0.22%. Aunque el mercado está abierto, se prefiere mantener por el momento monitoreando su soporte y stop-loss antes de ejecutar una venta forzada, evaluando si recupera fuerza en el corto plazo.
+- **[HOLD] ETH-USD** (Confianza: 60%): ETH-USD se encuentra operando saludablemente con un rsi_1h de 60.6 y una tendencia positiva en 24h (+1.71%). Aunque no ha alcanzado el objetivo de take-profit, mantiene la estructura esperada de rebote técnico.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener ETH-USD y AAPL en observación cercana. Para el próximo ciclo, si ETH-USD alcanza el objetivo de take-profit entre +2.0% y +3.5% o su RSI de 1 hora supera 70, proceder a vender para asegurar ganancias. Si AAPL profundiza pérdidas acercándose al stop-loss de -2.0% o continúa estancada sin momentum, liquidaremos la posición para liberar capital y buscar nuevas oportunidades de alta convicción en criptomonedas con mayor volatilidad y volumen."
+> "Mantener las posiciones abiertas ETH-USD y AAPL por el momento. Para el próximo ciclo, vigilar de cerca si ETH-USD logra romper al alza con un rsi_1h superior a 70 o alcanza la zona de take-profit entre +2.0% y +3.5%. En cuanto a AAPL, si continúa estancada sin momentum o rompe a la baja acercándose al stop-loss de -2.0%, procederemos a liquidarla para liberar capital hacia activos con mayor volatilidad en criptomonedas."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
