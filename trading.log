@@ -1,39 +1,4 @@
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
-"Las posiciones actuales llevan más de 16-22 horas abiertas con variaciones marginalmente negativas pero lejos del stop-loss del -2.0%. Mantendremos la exposición actual en cripto y QQQ esperando un cambio de tendencia que active el take-profit entre +2.0% y +3.5%. Si el estancamiento persiste y las criptomonedas rompen los soportes actuales, procederemos a vender parcialmente para liberar efectivo y rotar hacia oportunidades más dinámicas."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] QQQ (Confianza: 60%)
-    Razón: El mercado de Wall Street está cerrado y la posición en QQQ se mantiene estable con una pérdida mínima del -0.08%, sin justificar una salida anticipada antes de la apertura.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $38.42 USD (Cash: $0.00 USD)
-
-[2026-10-20 09:20:45] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $0.00 USD
- Valor en Activos:     $38.51 USD
- Balance Total:        $38.51 USD
- Ganancia/Pérdida:     🔴 $-1.49 USD (-3.72%)
-
- 💼 Posiciones Abiertas:
-   • QQQ: 0.01391 u. | Compra: $718.92 | Actual: $718.36 | Total: $9.99 📉 (-0.08%) [Tiempo: 22h 40m]
-   • ETH-USD: 0.004178 u. | Compra: $2393.62 | Actual: $2388.43 | Total: $9.98 📉 (-0.22%) [Tiempo: 20h 29m]
-   • SOL-USD: 0.096034 u. | Compra: $104.13 | Actual: $104.26 | Total: $10.01 📈 (+0.12%) [Tiempo: 16h 40m]
-   • BTC-USD: 0.000105 u. | Compra: $81767.7 | Actual: $81432.64 | Total: $8.53 📉 (-0.41%) [Tiempo: 16h 10m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado cripto se mantiene operando 24/7 con un sesgo lateral a ligeramente bajista, pero mostrando signos incipientes de recuperación en el corto plazo con RSI de 1 hora saliendo de zonas de compresión y cambios horarios positivos en SOL y ETH. Los activos tradicionales como QQQ se encuentran cerrados, manteniendo sus precios congelados y sin cambios significativos desde el ciclo anterior. Las posiciones actuales muestran variaciones mínimas y se mantienen dentro de los rangos de tolerancia antes del stop-loss."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
 "Monitorear de cerca las posiciones en criptomonedas (SOL, ETH, BTC) buscando un incremento en el volumen y momentum que impulse el RSI de 1 hora por encima de 50 para activar los take-profits entre +2.0% y +3.5%. Mantener QQQ en espera hasta la apertura del mercado tradicional. Si las criptomonedas pierden impulso o se acercan al límite de -2.0%, procederemos a cortar pérdidas de inmediato."
 
 ⚡ ACCIONES DECIDIDAS:
@@ -151,3 +116,38 @@ Balance final del ciclo: $38.54 USD (Cash: $0.00 USD)
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $38.54 USD (Cash: $0.00 USD)
+
+[2026-10-20 10:00:44] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $0.00 USD
+ Valor en Activos:     $38.53 USD
+ Balance Total:        $38.53 USD
+ Ganancia/Pérdida:     🔴 $-1.47 USD (-3.68%)
+
+ 💼 Posiciones Abiertas:
+   • QQQ: 0.01391 u. | Compra: $718.92 | Actual: $718.36 | Total: $9.99 📉 (-0.08%) [Tiempo: 23h 20m]
+   • ETH-USD: 0.004178 u. | Compra: $2393.62 | Actual: $2391.44 | Total: $9.99 📉 (-0.09%) [Tiempo: 21h 9m]
+   • SOL-USD: 0.096034 u. | Compra: $104.13 | Actual: $104.27 | Total: $10.01 📈 (+0.13%) [Tiempo: 17h 20m]
+   • BTC-USD: 0.000105 u. | Compra: $81767.7 | Actual: $81447.46 | Total: $8.53 📉 (-0.39%) [Tiempo: 16h 50m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado tradicional se encuentra completamente cerrado, manteniendo los precios y métricas congelados para activos como QQQ. En el sector cripto (abierto 24/7), los activos muestran un movimiento lateral a bajista de corto plazo con cambios de 1 hora cercanos a cero y valores de RSI de 1 hora estancados en la zona de 38 a 41. Las posiciones actuales muestran ligeras variaciones negativas pero se mantienen estables dentro de los límites del stop-loss."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) a la espera de un catalizador que impulse el RSI de 1 hora por encima de 50 para asegurar tomas de ganancias entre +2.0% y +3.5%. Vigilar estrictamente el soporte de las criptomonedas para ejecutar stop-loss si alguna posición supera la pérdida de -2.0%. Dado que no hay efectivo disponible y las posiciones llevan más de 16 horas abiertas sin gran dinamismo, en el siguiente ciclo evaluaré rotar capital si el impulso no se materializa."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] SOL-USD (Confianza: 60%)
+    Razón: La posición se mantiene estable con una pequeña ganancia del 0.13%. El RSI de 1 hora está en 39.6 y el mercado cripto muestra baja volatilidad horaria. Se mantiene a la espera de que supere la zona de sobrecompra para asegurar beneficios.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $38.53 USD (Cash: $0.00 USD)
