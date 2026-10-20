@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 10:20:57`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 10:30:55`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.55 USD** | **$38.55 USD** | 🔴 **-3.63%** ($-1.45) |
+| **$40.00 USD** | **$0.00 USD** | **$38.45 USD** | **$38.45 USD** | 🔴 **-3.88%** ($-1.55) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 23h 40m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2393.55 | $10.00 | 📈 -0.00% | 21h 29m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.42 | $10.03 | 📈 +0.28% | 17h 40m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81407.33 | $8.53 | 📉 -0.44% | 17h 10m |
+| `QQQ` | 0.013910 | $718.92 | $714.46 | $9.94 | 📉 -0.62% | 23h 50m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2388.70 | $9.98 | 📉 -0.21% | 21h 39m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.23 | $10.01 | 📈 +0.10% | 17h 50m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81349.25 | $8.52 | 📉 -0.51% | 17h 20m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sentimiento general bajista con la mayoría de los activos tradicionales (QQQ, SPY, NVDA) cerrados y con precios congelados bajo su media móvil de 20 periodos. Los activos cripto (ETH-USD, SOL-USD, BTC-USD) se encuentran abiertos pero muestran un momentum estancado y lateral, con RSI de 1 hora oscilando entre 38 y 42 sin lograr romper al alza de forma decisiva. No hay suficiente presión de compra en el corto plazo para activar los take-profits objetivo, pero las posiciones se mantienen estables sin alcanzar el stop-loss estricto de -2.0%."
+> "El mercado muestra un sesgo bajista generalizado en el corto plazo con los principales índices y criptomonedas operando por debajo de sus medias móviles de 20 periodos. Las criptomonedas mantienen un comportamiento lateral con ligeros retrocesos de 1 hora, mientras que los activos tradicionales de renta variable también registran caídas moderadas. La falta de impulso alcista en los activos actualmente en cartera exige una postura de paciencia táctica o la rotación de capital si los soportes se ven amenazados."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 60%): SOL-USD se mantiene con una pequeña ganancia del 0.28% tras 17 horas abierto. Aunque el momentum es lento, se encuentra por encima del precio de entrada y no justifica una venta anticipada ni la rotación de capital en este preciso instante. Esperaremos un aumento de volumen.
+- **[HOLD] SOL-USD** (Confianza: 60%): SOL-USD mantiene una ganancia marginal positiva y un RSI diario en niveles de sobreventa profunda, por lo que se mantiene en cartera a la espera de un rebote técnico que permita asegurar beneficios.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Las posiciones abiertas (QQQ, ETH-USD, SOL-USD, BTC-USD) llevan más de medio día sin consolidar el rebote esperado. Mantendremos las posiciones vigentes por un ciclo más esperando un catalizador de volumen en cripto que impulse el RSI de 1 hora por encima de 50 para asegurar tomas de ganancias entre +2.0% y +3.5%. Si el mercado cripto continúa lateralizado y las posiciones se acercan al límite de -2.0% de pérdida, procederemos a vender para cortar pérdidas y rotar capital hacia nuevas oportunidades de momentum."
+> "Las posiciones abiertas llevan cerca de un día operando lateralmente sin alcanzar el objetivo de take-profit entre +2.0% y +3.5%. Mantendremos las posiciones vigentes por un ciclo más evaluando si el RSI de 1 hora logra romper los niveles de 50. Si se aproximan al umbral de stop-loss del -2.0% o continúan sin momentum, procederemos a vender para cortar pérdidas y liberar liquidez."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
