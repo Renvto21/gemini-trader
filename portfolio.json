@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss del -2.0% ni el take-profit. Dado que el efectivo disponible es de $0.0 USD y la liquidez requerida es mínima, no realizaremos nuevas compras en este ciclo. Para el próximo ciclo, vigilaré de cerca el comportamiento de SOL-USD y ETH-USD: si el RSI de 1 hora supera los 60 con volumen incremental, buscaré realizar tomas parciales de beneficios; si alguna posición perfora los soportes y se acerca a una pérdida del -2.0%, procederé a vender inmediatamente para proteger el capital.",
-    "updated_at": "2026-10-20T05:30:48.706198-03:00"
+    "notes": "Mantendremos todas las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran estables dentro de los rangos de tolerancia y operando sin liquidez libre. Para los siguientes ciclos, el plan táctico consiste en vigilar de cerca el comportamiento de SOL-USD y ETH-USD: si el RSI de 1 hora supera los 60 con volumen incremental o se acerca al objetivo de take-profit del +2.5%, realizaremos tomas parciales o totales de beneficios para liberar efectivo. Si alguna posición perfora el soporte y se acerca al stop-loss del -2.0%, procederemos a vender inmediatamente para proteger el capital y rotar hacia nuevas oportunidades.",
+    "updated_at": "2026-10-20T05:40:41.750546-03:00"
   }
 }
