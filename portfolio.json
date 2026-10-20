@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (BTC-USD, ETH-USD, SOL-USD) y QQQ mientras no rompan los stop-losses del -2.0%. Estar atento al rebote del RSI de 1 hora por encima de 45 en cripto para buscar objetivos de take-profit entre +2.0% y +3.5%. Si alguna posición se acerca a -2.0% o pierde el soporte clave, procederemos a la venta inmediata para cortar pérdidas y rotar el capital hacia oportunidades de mayor impulso.",
-    "updated_at": "2026-10-19T22:40:41.253890-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (BTC-USD, ETH-USD, SOL-USD) y QQQ mientras operan dentro de los parámetros de riesgo y los stop-losses del -2.0%. Estar atentos a la evolución del RSI de 1 hora para asegurar ganancias parciales (take-profit) si alcanzan el rango de +2.0% a +3.5%. Conservar liquidez mínima y no realizar nuevas entradas hasta que se produzcan rupturas claras de tendencia alcista en los mercados abiertos.",
+    "updated_at": "2026-10-19T22:50:41.957687-03:00"
   }
 }
