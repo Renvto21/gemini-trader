@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de AAPL y ETH-USD activas ya que se encuentran dentro del rango de tolerancia de riesgo. Establecemos take-profit automático si ETH-USD o AAPL alcanzan rendimientos de +2.0% o un RSI de 1 hora superior a 70. Si alguna de las dos posiciones perfora el umbral de pérdida de -2.0%, procederemos a la venta inmediata para asegurar liquidez.",
-    "updated_at": "2026-10-20T16:00:57.358226-03:00"
+    "notes": "Mantendremos las posiciones de AAPL y ETH-USD por debajo del umbral de stop-loss estricto (-2.0%). Vigilaremos de cerca el RSI de 1 hora y el cambio porcentual de ETH-USD para asegurar ganancias si se acerca al objetivo de +2.0% o si el RSI supera 70. Mantendremos liquidez disponible para reaccionar ante cualquier volatilidad inminente.",
+    "updated_at": "2026-10-20T16:10:51.439751-03:00"
   }
 }
