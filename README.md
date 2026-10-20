@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 15:32:06`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 15:40:55`
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $340.12 | $9.98 | 📉 -0.15% | 3h 30m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2436.69 | $9.89 | 📉 -0.63% | 1h 41m |
+| `AAPL` | 0.029357 | $340.64 | $340.11 | $9.98 | 📉 -0.16% | 3h 39m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2436.76 | $9.89 | 📉 -0.63% | 1h 49m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo mixto con la mayoría de los activos bajo su media móvil de 20 días en el gráfico diario, aunque con ciertos intentos de estabilización en criptomonedas y tecnología de gran capitalización. Los índices principales muestran un comportamiento lateral en la última hora, mientras que activos refugio como GLD presentan lecturas extremas de sobreventa intradiaria."
+> "El mercado actual muestra un tono predominantemente bajista en marco diario para la mayoría de los activos tecnológicos y criptomonedas, aunque se mantienen oportunidades de rebote técnico de corto plazo. Los índices principales operan con leves variaciones horarias negativas, mientras que las criptomonedas y activos en cartera se mantienen estables dentro de los umbrales de tolerancia de riesgo permitidos antes de activar stops."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 60%): AAPL mantiene una tendencia diaria alcista y una pérdida no realizada mínima (-0.15%), por lo que se le dará un margen adicional para buscar el objetivo de take-profit.
-- **[HOLD] ETH-USD** (Confianza: 60%): ETH-USD se encuentra operando en un rango estable con una leve pérdida (-0.63%) tras 1.6 horas de mantener la posición; esperaremos la evolución del impulso intradiario antes de tomar decisiones.
+- **[HOLD] AAPL** (Confianza: 70%): AAPL mantiene una pérdida muy leve de -0.16% tras casi 4 horas de holding y se encuentra sobre su media móvil diaria, por lo que se mantiene en cartera a la espera de un rebote más claro.
+- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD registra una ligera pérdida de -0.63%, operando dentro del rango de tolerancia y con un RSI de 1 hora saludable en 57.5, manteniendo el potencial de continuar su recuperación diaria.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones de AAPL y ETH-USD vigentes por ahora, ya que se encuentran dentro de los rangos de tolerancia antes del stop-loss estricto (-2.0%). Para el próximo ciclo, si ETH-USD o AAPL amplían sus pérdidas acercándose al umbral del -2.0% o si muestran estancamiento prolongado, procederemos a liquidarlas de inmediato para rotar el capital hacia oportunidades con mayor momentum alcista."
+> "Mantendremos las posiciones vigentes de AAPL y ETH-USD ya que no han alcanzado el stop-loss estricto del -2.0% y sus métricas de tendencia se mantienen operables. Monitorearemos de cerca su comportamiento en el siguiente ciclo; si alguna rompe el soporte o se estanca, procederemos a liquidar inmediatamente para liberar liquidez hacia oportunidades de mayor impulso."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

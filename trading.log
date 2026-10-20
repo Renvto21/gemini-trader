@@ -1,39 +1,3 @@
-"Mantener ETH-USD con objetivo de take-profit entre +2.0% y +3.5% o si el RSI de 1 hora supera 70. Vigilar AAPL de cerca: si rompe a la baja el soporte o extiende pérdidas hacia el límite del stop-loss de -2.0%, proceder a liquidar para rotar capital hacia crypto de mayor inercia. Mantener la liquidez lista para reaccionar ante rupturas de momentum."
-
-⚡ ACCIONES DECIDIDAS:
-  • Acción: [HOLD] ETH-USD (Confianza: 75%)
-    Razón: ETH-USD fue comprado recientemente y muestra un comportamiento estable con momentum positivo de corto plazo (change_1h_pct positivo y rsi_1h saludable en 61.5). Se mantiene abierta buscando alcanzar el objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] AAPL (Confianza: 60%)
-    Razón: AAPL se encuentra ligeramente en negativo (-0.24%) pero dentro de márgenes aceptables de operación. Se vigilará estrictamente el nivel de stop-loss para evitar pérdidas mayores, manteniéndola temporalmente en cartera a la espera de una recuperación.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.05 USD (Cash: $19.12 USD)
-
-[2026-10-20 15:00:45] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $19.12 USD
- Valor en Activos:     $19.91 USD
- Balance Total:        $39.03 USD
- Ganancia/Pérdida:     🔴 $-0.97 USD (-2.42%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.029357 u. | Compra: $340.64 | Actual: $339.89 | Total: $9.98 📉 (-0.22%) [Tiempo: 2h 59m]
-   • ETH-USD: 0.004058 u. | Compra: $2452.17 | Actual: $2447.0 | Total: $9.93 📉 (-0.21%) [Tiempo: 1h 9m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
-"El mercado muestra un comportamiento mixto con un sesgo bajista general en los principales índices y activos (bajo SMA20), aunque las criptomonedas mantienen un tono relativamente estable con leves ganancias en 24 horas. Los activos en cartera (AAPL y ETH-USD) se encuentran operando con ligeras pérdidas estancadas, sin la fuerza esperada de rebote en este ciclo preciso. AAPL muestra un RSI de 1 hora moderado en 42.7 y ETH-USD se mantiene cerca de la zona de entrada con un RSI de 1 hora en 60.9, pero con un cambio de 1 hora ligeramente negativo (-0.04%). Dado que mantenemos una postura agresiva y de rotación activa, conservaremos ETH-USD a la espera de un impulso mayor hacia el objetivo de take-profit, mientras que mantendremos temporalmente a AAPL evaluando su próximo movimiento."
-
-📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
 "Mantener ETH-USD y AAPL en observación cercana. Para el próximo ciclo, si ETH-USD alcanza el objetivo de take-profit entre +2.0% y +3.5% o su RSI de 1 hora supera 70, proceder a vender para asegurar ganancias. Si AAPL profundiza pérdidas acercándose al stop-loss de -2.0% o continúa estancada sin momentum, liquidaremos la posición para liberar capital y buscar nuevas oportunidades de alta convicción en criptomonedas con mayor volatilidad y volumen."
 
 ⚡ ACCIONES DECIDIDAS:
@@ -147,6 +111,42 @@ Balance final del ciclo: $39.02 USD (Cash: $19.12 USD)
     ⏸️ Manteniendo posición actual sin cambios.
   • Acción: [HOLD] ETH-USD (Confianza: 60%)
     Razón: ETH-USD se encuentra operando en un rango estable con una leve pérdida (-0.63%) tras 1.6 horas de mantener la posición; esperaremos la evolución del impulso intradiario antes de tomar decisiones.
+    ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.00 USD (Cash: $19.12 USD)
+
+[2026-10-20 15:40:35] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $19.12 USD
+ Valor en Activos:     $19.87 USD
+ Balance Total:        $39.00 USD
+ Ganancia/Pérdida:     🔴 $-1.00 USD (-2.51%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.029357 u. | Compra: $340.64 | Actual: $340.11 | Total: $9.98 📉 (-0.16%) [Tiempo: 3h 39m]
+   • ETH-USD: 0.004058 u. | Compra: $2452.17 | Actual: $2436.76 | Total: $9.89 📉 (-0.63%) [Tiempo: 1h 49m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado actual muestra un tono predominantemente bajista en marco diario para la mayoría de los activos tecnológicos y criptomonedas, aunque se mantienen oportunidades de rebote técnico de corto plazo. Los índices principales operan con leves variaciones horarias negativas, mientras que las criptomonedas y activos en cartera se mantienen estables dentro de los umbrales de tolerancia de riesgo permitidos antes de activar stops."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendremos las posiciones vigentes de AAPL y ETH-USD ya que no han alcanzado el stop-loss estricto del -2.0% y sus métricas de tendencia se mantienen operables. Monitorearemos de cerca su comportamiento en el siguiente ciclo; si alguna rompe el soporte o se estanca, procederemos a liquidar inmediatamente para liberar liquidez hacia oportunidades de mayor impulso."
+
+⚡ ACCIONES DECIDIDAS:
+  • Acción: [HOLD] AAPL (Confianza: 70%)
+    Razón: AAPL mantiene una pérdida muy leve de -0.16% tras casi 4 horas de holding y se encuentra sobre su media móvil diaria, por lo que se mantiene en cartera a la espera de un rebote más claro.
+    ⏸️ Manteniendo posición actual sin cambios.
+  • Acción: [HOLD] ETH-USD (Confianza: 70%)
+    Razón: ETH-USD registra una ligera pérdida de -0.63%, operando dentro del rango de tolerancia y con un RSI de 1 hora saludable en 57.5, manteniendo el potencial de continuar su recuperación diaria.
     ⏸️ Manteniendo posición actual sin cambios.
 
 🏁 Fin del ciclo.

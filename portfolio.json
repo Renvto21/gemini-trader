@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones de AAPL y ETH-USD vigentes por ahora, ya que se encuentran dentro de los rangos de tolerancia antes del stop-loss estricto (-2.0%). Para el próximo ciclo, si ETH-USD o AAPL amplían sus pérdidas acercándose al umbral del -2.0% o si muestran estancamiento prolongado, procederemos a liquidarlas de inmediato para rotar el capital hacia oportunidades con mayor momentum alcista.",
-    "updated_at": "2026-10-20T15:32:06.785395-03:00"
+    "notes": "Mantendremos las posiciones vigentes de AAPL y ETH-USD ya que no han alcanzado el stop-loss estricto del -2.0% y sus métricas de tendencia se mantienen operables. Monitorearemos de cerca su comportamiento en el siguiente ciclo; si alguna rompe el soporte o se estanca, procederemos a liquidar inmediatamente para liberar liquidez hacia oportunidades de mayor impulso.",
+    "updated_at": "2026-10-20T15:40:55.334157-03:00"
   }
 }
