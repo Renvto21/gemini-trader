@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca ETH-USD, SOL-USD y BTC-USD en busca de un repunte en el RSI de 1 hora por encima de 40 para confirmar el rebote técnico. Mantener stop-loss estricto a -2.0% y take-profit entre +2.0% y +3.5%. Si las criptomonedas continúan estancadas y se rompen soportes, rotaremos el capital hacia oportunidades con mayor momentum.",
-    "updated_at": "2026-10-19T22:20:39.328884-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (BTC-USD, ETH-USD, SOL-USD) y QQQ mientras no rompan los stop-losses del -2.0%. Estar atento al rebote del RSI de 1 hora por encima de 45 en cripto para buscar objetivos de take-profit entre +2.0% y +3.5%. Si alguna posición se acerca a -2.0%, procederemos a la venta inmediata para cortar pérdidas.",
+    "updated_at": "2026-10-19T22:30:43.298677-03:00"
   }
 }
