@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear el comportamiento de SOL-USD, ETH-USD y BTC-USD en busca de un incremento en el RSI de 1 hora por encima de 50 para asegurar ganancias en el rango del +2% al +3.5%. Vigilar estrictamente que ninguna posición rompa el soporte del -2% de pérdida para evitar activar cortes de pérdida manuales antes del circuit breaker. Mantener QQQ en cartera a la espera de la apertura del mercado tradicional.",
-    "updated_at": "2026-10-20T09:40:45.583737-03:00"
+    "notes": "Monitorear de cerca las posiciones en ETH-USD, SOL-USD y BTC-USD buscando que el RSI de 1 hora supere la zona de 50 para asegurar ganancias de +2.0% a +3.5%. Mantener QQQ en cartera debido a que el mercado tradicional está cerrado. Si alguna criptomoneda pierde el soporte de -2.0%, ejecutar stop-loss inmediato.",
+    "updated_at": "2026-10-20T09:50:43.584351-03:00"
   }
 }
