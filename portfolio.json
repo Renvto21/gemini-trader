@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Las posiciones actuales llevan más de 15 horas abiertas mostrando un momentum débil y lateralizado en cripto. Mantendremos las posiciones actuales por debajo del umbral de stop-loss del -2.0% pero preparándonos para rotar capital hacia liquidez o nuevas oportunidades si el RSI de 1 hora perfora soportes críticos o si surge un catalizador de volumen alcista.",
-    "updated_at": "2026-10-20T08:50:38.571896-03:00"
+    "notes": "Las posiciones actuales llevan entre 15 y 22 horas abiertas con rendimientos marginalmente negativos pero estables, muy lejos del stop-loss del -2.0%. Mantendremos la exposición actual en cripto esperando un impulso alcista que active la toma de beneficios entre el +2.0% y +3.5%. Si se rompen los soportes actuales, procederemos a liquidar posiciones para proteger el capital.",
+    "updated_at": "2026-10-20T09:00:51.618739-03:00"
   }
 }

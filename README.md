@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 08:50:38`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 09:00:51`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.44 USD** | **$38.44 USD** | 🔴 **-3.89%** ($-1.56) |
+| **$40.00 USD** | **$0.00 USD** | **$38.47 USD** | **$38.47 USD** | 🔴 **-3.83%** ($-1.53) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 22h 9m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2380.91 | $9.95 | 📉 -0.53% | 19h 59m |
-| `SOL-USD` | 0.096034 | $104.13 | $103.95 | $9.98 | 📉 -0.17% | 16h 9m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81363.02 | $8.52 | 📉 -0.49% | 15h 39m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 22h 20m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2383.06 | $9.96 | 📉 -0.44% | 20h 9m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.05 | $9.99 | 📉 -0.08% | 16h 20m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81414.25 | $8.53 | 📉 -0.43% | 15h 50m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario se encuentra cerrado con tendencias mixtas y bajo presión bajista en índices principales. En el segmento cripto, los activos operan 24/7 y muestran un sesgo lateral bajista de corto plazo con los RSI de 1 hora comprimidos cerca de la zona de 34 a 40, sin la fuerza de rebote esperada tras varias horas de tenencia. No se observan activaciones de stop-loss estricto ni de take-profit en este ciclo."
+> "El mercado accionario tradicional (QQQ) se encuentra cerrado, por lo que la liquidez activa se concentra en criptomonedas. Los criptoactivos muestran un comportamiento lateral y de bajo impulso con tendencias bajistas macro, pero con indicadores RSI de 1 hora saliendo de niveles de sobreventa, manteniendo la expectativa de un rebote técnico inminente."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 60%): El activo se mantiene dentro de parámetros aceptables de riesgo con una pérdida menor de -0.49% y sin alcanzar el stop-loss estricto. Esperaremos confirmación de volumen para decidir si se mantiene o se rota.
+- **[HOLD] BTC-USD** (Confianza: 75%): El activo se encuentra en fase de consolidación con un RSI de 1 hora en 34.4 y un ligero cambio positivo del 0.03%, manteniendo el potencial de rebote técnico desde niveles de sobreventa sin violar los límites de riesgo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Las posiciones actuales llevan más de 15 horas abiertas mostrando un momentum débil y lateralizado en cripto. Mantendremos las posiciones actuales por debajo del umbral de stop-loss del -2.0% pero preparándonos para rotar capital hacia liquidez o nuevas oportunidades si el RSI de 1 hora perfora soportes críticos o si surge un catalizador de volumen alcista."
+> "Las posiciones actuales llevan entre 15 y 22 horas abiertas con rendimientos marginalmente negativos pero estables, muy lejos del stop-loss del -2.0%. Mantendremos la exposición actual en cripto esperando un impulso alcista que active la toma de beneficios entre el +2.0% y +3.5%. Si se rompen los soportes actuales, procederemos a liquidar posiciones para proteger el capital."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
