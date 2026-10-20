@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitor ETH-USD closely for take-profit execution if RSI(1h) exceeds 72 or if gains reach the +3.0% to +5.0% target window. Hold AAPL through market closure as equity holdings require patience and are positioned securely above their SMA20 uptrend. Maintain cash reserves above $4.00 USD.",
-    "updated_at": "2026-10-20T19:50:49.249254-03:00"
+    "notes": "Monitor ETH-USD closely for profit-taking if RSI(1h) exceeds 72 or if gains reach the +3.0% to +5.0% target window. Maintain AAPL as it is a patient equity holding positioned above its SMA20 uptrend. Keep cash reserves above $4.00 USD and do not open any new crypto positions due to anti-correlation constraints.",
+    "updated_at": "2026-10-20T20:00:50.806670-03:00"
   }
 }
