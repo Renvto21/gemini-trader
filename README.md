@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 06:40:46`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 06:50:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.42 USD** | **$38.42 USD** | 🔴 **-3.96%** ($-1.58) |
+| **$40.00 USD** | **$0.00 USD** | **$38.39 USD** | **$38.39 USD** | 🔴 **-4.04%** ($-1.61) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 20h 0m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2378.84 | $9.94 | 📉 -0.62% | 17h 49m |
-| `SOL-USD` | 0.096034 | $104.13 | $103.83 | $9.97 | 📉 -0.29% | 14h 0m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81295.30 | $8.52 | 📉 -0.58% | 13h 30m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 20h 9m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2375.71 | $9.93 | 📉 -0.75% | 17h 59m |
+| `SOL-USD` | 0.096034 | $104.13 | $103.69 | $9.96 | 📉 -0.42% | 14h 9m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81244.94 | $8.51 | 📉 -0.64% | 13h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario tradicional se encuentra cerrado, por lo que toda la actividad se concentra en los criptoactivos (ETH-USD, SOL-USD y BTC-USD). El sentimiento general sigue siendo cauteloso con una tendencia bajista bajo las medias móviles de 20 períodos, pero los RSI diarios en cripto se mantienen en zonas de sobreventa extrema, lo que mantiene viva la tesis de un potencial rebote técnico a pesar de la ligera consolidación lateral de la última hora."
+> "El mercado accionario se encuentra cerrado con tendencias bajistas moderadas bajo la SMA20. En cuanto a las criptomonedas, que operan 24/7, muestran una ligera contracción de corto plazo con cambios en 1 hora negativos pero manteniendo RSI diarios en niveles atractivos de sobreventa. No se observan todavía los impulsos alcistas explosivos necesarios para forzar cierres en este ciclo, por lo que se prioriza mantener posiciones estables."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 75%): La posición se mantiene abierta con una pérdida marginal de -0.29%, muy lejos del stop-loss del -2.0%. El RSI diario en 21.0 respalda la tesis de sobreventa profunda y esperamos la confirmación del rebote en el corto plazo.
+- **[HOLD] SOL-USD** (Confianza: 80%): La posición se mantiene dentro de los márgenes de riesgo aceptables con un PnL de -0.42%. El RSI diario en 20.9 sigue respaldando una fuerte sobreventa macro, por lo que esperamos una reacción alcista cuando el impulso horario retorne a terreno positivo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones actuales de QQQ, ETH-USD, SOL-USD y BTC-USD al encontrarse dentro de los límites de riesgo aceptables y sin tocar el stop-loss de -2.0%. Monitorearemos de cerca el impulso en los gráficos de 1 hora de las criptomonedas. Si ETH-USD o SOL-USD muestran una aceleración del RSI por encima de 65-70, procederemos a asegurar ganancias parciales. Si alguna posición rompe a la baja superando el umbral de -2.0%, ejecutaremos la venta inmediata."
+> "Mantendremos todas las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado los niveles de stop-loss del -2.0% ni el objetivo de take-profit. Para los siguientes ciclos, vigilaremos de cerca el RSI de 1 hora en las criptomonedas abiertas buscando cruces por encima de 55-60 que confirmen el rebote técnico esperado, momento en el cual comenzaremos a asegurar beneficios."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
