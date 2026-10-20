@@ -1812,7 +1812,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en AAPL y GLD por este ciclo. Establecemos take-profit entre +2.0% y +3.5% y stop-loss estricto en -2.0%. Si el momentum en AAPL o GLD se desacelera o toca soporte crítico, rotaremos el capital hacia oportunidades de mayor impulso en criptomonedas o tecnología.",
-    "updated_at": "2026-10-20T12:51:14.585908-03:00"
+    "notes": "Mantendremos las posiciones en AAPL y GLD durante este ciclo ya que el holding time es bajo (59 minutos) y no han tocado ningún stop-loss ni take-profit objetivo. Seguiremos vigilando el rsi_1h de GLD (actualmente en 30.9) esperando el rebote técnico hacia la zona de take-profit de +2.0% a +3.5%. Si alguna posición perfora el soporte o cae más de -2.0%, ejecutaremos la venta inmediata.",
+    "updated_at": "2026-10-20T13:01:20.848427-03:00"
   }
 }
