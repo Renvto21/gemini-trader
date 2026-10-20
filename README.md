@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 14:50:56`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 15:01:05`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.92 USD** | **$39.05 USD** | 🔴 **-2.38%** ($-0.95) |
+| **$40.00 USD** | **$19.12 USD** | **$19.91 USD** | **$39.03 USD** | 🔴 **-2.42%** ($-0.97) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $339.83 | $9.98 | 📉 -0.24% | 2h 49m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2451.28 | $9.95 | 📉 -0.04% | 59m |
+| `AAPL` | 0.029357 | $340.64 | $339.89 | $9.98 | 📉 -0.22% | 2h 59m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2447.00 | $9.93 | 📉 -0.21% | 1h 10m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sentimiento mixto con sesgo defensivo en renta variable (índices operando mayormente bajo su SMA20 a pesar de leves rebotes recientes), mientras que las criptomonedas como ETH-USD y SOL-USD mantienen un pulso positivo de corto plazo y acumulan retornos favorables en 24 horas. Mantenemos una postura táctica ágil, protegiendo posiciones con bajo momentum y preparándonos para capitalizar oportunidades en activos abiertos 24/7."
+> "El mercado muestra un comportamiento mixto con un sesgo bajista general en los principales índices y activos (bajo SMA20), aunque las criptomonedas mantienen un tono relativamente estable con leves ganancias en 24 horas. Los activos en cartera (AAPL y ETH-USD) se encuentran operando con ligeras pérdidas estancadas, sin la fuerza esperada de rebote en este ciclo preciso. AAPL muestra un RSI de 1 hora moderado en 42.7 y ETH-USD se mantiene cerca de la zona de entrada con un RSI de 1 hora en 60.9, pero con un cambio de 1 hora ligeramente negativo (-0.04%). Dado que mantenemos una postura agresiva y de rotación activa, conservaremos ETH-USD a la espera de un impulso mayor hacia el objetivo de take-profit, mientras que mantendremos temporalmente a AAPL evaluando su próximo movimiento."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD fue comprado recientemente y muestra un comportamiento estable con momentum positivo de corto plazo (change_1h_pct positivo y rsi_1h saludable en 61.5). Se mantiene abierta buscando alcanzar el objetivo de take-profit.
-- **[HOLD] AAPL** (Confianza: 60%): AAPL se encuentra ligeramente en negativo (-0.24%) pero dentro de márgenes aceptables de operación. Se vigilará estrictamente el nivel de stop-loss para evitar pérdidas mayores, manteniéndola temporalmente en cartera a la espera de una recuperación.
+- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD se encuentra abierto 24/7 con una pérdida menor del -0.21%. Su RSI de 1 hora está en 60.9, lo que indica que aún tiene espacio para buscar la zona de sobrecompra (>70) donde ejecutaremos el take-profit según la estrategia.
+- **[HOLD] AAPL** (Confianza: 60%): AAPL registra una pérdida marginal de -0.22%. Aunque el mercado está abierto, se prefiere mantener por el momento monitoreando su soporte y stop-loss antes de ejecutar una venta forzada, evaluando si recupera fuerza en el corto plazo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener ETH-USD con objetivo de take-profit entre +2.0% y +3.5% o si el RSI de 1 hora supera 70. Vigilar AAPL de cerca: si rompe a la baja el soporte o extiende pérdidas hacia el límite del stop-loss de -2.0%, proceder a liquidar para rotar capital hacia crypto de mayor inercia. Mantener la liquidez lista para reaccionar ante rupturas de momentum."
+> "Mantener ETH-USD y AAPL en observación cercana. Para el próximo ciclo, si ETH-USD alcanza el objetivo de take-profit entre +2.0% y +3.5% o su RSI de 1 hora supera 70, proceder a vender para asegurar ganancias. Si AAPL profundiza pérdidas acercándose al stop-loss de -2.0% o continúa estancada sin momentum, liquidaremos la posición para liberar capital y buscar nuevas oportunidades de alta convicción en criptomonedas con mayor volatilidad y volumen."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
