@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca SOL-USD y ETH-USD en los siguientes ciclos. Si SOL-USD o ETH-USD alcanzan ganancias del +2.0% al +3.5% o si su RSI de 1 hora supera los 70 puntos, realizaremos un take-profit inmediato para asegurar efectivo. Si alguna posición rompe a la baja hacia el -2.0%, se procederá a cortar pérdidas de forma estricta.",
-    "updated_at": "2026-10-20T04:40:41.403353-03:00"
+    "notes": "Mantener las posiciones abiertas (QQQ, ETH-USD, SOL-USD, BTC-USD) monitoreando de cerca su comportamiento de precio. Establecer take-profit estricto entre +2.0% y +3.5% o RSI 1H superior a 70. Vigilar el stop-loss en -2.0% para evitar pérdidas mayores. Si alguna cripto se estanca sin momentum, rotar el capital hacia activos con mayor dinamismo.",
+    "updated_at": "2026-10-20T04:50:37.892413-03:00"
   }
 }
