@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD y BTC-USD) al no alcanzar los objetivos de take-profit (+2% a +3.5%) ni romper los límites de stop-loss (-2%). Monitorear de cerca a SOL-USD y ETH-USD para asegurar beneficios parciales si el RSI de 1 hora se acerca a la zona de sobrecompra (> 70). En cuanto el mercado tradicional abra, evaluar rotación de capital hacia activos con mayor momentum.",
-    "updated_at": "2026-10-20T03:30:38.787451-03:00"
+    "notes": "Continuar monitoreando las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y QQQ. Estar atento a la apertura de los mercados tradicionales para evaluar la rotación de capital si alguna posición permanece estancada. El objetivo es asegurar ganancias parciales al alcanzar un PnL de +2% o si el RSI de 1 hora supera los 70 puntos.",
+    "updated_at": "2026-10-20T03:40:40.267449-03:00"
   }
 }
