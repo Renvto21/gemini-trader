@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini.",
-    "updated_at": "2026-10-20T14:43:00.766650-03:00"
+    "notes": "Mantener ETH-USD con objetivo de take-profit entre +2.0% y +3.5% o si el RSI de 1 hora supera 70. Vigilar AAPL de cerca: si rompe a la baja el soporte o extiende pérdidas hacia el límite del stop-loss de -2.0%, proceder a liquidar para rotar capital hacia crypto de mayor inercia. Mantener la liquidez lista para reaccionar ante rupturas de momentum.",
+    "updated_at": "2026-10-20T14:50:56.432492-03:00"
   }
 }

@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 14:43:00`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 14:50:56`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.93 USD** | **$39.05 USD** | 🔴 **-2.37%** ($-0.95) |
+| **$40.00 USD** | **$19.12 USD** | **$19.92 USD** | **$39.05 USD** | 🔴 **-2.38%** ($-0.95) |
 
 ---
 
@@ -16,23 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $340.43 | $9.99 | 📉 -0.06% | 2h 41m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2447.86 | $9.93 | 📉 -0.18% | 51m |
+| `AAPL` | 0.029357 | $340.64 | $339.83 | $9.98 | 📉 -0.24% | 2h 49m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2451.28 | $9.95 | 📉 -0.04% | 59m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "Aviso temporal de Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Se aplica regla de seguridad HOLD para proteger posiciones."
+> "El mercado muestra un sentimiento mixto con sesgo defensivo en renta variable (índices operando mayormente bajo su SMA20 a pesar de leves rebotes recientes), mientras que las criptomonedas como ETH-USD y SOL-USD mantienen un pulso positivo de corto plazo y acumulan retornos favorables en 24 horas. Mantenemos una postura táctica ágil, protegiendo posiciones con bajo momentum y preparándonos para capitalizar oportunidades en activos abiertos 24/7."
 
 **Operaciones del ciclo:**
-- **[HOLD] PORTFOLIO** (Confianza: 100%): Error temporal de conexión, manteniendo posiciones de forma segura.
+- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD fue comprado recientemente y muestra un comportamiento estable con momentum positivo de corto plazo (change_1h_pct positivo y rsi_1h saludable en 61.5). Se mantiene abierta buscando alcanzar el objetivo de take-profit.
+- **[HOLD] AAPL** (Confianza: 60%): AAPL se encuentra ligeramente en negativo (-0.24%) pero dentro de márgenes aceptables de operación. Se vigilará estrictamente el nivel de stop-loss para evitar pérdidas mayores, manteniéndola temporalmente en cartera a la espera de una recuperación.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini."
+> "Mantener ETH-USD con objetivo de take-profit entre +2.0% y +3.5% o si el RSI de 1 hora supera 70. Vigilar AAPL de cerca: si rompe a la baja el soporte o extiende pérdidas hacia el límite del stop-loss de -2.0%, proceder a liquidar para rotar capital hacia crypto de mayor inercia. Mantener la liquidez lista para reaccionar ante rupturas de momentum."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
