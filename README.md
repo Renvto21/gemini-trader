@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 13:11:01`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 13:20:54`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.96 USD** | **$39.09 USD** | 🔴 **-2.28%** ($-0.91) |
+| **$40.00 USD** | **$19.12 USD** | **$19.95 USD** | **$39.07 USD** | 🔴 **-2.32%** ($-0.93) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $340.61 | $10.00 | 📉 -0.01% | 1h 9m |
-| `GLD` | 0.026337 | $379.70 | $378.38 | $9.97 | 📉 -0.35% | 1h 9m |
+| `AAPL` | 0.029357 | $340.64 | $340.54 | $10.00 | 📉 -0.03% | 1h 19m |
+| `GLD` | 0.026337 | $379.70 | $377.90 | $9.95 | 📉 -0.47% | 1h 19m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado se encuentra mixto con Wall Street abierto. Las posiciones abiertas en AAPL y GLD muestran un comportamiento lateral con ligeras fluctuaciones tras 1 hora de tenencia. GLD mantiene un RSI de 1 hora en 30.1, cerca de la zona de sobreventa extrema, esperando el rebote técnico. AAPL muestra un RSI de 1 hora en 34.0 con un cambio positivo de 0.07%, manteniendo la estructura alcista en temporalidad diaria."
+> "El mercado se encuentra mixto con sesgo bajista general en temporalidades diarias, aunque algunos activos muestran oportunidades de rebote por sobreventa en corto plazo. GLD ha profundizado su caída con un RSI de 1 hora en 28.5, cumpliendo nuestra zona de entrada para rebote técnico, mientras que AAPL se mantiene estable con un ligero incremento en su RSI de 1 hora a 33.7."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 70%): AAPL mantiene una tendencia alcista diaria sobre su SMA20 y un RSI de 1 hora en 34.0 con un ligero cambio positivo de 0.07%. Mantenemos la posición para permitir que desarrolle el rebote técnico esperado.
-- **[HOLD] GLD** (Confianza: 70%): GLD presenta un RSI de 1 hora en 30.1, encontrándose en el umbral ideal de sobreventa. Mantenemos la posición a la espera de que se active el rebote técnico hacia la zona objetivo de take-profit.
+- **[HOLD] AAPL** (Confianza: 75%): La posición en AAPL tiene un holding time de poco más de una hora y una pérdida marginal de -0.03%. Mantiene tendencia alcista diaria y un RSI de 1 hora en 33.7, por lo que esperamos que desarrolle el rebote hacia nuestro objetivo de take-profit.
+- **[HOLD] GLD** (Confianza: 75%): GLD registra un RSI de 1 hora en 28.5 (sobreventa extrema) y una pérdida no realizada de -0.47%. Dado que aún no activa el stop-loss estricto de -2.0%, mantendremos la posición para capturar el esperado rebote técnico de reversión a la media.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones en AAPL y GLD durante este ciclo ya que el holding time es bajo y no han alcanzado ningún stop-loss ni take-profit. Monitorearemos de cerca el RSI de 1 hora en GLD (30.1) y el cambio de momentum en AAPL buscando el objetivo de take-profit entre +2.0% y +3.5%. Si alguna posición perfora el soporte o cae más de -2.0%, ejecutaremos la venta inmediata."
+> "Mantendremos AAPL y GLD por el momento, ya que el holding time sigue siendo corto (poco más de una hora) y no han alcanzado nuestro stop-loss de -2.0% ni el take-profit del +2.0% al +3.5%. Estaremos vigilando de cerca el RSI de GLD para asegurar ganancias rápidas si rebota, o cortar pérdidas estrictamente si perfora el soporte."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
