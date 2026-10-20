@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones abiertas actuales ya que ninguna ha tocado el stop-loss ni el take-profit. Dado que el efectivo es 0.0 USD, no se pueden realizar nuevas compras. Continuaremos monitoreando el comportamiento de las criptomonedas en busca de una aceleración en el RSI de 1 hora o la llegada a zonas de take-profit para asegurar ganancias y rotar capital en los siguientes ciclos.",
-    "updated_at": "2026-10-20T08:40:39.172722-03:00"
+    "notes": "Las posiciones actuales llevan más de 15 horas abiertas mostrando un momentum débil y lateralizado en cripto. Mantendremos las posiciones actuales por debajo del umbral de stop-loss del -2.0% pero preparándonos para rotar capital hacia liquidez o nuevas oportunidades si el RSI de 1 hora perfora soportes críticos o si surge un catalizador de volumen alcista.",
+    "updated_at": "2026-10-20T08:50:38.571896-03:00"
   }
 }

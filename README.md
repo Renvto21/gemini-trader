@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 08:40:39`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 08:50:38`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.52 USD** | **$38.52 USD** | 🔴 **-3.71%** ($-1.48) |
+| **$40.00 USD** | **$0.00 USD** | **$38.44 USD** | **$38.44 USD** | 🔴 **-3.89%** ($-1.56) |
 
 ---
 
@@ -16,28 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 21h 59m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2386.66 | $9.97 | 📉 -0.29% | 19h 49m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.26 | $10.01 | 📈 +0.12% | 15h 59m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81522.26 | $8.54 | 📉 -0.30% | 15h 29m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 22h 9m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2380.91 | $9.95 | 📉 -0.53% | 19h 59m |
+| `SOL-USD` | 0.096034 | $104.13 | $103.95 | $9.98 | 📉 -0.17% | 16h 9m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81363.02 | $8.52 | 📉 -0.49% | 15h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado tradicional (QQQ, SPY, etc.) se encuentra cerrado y sin movimiento significativo. Las criptomonedas (SOL-USD, ETH-USD, BTC-USD) operan con un sesgo lateral a ligeramente bajista, manteniendo un comportamiento estable pero sin la fuerza de rebote esperada en el corto plazo tras casi 20 horas de tenencia. No se han alcanzado los límites de stop-loss estricto (-2.0%) ni de take-profit (+2.0%)."
+> "El mercado accionario se encuentra cerrado con tendencias mixtas y bajo presión bajista en índices principales. En el segmento cripto, los activos operan 24/7 y muestran un sesgo lateral bajista de corto plazo con los RSI de 1 hora comprimidos cerca de la zona de 34 a 40, sin la fuerza de rebote esperada tras varias horas de tenencia. No se observan activaciones de stop-loss estricto ni de take-profit en este ciclo."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 65%): La posición mantiene un rendimiento plano (+0.12%) tras cerca de 16 horas. El RSI de 1 hora está en 44.4 y el diario en 21.3, lo que sugiere acumulación en soporte. Mantenemos la posición a la espera de un impulso alcista hacia el objetivo de take-profit.
-- **[HOLD] ETH-USD** (Confianza: 60%): La posición registra una pérdida menor del -0.29%. El RSI diario en 24.2 muestra sobreventa profunda, por lo que se mantiene la posición para cazar el rebote técnico sin romper las reglas de riesgo.
-- **[HOLD] BTC-USD** (Confianza: 60%): El precio se mantiene estable con una ligera pérdida del -0.3%. El RSI de 1 hora en 38.0 muestra compresión a la espera de un catalizador de volumen. Mantenemos la posición activa.
-- **[HOLD] QQQ** (Confianza: 70%): El mercado tradicional está cerrado y la posición muestra estabilidad (-0.08%). Se mantiene en cartera a la espera de la apertura de Wall Street para evaluar su evolución y posible rotación si fuera necesario.
+- **[HOLD] BTC-USD** (Confianza: 60%): El activo se mantiene dentro de parámetros aceptables de riesgo con una pérdida menor de -0.49% y sin alcanzar el stop-loss estricto. Esperaremos confirmación de volumen para decidir si se mantiene o se rota.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones abiertas actuales ya que ninguna ha tocado el stop-loss ni el take-profit. Dado que el efectivo es 0.0 USD, no se pueden realizar nuevas compras. Continuaremos monitoreando el comportamiento de las criptomonedas en busca de una aceleración en el RSI de 1 hora o la llegada a zonas de take-profit para asegurar ganancias y rotar capital en los siguientes ciclos."
+> "Las posiciones actuales llevan más de 15 horas abiertas mostrando un momentum débil y lateralizado en cripto. Mantendremos las posiciones actuales por debajo del umbral de stop-loss del -2.0% pero preparándonos para rotar capital hacia liquidez o nuevas oportunidades si el RSI de 1 hora perfora soportes críticos o si surge un catalizador de volumen alcista."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
