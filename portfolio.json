@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Las posiciones actuales llevan más de 16-22 horas abiertas con variaciones marginalmente negativas pero lejos del stop-loss del -2.0%. Mantendremos la exposición actual en cripto y QQQ esperando un cambio de tendencia que active el take-profit entre +2.0% y +3.5%. Si el estancamiento persiste y las criptomonedas rompen los soportes actuales, procederemos a vender parcialmente para liberar efectivo y rotar hacia oportunidades más dinámicas.",
-    "updated_at": "2026-10-20T09:10:48.294946-03:00"
+    "notes": "Monitorear de cerca las posiciones en criptomonedas (SOL, ETH, BTC) buscando un incremento en el volumen y momentum que impulse el RSI de 1 hora por encima de 50 para activar los take-profits entre +2.0% y +3.5%. Mantener QQQ en espera hasta la apertura del mercado tradicional. Si las criptomonedas pierden impulso o se acercan al límite de -2.0%, procederemos a cortar pérdidas de inmediato.",
+    "updated_at": "2026-10-20T09:20:53.796596-03:00"
   }
 }
