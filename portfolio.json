@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran estables o con ligeras ganancias. Monitorear de cerca a SOL-USD y ETH-USD para asegurar beneficios si el RSI de 1 hora se acerca a la zona de sobrecompra (>70). No realizar nuevas compras hasta liberar liquidez mediante la toma de ganancias parcial o total de las posiciones con mejor desempeño.",
-    "updated_at": "2026-10-20T02:50:47.947876-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran estables y dentro de rangos normales de consolidación tras las compras recientes. El mercado de Wall Street está cerrado, por lo que no hay operaciones en QQQ posibles en este ciclo. Monitorear los RSI de 1 hora de ETH-USD y SOL-USD para ejecutar toma de beneficios si se acercan a la zona de sobrecompra (>70). Establecer stop-loss estricto a -2.0% para proteger el capital.",
+    "updated_at": "2026-10-20T03:00:47.315882-03:00"
   }
 }
