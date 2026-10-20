@@ -1,33 +1,3 @@
-  • Acción: [HOLD] AAPL (Confianza: 75%)
-    Razón: La posición en AAPL tiene un holding time de poco más de una hora y una pérdida marginal de -0.03%. Mantiene tendencia alcista diaria y un RSI de 1 hora en 33.7, por lo que esperamos que desarrolle el rebote hacia nuestro objetivo de take-profit.
-    ⏸️ Manteniendo posición actual sin cambios.
-  • Acción: [HOLD] GLD (Confianza: 75%)
-    Razón: GLD registra un RSI de 1 hora en 28.5 (sobreventa extrema) y una pérdida no realizada de -0.47%. Dado que aún no activa el stop-loss estricto de -2.0%, mantendremos la posición para capturar el esperado rebote técnico de reversión a la media.
-    ⏸️ Manteniendo posición actual sin cambios.
-
-🏁 Fin del ciclo.
-Balance final del ciclo: $39.07 USD (Cash: $19.12 USD)
-
-[2026-10-20 13:30:39] 🔍 Iniciando ciclo de análisis...
-📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
-
-=======================================================
- 📊 ESTADO ACTUAL DEL PORTAFOLIO
-=======================================================
- Capital Inicial:      $40.00 USD
- Efectivo Disponible:  $19.12 USD
- Valor en Activos:     $19.96 USD
- Balance Total:        $39.08 USD
- Ganancia/Pérdida:     🔴 $-0.92 USD (-2.30%)
-
- 💼 Posiciones Abiertas:
-   • AAPL: 0.029357 u. | Compra: $340.64 | Actual: $340.7 | Total: $10.0 📈 (+0.02%) [Tiempo: 1h 29m]
-   • GLD: 0.026337 u. | Compra: $379.7 | Actual: $378.01 | Total: $9.96 📉 (-0.45%) [Tiempo: 1h 29m]
-=======================================================
-
-🤖 Consultando a Gemini para análisis y toma de decisiones...
-
-🧠 ANÁLISIS DE MERCADO DE GEMINI:
 "El mercado muestra un comportamiento lateral con sesgo bajista en la mayoría de los índices principales, mientras que los activos de criptomonedas y materias primas mantienen una consolidación tranquila. AAPL se mantiene estable sobre su tendencia alcista diaria, mientras que GLD registra un RSI de 1 hora extremadamente bajo (30.5), bordeando la zona crítica de soporte donde esperamos el rebote técnico."
 
 📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
@@ -148,6 +118,36 @@ Balance final del ciclo: $39.08 USD (Cash: $19.12 USD)
   • Acción: [HOLD] ETH-USD (Confianza: 80%)
     Razón: ETH-USD muestra un buen impulso de 24 horas con un +1.83% y un rsi_1h estable en 60.9. Mantenemos la posición para capturar la continuación del movimiento alcista intradiario.
     ⏸️ Manteniendo posición actual sin cambios.
+
+🏁 Fin del ciclo.
+Balance final del ciclo: $39.05 USD (Cash: $19.12 USD)
+
+[2026-10-20 14:10:41] 🔍 Iniciando ciclo de análisis...
+📡 Descargando cotizaciones e indicadores intradiarios para 9 activos...
+
+=======================================================
+ 📊 ESTADO ACTUAL DEL PORTAFOLIO
+=======================================================
+ Capital Inicial:      $40.00 USD
+ Efectivo Disponible:  $19.12 USD
+ Valor en Activos:     $19.93 USD
+ Balance Total:        $39.05 USD
+ Ganancia/Pérdida:     🔴 $-0.95 USD (-2.37%)
+
+ 💼 Posiciones Abiertas:
+   • AAPL: 0.029357 u. | Compra: $340.64 | Actual: $340.4 | Total: $9.99 📉 (-0.07%) [Tiempo: 2h 9m]
+   • ETH-USD: 0.004058 u. | Compra: $2452.17 | Actual: $2448.09 | Total: $9.93 📉 (-0.17%) [Tiempo: 19m]
+=======================================================
+
+🤖 Consultando a Gemini para análisis y toma de decisiones...
+
+🧠 ANÁLISIS DE MERCADO DE GEMINI:
+"El mercado se encuentra mayormente estable pero con sesgo bajista de corto plazo en varios activos tecnológicos y de renta variable tradicionales. Los mercados de criptomonedas continúan abiertos 24/7 mostrando un rendimiento diario moderadamente positivo (ETH-USD y BTC-USD al alza), lo que nos da oportunidades tácticas. Mantenemos posiciones prudentes mientras esperamos activaciones de momentum más fuertes."
+
+📝 BITÁCORA / NOTAS PARA PRÓXIMOS CICLOS:
+"Mantendremos AAPL y ETH-USD por este ciclo. AAPL sigue mostrando un rsi_1h de 38.4 cerca de zona de soporte con tendencia diaria alcista. ETH-USD se mantiene estable con rsi_1h en 60.6. Seguiremos vigilando de cerca el take-profit en +2.5% o stop-loss estricto en -2.0% para ambas posiciones. Si no hay suficiente volatilidad alcista en el próximo ciclo, rotaremos capital."
+
+⚡ ACCIONES DECIDIDAS:
 
 🏁 Fin del ciclo.
 Balance final del ciclo: $39.05 USD (Cash: $19.12 USD)

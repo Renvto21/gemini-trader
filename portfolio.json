@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos AAPL y ETH-USD por este ciclo. AAPL muestra un rsi_1h de 38.4 y mantiene una tendencia diaria alcista, por lo que le daremos margen para buscar el rebote. ETH-USD tiene un rsi_1h saludable de 60.9 y un rendimiento de 24h positivo del 1.83%. Establecemos stop-loss estricto en -2.0% para ambas posiciones y buscaremos take-profit al alcanzar +2.5% de ganancia o si el rsi_1h supera 70.",
-    "updated_at": "2026-10-20T14:01:11.525543-03:00"
+    "notes": "Mantendremos AAPL y ETH-USD por este ciclo. AAPL sigue mostrando un rsi_1h de 38.4 cerca de zona de soporte con tendencia diaria alcista. ETH-USD se mantiene estable con rsi_1h en 60.6. Seguiremos vigilando de cerca el take-profit en +2.5% o stop-loss estricto en -2.0% para ambas posiciones. Si no hay suficiente volatilidad alcista en el próximo ciclo, rotaremos capital.",
+    "updated_at": "2026-10-20T14:10:57.825377-03:00"
   }
 }
