@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el take-profit (+2% a +3.5%) ni ha perforado el stop-loss estricto (-2.0%). Dado que los mercados de acciones están cerrados y las criptos muestran un momentum lateral/bajista, mantendremos las posiciones actuales esperando un catalizador de volumen en el próximo ciclo o la apertura de Wall Street para evaluar la rotación de QQQ si persisten las pérdidas.",
-    "updated_at": "2026-10-19T22:10:41.139597-03:00"
+    "notes": "Monitorear de cerca ETH-USD, SOL-USD y BTC-USD en busca de un repunte en el RSI de 1 hora por encima de 40 para confirmar el rebote técnico. Mantener stop-loss estricto a -2.0% y take-profit entre +2.0% y +3.5%. Si las criptomonedas continúan estancadas y se rompen soportes, rotaremos el capital hacia oportunidades con mayor momentum.",
+    "updated_at": "2026-10-19T22:20:39.328884-03:00"
   }
 }
