@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas actuales ya que ninguna ha alcanzado el stop-loss estricto del -2.0% y el efectivo disponible es de cero. Monitorear de cerca la evolución del RSI de 1 hora en BTC-USD para evaluar la consolidación del rebote técnico y preparar la toma de ganancias parcial o total en SOL-USD si alcanza el objetivo táctico de +2.0% a +3.5%.",
-    "updated_at": "2026-10-19T23:40:41.711687-03:00"
+    "notes": "Mantener las posiciones actuales mientras se monitorea de cerca a SOL-USD para asegurar ganancias si alcanza el rango de +2.0% a +3.5%. Estar atento al RSI de 1 hora en BTC-USD y ETH-USD para evaluar salidas tácticas o rotación de capital en caso de pérdida de momentum.",
+    "updated_at": "2026-10-19T23:50:39.363762-03:00"
   }
 }
