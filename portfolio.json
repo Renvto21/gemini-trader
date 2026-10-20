@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales (QQQ, ETH-USD, SOL-USD y BTC-USD) ya que ninguna ha alcanzado el límite de stop-loss de -2.0% ni los objetivos de take-profit de +2.5% a +3.5%. Monitorearemos de cerca el comportamiento de SOL-USD y ETH-USD en los siguientes ciclos en busca de una aceleración en el RSI de 1 hora por encima de 65-70 para realizar tomas parciales de ganancias. Si alguna posición rompe a la baja superando el umbral de pérdida del -2.0%, procederemos a la venta inmediata para proteger el capital.",
-    "updated_at": "2026-10-20T06:30:49.278334-03:00"
+    "notes": "Mantendremos las posiciones actuales de QQQ, ETH-USD, SOL-USD y BTC-USD al encontrarse dentro de los límites de riesgo aceptables y sin tocar el stop-loss de -2.0%. Monitorearemos de cerca el impulso en los gráficos de 1 hora de las criptomonedas. Si ETH-USD o SOL-USD muestran una aceleración del RSI por encima de 65-70, procederemos a asegurar ganancias parciales. Si alguna posición rompe a la baja superando el umbral de -2.0%, ejecutaremos la venta inmediata.",
+    "updated_at": "2026-10-20T06:40:46.310166-03:00"
   }
 }

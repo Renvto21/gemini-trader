@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 06:30:49`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 06:40:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.45 USD** | **$38.45 USD** | 🔴 **-3.89%** ($-1.55) |
+| **$40.00 USD** | **$0.00 USD** | **$38.42 USD** | **$38.42 USD** | 🔴 **-3.96%** ($-1.58) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 19h 50m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2381.52 | $9.95 | 📉 -0.51% | 17h 39m |
-| `SOL-USD` | 0.096034 | $104.13 | $103.96 | $9.98 | 📉 -0.16% | 13h 50m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81336.11 | $8.52 | 📉 -0.53% | 13h 20m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 20h 0m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2378.84 | $9.94 | 📉 -0.62% | 17h 49m |
+| `SOL-USD` | 0.096034 | $104.13 | $103.83 | $9.97 | 📉 -0.29% | 14h 0m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81295.30 | $8.52 | 📉 -0.58% | 13h 30m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general muestra un sentimiento mixto a bajista con la mayoría de los activos tradicionales (QQQ, SPY, GLD, MSFT, AAPL, NVDA) en mercados cerrados. Por otro lado, las criptomonedas (SOL-USD, ETH-USD, BTC-USD) se mantienen operando 24/7 en una fase de consolidación con sesgo lateral/bajista de corto plazo, donde los RSI de 1 hora se mantienen neutrales (entre 39 y 51) sin mostrar aún el impulso de ruptura alcista necesario para detonar un rebote agresivo, pero manteniéndose alejados de los niveles de stop-loss estricto."
+> "El mercado accionario tradicional se encuentra cerrado, por lo que toda la actividad se concentra en los criptoactivos (ETH-USD, SOL-USD y BTC-USD). El sentimiento general sigue siendo cauteloso con una tendencia bajista bajo las medias móviles de 20 períodos, pero los RSI diarios en cripto se mantienen en zonas de sobreventa extrema, lo que mantiene viva la tesis de un potencial rebote técnico a pesar de la ligera consolidación lateral de la última hora."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 70%): La posición lleva cerca de 14 horas abierta con una pérdida marginal del -0.16%. El RSI de 1 hora se encuentra en 51.4 y el mercado opera sin catalizadores fuertes de corto plazo. Mantenemos la posición a la espera de un impulso alcista que permita asegurar ganancias.
+- **[HOLD] SOL-USD** (Confianza: 75%): La posición se mantiene abierta con una pérdida marginal de -0.29%, muy lejos del stop-loss del -2.0%. El RSI diario en 21.0 respalda la tesis de sobreventa profunda y esperamos la confirmación del rebote en el corto plazo.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones actuales (QQQ, ETH-USD, SOL-USD y BTC-USD) ya que ninguna ha alcanzado el límite de stop-loss de -2.0% ni los objetivos de take-profit de +2.5% a +3.5%. Monitorearemos de cerca el comportamiento de SOL-USD y ETH-USD en los siguientes ciclos en busca de una aceleración en el RSI de 1 hora por encima de 65-70 para realizar tomas parciales de ganancias. Si alguna posición rompe a la baja superando el umbral de pérdida del -2.0%, procederemos a la venta inmediata para proteger el capital."
+> "Mantendremos las posiciones actuales de QQQ, ETH-USD, SOL-USD y BTC-USD al encontrarse dentro de los límites de riesgo aceptables y sin tocar el stop-loss de -2.0%. Monitorearemos de cerca el impulso en los gráficos de 1 hora de las criptomonedas. Si ETH-USD o SOL-USD muestran una aceleración del RSI por encima de 65-70, procederemos a asegurar ganancias parciales. Si alguna posición rompe a la baja superando el umbral de -2.0%, ejecutaremos la venta inmediata."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
