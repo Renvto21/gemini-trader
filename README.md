@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 17:50:55`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 18:00:57`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.88 USD** | **$39.01 USD** | 🔴 **-2.49%** ($-0.99) |
+| **$40.00 USD** | **$19.12 USD** | **$19.89 USD** | **$39.01 USD** | 🔴 **-2.46%** ($-0.99) |
 
 ---
 
@@ -16,23 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $339.50 | $9.97 | 📉 -0.33% | 5h 49m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2443.31 | $9.91 | 📉 -0.36% | 3h 59m |
+| `AAPL` | 0.029357 | $340.64 | $339.50 | $9.97 | 📉 -0.33% | 5h 59m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2445.43 | $9.92 | 📉 -0.27% | 4h 9m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado accionario tradicional (AAPL, MSFT, SPY, QQQ) se encuentra CERRADO, por lo que toda la actividad se concentra en el mercado cripto 24/7. Tanto ETH-USD como SOL-USD y BTC-USD muestran un impulso moderado alcista en 1 hora, destacando el rebote técnico desde sus niveles diarios de sobreventa. Las posiciones actuales en cartera (AAPL y ETH-USD) se mantienen estables pero con ligeras pérdidas temporales, sin alcanzar aún los niveles de take-profit objetivo o stop-loss."
+> "El mercado tradicional se encuentra cerrado, manteniendo congelados los precios de las acciones y ETFs como AAPL. En cuanto a las criptomonedas, ETH-USD y SOL-USD se mantienen activas 24/7 con un sesgo lateral/levemente alcista en las últimas 24 horas, aunque con un momentum de corto plazo plano en la última hora. Mantenemos una posición prudente en efectivo mientras esperamos confirmaciones de volumen o movimientos más decisivos."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 80%): ETH-USD mantiene un buen comportamiento en el mercado abierto con un cambio de 1 hora positivo (+0.39%) y un rsi_1h saludable en 63.6. Aún no alcanza el objetivo de take-profit pero se encuentra operando correctamente dentro de la tesis de rebote técnico.
+- **[HOLD] AAPL** (Confianza: 70%): El mercado accionario está cerrado y la posición en AAPL se mantiene estable con una pérdida marginal de -0.33%. Esperaremos a la apertura del mercado para buscar una salida o tomar ganancias según la evolución del precio.
+- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD se encuentra operando lateralmente en las últimas horas con un rsi_1h en 66.8, cerca de la zona de sobrecompra. Mantendremos la posición buscando alcanzar el objetivo de take-profit del +2.0% al +3.5%.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales en AAPL y ETH-USD mientras el mercado accionario reabre y vigilar que ETH-USD alcance el rango de take-profit de +2.0% a +3.5% o cruce el rsi_1h de 70. Mantener una reserva de efectivo estricta y monitorear SOL-USD para una posible entrada si consolida su tendencia alcista en el corto plazo."
+> "Mantener posiciones actuales en AAPL y ETH-USD vigilando de cerca los niveles de take-profit entre +2.0% y +3.5% o sobrecompra en rsi_1h > 70. Como el mercado accionario está cerrado, no se pueden abrir nuevas posiciones en AAPL, y en cripto esperaremos a que se genere un retesteo o un impulso más claro antes de comprometer más liquidez."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
