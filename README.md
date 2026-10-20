@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 07:10:45`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 07:20:42`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.48 USD** | **$38.48 USD** | 🔴 **-3.79%** ($-1.52) |
+| **$40.00 USD** | **$0.00 USD** | **$38.50 USD** | **$38.50 USD** | 🔴 **-3.74%** ($-1.50) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 20h 30m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2385.58 | $9.97 | 📉 -0.34% | 18h 19m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.03 | $9.99 | 📉 -0.10% | 14h 29m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81461.87 | $8.53 | 📉 -0.37% | 13h 59m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 20h 39m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2386.88 | $9.97 | 📉 -0.28% | 18h 29m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.12 | $10.00 | 📉 -0.01% | 14h 39m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81535.90 | $8.54 | 📉 -0.28% | 14h 9m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado bursátil tradicional se encuentra cerrado (QQQ y otros activos en pausa), mientras que las criptomonedas muestran signos iniciales de estabilización con ligeros cambios positivos de 1 hora (BTC, ETH, SOL con variaciones entre +0.1% y +0.21%) tras las recientes caídas. Las posiciones en cartera se mantienen estables con pérdidas mínimas que no superan el -0.4%, lejos del stop-loss del -2.0%. Mantendremos la paciencia en las criptomonedas abiertas para capturar el esperado rebote técnico."
+> "El mercado accionario de EE.UU. se encuentra cerrado con precios congelados, por lo que la liquidez activa se concentra en las criptomonedas (24/7). Las cripto muestran ligeros intentos de recuperación a 1 hora (cambios positivos y RSI acercándose a 40), aunque la tendencia macro sigue siendo bajista bajo la SMA20. Las posiciones actuales se mantienen estables dentro de los márgenes de tolerancia de stop-loss, sin alcanzar aún los objetivos de take-profit."
 
 **Operaciones del ciclo:**
-- **[HOLD] BTC-USD** (Confianza: 80%): BTC-USD muestra un ligero cambio positivo de 1 hora (+0.1%) y el RSI de 1 hora en 36.9 comienza a recuperarse lentamente. La posición lleva menos de 14 horas abierta y no justifica liquidar con una pérdida marginal del -0.37% antes de que surta efecto el rebote técnico.
+- **[HOLD] BTC-USD** (Confianza: 70%): La posición en BTC-USD registra una variación mínima (-0.28%) y el RSI de 1 hora se sitúa en 39.5 con un sesgo positivo reciente. Mantenemos la posición a la espera de que el RSI supere los 50 puntos para buscar un take-profit.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha tocado el stop-loss de -2.0% y las criptomonedas muestran un leve sesgo positivo de recuperación en 1 hora. Seguir monitoreando el RSI de 1 hora en cripto buscando superar los 50-60 puntos para activar tomas de ganancias parciales o totales (take-profit del +2.5%)."
+> "Mantener las posiciones abiertas actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss estricto de -2.0%. Monitorear de cerca el RSI de 1 hora en las criptomonedas buscando rupturas por encima de 50 para asegurar tomas parciales de beneficios. En el próximo ciclo, si persisten los movimientos laterales sin momentum, procederé a rotar capital hacia oportunidades con mayor tracción."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

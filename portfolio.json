@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha tocado el stop-loss de -2.0% y las criptomonedas muestran un leve sesgo positivo de recuperación en 1 hora. Seguir monitoreando el RSI de 1 hora en cripto buscando superar los 50-60 puntos para activar tomas de ganancias parciales o totales (take-profit del +2.5%).",
-    "updated_at": "2026-10-20T07:10:45.663767-03:00"
+    "notes": "Mantener las posiciones abiertas actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss estricto de -2.0%. Monitorear de cerca el RSI de 1 hora en las criptomonedas buscando rupturas por encima de 50 para asegurar tomas parciales de beneficios. En el próximo ciclo, si persisten los movimientos laterales sin momentum, procederé a rotar capital hacia oportunidades con mayor tracción.",
+    "updated_at": "2026-10-20T07:20:42.113406-03:00"
   }
 }
