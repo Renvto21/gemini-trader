@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions AAPL and ETH-USD. Monitor ETH-USD for a bounce towards the +3.0% to +5.0% profit target or a strict cut if losses approach -1.8% to -2.0%. Keep cash reserves safe and wait for market hours and robust trend pullback setups for subsequent cycles.",
-    "updated_at": "2026-10-20T20:40:36.123142-03:00"
+    "notes": "Maintain existing positions AAPL and ETH-USD. Monitor ETH-USD for upward recovery or stop-loss limits near -1.8%. Hold AAPL patiently as equity markets are closed and the asset remains in an uptrend above SMA20. Do not open new crypto positions due to anti-correlation constraints (max 1 crypto held).",
+    "updated_at": "2026-10-20T20:51:08.599114-03:00"
   }
 }
