@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) sin cambios en este ciclo ya que ninguna ha alcanzado el take-profit (+2% a +3.5%) ni ha perforado el stop-loss estricto (-2.0%). QQQ está con -1.27% y se vigilará de cerca en la apertura del siguiente ciclo de Wall Street. En cripto, monitorear si SOL-USD o ETH-USD generan un impulso de volumen que permita asegurar beneficios rápidos o si se requiere rotación de capital.",
-    "updated_at": "2026-10-19T22:00:48.701829-03:00"
+    "notes": "Mantener posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el take-profit (+2% a +3.5%) ni ha perforado el stop-loss estricto (-2.0%). Dado que los mercados de acciones están cerrados y las criptos muestran un momentum lateral/bajista, mantendremos las posiciones actuales esperando un catalizador de volumen en el próximo ciclo o la apertura de Wall Street para evaluar la rotación de QQQ si persisten las pérdidas.",
+    "updated_at": "2026-10-19T22:10:41.139597-03:00"
   }
 }
