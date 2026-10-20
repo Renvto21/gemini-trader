@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en Cripto (BTC-USD, ETH-USD, SOL-USD) y QQQ ya que se encuentran estables y ninguna ha alcanzado el stop-loss estricto del -2.0%. Monitorearemos de cerca los niveles de RSI de 1 hora en SOL-USD y ETH-USD para asegurar beneficios parciales si se acercan al objetivo de +2.0% a +3.5%, o para rotar capital en caso de que la congestión persista por más ciclos.",
-    "updated_at": "2026-10-20T04:30:42.379160-03:00"
+    "notes": "Monitorear de cerca SOL-USD y ETH-USD en los siguientes ciclos. Si SOL-USD o ETH-USD alcanzan ganancias del +2.0% al +3.5% o si su RSI de 1 hora supera los 70 puntos, realizaremos un take-profit inmediato para asegurar efectivo. Si alguna posición rompe a la baja hacia el -2.0%, se procederá a cortar pérdidas de forma estricta.",
+    "updated_at": "2026-10-20T04:40:41.403353-03:00"
   }
 }
