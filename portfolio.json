@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 0.0,
+  "cash": 9.917932454236912,
   "positions": {
-    "QQQ": {
-      "shares": 0.013909753519167642,
-      "avg_price": 718.92,
-      "opened_at": "2026-10-19T10:40:42.147105-03:00"
-    },
     "ETH-USD": {
       "shares": 0.0041777725787719025,
       "avg_price": 2393.62,
@@ -1757,10 +1752,21 @@
       "shares": 4.9e-05,
       "price": 81646.39,
       "reason": "BTC-USD presenta un RSI de 1 hora en 27.7, nivel de sobreventa profunda ideal para un rebote técnico de corto plazo. Aprovechamos la liquidez disponible para promediar y potenciar la jugada."
+    },
+    {
+      "timestamp": "2026-10-20T10:50:41.002037-03:00",
+      "action": "SELL",
+      "ticker": "QQQ",
+      "amount_usd": 9.92,
+      "shares": 0.01391,
+      "price": 713.02,
+      "pnl_usd": -0.08,
+      "pnl_pct": -0.82,
+      "reason": "QQQ lleva más de 24 horas abierto sin momentum alcista, con un rendimiento de -0.82% y bajo la SMA20. Aplicamos la regla de rotación de capital para evitar posiciones estancadas y proteger el portafolio."
     }
   ],
   "memory": {
-    "notes": "Las posiciones en QQQ, ETH-USD, SOL-USD y BTC-USD llevan cerca de 24 horas sin momentum significativo. Mantendremos las posiciones vigentes por un ciclo más esperando un repunte en el RSI de 1 hora por encima de 50. Si alguna posición se aproxima al umbral de pérdida del -2.0% o rompe soportes críticos, procederemos a vender inmediatamente para cortar pérdidas, liberar capital y rotar hacia oportunidades con mayor dinamismo en cripto.",
-    "updated_at": "2026-10-20T10:41:03.127732-03:00"
+    "notes": "Las posiciones en criptomonedas (ETH-USD, SOL-USD, BTC-USD) muestran estabilidad y ligeros rebotes técnicos, por lo que se mantendrán buscando alcanzar el objetivo de take-profit del +2.0% al +3.5%. Por otro lado, la posición en QQQ lleva 24 horas estancada con tendencia bajista bajo la SMA20 y sin el rebote esperado; procederemos a liquidarla para cortar pérdidas mínimas y liberar capital hacia alternativas de mayor dinamismo.",
+    "updated_at": "2026-10-20T10:50:40.998700-03:00"
   }
 }

@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 10:41:03`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 10:50:41`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.46 USD** | **$38.46 USD** | 🔴 **-3.84%** ($-1.54) |
+| **$40.00 USD** | **$9.92 USD** | **$28.62 USD** | **$38.54 USD** | 🔴 **-3.66%** ($-1.46) |
 
 ---
 
@@ -16,46 +16,42 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $712.00 | $9.90 | 📉 -0.96% | 1d 0h |
-| `ETH-USD` | 0.004178 | $2393.62 | $2394.94 | $10.01 | 📈 +0.06% | 21h 49m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.25 | $10.01 | 📈 +0.12% | 18h 0m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81552.10 | $8.54 | 📉 -0.26% | 17h 30m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2397.61 | $10.02 | 📈 +0.17% | 21h 59m |
+| `SOL-USD` | 0.096034 | $104.13 | $104.50 | $10.04 | 📈 +0.36% | 18h 9m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81790.44 | $8.57 | 📈 +0.03% | 17h 39m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sesgo predominantemente bajista con la mayoría de los activos cotizando por debajo de su SMA de 20 días. Sin embargo, las criptomonedas se mantienen abiertas 24/7 y muestran ligeros intentos de estabilización en gráficos de 1 hora. El portafolio actual se encuentra completamente invertido con una ligera pérdida acumulada debido a la lateralización de las posiciones durante casi un día entero. Dado que no se han alcanzado los objetivos de take-profit y el impulso alcista se ha debilitado, es momento de mantener una postura defensiva y evaluar rotaciones si el momentum no despega pronto."
+> "El mercado muestra un sesgo bajista generalizado en renta variable y criptomonedas, con la mayoría de los activos cotizando por debajo de sus medias móviles de 20 días. Sin embargo, las criptomonedas se mantienen abiertas y muestran ligeros intentos de recuperación en el corto plazo (cambio de 1h positivo en BTC, ETH y SOL), mientras que los índices tradicionales como QQQ acumulan más de 24 horas sin el momentum alcista esperado y con tendencia bajista."
 
 **Operaciones del ciclo:**
-- **[HOLD] QQQ** (Confianza: 60%): La posición lleva casi 24 horas abierta con una pérdida menor del -0.96%. Se mantiene a la espera de un rebote técnico ya que el mercado está abierto, pero se vigilará de cerca el stop-loss si el precio continúa perdiendo fuerza.
-- **[HOLD] ETH-USD** (Confianza: 65%): ETH-USD muestra un RSI de 1 hora en recuperacion (43.5) y se mantiene estable con una pequeña ganancia del +0.06%. Mantenemos la posición buscando el objetivo de take-profit entre +2.0% y +3.5%.
-- **[HOLD] SOL-USD** (Confianza: 65%): SOL-USD se mantiene lateral con un +0.12% de beneficio. El RSI diario profundo respalda la tesis de rebote, por lo que mantendremos la operación un ciclo más evaluando el impulso.
-- **[HOLD] BTC-USD** (Confianza: 60%): BTC-USD presenta un cambio de 1 hora positivo y un RSI de 41.9. La posición está prácticamente plana (-0.26%) y merece un ciclo adicional para intentar alcanzar el objetivo de beneficio antes de considerar rotación.
+- **[SELL] QQQ** (Confianza: 85%): QQQ lleva más de 24 horas abierto sin momentum alcista, con un rendimiento de -0.82% y bajo la SMA20. Aplicamos la regla de rotación de capital para evitar posiciones estancadas y proteger el portafolio.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Las posiciones en QQQ, ETH-USD, SOL-USD y BTC-USD llevan cerca de 24 horas sin momentum significativo. Mantendremos las posiciones vigentes por un ciclo más esperando un repunte en el RSI de 1 hora por encima de 50. Si alguna posición se aproxima al umbral de pérdida del -2.0% o rompe soportes críticos, procederemos a vender inmediatamente para cortar pérdidas, liberar capital y rotar hacia oportunidades con mayor dinamismo en cripto."
+> "Las posiciones en criptomonedas (ETH-USD, SOL-USD, BTC-USD) muestran estabilidad y ligeros rebotes técnicos, por lo que se mantendrán buscando alcanzar el objetivo de take-profit del +2.0% al +3.5%. Por otro lado, la posición en QQQ lleva 24 horas estancada con tendencia bajista bajo la SMA20 y sin el rebote esperado; procederemos a liquidarla para cortar pérdidas mínimas y liberar capital hacia alternativas de mayor dinamismo."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
 
 | Operaciones Cerradas | Tasa de Acierto (Win Rate) | Beneficio Realizado | Mejor Trade | Peor Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **77** | 🎯 **42.9%** (33W / 29L / 15BE) | 🔴 **$-1.29 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
+| **78** | 🎯 **42.3%** (33W / 30L / 15BE) | 🔴 **$-1.37 USD** | 🏆 `+$0.56 (+2.8%) en SOL-USD` | 🛡️ `$-0.97 (-2.5%) en SOL-USD` |
 ---
 
 ### 📜 Últimos Movimientos
 
 | Fecha | Acción | Activo | Monto | Precio | Motivo |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-20 10:50` | 🔴 SELL (-0.08$) | `QQQ` | $9.92 | $713.02 | QQQ lleva más de 24 horas abierto sin momentum alcista, con un rendimiento de -0.82% y baj... |
 | `2026-10-19 23:00` | 🟢 BUY | `BTC-USD` | $4.00 | $81646.39 | BTC-USD presenta un RSI de 1 hora en 27.7, nivel de sobreventa profunda ideal para un rebo... |
 | `2026-10-19 17:10` | 🟢 BUY | `BTC-USD` | $4.57 | $81874.05 | BTC-USD muestra señales de rebote técnico con un RSI de 1 hora en 31.1 recuperándose y un ... |
 | `2026-10-19 16:40` | 🟢 BUY | `SOL-USD` | $10.00 | $104.13 | SOL-USD presenta un RSI diario extremo de 19.7, indicando condiciones de sobreventa profun... |
 | `2026-10-19 12:51` | 🟢 BUY | `ETH-USD` | $10.00 | $2393.62 | ETH-USD presenta un RSI de 1 hora en 34.6, entrando en zona de sobreventa de corto plazo, ... |
-| `2026-10-19 10:40` | 🟢 BUY | `QQQ` | $10.00 | $718.92 | QQQ muestra un fuerte momentum intradiario con un cambio de 1h del +1.28%, liderando el re... |
 
 ---
 
