@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear AAPL y ETH-USD. Si AAPL o ETH-USD extienden sus pérdidas acercándose al límite de -2.0%, procederé a vender inmediatamente para proteger el capital. Si alguna de las dos muestra un repunte hacia el take-profit del +2.0%, tomaré ganancias para rotar efectivo.",
-    "updated_at": "2026-10-20T16:40:49.087516-03:00"
+    "notes": "Mantener posiciones abiertas en AAPL y ETH-USD mientras no rompan el soporte del -2.0%. Monitorear de cerca ETH-USD para capturar un take-profit si se aproxima al +2.0% o si el RSI de 1 hora entra en sobrecompra superior a 70. Preparado para rotar capital hacia criptomonedas con fuerte impulso si alguna posición lateraliza por más ciclos.",
+    "updated_at": "2026-10-20T16:50:54.307981-03:00"
   }
 }
