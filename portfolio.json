@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Monitorear de cerca ETH-USD, SOL-USD y BTC-USD. Objetivo de toma de ganancias entre +2.0% y +3.5%. Stop-loss estricto a -2.0% en caso de pérdida de soporte. Dado que el efectivo es bajo ($4.00), no realizaremos nuevas compras hasta asegurar al menos una toma de beneficios.",
-    "updated_at": "2026-10-19T20:50:37.976390-03:00"
+    "notes": "Monitorear de cerca ETH-USD y SOL-USD para toma de beneficios parcial o total si alcanzan el rango objetivo de +2.0% a +3.5% o si sus indicadores de 1 hora entran en sobrecompra. Vigilar el stop-loss estricto a -2.0% para evitar pérdidas mayores. Mantener QQQ a la espera de la apertura del mercado tradicional.",
+    "updated_at": "2026-10-19T21:00:49.135719-03:00"
   }
 }
