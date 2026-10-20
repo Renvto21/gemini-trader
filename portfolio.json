@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y QQQ a la espera de la apertura de Wall Street. El objetivo es monitorear el take-profit parcial si SOL-USD o ETH-USD extienden sus ganancias hacia el rango de +2% a +3.5%, o si su RSI de 1 hora supera consistentemente los 70 puntos. Si no hay suficiente impulso en BTC-USD, consideraremos rotar capital hacia activos con mayor dinamismo en la apertura del mercado bursátil.",
-    "updated_at": "2026-10-20T00:20:39.964931-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (ETH-USD, SOL-USD, BTC-USD) y la posición en QQQ a la espera de la apertura de Wall Street. Monitorear de cerca a SOL-USD y ETH-USD para asegurar ganancias parciales o totales si alcanzan el rango de take-profit de +2.0% a +3.5% o si el RSI de 1 hora supera los 70 puntos. Si el impulso decae o se estancan, rotaremos capital hacia activos de mayor dinamismo cuando abra el mercado tradicional.",
+    "updated_at": "2026-10-20T00:30:43.396287-03:00"
   }
 }
