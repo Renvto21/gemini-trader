@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en QQQ, ETH-USD, SOL-USD y BTC-USD mientras operan en rangos estables sin activar stop-loss ni take-profit. Para los siguientes ciclos, vigilaremos de cerca los rebotes en el RSI de 1 hora para asegurar beneficios parciales si se alcanza el objetivo de +2.5% o vender inmediatamente si alguna posición roza el umbral de pérdida del -2.0%.",
-    "updated_at": "2026-10-20T05:50:36.561614-03:00"
+    "notes": "Monitorear de cerca el comportamiento de ETH-USD, SOL-USD y BTC-USD en los siguientes ciclos. Esperar a que el RSI de 1 hora se acerque a zonas de sobrecompra (> 70) o que alcancen el objetivo de take-profit del +2.5% para asegurar ganancias parciales o totales. Proteger rigurosamente el capital si alguna posición rompe a la baja hacia el umbral de -2.0%. Mantener la liquidez disponible según las reglas de rotación.",
+    "updated_at": "2026-10-20T06:00:46.960445-03:00"
   }
 }
