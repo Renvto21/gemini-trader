@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones activas actuales en Cripto (SOL-USD, ETH-USD, BTC-USD) y la posición en QQQ a la espera de la apertura de Wall Street. Monitorear los niveles de RSI de 1 hora en SOL y ETH; si superan 70, proceder con la venta parcial o total para asegurar ganancias del +1% al +2.5%. No abrir nuevas posiciones hasta liberar efectivo con alguna toma de beneficios.",
-    "updated_at": "2026-10-20T02:00:49.324740-03:00"
+    "notes": "Mantener las posiciones actuales en cripto y QQQ (este último cerrado). Monitorear de cerca a SOL-USD y ETH-USD para ejecutar una toma parcial de beneficios tan pronto como su RSI de 1 hora supere 70 o acumulen un rendimiento del +2%. Si se concretan las ventas, liberar liquidez para buscar nuevas oportunidades de rebote en activos con mayor ímpetu.",
+    "updated_at": "2026-10-20T02:10:43.721395-03:00"
   }
 }
