@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas y QQQ. Vigilar estrictamente el RSI de 1 hora en BTC-USD y ETH-USD para asegurar ganancias parciales (take-profit) si alcanzan el rango de +2.0% a +3.5%, y mantener el stop-loss en -2.0% para proteger el capital ante cualquier caída adicional.",
-    "updated_at": "2026-10-19T23:00:46.869979-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran dentro de los rangos de tolerancia antes del stop-loss estricto de -2.0%. Estar preparado para asegurar ganancias si ETH-USD o SOL-USD rebotan hacia el objetivo de +2.0% a +3.5%, o para recortar BTC-USD si rompe nuevos mínimos de corto plazo.",
+    "updated_at": "2026-10-19T23:10:40.156352-03:00"
   }
 }
