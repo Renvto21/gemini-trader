@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 15:40:55`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 15:50:57`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.87 USD** | **$39.00 USD** | 🔴 **-2.51%** ($-1.00) |
+| **$40.00 USD** | **$19.12 USD** | **$19.86 USD** | **$38.98 USD** | 🔴 **-2.54%** ($-1.02) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $340.11 | $9.98 | 📉 -0.16% | 3h 39m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2436.76 | $9.89 | 📉 -0.63% | 1h 49m |
+| `AAPL` | 0.029357 | $340.64 | $340.07 | $9.98 | 📉 -0.17% | 3h 49m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2433.97 | $9.88 | 📉 -0.74% | 1h 59m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado actual muestra un tono predominantemente bajista en marco diario para la mayoría de los activos tecnológicos y criptomonedas, aunque se mantienen oportunidades de rebote técnico de corto plazo. Los índices principales operan con leves variaciones horarias negativas, mientras que las criptomonedas y activos en cartera se mantienen estables dentro de los umbrales de tolerancia de riesgo permitidos antes de activar stops."
+> "El mercado muestra un sesgo general bajista en marcos diarios, con la mayoría de los activos operando por debajo de sus medias móviles de 20 periodos. Sin embargo, en el corto plazo (1 hora), la renta variable de EE. UU. (como AAPL) se mantiene estable, mientras que las criptomonedas registran ligeras correcciones horarias tras intentos de rebote previos. Mantenemos una actitud de vigilancia estricta sobre las posiciones actuales de AAPL y ETH-USD, evaluando su comportamiento dinámico para evitar pérdidas mayores al 2.0% y asegurar liquidez si el impulso decae."
 
 **Operaciones del ciclo:**
-- **[HOLD] AAPL** (Confianza: 70%): AAPL mantiene una pérdida muy leve de -0.16% tras casi 4 horas de holding y se encuentra sobre su media móvil diaria, por lo que se mantiene en cartera a la espera de un rebote más claro.
-- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD registra una ligera pérdida de -0.63%, operando dentro del rango de tolerancia y con un RSI de 1 hora saludable en 57.5, manteniendo el potencial de continuar su recuperación diaria.
+- **[HOLD] AAPL** (Confianza: 60%): AAPL mantiene una tendencia alcista diaria sobre su SMA20 y una pérdida marginal controlada (-0.17%). No ha alcanzado el stop-loss operativo y su comportamiento se mantiene dentro del rango esperado para un rebote.
+- **[HOLD] ETH-USD** (Confianza: 60%): ETH-USD registra una leve corrección horaria, pero su RSI diario se encuentra en niveles de sobreventa extrema (28.6), lo que mantiene intacta la tesis de un potencial rebote por reversión a la media (mean reversion).
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos las posiciones vigentes de AAPL y ETH-USD ya que no han alcanzado el stop-loss estricto del -2.0% y sus métricas de tendencia se mantienen operables. Monitorearemos de cerca su comportamiento en el siguiente ciclo; si alguna rompe el soporte o se estanca, procederemos a liquidar inmediatamente para liberar liquidez hacia oportunidades de mayor impulso."
+> "Mantendremos las posiciones abiertas de AAPL y ETH-USD por este ciclo. Establecemos un stop-loss estricto operativo en -1.5% a -2.0% para ambas posiciones. Si ETH-USD o AAPL pierden tracción o el RSI de 1 hora perfora soportes clave, procederemos a la venta inmediata para rescatar efectivo y buscar activos con mayor momentum alcista."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
