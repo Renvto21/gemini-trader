@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit de +2.0% a +3.5%. Dado que los mercados tradicionales están cerrados, la prioridad es monitorear el comportamiento de las criptomonedas abiertas 24/7. Si el RSI de 1 hora rompe al alza con volumen en SOL o BTC, mantendremos la posición buscando el objetivo de ganancia; de lo contrario, si el soporte falla, se procederá a recortar pérdidas para proteger el capital.",
-    "updated_at": "2026-10-20T05:00:50.681406-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran operando dentro de los márgenes de riesgo y ninguna ha alcanzado el stop-loss o take-profit. En el siguiente ciclo, si alguna criptomoneda rompe al alza con volumen y supera el RSI de 1 hora por encima de 60, se evaluará una toma parcial de beneficios. Si el soporte falla y se roza el -2.0% en alguna posición, se procederá a recortar pérdidas inmediatamente.",
+    "updated_at": "2026-10-20T05:10:43.528662-03:00"
   }
 }

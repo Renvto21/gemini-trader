@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 05:00:50`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 05:10:43`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.51 USD** | **$38.51 USD** | 🔴 **-3.73%** ($-1.49) |
+| **$40.00 USD** | **$0.00 USD** | **$38.44 USD** | **$38.44 USD** | 🔴 **-3.91%** ($-1.56) |
 
 ---
 
@@ -16,26 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 18h 20m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2386.90 | $9.97 | 📉 -0.28% | 16h 9m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.28 | $10.01 | 📈 +0.14% | 12h 20m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81439.76 | $8.53 | 📉 -0.40% | 11h 50m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 18h 30m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2380.99 | $9.95 | 📉 -0.53% | 16h 19m |
+| `SOL-USD` | 0.096034 | $104.13 | $103.94 | $9.98 | 📉 -0.18% | 12h 29m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81285.92 | $8.51 | 📉 -0.59% | 11h 59m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general se encuentra mayormente en un entorno lateral a bajista con los principales índices de Wall Street cerrados y precios congelados. Los activos criptográficos (ETH-USD, SOL-USD, BTC-USD), que operan 24/7, muestran una consolidación de corto plazo con ligeros retrocesos en las últimas 24 horas, pero manteniendo RSI diarios en niveles de sobreventa profunda que sugieren oportunidades latentes de rebote (mean reversion). No hay momentum agresivo inmediato en la última hora, por lo que la postura actual es defensiva a la espera de la apertura de los mercados tradicionales o de una confirmación de volumen en cripto."
+> "El portafolio se encuentra con un PnL total de -3.91% y los mercados tradicionales (QQQ, SPY, etc.) están cerrados, por lo que la liquidez activa se concentra en criptomonedas (ETH-USD, SOL-USD, BTC-USD). Las criptomonedas muestran un sesgo bajista temporal de corto plazo con pequeños retrocesos en la última hora, pero se mantienen estables dentro de los rangos de soporte sin activar el stop-loss estricto del -2.0%."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 60%): La posición en SOL-USD se mantiene estable con una pequeña ganancia del 0.14% y un RSI diario extremadamente bajo (21.3). Esperamos que el rebote técnico se materialice hacia la zona de take-profit sin necesidad de realizar acciones precipitadas.
-- **[HOLD] BTC-USD** (Confianza: 55%): BTC-USD registra una leve pérdida de -0.4%, manteniéndose dentro de los márgenes tolerables de riesgo antes del stop-loss estricto (-2.0%). Mantenemos la posición a la espera de un catalizador de volumen.
+- **[HOLD] SOL-USD** (Confianza: 80%): La posición se mantiene dentro de los límites de riesgo aceptables con una pérdida menor de -0.18%. El mercado crypto opera 24/7 y esperamos un repunte del momentum tras la estabilización del RSI diario.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit de +2.0% a +3.5%. Dado que los mercados tradicionales están cerrados, la prioridad es monitorear el comportamiento de las criptomonedas abiertas 24/7. Si el RSI de 1 hora rompe al alza con volumen en SOL o BTC, mantendremos la posición buscando el objetivo de ganancia; de lo contrario, si el soporte falla, se procederá a recortar pérdidas para proteger el capital."
+> "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran operando dentro de los márgenes de riesgo y ninguna ha alcanzado el stop-loss o take-profit. En el siguiente ciclo, si alguna criptomoneda rompe al alza con volumen y supera el RSI de 1 hora por encima de 60, se evaluará una toma parcial de beneficios. Si el soporte falla y se roza el -2.0% en alguna posición, se procederá a recortar pérdidas inmediatamente."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
