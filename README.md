@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 06:20:42`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 06:30:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$0.00 USD** | **$38.47 USD** | **$38.47 USD** | 🔴 **-3.82%** ($-1.53) |
+| **$40.00 USD** | **$0.00 USD** | **$38.45 USD** | **$38.45 USD** | 🔴 **-3.89%** ($-1.55) |
 
 ---
 
@@ -16,25 +16,25 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 19h 39m |
-| `ETH-USD` | 0.004178 | $2393.62 | $2382.24 | $9.95 | 📉 -0.48% | 17h 29m |
-| `SOL-USD` | 0.096034 | $104.13 | $104.10 | $10.00 | 📉 -0.03% | 13h 39m |
-| `BTC-USD` | 0.000105 | $81767.70 | $81426.78 | $8.53 | 📉 -0.42% | 13h 9m |
+| `QQQ` | 0.013910 | $718.92 | $718.36 | $9.99 | 📉 -0.08% | 19h 50m |
+| `ETH-USD` | 0.004178 | $2393.62 | $2381.52 | $9.95 | 📉 -0.51% | 17h 39m |
+| `SOL-USD` | 0.096034 | $104.13 | $103.96 | $9.98 | 📉 -0.16% | 13h 50m |
+| `BTC-USD` | 0.000105 | $81767.70 | $81336.11 | $8.52 | 📉 -0.53% | 13h 20m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado cripto se mantiene operando 24/7 con una tendencia general bajista pero mostrando señales incipientes de estabilización y acumulación en marcos temporales cortos. Los activos tradicionales como QQQ están cerrados, por lo que la liquidez activa se concentra en mantener y evaluar el comportamiento de las posiciones abiertas en criptomonedas (ETH-USD, SOL-USD, BTC-USD). El RSI de 1 hora se mantiene en niveles neutrales sin alcanzar todavía la zona de sobrecompra (>70) que active la toma de beneficios inmediata, y las pérdidas actuales se mantienen contenidas por debajo de nuestro límite de stop-loss de -2.0%."
+> "El mercado general muestra un sentimiento mixto a bajista con la mayoría de los activos tradicionales (QQQ, SPY, GLD, MSFT, AAPL, NVDA) en mercados cerrados. Por otro lado, las criptomonedas (SOL-USD, ETH-USD, BTC-USD) se mantienen operando 24/7 en una fase de consolidación con sesgo lateral/bajista de corto plazo, donde los RSI de 1 hora se mantienen neutrales (entre 39 y 51) sin mostrar aún el impulso de ruptura alcista necesario para detonar un rebote agresivo, pero manteniéndose alejados de los niveles de stop-loss estricto."
 
 **Operaciones del ciclo:**
-- **[HOLD] SOL-USD** (Confianza: 70%): SOL-USD muestra un RSI diario muy deprimido (21.2) y un RSI de 1h en recuperación (53.2) con un cambio horario levemente positivo. Se mantiene la posición a la espera de que el rebote técnico alcance el objetivo de take-profit.
+- **[HOLD] SOL-USD** (Confianza: 70%): La posición lleva cerca de 14 horas abierta con una pérdida marginal del -0.16%. El RSI de 1 hora se encuentra en 51.4 y el mercado opera sin catalizadores fuertes de corto plazo. Mantenemos la posición a la espera de un impulso alcista que permita asegurar ganancias.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD y BTC-USD) dado que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el objetivo de take-profit de +2.5% a +3.5%. Vigilar de cerca el comportamiento de SOL-USD y BTC-USD en busca de un impulso alcista que eleve el RSI de 1 hora por encima de 70 para asegurar ganancias parciales o totales. En el siguiente ciclo, si alguna posición se estanca o rompe soportes a la baja, procederé a vender inmediatamente para rotar el capital hacia oportunidades de mayor momentum."
+> "Mantendremos las posiciones actuales (QQQ, ETH-USD, SOL-USD y BTC-USD) ya que ninguna ha alcanzado el límite de stop-loss de -2.0% ni los objetivos de take-profit de +2.5% a +3.5%. Monitorearemos de cerca el comportamiento de SOL-USD y ETH-USD en los siguientes ciclos en busca de una aceleración en el RSI de 1 hora por encima de 65-70 para realizar tomas parciales de ganancias. Si alguna posición rompe a la baja superando el umbral de pérdida del -2.0%, procederemos a la venta inmediata para proteger el capital."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
