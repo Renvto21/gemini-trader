@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (ETH-USD, SOL-USD, BTC-USD) y QQQ a la espera de un impulso alcista más fuerte o que alcancen el objetivo de take-profit entre +2.0% y +3.5%. Vigilar de cerca el stop-loss en -2.0% para cortar pérdidas si el mercado cripto profundiza su corrección. No realizar nuevas compras en este ciclo para preservar la liquidez mínima y evaluar la apertura de los mercados tradicionales en el próximo ciclo.",
-    "updated_at": "2026-10-19T21:10:36.304894-03:00"
+    "notes": "Mantener las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y QQQ. Monitorear de cerca los objetivos de take-profit entre +2.0% y +3.5% para asegurar ganancias rápidamente y el stop-loss estricto en -2.0%. Si SOL-USD o ETH-USD no muestran un impulso alcista claro en los siguientes ciclos, considerar la rotación del capital hacia oportunidades con mayor momentum.",
+    "updated_at": "2026-10-19T21:20:43.284649-03:00"
   }
 }
