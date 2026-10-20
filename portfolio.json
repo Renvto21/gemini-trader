@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL and ETH-USD. Monitor ETH-USD for a potential take-profit target around +3.0% to +5.0% or if rsi_1h exceeds 72. Keep strict stop-loss protection at -1.8% to -2.0%. Since equity markets are closed, do not rotate out of AAPL prematurely and allow it time to recover. Wait for optimal pullback setups in uptrending assets when markets reopen.",
-    "updated_at": "2026-10-20T18:10:40.949146-03:00"
+    "notes": "Maintain current positions in AAPL and ETH-USD. ETH-USD is performing stably; target take-profit at +3.0% to +5.0% or if rsi_1h exceeds 72, and keep strict stop-loss at -1.8% to -2.0%. AAPL is holding steady despite the closed market status. Do not open any new crypto positions due to the single-crypto constraint.",
+    "updated_at": "2026-10-20T18:20:41.519641-03:00"
   }
 }
