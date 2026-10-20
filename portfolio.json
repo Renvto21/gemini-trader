@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos AAPL y ETH-USD durante este ciclo. AAPL muestra un rsi_1h de 39.1 con soporte cercano y ETH-USD se mantiene sólido con rsi_1h en 60.6. Seguiremos vigilando de cerca el take-profit en +2.5% o el stop-loss en -2.0%. Si no hay expansión de volumen o volatilidad alcista en el próximo ciclo, rotaremos capital hacia activos con mayor momentum.",
-    "updated_at": "2026-10-20T14:20:55.457867-03:00"
+    "notes": "Mantener posiciones y plan previo mientras se estabiliza la conexión con Gemini.",
+    "updated_at": "2026-10-20T14:31:15.857931-03:00"
   }
 }
