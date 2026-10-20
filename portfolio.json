@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Continuar monitoreando las posiciones actuales en criptomonedas (SOL-USD, ETH-USD, BTC-USD) y QQQ. Estar atento a la apertura de los mercados tradicionales para evaluar la rotación de capital si alguna posición permanece estancada. El objetivo es asegurar ganancias parciales al alcanzar un PnL de +2% o si el RSI de 1 hora supera los 70 puntos.",
-    "updated_at": "2026-10-20T03:40:40.267449-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran estables y dentro de parámetros seguros. Monitorear de cerca los niveles de take-profit en +2.0% o si el RSI de 1 hora supera los 70 puntos para asegurar beneficios. Si alguna posición cripto pierde el soporte o cae más de -1.5%, proceder a vender para cortar pérdidas y rotar capital.",
+    "updated_at": "2026-10-20T03:50:42.675316-03:00"
   }
 }
