@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Las posiciones abiertas llevan cerca de un día operando lateralmente sin alcanzar el objetivo de take-profit entre +2.0% y +3.5%. Mantendremos las posiciones vigentes por un ciclo más evaluando si el RSI de 1 hora logra romper los niveles de 50. Si se aproximan al umbral de stop-loss del -2.0% o continúan sin momentum, procederemos a vender para cortar pérdidas y liberar liquidez.",
-    "updated_at": "2026-10-20T10:30:55.569218-03:00"
+    "notes": "Las posiciones en QQQ, ETH-USD, SOL-USD y BTC-USD llevan cerca de 24 horas sin momentum significativo. Mantendremos las posiciones vigentes por un ciclo más esperando un repunte en el RSI de 1 hora por encima de 50. Si alguna posición se aproxima al umbral de pérdida del -2.0% o rompe soportes críticos, procederemos a vender inmediatamente para cortar pérdidas, liberar capital y rotar hacia oportunidades con mayor dinamismo en cripto.",
+    "updated_at": "2026-10-20T10:41:03.127732-03:00"
   }
 }
