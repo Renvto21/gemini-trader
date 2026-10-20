@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos AAPL por un ciclo más para observar si el rsi_1h rompe al alza con decisión. Venderemos GLD debido a que su momentum se ha debilitado y su rsi_1h tocó sobreventa sin rebotar adecuadamente, liberando liquidez. Reasignaremos esa liquidez hacia ETH-USD para aprovechar su momento alcista intradiario y cumplir con la regla de rotación de capital.",
-    "updated_at": "2026-10-20T13:51:03.151888-03:00"
+    "notes": "Mantendremos AAPL y ETH-USD por este ciclo. AAPL muestra un rsi_1h de 38.4 y mantiene una tendencia diaria alcista, por lo que le daremos margen para buscar el rebote. ETH-USD tiene un rsi_1h saludable de 60.9 y un rendimiento de 24h positivo del 1.83%. Establecemos stop-loss estricto en -2.0% para ambas posiciones y buscaremos take-profit al alcanzar +2.5% de ganancia o si el rsi_1h supera 70.",
+    "updated_at": "2026-10-20T14:01:11.525543-03:00"
   }
 }

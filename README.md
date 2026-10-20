@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 13:51:03`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 14:01:11`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.95 USD** | **$39.08 USD** | 🔴 **-2.30%** ($-0.92) |
+| **$40.00 USD** | **$19.12 USD** | **$19.93 USD** | **$39.05 USD** | 🔴 **-2.36%** ($-0.95) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $340.77 | $10.00 | 📈 +0.04% | 1h 49m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2452.17 | $9.95 | 📈 +0.00% | 0m |
+| `AAPL` | 0.029357 | $340.64 | $340.41 | $9.99 | 📉 -0.07% | 1h 59m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2448.76 | $9.94 | 📉 -0.14% | 10m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado muestra un sentimiento mixto con sesgo lateral en activos tradicionales, mientras que las criptomonedas continúan operando 24/7 con un ligero sesgo alcista y mejor momento en el corto plazo. GLD ha profundizado su caída y su rsi_1h ha bajado a 29.8, acercándose a un nivel crítico, mientras que AAPL se mantiene plano sin la velocidad de rebote esperada. ETH-USD y SOL-USD muestran mejor momentum intradiario."
+> "El mercado muestra un sesgo defensivo general con la mayoría de los activos bajo la media móvil de 20 días en el gráfico diario. Sin embargo, las criptomonedas mantienen un mejor comportamiento en el marco de 24 horas. Los mercados de acciones y materias primas registran ligeros retrocesos en el corto plazo."
 
 **Operaciones del ciclo:**
-- **[SELL] GLD** (Confianza: 80%): GLD se encuentra estancado con un rendimiento ligeramente negativo (-0.47%) y un rsi_1h de 29.8 que no ha logrado generar el rebote técnico esperado. Rotamos el capital hacia activos con mayor dinamismo.
-- **[BUY] ETH-USD** (Confianza: 85%): ETH-USD muestra un excelente impulso de corto plazo con change_1h_pct positivo (+0.55%) y rsi_1h en 64.6, operando en mercado abierto 24/7 y cumpliendo con nuestra estrategia de cazar momentum.
+- **[HOLD] AAPL** (Confianza: 70%): La posición lleva cerca de 2 horas abierta con una pérdida mínima de -0.07%. Su tendencia diaria es alcista y el rsi_1h está en 38.4, aproximándose a la zona de rebote técnico sin romper soportes críticos.
+- **[HOLD] ETH-USD** (Confianza: 80%): ETH-USD muestra un buen impulso de 24 horas con un +1.83% y un rsi_1h estable en 60.9. Mantenemos la posición para capturar la continuación del movimiento alcista intradiario.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantendremos AAPL por un ciclo más para observar si el rsi_1h rompe al alza con decisión. Venderemos GLD debido a que su momentum se ha debilitado y su rsi_1h tocó sobreventa sin rebotar adecuadamente, liberando liquidez. Reasignaremos esa liquidez hacia ETH-USD para aprovechar su momento alcista intradiario y cumplir con la regla de rotación de capital."
+> "Mantendremos AAPL y ETH-USD por este ciclo. AAPL muestra un rsi_1h de 38.4 y mantiene una tendencia diaria alcista, por lo que le daremos margen para buscar el rebote. ETH-USD tiene un rsi_1h saludable de 60.9 y un rendimiento de 24h positivo del 1.83%. Establecemos stop-loss estricto en -2.0% para ambas posiciones y buscaremos take-profit al alcanzar +2.5% de ganancia o si el rsi_1h supera 70."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant
