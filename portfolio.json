@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions AAPL and ETH-USD without premature rotation. ETH-USD is currently below the SMA20 trend filter, so monitor closely for exit conditions if stop-loss thresholds (-1.8% to -2.0%) are approached, or take-profit targets (+3.0% to +5.0%) if momentum revives. AAPL remains an equity holding, so observe price action patiently upon market open. Ensure crypto exposure stays strictly limited to one asset.",
-    "updated_at": "2026-10-20T20:20:44.079316-03:00"
+    "notes": "Maintain existing positions AAPL and ETH-USD without premature rotation. AAPL will be held patiently as an equity position. ETH-USD will be monitored for either a recovery towards the +3.0% to +5.0% take-profit target or a strict stop-loss departure if it approaches -1.8% to -2.0%. Keep cash reserves intact and wait for valid trend-following pullback setups on open markets.",
+    "updated_at": "2026-10-20T20:30:42.059230-03:00"
   }
 }
