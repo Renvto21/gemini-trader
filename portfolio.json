@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones abiertas ETH-USD y AAPL por el momento. Para el próximo ciclo, vigilar de cerca si ETH-USD logra romper al alza con un rsi_1h superior a 70 o alcanza la zona de take-profit entre +2.0% y +3.5%. En cuanto a AAPL, si continúa estancada sin momentum o rompe a la baja acercándose al stop-loss de -2.0%, procederemos a liquidarla para liberar capital hacia activos con mayor volatilidad en criptomonedas.",
-    "updated_at": "2026-10-20T15:10:49.423363-03:00"
+    "notes": "Mantendremos las posiciones de AAPL y ETH-USD por ahora, monitoreando de cerca su evolución. Para el siguiente ciclo, si ETH-USD o AAPL muestran debilidad adicional o se acercan al nivel de stop-loss del -2.0%, procederemos a liquidarlas inmediatamente para liberar capital. Si alcanzan la zona de take-profit entre +2.0% y +3.5%, aseguraremos ganancias de inmediato.",
+    "updated_at": "2026-10-20T15:20:49.155181-03:00"
   }
 }
