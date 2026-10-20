@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones actuales en AAPL y ETH-USD. Vigilar que ETH-USD alcance el take-profit entre +2.0% y +3.5% o cruce un rsi_1h superior a 70. Si las posiciones registran una pérdida cercana al -2%, ejecutar stop-loss inmediato para proteger el capital. Mantener la liquidez reservada por encima del mínimo establecido.",
-    "updated_at": "2026-10-20T17:30:49.499003-03:00"
+    "notes": "Mantener las posiciones abiertas en AAPL y ETH-USD. Vigilar que ETH-USD alcance el objetivo de take-profit entre +2.0% y +3.5% o que su rsi_1h supere 70. Si se acerca al límite de stop-loss del -2.0%, proceder a vender de inmediato. Monitorear SOL-USD y BTC-USD en busca de entradas por impulso si se presentan mejores confirmaciones en el próximo ciclo.",
+    "updated_at": "2026-10-20T17:40:39.152780-03:00"
   }
 }
