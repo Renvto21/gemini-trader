@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 16:20:52`
+> **Estado:** 🟢 Activo en la Nube | **Última revisión:** `2026-10-20 16:31:03`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Capital Inicial | Efectivo Libre | Valor en Activos | Balance Total | Rendimiento |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$19.12 USD** | **$19.81 USD** | **$38.94 USD** | 🔴 **-2.66%** ($-1.06) |
+| **$40.00 USD** | **$19.12 USD** | **$19.80 USD** | **$38.92 USD** | 🔴 **-2.69%** ($-1.08) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Activo | Acciones | Precio Compra | Precio Actual | Valor Total | PnL % | Tiempo Abierta |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $338.93 | $9.95 | 📉 -0.50% | 4h 19m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2430.29 | $9.86 | 📉 -0.89% | 2h 29m |
+| `AAPL` | 0.029357 | $340.64 | $339.33 | $9.96 | 📉 -0.38% | 4h 29m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2424.01 | $9.84 | 📉 -1.15% | 2h 40m |
 
 ---
 
 ### 🧠 Último Análisis de Gemini (Ciclo Reciente)
 
-> "El mercado general muestra una ligera corrección en el corto plazo con la mayoría de los activos tecnológicos y criptomonedas operando bajo sus medias móviles de 20 periodos en gráfico diario. Sin embargo, los mercados cripto permanecen abiertos 24/7 ofreciendo la mayor flexibilidad táctica. Nuestras posiciones actuales en AAPL y ETH-USD se mantienen estables dentro de márgenes manejables de pérdida, sin haber alcanzado el stop-loss estricto del -2.0%. Mantendremos la calma y daremos espacio a ETH-USD para consolidar su tendencia alcista de 24 horas, mientras que AAPL se mantiene vigilada de cerca por su RSI de 1 hora en niveles bajos."
+> "El mercado general muestra una tendencia lateral a bajista en temporalidad diaria, con la mayoría de los activos operando bajo sus medias móviles de 20 periodos (SMA20). Sin embargo, los criptoactivos y algunas acciones tecnológicas se mantienen accesibles o muestran ligeras consolidaciones. Las posiciones actuales en cartera (AAPL y ETH-USD) registran ligeras pérdidas no realizadas (-0.38% y -1.15% respectivamente), pero se encuentran dentro de los límites de riesgo antes de activar un stop-loss estricto. Mantendremos la disciplina operativa."
 
 **Operaciones del ciclo:**
-- **[HOLD] ETH-USD** (Confianza: 75%): ETH-USD muestra un rendimiento positivo en 24 horas (+1.06%) a pesar de un pequeño retroceso en la última hora. El holding time actual es de 2h 29m, por lo que debemos darle más tiempo para que desarrolle el rebote técnico esperado sin precipitar una venta anticipada.
-- **[HOLD] AAPL** (Confianza: 70%): AAPL se encuentra con un pequeño retroceso (-0.5%), pero su tendencia diaria sigue siendo alcista sobre la SMA20 y su RSI de 1 hora está en 34.2, cerca de la zona de sobreventa. Mantendremos la posición para buscar el rebote técnico hacia nuestros objetivos de ganancia.
+- **[HOLD] AAPL** (Confianza: 70%): La posición en AAPL se encuentra con una pérdida menor del -0.38% tras 4 horas y media de holding. El RSI de 1 hora está en 32.9, cerca de zonas de sobreventa, lo que sugiere mantener la posición a la espera del rebote técnico esperado hacia el objetivo de take-profit sin necesidad de forzar una salida anticipada.
+- **[HOLD] ETH-USD** (Confianza: 70%): ETH-USD registra una pérdida leve del -1.15% y un tiempo en cartera de casi 3 horas. Aunque el cambio de 1 hora es ligeramente negativo (-0.47%), el RSI diario en 27.4 indica una condición de sobreventa macro con potencial de rebote. Se mantiene la posición mientras no rebase el stop-loss estricto del -2.0%.
 
 ---
 
 ### 📝 Bitácora & Memoria Operativa (Próximos Ciclos)
 
-> "Mantener las posiciones actuales (AAPL y ETH-USD) evaluando su comportamiento durante las próximas horas. Vigilar el RSI de 1 hora de AAPL para detectar un rebote técnico hacia la zona de take-profit (+2.0%) o cortar pérdidas si el precio rompe soportes clave por debajo del -2.0%. Mantener la liquidez actual disponible para reaccionar ante cualquier volatilidad inminente en los mercados de criptomonedas."
+> "Monitorear de cerca ETH-USD y AAPL. Si ETH-USD profundiza su caída rompiendo el soporte y acercándose al límite de -2.0%, procederé a vender para proteger el capital. Si AAPL recupera momentum técnico y rebota hacia la zona del +2.0%, tomaré ganancias. Mantener la liquidez disponible para reaccionar ante cualquier volatilidad en activos 24/7."
 ---
 
 ### 📈 Rendimiento Histórico & Estadísticas Quant

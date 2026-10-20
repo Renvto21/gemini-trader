@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (AAPL y ETH-USD) evaluando su comportamiento durante las próximas horas. Vigilar el RSI de 1 hora de AAPL para detectar un rebote técnico hacia la zona de take-profit (+2.0%) o cortar pérdidas si el precio rompe soportes clave por debajo del -2.0%. Mantener la liquidez actual disponible para reaccionar ante cualquier volatilidad inminente en los mercados de criptomonedas.",
-    "updated_at": "2026-10-20T16:20:52.318817-03:00"
+    "notes": "Monitorear de cerca ETH-USD y AAPL. Si ETH-USD profundiza su caída rompiendo el soporte y acercándose al límite de -2.0%, procederé a vender para proteger el capital. Si AAPL recupera momentum técnico y rebota hacia la zona del +2.0%, tomaré ganancias. Mantener la liquidez disponible para reaccionar ante cualquier volatilidad en activos 24/7.",
+    "updated_at": "2026-10-20T16:31:03.417833-03:00"
   }
 }
