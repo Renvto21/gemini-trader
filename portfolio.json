@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran estables y dentro de parámetros seguros. Monitorear de cerca los niveles de take-profit en +2.0% o si el RSI de 1 hora supera los 70 puntos para asegurar beneficios. Si alguna posición cripto pierde el soporte o cae más de -1.5%, proceder a vender para cortar pérdidas y rotar capital.",
-    "updated_at": "2026-10-20T03:50:42.675316-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que ninguna ha alcanzado el stop-loss estricto de -2.0% ni el take-profit de +2.0%. Estar atento al mercado de criptomonedas para asegurar ganancias si SOL-USD o ETH-USD disparan su RSI por encima de 70, o bien rotar capital si alguna posición muestra debilidad prolongada.",
+    "updated_at": "2026-10-20T04:00:45.973205-03:00"
   }
 }
