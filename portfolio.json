@@ -1760,7 +1760,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) ya que se encuentran dentro de los márgenes de riesgo y las pérdidas son acotadas. Monitorear de cerca el RSI de 1 hora de las criptomonedas abiertas; si alguna supera el nivel de 70 o alcanza un beneficio de +2.0%, se procederá a tomar ganancias para liberar efectivo. Mantener la disciplina de no operar en mercados cerrados.",
-    "updated_at": "2026-10-20T08:00:56.886691-03:00"
+    "notes": "Mantener las posiciones actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) dado que se encuentran estables con pérdidas mínimas. Monitorear de cerca el RSI de 1 hora y los cambios porcentuales en las criptomonedas abiertas; ejecutar take-profit si alguna posición alcanza el objetivo de +2.0% o si el RSI de 1 hora supera 70. Mantener la reserva de efectivo libre de operaciones innecesarias mientras los mercados tradicionales permanezcan cerrados.",
+    "updated_at": "2026-10-20T08:10:43.933594-03:00"
   }
 }
