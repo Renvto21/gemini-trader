@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener posiciones abiertas en AAPL y ETH-USD. Monitorear de cerca ETH-USD para asegurar un take-profit si se aproxima al +2.0% o si el RSI de 1 hora entra en sobrecompra superior a 70. Vigilar el stop-loss estricto en -2.0% para ambas posiciones y estar preparado para rotar capital hacia SOL-USD o BTC-USD si surge un mejor catalizador de momentum en cripto.",
-    "updated_at": "2026-10-20T17:01:00.501530-03:00"
+    "notes": "Mantener las posiciones actuales en AAPL (pendiente de apertura de mercado) y ETH-USD. Vigilar de cerca el rendimiento de ETH-USD para asegurar take-profit si alcanza el rango objetivo del +2.0% o si el RSI de 1 hora se aproxima a la zona de sobrecompra (>70). Monitorear estrictamente el stop-loss en -2.0% para evitar caídas mayores y evaluar la rotación hacia SOL-USD o BTC-USD si surge un catalizador alcista más fuerte.",
+    "updated_at": "2026-10-20T17:10:46.806679-03:00"
   }
 }
