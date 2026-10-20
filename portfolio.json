@@ -1751,7 +1751,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantener las posiciones actuales en criptomonedas (ETH-USD, SOL-USD, BTC-USD) y QQQ a la espera de un mayor volumen de negociación en la apertura de Wall Street. Vigilar estrictamente el stop-loss en -2.0% y buscar la toma de ganancias (take-profit) entre +2.0% y +3.5% para ETH-USD y SOL-USD. No se realizarán nuevas compras en este ciclo para preservar la liquidez de $4.00 USD.",
-    "updated_at": "2026-10-19T21:40:44.741510-03:00"
+    "notes": "Mantener las posiciones abiertas actuales (QQQ, ETH-USD, SOL-USD, BTC-USD) dado que aún no han alcanzado los objetivos de take-profit (+2% a +3.5%) ni han perforado el stop-loss estricto de -2.0%. Monitorear de cerca el comportamiento de SOL-USD y ETH-USD para asegurar ganancias si se presenta un repunte rápido, o rotar capital si el estancamiento persiste por más ciclos.",
+    "updated_at": "2026-10-19T21:50:41.774674-03:00"
   }
 }
