@@ -1812,7 +1812,7 @@
     }
   ],
   "memory": {
-    "notes": "Mantendremos las posiciones actuales en AAPL y GLD ya que el tiempo de retención sigue siendo bajo (19 minutos) y buscamos el rebote técnico hacia la zona de take-profit entre +2.5% y +3.5%. El stop-loss se mantiene estricto en -2.0%. Si alguna de las posiciones rompe soportes o se estanca sin momentum, realizaremos una venta para rotar capital hacia criptomonedas o activos con mayor dinamismo intradiario.",
-    "updated_at": "2026-10-20T12:21:11.331985-03:00"
+    "notes": "Mantendremos las posiciones actuales en AAPL y GLD ya que el tiempo de retención sigue siendo bajo y buscamos el rebote técnico hacia la zona de take-profit entre +2.5% y +3.5%. El stop-loss se mantiene estricto en -2.0%. Si alguna de las posiciones rompe soportes o se estanca sin momentum, realizaremos una venta en el próximo ciclo para rotar capital hacia activos con mayor dinamismo intradiario.",
+    "updated_at": "2026-10-20T12:31:29.007388-03:00"
   }
 }
