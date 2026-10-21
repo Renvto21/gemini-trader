@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions AAPL and MSFT, allowing them time to run toward the +3.0% to +5.0% profit targets while monitoring stop-loss limits (-1.8% to -2.0%). For crypto, continue tracking BTC-USD for a valid pullback confirmation (waiting for rsi_1h >= 32 and change_1h_pct > 0.0) while adhering to the single crypto position anti-correlation constraint and minimum cash reserve requirements.",
-    "updated_at": "2026-10-21T20:30:51.066009-03:00"
+    "notes": "Maintain current equity holdings AAPL and MSFT, respecting the equity holding patience rule and letting them run toward +3.0% to +5.0% profit targets while monitoring stop-losses (-1.8% to -2.0%). For BTC-USD and other crypto assets, wait for a confirmed pullback setup (rsi_1h >= 32 and change_1h_pct > 0.0) while adhering to the single crypto position anti-correlation constraint and cash reserve requirements.",
+    "updated_at": "2026-10-21T20:40:41.757462-03:00"
   }
 }
