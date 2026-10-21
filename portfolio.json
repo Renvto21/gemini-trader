@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions (AAPL and MSFT) while markets are closed, respecting the +3.0% to +5.0% profit target and the -1.8% to -2.0% stop-loss limits. In the crypto sector, stay on the sidelines; wait for BTC-USD to experience a healthy pullback into the 35-65 RSI range alongside a confirmed positive 1-hour candle change before considering a deployment of capital.",
-    "updated_at": "2026-10-21T19:10:43.629558-03:00"
+    "notes": "Maintain existing equity positions (AAPL and MSFT) through the weekend and market closures, respecting the +3.0% to +5.0% profit targets and strict -1.8% to -2.0% stop-loss limits. For the crypto sector, monitor BTC-USD for a healthier pullback into the 35-65 RSI range combined with a confirmed positive 1-hour candle before deployment. Avoid opening any trades while entry confirmation criteria are unmet.",
+    "updated_at": "2026-10-21T19:20:42.563975-03:00"
   }
 }
