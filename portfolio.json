@@ -1838,7 +1838,7 @@
     }
   ],
   "memory": {
-    "notes": "AAPL will continue to be held patiently in accordance with equity holding rules. For crypto, BTC-USD is above SMA20 but lacks a confirmed green 1-hour candle (change_1h_pct is -0.09% with an RSI_1h of 69.8); we will wait for a proper pullback with a confirmed green candle before executing any crypto buy. Maintain cash reserves above $4.00 USD and strictly follow stop-loss and profit-target rules.",
-    "updated_at": "2026-10-21T11:01:39.286231-03:00"
+    "notes": "AAPL is held patiently in accordance with equity holding rules with negligible drawdown (-0.01%), far above the stop-loss threshold. For crypto, BTC-USD remains above SMA20 and is on our watch list; we are waiting for a confirmed green 1-hour candle (change_1h_pct > 0.0) combined with an RSI_1h >= 32 before initiating any position. Cash reserves are well-maintained at $29.20 USD.",
+    "updated_at": "2026-10-21T11:11:30.651859-03:00"
   }
 }
