@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold AAPL and MSFT positions respecting our profit targets (+3.0% to +5.0%) and stop-loss limits (-1.8% to -2.0%). Monitor BTC-USD for potential entry if a proper pullback occurs while maintaining an uptrend, or watch for profit-taking conditions if it rallies further. Ensure cash reserve stays above $4.00 USD.",
-    "updated_at": "2026-10-21T20:00:53.348817-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT with patience, targeting +3.0% to +5.0% gains while enforcing the -1.8% to -2.0% stop-loss limits. For crypto, monitor BTC-USD closely for a proper pullback entry when the 1-hour candle turns positive and RSI remains above 32, ensuring anti-correlation constraints are respected.",
+    "updated_at": "2026-10-21T20:10:42.938229-03:00"
   }
 }
