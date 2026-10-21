@@ -1838,7 +1838,7 @@
     }
   ],
   "memory": {
-    "notes": "AAPL is held patiently as per equity holding rules. Cash reserve remains at $29.20. BTC-USD shows an uptrend above SMA20 but rsi_1h is elevated at 72.6, so we wait for a healthier pullback into the 35-50 RSI range with a confirmed green 1-hour candle before considering entry. Continue monitoring crypto markets for valid asymmetric pullbacks while equities remain closed.",
-    "updated_at": "2026-10-21T10:20:42.471942-03:00"
+    "notes": "AAPL is held patiently as per equity holding rules; current PnL is slightly negative (-0.34%) but well within acceptable boundaries above our -1.8% to -2.0% stop-loss threshold. BTC-USD remains on watch as the only crypto asset in an uptrend (above SMA20), but current rsi_1h is elevated at 68.3. We will wait for a healthier pullback into the 35-50 RSI zone with a confirmed green 1-hour candle before deploying capital into crypto.",
+    "updated_at": "2026-10-21T10:31:11.486253-03:00"
   }
 }
