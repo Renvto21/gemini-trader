@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL remains an uptrend equity holding and should be given time to perform. ETH-USD is in a 24/7 market below SMA20; monitor for a take-profit target between +3.0% and +5.0% or a strict stop-loss cut if it reaches -2.0%. Do not open new crypto positions due to anti-correlation and strict trend filters.",
-    "updated_at": "2026-10-21T00:10:42.246056-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL is a stable uptrend equity holding. ETH-USD requires close monitoring for take-profit between +3.0% and +5.0% or a hard stop-loss at -2.0%. Do not open new crypto positions as ETH-USD is already occupying the single allowed crypto slot.",
+    "updated_at": "2026-10-21T00:20:40.943498-03:00"
   }
 }
