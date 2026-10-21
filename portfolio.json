@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and ETH-USD positions. Wait for ETH-USD to reach the +3.0% to +5.0% profit target window or cut losses strictly if it hits the -1.8% stop-loss threshold. Keep holding AAPL patiently given the equity holding patience rule. Avoid opening new crypto or equity trades due to market closures and lack of confirmed trend-following pullback signals.",
-    "updated_at": "2026-10-20T22:00:49.660465-03:00"
+    "notes": "Maintain current positions in AAPL and ETH-USD. ETH-USD is fluctuating near entry price; hold for the +3.0% to +5.0% profit target window or cut losses strictly if it reaches the -1.8% stop-loss. Keep holding AAPL patiently as equities require time to play out. Avoid opening new positions as no active crypto asset satisfies the strict trend-following pullback rules at this exact moment.",
+    "updated_at": "2026-10-20T22:10:38.598202-03:00"
   }
 }
