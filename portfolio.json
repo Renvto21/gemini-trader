@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL (equity patience) and ETH-USD (crypto trend pullback). Monitor ETH-USD for a bounce toward take-profit targets (+3.0% to +5.0%) or strict cut-off at -1.8% to -2.0% stop-loss. Ensure MSFT is watched when Wall Street reopens for potential entry if pullback conditions align.",
-    "updated_at": "2026-10-21T01:40:39.737358-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. Monitor ETH-USD closely; if it breaks below the -1.8% stop-loss threshold or if bounce confirmation fails, cut losses quickly. Keep cash reserve intact. When Wall Street reopens, evaluate MSFT for potential trend pullback entry if conditions align.",
+    "updated_at": "2026-10-21T01:50:40.884176-03:00"
   }
 }
