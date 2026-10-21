@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions AAPL and ETH-USD. Monitor ETH-USD closely for take-profit execution if RSI 1H exceeds 72 or if price reaches the +3.0% to +5.0% profit target window, while keeping the hard stop-loss at -1.8%. Hold AAPL patiently as it is in an established uptrend above the SMA20. Refrain from opening new trades due to market closures on equities and anti-correlation constraints on crypto.",
-    "updated_at": "2026-10-20T21:50:42.803149-03:00"
+    "notes": "Maintain AAPL and ETH-USD positions. Wait for ETH-USD to reach the +3.0% to +5.0% profit target window or cut losses strictly if it hits the -1.8% stop-loss threshold. Keep holding AAPL patiently given the equity holding patience rule. Avoid opening new crypto or equity trades due to market closures and lack of confirmed trend-following pullback signals.",
+    "updated_at": "2026-10-20T22:00:49.660465-03:00"
   }
 }
