@@ -1,38 +1,5 @@
 
  💼 Open Positions:
-   • AAPL: 0.029357 u. | Buy: $340.64 | Now: $339.5 | Total: $9.97 📉 (-0.33%) [Time: 12h 49m]
-   • ETH-USD: 0.004058 u. | Buy: $2452.17 | Now: $2445.38 | Total: $9.92 📉 (-0.28%) [Time: 10h 59m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The portfolio currently holds AAPL and ETH-USD. Wall Street equity markets are currently closed (CERRADO), meaning no actions can be taken on equities like AAPL, which is maintaining a steady posture above its SMA20. Cryptocurrencies are trading 24/7, with ETH-USD exhibiting a minor pullback (-0.28% PnL) but holding its ground without breaching the strict -1.8% to -2.0% stop-loss threshold. Other crypto assets and major indices remain largely under bearish daily trends relative to SMA20."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintain current positions in AAPL and ETH-USD. AAPL is a stable equity position in a confirmed uptrend and must be given time to play out per equity patience rules. ETH-USD is holding above stop-loss thresholds; continue monitoring for take-profit targets between +3.0% and +5.0% or a circuit breaker exit at -2.0%. Do not open new crypto positions to adhere to the anti-correlation rule."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] ETH-USD (Confidence: 80%)
-    Reason: ETH-USD is down only -0.28%, remaining well above the strict stop-loss limit of -1.8% to -2.0%. Patience is required to let the trade develop towards our +3.0% to +5.0% take-profit target.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.01 USD (Cash: $19.12 USD)
-
-[2026-10-21 01:00:41] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $19.12 USD
- Assets Value:        $19.87 USD
- Total Balance:       $39.00 USD
- Net PnL:             🔴 $-1.00 USD (-2.50%)
-
- 💼 Open Positions:
    • AAPL: 0.029357 u. | Buy: $340.64 | Now: $339.5 | Total: $9.97 📉 (-0.33%) [Time: 12h 59m]
    • ETH-USD: 0.004058 u. | Buy: $2452.17 | Now: $2441.64 | Total: $9.91 📉 (-0.43%) [Time: 11h 9m]
 =======================================================
@@ -147,6 +114,39 @@ Final Cycle Balance: $39.01 USD (Cash: $19.12 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] ETH-USD (Confidence: 80%)
     Reason: ETH-USD position is currently down -0.4%, well above the -1.8% stop-loss threshold. Holding to let the trade develop towards our +3.0% to +5.0% take-profit target in accordance with asymmetric risk/reward rules.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.00 USD (Cash: $19.12 USD)
+
+[2026-10-21 01:40:33] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $19.12 USD
+ Assets Value:        $19.87 USD
+ Total Balance:       $39.00 USD
+ Net PnL:             🔴 $-1.00 USD (-2.51%)
+
+ 💼 Open Positions:
+   • AAPL: 0.029357 u. | Buy: $340.64 | Now: $339.5 | Total: $9.97 📉 (-0.33%) [Time: 13h 38m]
+   • ETH-USD: 0.004058 u. | Buy: $2452.17 | Now: $2440.8 | Total: $9.9 📉 (-0.46%) [Time: 11h 49m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The market shows mixed conditions with major stock indexes and equities currently closed. Cryptocurrencies remain active 24/7, though most are trading below their SMA20 trend lines, dictating high caution against catch-falling-knife scenarios. Our holding ETH-USD shows minor unrealized drawdown (-0.46%) but maintains structure without hitting stop-loss thresholds. AAPL remains stable as an equity holding awaiting market hours. We continue enforcing discipline, capital preservation, and trend-following filters."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintain existing positions in AAPL (equity patience) and ETH-USD (crypto trend pullback). Monitor ETH-USD for a bounce toward take-profit targets (+3.0% to +5.0%) or strict cut-off at -1.8% to -2.0% stop-loss. Ensure MSFT is watched when Wall Street reopens for potential entry if pullback conditions align."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] ETH-USD (Confidence: 80%)
+    Reason: ETH-USD is currently down -0.46%, well within acceptable drawdown limits and above the -1.8% stop-loss threshold. We maintain exposure while awaiting upside momentum.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
