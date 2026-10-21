@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and ETH-USD positions. Adhere to equity holding patience for AAPL. Monitor ETH-USD for profit targets between +3% and +5% or stop-loss execution near -1.8%. Avoid opening additional crypto positions to respect the single crypto holding constraint.",
-    "updated_at": "2026-10-21T05:20:41.250216-03:00"
+    "notes": "Hold AAPL in line with equity holding patience guidelines. Monitor ETH-USD for a profit target between +3% and +5% or stop-loss execution near -1.8%. No new crypto purchases will be made as ETH-USD is already held, respecting the single crypto holding constraint and trend filters.",
+    "updated_at": "2026-10-21T05:30:43.304637-03:00"
   }
 }
