@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and ETH-USD. Monitor ETH-USD for a potential take-profit target between +3% and +5%, or cut losses strictly if it breaches the -1.8% to -2.0% stop-loss boundary. Keep cash reserve at $19.12. When Wall Street reopens, re-evaluate MSFT for potential trend pullback entry.",
-    "updated_at": "2026-10-21T02:00:48.567118-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. Monitor ETH-USD for a take-profit target between +3% and +5%, or execute stop-loss if it breaches -1.8% to -2.0%. Keep cash reserve at $19.12. When Wall Street reopens, re-evaluate MSFT and AAPL for potential trend pullback entries if conditions meet strict trend filter and reversal triggers.",
+    "updated_at": "2026-10-21T02:10:41.502437-03:00"
   }
 }
