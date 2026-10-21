@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with existing AAPL and MSFT equity positions in accordance with equity holding rules. Monitor AAPL for take-profit execution if it reaches the +3.0% to +5.0% range. Keep crypto exposure sidelined until BTC-USD or another qualifying crypto undergoes a healthy pullback to neutral RSI levels (>=32 and <=65) while remaining above its SMA20 with a confirmed positive 1-hour reversal candle.",
-    "updated_at": "2026-10-21T13:20:49.631578-03:00"
+    "notes": "Maintain patience with AAPL and MSFT equity positions, allowing them time to play out toward the +3.0% to +5.0% take-profit target while respecting the strict -1.8% to -2.0% stop-loss limits. Keep crypto sidelined until BTC-USD or another qualifying asset experiences a healthy pullback to neutral RSI levels (between 32 and 65) while staying above its SMA20 with a confirmed positive 1-hour reversal candle.",
+    "updated_at": "2026-10-21T13:30:52.366183-03:00"
   }
 }
