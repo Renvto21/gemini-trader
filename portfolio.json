@@ -1838,7 +1838,7 @@
     }
   ],
   "memory": {
-    "notes": "AAPL will be held patiently as per equity holding rules. BTC-USD remains the primary crypto asset of interest due to its uptrend status, but we await a deeper pullback into the 35-50 RSI zone with a confirmed green 1-hour candle before entering. Maintain strict risk management and ensure minimum cash reserves of $4.00 USD.",
-    "updated_at": "2026-10-21T10:40:51.050134-03:00"
+    "notes": "AAPL will continue to be held patiently in accordance with equity holding rules since it has only been open for ~23 hours. For crypto, BTC-USD is currently above SMA20 but its RSI_1h is too high (>72) to buy; we will wait for a pullback into the 35-50 RSI zone with a confirmed green 1-hour candle before executing any crypto buy. Maintain cash reserves above $4.00 USD and strictly follow stop-loss and profit-target rules.",
+    "updated_at": "2026-10-21T10:50:43.336642-03:00"
   }
 }
