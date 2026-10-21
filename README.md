@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 10:50:43`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 11:01:39`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$29.20 USD** | **$10.00 USD** | **$39.19 USD** | 🔴 **-2.02%** ($-0.81) |
+| **$40.00 USD** | **$29.20 USD** | **$10.02 USD** | **$39.21 USD** | 🔴 **-1.97%** ($-0.79) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $340.49 | $10.00 | 📉 -0.04% | 22h 49m |
+| `AAPL` | 0.029357 | $340.64 | $341.20 | $10.02 | 📈 +0.16% | 23h 0m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The market shows selective strength in major indices and assets. SPY and AAPL remain in confirmed uptrends above the SMA20, while Bitcoin (BTC-USD) is strongly bullish and currently above its SMA20 with an RSI_1h of 73.6. Other altcoins and several equities remain below their SMA20 lines. AAPL is currently held in our portfolio with a holding time under 24 hours, adhering to equity patience rules despite a low 1h RSI. No new crypto positions can be opened since BTC-USD is overbought (RSI > 72) and we adhere to anti-correlation constraints."
+> "The overall market shows a mix of conditions. Equities are currently open and showing moderate activity, while major cryptocurrencies like BTC-USD remain in an uptrend above the SMA20. However, current 1-hour change percentages for potential crypto targets like BTC-USD are negative or flat (change_1h_pct is -0.09%), failing to meet our strict reversal confirmation trigger of a positive 1-hour candle. For our existing equity position in AAPL, it has been held for roughly 23 hours in an uptrend and remains slightly positive (+0.16%), adhering to our equity holding patience rule since it has not hit stop-loss or profit targets."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above SMA20 and has been held for less than 24 hours. Per equity holding patience rules, we maintain the position and ignore short-term fluctuations.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above the SMA20 and is currently showing a slight positive return (+0.16%). Following equity holding patience rules, we maintain the position as it has not met stop-loss or take-profit criteria.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "AAPL will continue to be held patiently in accordance with equity holding rules since it has only been open for ~23 hours. For crypto, BTC-USD is currently above SMA20 but its RSI_1h is too high (>72) to buy; we will wait for a pullback into the 35-50 RSI zone with a confirmed green 1-hour candle before executing any crypto buy. Maintain cash reserves above $4.00 USD and strictly follow stop-loss and profit-target rules."
+> "AAPL will continue to be held patiently in accordance with equity holding rules. For crypto, BTC-USD is above SMA20 but lacks a confirmed green 1-hour candle (change_1h_pct is -0.09% with an RSI_1h of 69.8); we will wait for a proper pullback with a confirmed green candle before executing any crypto buy. Maintain cash reserves above $4.00 USD and strictly follow stop-loss and profit-target rules."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
