@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL and MSFT patiently according to equity holding patience rules. AAPL is up +0.98% and MSFT is up +0.47%; let winners run toward the +3.0% to +5.0% profit target while closely monitoring the -1.8% stop-loss threshold. For crypto assets, BTC-USD is above SMA20 but overbought (1h RSI > 75), so wait for a healthy pullback into the 32-65 RSI range with a positive 1-hour reversal candle before considering any deployment.",
-    "updated_at": "2026-10-21T17:10:45.654473-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT, letting winners run toward the +3.0% to +5.0% profit target while keeping a close eye on the -1.8% stop-loss threshold. For crypto assets, BTC-USD is overbought (1h RSI > 80); wait for a healthy pullback into the 32-65 RSI range with a positive 1-hour reversal candle before considering any deployment, adhering strictly to the trend filter and anti-correlation constraints.",
+    "updated_at": "2026-10-21T17:20:44.489555-03:00"
   }
 }
