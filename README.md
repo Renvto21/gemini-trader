@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 03:10:45`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 03:20:45`
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $339.50 | $9.97 | 📉 -0.33% | 15h 9m |
-| `ETH-USD` | 0.004058 | $2452.17 | $2436.18 | $9.89 | 📉 -0.65% | 13h 19m |
+| `AAPL` | 0.029357 | $340.64 | $339.50 | $9.97 | 📉 -0.33% | 15h 19m |
+| `ETH-USD` | 0.004058 | $2452.17 | $2436.35 | $9.89 | 📉 -0.65% | 13h 29m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The portfolio currently holds two active positions: AAPL (equity, market closed) and ETH-USD (crypto, market open). AAPL remains in a confirmed uptrend (above SMA20) and is down a minimal -0.33%, demonstrating normal price action while the equity market is closed. ETH-USD is down -0.65%, maintaining a stable position well above our hard stop-loss threshold of -2.0% while we wait for upside momentum to develop toward the +3.0% to +5.0% take-profit target. Crypto market conditions show limited immediate buy setups adhering to strict trend filters, and equity markets are currently closed. Therefore, maintaining patience and holding existing positions is the most disciplined approach."
+> "Wall Street equities remain closed (CERRADO) with prices frozen. AAPL remains held patiently in line with equity holding rules while currently showing a minor unrealized loss of -0.33%. In the crypto markets (ABIERTO 24/7), ETH-USD is currently down -0.65% with a 1-hour change of -0.0%, sitting below the SMA20 trend filter (bear trend). However, crypto markets show no immediate severe drawdown close to the -2.0% stop-loss threshold. No new positions are opened as crypto assets fail to meet the strict trend-following pullback criteria (trend is bearish below SMA20) and anti-correlation constraints prevent adding a second crypto asset."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend (above SMA20) and down a negligible -0.33%. Following equity holding patience rules, we maintain the position through closed market hours.
-- **[HOLD] ETH-USD** (Confidence: 100%): ETH-USD is currently down -0.65%, which is well within acceptable risk limits and far above the strict -2.0% stop-loss threshold. We wait patiently for the take-profit target of +3.0% to +5.0%.
+- **[HOLD] ETH-USD** (Confidence: 80%): ETH-USD is currently down -0.65%, holding well above the hard stop-loss threshold (-2.0%). Change over the last hour is flat (-0.0%), so we maintain the position patiently to reach the take-profit target.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing positions in AAPL and ETH-USD. AAPL respects equity holding patience during closed market hours, while ETH-USD is monitored for a take-profit target between +3.0% and +5.0% or a hard stop-loss cut at -2.0%. Cash reserves are at $19.12. No new trades are executed in this cycle to avoid duplicate crypto risk and wait for valid trend-following pullback confirmations."
+> "Maintain existing positions in AAPL and ETH-USD. AAPL is held under equity patience rules since markets are closed. ETH-USD is monitored for its take-profit target (+3.0% to +5.0%) or stop-loss limit (-2.0%); current change_1h_pct is flat (-0.0%), so we hold and wait for clearer bullish continuation before taking any action. Keep cash reserves intact at $19.12."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
