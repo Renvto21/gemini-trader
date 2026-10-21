@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions AAPL and ETH-USD. Monitor ETH-USD for upward recovery or stop-loss limits near -1.8%. Hold AAPL patiently as equity markets are closed and the asset remains in an uptrend above SMA20. Do not open new crypto positions due to anti-correlation constraints (max 1 crypto held).",
-    "updated_at": "2026-10-20T20:51:08.599114-03:00"
+    "notes": "Maintain existing positions AAPL and ETH-USD. Monitor ETH-USD for upward progression toward the +3.0% take-profit objective or downside protection at the -1.8% stop-loss. Retain AAPL patiently through the market closure as it maintains an uptrend above SMA20. Avoid opening additional crypto assets due to anti-correlation constraints.",
+    "updated_at": "2026-10-20T21:00:49.722605-03:00"
   }
 }
