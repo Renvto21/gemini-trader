@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL and ETH-USD. Monitor ETH-USD for either a bounce toward take-profit (+3.0% to +5.0%) or adherence to the hard stop-loss threshold (-2.0%). Keep AAPL undisturbed during market closure and respect equity patience. Watch for market hours reopening to evaluate MSFT as a potential pullback buy if it remains in an uptrend above SMA20 with positive confirmation triggers.",
-    "updated_at": "2026-10-20T23:30:49.147466-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. Monitor ETH-USD for a continuation of momentum once short-term hourly candles turn green again, aiming for a take-profit target of +3.0% to +5.0% while strictly respecting the -2.0% stop-loss. Keep AAPL undisturbed during market closure. Do not open new crypto positions due to anti-correlation constraints.",
+    "updated_at": "2026-10-20T23:40:38.351824-03:00"
   }
 }
