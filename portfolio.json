@@ -1838,7 +1838,7 @@
     }
   ],
   "memory": {
-    "notes": "Successfully executed take-profit on ETH-USD after rsi_1h exceeded 72 with positive returns. AAPL is held patiently as per equity holding rules since markets are closed. Cash reserve has increased. For the next cycle, we will look for high-quality pullback opportunities in confirmed uptrend assets when markets reopen, maintaining strict adherence to our trend and reversal confirmation triggers.",
-    "updated_at": "2026-10-21T10:10:57.987940-03:00"
+    "notes": "AAPL is held patiently as per equity holding rules. Cash reserve remains at $29.20. BTC-USD shows an uptrend above SMA20 but rsi_1h is elevated at 72.6, so we wait for a healthier pullback into the 35-50 RSI range with a confirmed green 1-hour candle before considering entry. Continue monitoring crypto markets for valid asymmetric pullbacks while equities remain closed.",
+    "updated_at": "2026-10-21T10:20:42.471942-03:00"
   }
 }
