@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT, allowing them to progress toward the +3.0% to +5.0% profit target while respecting the -1.8% stop-loss threshold. For BTC-USD, wait for a healthy cooling phase where the 1h RSI drops into the 32-65 range accompanied by a positive 1-hour reversal candle before deploying capital. Keep strict adherence to the anti-correlation rule and maintain required cash reserves.",
-    "updated_at": "2026-10-21T17:30:50.484850-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT toward the +3.0% to +5.0% profit target while honoring the -1.8% stop-loss threshold. For crypto (specifically BTC-USD), avoid buying into the overextended RSI > 70 zone; wait for a healthy pullback where 1h RSI drops into the 32-65 range accompanied by a positive reversal candle. Preserve cash reserves and respect the single-crypto exposure limit.",
+    "updated_at": "2026-10-21T17:40:41.067981-03:00"
   }
 }
