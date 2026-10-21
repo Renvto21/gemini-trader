@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL and MSFT toward the +3.0% to +5.0% profit target while respecting the strict -1.8% stop-loss. For crypto assets like BTC-USD, wait for a healthy pullback where 1h RSI dips to the 32-65 range accompanied by a positive 1h reversal candle before deploying any capital.",
-    "updated_at": "2026-10-21T18:00:48.065377-03:00"
+    "notes": "Continue holding AAPL and MSFT through the market closure toward our +3.0% to +5.0% profit targets, strictly respecting the -1.8% stop-loss. For crypto assets, BTC-USD is above SMA20 but overbought (1h RSI > 80); wait for a healthy pullback into the 35-65 RSI range with a positive 1h reversal candle before deploying any new crypto capital.",
+    "updated_at": "2026-10-21T18:10:43.840235-03:00"
   }
 }
