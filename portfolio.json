@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL is respecting equity patience rules while Wall Street is closed. ETH-USD is stable above stop-loss thresholds (-2.0%); monitoring for take-profit targets between +3.0% and +5.0%. Avoid opening additional crypto positions due to anti-correlation rules. Keep cash reserve stable above $4.00 USD and wait for market re-opening to assess equity trends.",
-    "updated_at": "2026-10-21T01:10:42.510514-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. Monitor ETH-USD for take-profit targets between +3.0% and +5.0% or strict stop-loss protection if it reaches -1.8%. Respect equity patience for AAPL while waiting for Wall Street to re-open. Keep cash reserves stable and do not open additional crypto exposure due to anti-correlation constraints.",
+    "updated_at": "2026-10-21T01:20:41.908482-03:00"
   }
 }
