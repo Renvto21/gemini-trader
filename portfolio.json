@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions (AAPL and MSFT) through market closure, respecting +3.0% to +5.0% profit targets and -1.8% to -2.0% stop-losses. For crypto, monitor BTC-USD for a healthy pullback into a neutral RSI zone with a confirmed positive 1-hour candle before considering deployment. Do not open new trades until all strict entry and market status criteria are fully met.",
-    "updated_at": "2026-10-21T19:30:50.125975-03:00"
+    "notes": "Maintain existing equity positions (AAPL and MSFT) through market closure, respecting +3.0% to +5.0% profit targets and -1.8% to -2.0% stop-losses. For crypto, wait for BTC-USD or another high-quality asset to pull back into a healthy neutral RSI zone with a confirmed positive 1-hour candle before deployment. Do not execute any trades while equities are closed and crypto conditions lack proper confirmation triggers.",
+    "updated_at": "2026-10-21T19:40:46.574973-03:00"
   }
 }
