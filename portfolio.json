@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT positions through market closure, keeping our stop-loss limits intact (-1.8%) and aiming for +3.0% to +5.0% profit targets. For crypto, continue monitoring BTC-USD for a healthier pullback into the 35-65 RSI range with positive 1h reversal confirmation before deploying any capital.",
-    "updated_at": "2026-10-21T18:20:41.872377-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions through market closure, keeping stop-loss limits intact at -1.8% and targeting +3.0% to +5.0% gains. For crypto, wait for BTC-USD or other qualified uptrend assets to pull back into a healthy 35-65 RSI range with positive 1-hour reversal confirmation before deploying capital.",
+    "updated_at": "2026-10-21T18:30:47.203640-03:00"
   }
 }
