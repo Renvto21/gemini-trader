@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 20:20:51`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 20:30:51`
 
 ---
 
@@ -17,22 +17,23 @@
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | `AAPL` | 0.029357 | $340.64 | $343.99 | $10.10 | 📈 +0.98% | 1d 8h |
-| `MSFT` | 0.013196 | $530.45 | $532.95 | $7.03 | 📈 +0.47% | 8h 19m |
+| `MSFT` | 0.013196 | $530.45 | $532.95 | $7.03 | 📈 +0.47% | 8h 29m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The US equity markets are currently closed with prices frozen, showing solid existing positions in AAPL and MSFT which are currently profitable (+0.98% and +0.47% respectively) and maintaining an uptrend above their SMA20. In the crypto sector, BTC-USD is trading in an uptrend above SMA20 but currently shows a slightly negative 1-hour change (-0.04%), failing to meet the Reversal Confirmation Trigger (change_1h_pct > 0.0). Other crypto assets like SOL-USD and ETH-USD are currently in downtrends below their SMA20 and therefore barred from purchase under strict trend filter rules."
+> "The current market environment shows traditional equities closed with prices frozen, while cryptocurrencies remain active 24/7. Among open equities, AAPL and MSFT are holding steady in confirmed uptrends above their SMA20 with positive unrealized gains (+0.98% and +0.47% respectively), well below our take-profit target of +3.0% to +5.0% and far from stop-loss thresholds. In the crypto sector, BTC-USD is in an uptrend above SMA20 with rsi_1h at 68.0, but its current 1-hour change is negative (-0.11%), failing our reversal confirmation trigger (change_1h_pct > 0.0). Therefore, no new crypto entry is warranted right now."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above SMA20 with a positive 24h return and +0.98% PnL. Per equity holding patience rules, we maintain the position and wait for the +3.0% to +5.0% profit target.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above SMA20 with a positive unrealized gain of +0.98%. Following equity holding patience guidelines, we give stocks time to play out toward our +3.0% to +5.0% target.
+- **[HOLD] MSFT** (Confidence: 90%): MSFT remains in a confirmed uptrend above SMA20 with an unrealized gain of +0.47%. Holding patiently as it progresses toward our take-profit objectives without hitting stop-loss parameters.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain patience on current equity positions AAPL and MSFT, letting them run toward the +3.0% to +5.0% profit targets while monitoring stop-loss limits (-1.8% to -2.0%). For crypto, keep monitoring BTC-USD for a proper pullback confirmation (waiting for change_1h_pct > 0.0 with rsi_1h >= 32) while adhering to the single crypto position anti-correlation constraint."
+> "Maintain current equity positions AAPL and MSFT, allowing them time to run toward the +3.0% to +5.0% profit targets while monitoring stop-loss limits (-1.8% to -2.0%). For crypto, continue tracking BTC-USD for a valid pullback confirmation (waiting for rsi_1h >= 32 and change_1h_pct > 0.0) while adhering to the single crypto position anti-correlation constraint and minimum cash reserve requirements."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
