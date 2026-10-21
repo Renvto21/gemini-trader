@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL remains stable in an uptrend and respects equity holding patience. ETH-USD shows modest gains (+0.46%); monitor closely for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%). No new positions will be opened during this cycle to protect cash reserves ($19.12 USD) and adhere strictly to single-crypto limits and closed market conditions for equities.",
-    "updated_at": "2026-10-21T08:30:39.846295-03:00"
+    "notes": "Monitor ETH-USD closely for take-profit target (+3.0% to +5.0%) or stop-loss (-1.8% to -2.0%). Maintain AAPL position as it is in an uptrend and respects equity holding patience rules. Do not open new crypto positions due to anti-correlation constraints (already holding ETH-USD).",
+    "updated_at": "2026-10-21T08:40:34.996495-03:00"
   }
 }
