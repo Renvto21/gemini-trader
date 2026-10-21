@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold AAPL and ETH-USD positions. Monitor ETH-USD for a take-profit target between +3.0% and +5.0% or a stop-loss near -1.8%. Respect equity patience for AAPL. Do not open new crypto positions while holding ETH-USD to avoid duplicate risk.",
-    "updated_at": "2026-10-21T05:50:44.735708-03:00"
+    "notes": "Hold AAPL and ETH-USD positions. Keep observing ETH-USD for bounce confirmation or a break towards the take-profit target (+3.0% to +5.0%) or stop-loss limit (-2.0%). Respect equity holding patience for AAPL since markets are closed. Maintain minimum cash reserves above $4.00 USD.",
+    "updated_at": "2026-10-21T06:00:54.781851-03:00"
   }
 }
