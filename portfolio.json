@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL and ETH-USD. Monitor ETH-USD for a take-profit target between +3.0% and +5.0%, or cut if it triggers the -2.0% stop-loss threshold. Do not open additional crypto positions due to the max 1 crypto position constraint. Keep cash reserves secure at $19.12 and wait for market hours to open for equities or clearer pullback signals.",
-    "updated_at": "2026-10-21T02:50:41.428336-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL is behaving normally in a closed market and respects the equity holding patience rule. ETH-USD is hovering near flat to slightly negative; monitor for a take-profit target between +3.0% and +5.0% or a strict exit if the -2.0% stop-loss threshold is triggered. Keep cash reserves intact at $19.12 and wait for market reopening or stronger trend confirmation signals before deploying additional capital.",
+    "updated_at": "2026-10-21T03:00:47.115863-03:00"
   }
 }
