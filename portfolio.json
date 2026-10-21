@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL remains protected under equity patience guidelines while above its SMA20. ETH-USD is monitored closely for our take-profit target between +3.0% and +5.0% or a stop-loss protection at -1.8%. We adhere strictly to the anti-correlation rule by avoiding any additional crypto purchases.",
-    "updated_at": "2026-10-21T08:00:53.007236-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL is protected under equity patience guidelines while above its SMA20. ETH-USD is tracking towards our +3.0% to +5.0% take-profit target or stop-loss protection at -1.8%. Anti-correlation rules prevent opening additional crypto positions. We will monitor BTC-USD and equities upon market reopen.",
+    "updated_at": "2026-10-21T08:10:44.909191-03:00"
   }
 }
