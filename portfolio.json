@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL and ETH-USD. AAPL is a stable equity position in a confirmed uptrend and must be given time to play out per equity patience rules. ETH-USD is holding above stop-loss thresholds; continue monitoring for take-profit targets between +3.0% and +5.0% or a circuit breaker exit at -2.0%. Do not open new crypto positions to adhere to the anti-correlation rule.",
-    "updated_at": "2026-10-21T00:50:42.569849-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL is respecting equity patience rules while in a confirmed uptrend. ETH-USD is holding above stop-loss thresholds (-2.0%); monitoring for take-profit targets between +3.0% and +5.0%. Avoid opening additional crypto positions due to anti-correlation rules. Keep cash reserve stable above $4.00 USD.",
+    "updated_at": "2026-10-21T01:00:47.094671-03:00"
   }
 }
