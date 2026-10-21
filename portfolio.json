@@ -1838,7 +1838,7 @@
     }
   ],
   "memory": {
-    "notes": "AAPL is maintained patiently in accordance with equity holding rules, targeting a take-profit of +3.0% to +5.0% and monitoring the -2.0% stop-loss circuit breaker. For upcoming cycles, we will watch BTC-USD for a healthy pullback to a neutral RSI_1h range (>= 32) and a confirmed green 1-hour candle before executing a crypto entry, keeping anti-correlation constraints in mind.",
-    "updated_at": "2026-10-21T11:41:05.424381-03:00"
+    "notes": "Maintain AAPL patiently in accordance with equity holding rules, targeting a take-profit of +3.0% to +5.0% and monitoring the stop-loss circuit breaker. Watch MSFT for a confirmed green candle bounce above SMA20, and keep BTC-USD on watch for a pullback into a neutral 1H RSI range (>= 32) before considering any crypto deployment.",
+    "updated_at": "2026-10-21T11:50:50.479076-03:00"
   }
 }
