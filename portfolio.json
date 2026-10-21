@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL is held under equity patience rules since markets are closed. ETH-USD is monitored for its take-profit target (+3.0% to +5.0%) or stop-loss limit (-2.0%); current change_1h_pct is flat (-0.0%), so we hold and wait for clearer bullish continuation before taking any action. Keep cash reserves intact at $19.12.",
-    "updated_at": "2026-10-21T03:20:45.675763-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. AAPL is held patiently as the equity market is closed. ETH-USD is held according to asymmetric risk/reward rules; monitor for take-profit at +3.0% to +5.0% or stop-loss if it drops past -1.8%. No new positions will be opened at this stage as we respect the anti-correlation constraint and trend filter.",
+    "updated_at": "2026-10-21T03:30:46.846118-03:00"
   }
 }
