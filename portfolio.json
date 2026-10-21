@@ -1838,7 +1838,7 @@
     }
   ],
   "memory": {
-    "notes": "AAPL is held patiently as per equity holding rules. BTC-USD is above SMA20 but currently overbought (RSI_1h > 72), so we wait for a healthy pullback with RSI_1h >= 32 and a confirmed green 1-hour candle before entering. Cash reserves are robust at $29.20 USD. Anti-correlation constraint strictly limits us to one crypto position at a time.",
-    "updated_at": "2026-10-21T11:21:16.628223-03:00"
+    "notes": "AAPL is maintained patiently as per equity holding rules; we will monitor its stop-loss at -2.0% and take profit at +3.0% to +5.0%. BTC-USD is above SMA20 but overbought (RSI_1h > 72); we will wait for a healthy pullback to a neutral RSI_1h range (>= 32) accompanied by a confirmed green 1-hour candle before entering. Anti-correlation constraint restricts us to holding only one crypto position at a time.",
+    "updated_at": "2026-10-21T11:31:03.755304-03:00"
   }
 }

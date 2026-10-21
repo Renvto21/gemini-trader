@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 11:21:16`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 11:31:03`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$29.20 USD** | **$9.99 USD** | **$39.19 USD** | 🔴 **-2.04%** ($-0.81) |
+| **$40.00 USD** | **$29.20 USD** | **$9.99 USD** | **$39.18 USD** | 🔴 **-2.04%** ($-0.82) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $340.30 | $9.99 | 📉 -0.10% | 23h 19m |
+| `AAPL` | 0.029357 | $340.64 | $340.21 | $9.99 | 📉 -0.13% | 23h 29m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The equity holding AAPL remains stable with a negligible drawdown of -0.1%, well above the stop-loss threshold, adhering to equity holding patience rules. In the crypto sector, BTC-USD is currently in an uptrend above SMA20 with positive 1-hour momentum (change_1h_pct +0.12%), but its RSI_1h is at 74.0, which indicates overbought conditions rather than a clean pullback entry. Other crypto and equity assets mostly show downtrends or lack the precise trigger parameters required for entry."
+> "Market conditions show mixed trends across equities and crypto. AAPL remains in a confirmed uptrend (above SMA20) and is held patiently in accordance with equity holding rules despite flat short-term performance (-0.13%). Other major indices and equities like NVDA, QQQ, SPY, and GLD are currently trading below their SMA20, signaling bearish trends. In crypto, BTC-USD is in an uptrend (above SMA20) but currently overbought with an RSI_1h of 75.2, making it ineligible for entry until a proper pullback occurs. ETH-USD and SOL-USD are below their SMA20 lines. Cash reserves are robust at $29.20 USD, maintaining ample liquidity."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is well above stop-loss thresholds with minimal drawdown (-0.1%). Following equity holding patience rules, positions should not be sold prematurely if flat or slightly down without triggering the stop-loss.
+- **[HOLD] AAPL** (Confidence: 80%): AAPL is trading above its SMA20 in a confirmed uptrend with a minor unrealized loss of -0.13%. Following equity holding patience rules, we maintain the position and give it time to play out without premature rotation.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "AAPL is held patiently as per equity holding rules. BTC-USD is above SMA20 but currently overbought (RSI_1h > 72), so we wait for a healthy pullback with RSI_1h >= 32 and a confirmed green 1-hour candle before entering. Cash reserves are robust at $29.20 USD. Anti-correlation constraint strictly limits us to one crypto position at a time."
+> "AAPL is maintained patiently as per equity holding rules; we will monitor its stop-loss at -2.0% and take profit at +3.0% to +5.0%. BTC-USD is above SMA20 but overbought (RSI_1h > 72); we will wait for a healthy pullback to a neutral RSI_1h range (>= 32) accompanied by a confirmed green 1-hour candle before entering. Anti-correlation constraint restricts us to holding only one crypto position at a time."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
