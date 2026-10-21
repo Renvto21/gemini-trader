@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL and ETH-USD with strict adherence to stop-loss limits at -1.8% and take-profit targets between +3.0% and +5.0%. Monitor ETH-USD for a positive 1-hour candle turnaround before considering any further crypto allocation. Give AAPL equity holding patience time to develop without premature selling.",
-    "updated_at": "2026-10-20T23:20:41.493030-03:00"
+    "notes": "Maintain current positions in AAPL and ETH-USD. Monitor ETH-USD for either a bounce toward take-profit (+3.0% to +5.0%) or adherence to the hard stop-loss threshold (-2.0%). Keep AAPL undisturbed during market closure and respect equity patience. Watch for market hours reopening to evaluate MSFT as a potential pullback buy if it remains in an uptrend above SMA20 with positive confirmation triggers.",
+    "updated_at": "2026-10-20T23:30:49.147466-03:00"
   }
 }
