@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions (AAPL and MSFT) patiently in accordance with equity holding guidelines, monitoring stop-losses closely at -1.8% to -2.0% and aiming for +3.5% take-profit targets. Keep crypto sidelined due to overextended 1H RSI readings above 80 across all major tokens. Wait for a healthy pullback to a moderate RSI level paired with positive 1H price action before deploying capital into any single crypto asset.",
-    "updated_at": "2026-10-21T14:30:45.355313-03:00"
+    "notes": "Maintain AAPL and MSFT positions patiently in accordance with equity holding guidelines. Monitor stop-losses strictly at -1.8% to -2.0% and watch for take-profit targets between +3.0% and +5.0%. Keep crypto sidelined due to overextended 1h RSI levels (above 80 across BTC, ETH, and SOL). Wait for a healthy correction to moderate RSI levels (>= 32) combined with positive 1h price action before deploying capital into any crypto asset.",
+    "updated_at": "2026-10-21T14:40:45.869835-03:00"
   }
 }
