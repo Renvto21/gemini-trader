@@ -3,38 +3,6 @@
 =======================================================
  Initial Capital:     $40.00 USD
  Available Cash:      $29.20 USD
- Assets Value:        $9.97 USD
- Total Balance:       $39.16 USD
- Net PnL:             🔴 $-0.84 USD (-2.10%)
-
- 💼 Open Positions:
-   • AAPL: 0.029357 u. | Buy: $340.64 | Now: $339.49 | Total: $9.97 📉 (-0.34%) [Time: 22h 29m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The overall market shows mixed signals with several major equities and crypto assets below their SMA20 trend lines, classified as bearish or consolidating. AAPL remains held patiently in line with equity holding rules despite a minor current pullback, as it is in an uptrend above SMA20. In the crypto sector, BTC-USD is in an uptrend (above SMA20) with a 1-hour RSI at 68.3 and a positive 1-hour change (+0.10%), but we are waiting for a deeper dip into a healthier RSI range (35-50) before initiating an entry, adhering strictly to our pullback and risk-management principles. Since we currently hold an equity position (AAPL), and market hours are open for equities, we maintain our position and cash reserves."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"AAPL is held patiently as per equity holding rules; current PnL is slightly negative (-0.34%) but well within acceptable boundaries above our -1.8% to -2.0% stop-loss threshold. BTC-USD remains on watch as the only crypto asset in an uptrend (above SMA20), but current rsi_1h is elevated at 68.3. We will wait for a healthier pullback into the 35-50 RSI zone with a confirmed green 1-hour candle before deploying capital into crypto."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 85%)
-    Reason: AAPL is maintaining its position within normal intraday fluctuation ranges while sitting above the SMA20 uptrend line. Complying with equity holding patience rules, we hold the position without rotation, closely monitoring the stop-loss level.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.16 USD (Cash: $29.20 USD)
-
-[2026-10-21 10:40:43] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $29.20 USD
  Assets Value:        $9.99 USD
  Total Balance:       $39.18 USD
  Net PnL:             🔴 $-0.82 USD (-2.05%)
@@ -148,6 +116,38 @@ Final Cycle Balance: $39.21 USD (Cash: $29.20 USD)
 "AAPL is held patiently in accordance with equity holding rules with negligible drawdown (-0.01%), far above the stop-loss threshold. For crypto, BTC-USD remains above SMA20 and is on our watch list; we are waiting for a confirmed green 1-hour candle (change_1h_pct > 0.0) combined with an RSI_1h >= 32 before initiating any position. Cash reserves are well-maintained at $29.20 USD."
 
 ⚡ DECIDED ACTIONS:
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.19 USD (Cash: $29.20 USD)
+
+[2026-10-21 11:20:40] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $29.20 USD
+ Assets Value:        $9.99 USD
+ Total Balance:       $39.19 USD
+ Net PnL:             🔴 $-0.81 USD (-2.04%)
+
+ 💼 Open Positions:
+   • AAPL: 0.029357 u. | Buy: $340.64 | Now: $340.3 | Total: $9.99 📉 (-0.10%) [Time: 23h 19m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The equity holding AAPL remains stable with a negligible drawdown of -0.1%, well above the stop-loss threshold, adhering to equity holding patience rules. In the crypto sector, BTC-USD is currently in an uptrend above SMA20 with positive 1-hour momentum (change_1h_pct +0.12%), but its RSI_1h is at 74.0, which indicates overbought conditions rather than a clean pullback entry. Other crypto and equity assets mostly show downtrends or lack the precise trigger parameters required for entry."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"AAPL is held patiently as per equity holding rules. BTC-USD is above SMA20 but currently overbought (RSI_1h > 72), so we wait for a healthy pullback with RSI_1h >= 32 and a confirmed green 1-hour candle before entering. Cash reserves are robust at $29.20 USD. Anti-correlation constraint strictly limits us to one crypto position at a time."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 100%)
+    Reason: AAPL is well above stop-loss thresholds with minimal drawdown (-0.1%). Following equity holding patience rules, positions should not be sold prematurely if flat or slightly down without triggering the stop-loss.
+    ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
 Final Cycle Balance: $39.19 USD (Cash: $29.20 USD)
