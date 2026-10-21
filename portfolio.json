@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity positions through market closure, keeping stop-loss limits intact at -1.8% and targeting +3.0% to +5.0% gains. For crypto, wait for BTC-USD to pull back into a healthy 35-65 RSI range with positive 1-hour reversal confirmation before deploying capital.",
-    "updated_at": "2026-10-21T18:40:42.956507-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions through market closure, keeping stop-loss limits intact at -1.8% and targeting +3.0% to +5.0% gains. For cryptocurrencies, refrain from entering BTC-USD while its 1-hour RSI is overbought (>72); wait for BTC-USD or other crypto assets to form a healthy pullback into the 35-65 RSI range with positive 1-hour confirmation before deploying capital.",
+    "updated_at": "2026-10-21T18:50:42.021225-03:00"
   }
 }
