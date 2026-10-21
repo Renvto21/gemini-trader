@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity holdings in AAPL and MSFT. AAPL is up +1.18% and MSFT is up +0.44%, holding patiently as per equity holding rules. Keep crypto sidelined due to excessively high 1h RSI levels across BTC, ETH, and SOL. Wait for crypto 1h RSI to cool down to >= 32 with a positive 1-hour candle before looking for a valid dip-buying opportunity.",
-    "updated_at": "2026-10-21T15:20:42.492094-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT with strict adherence to holding patience. Keep cash reserves secure ($22.20 USD). For crypto, wait for BTC-USD or other uptrend assets to pull back to healthy 1-hour RSI levels (>= 32 and <= 65) with positive 1-hour price action before executing any new cryptocurrency buy orders.",
+    "updated_at": "2026-10-21T15:30:52.574812-03:00"
   }
 }
