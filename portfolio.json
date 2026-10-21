@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current holdings AAPL and ETH-USD. ETH-USD is currently showing a mild positive PnL (+0.38%); monitor closely for either reaching the take-profit target (+3.0% to +5.0%) or cutting losses if it hits the -1.8% to -2.0% stop-loss threshold. Respect equity holding patience for AAPL while markets remain closed. Do not open new positions to preserve our minimum cash reserve.",
-    "updated_at": "2026-10-21T06:20:43.090213-03:00"
+    "notes": "Maintain current holdings AAPL and ETH-USD. ETH-USD is near +0.35%; monitor for take-profit between +3.0% and +5.0% or stop-loss if it drops past -1.8%. Respect equity holding patience for AAPL while markets remain closed. Preserve cash reserves above $4.00 USD.",
+    "updated_at": "2026-10-21T06:30:46.347179-03:00"
   }
 }
