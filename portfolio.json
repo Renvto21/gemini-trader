@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and ETH-USD. Monitor ETH-USD for a continuation of momentum once short-term hourly candles turn green again, aiming for a take-profit target of +3.0% to +5.0% while strictly respecting the -2.0% stop-loss. Keep AAPL undisturbed during market closure. Do not open new crypto positions due to anti-correlation constraints.",
-    "updated_at": "2026-10-20T23:40:38.351824-03:00"
+    "notes": "Maintain existing positions in AAPL and ETH-USD. Monitor ETH-USD for a bounce and confirmation of positive 1-hour momentum before considering any profit-taking target between +3.0% and +5.0%. Keep a strict stop-loss at -2.0%. Do not open new crypto positions due to anti-correlation constraints. Keep AAPL untouched during market closure.",
+    "updated_at": "2026-10-20T23:50:44.308693-03:00"
   }
 }
