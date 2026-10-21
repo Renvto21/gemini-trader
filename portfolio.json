@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with AAPL during its consolidation above SMA20 while equity markets are closed. Monitor ETH-USD closely, keeping an eye on the profit target of +3.0% to +5.0% or a stop-loss exit if it breaches the -1.8% to -2.0% circuit breaker. Avoid opening additional crypto positions due to the anti-correlation rule (max 1 crypto position constraint).",
-    "updated_at": "2026-10-21T05:01:43.059794-03:00"
+    "notes": "Maintain AAPL through its consolidation period as equity patience dictates. Monitor ETH-USD for either a take-profit target between +3% and +5% or a stop-loss exit if it approaches the -1.8% to -2.0% circuit breaker. Do not open additional crypto positions to respect the single crypto holding constraint.",
+    "updated_at": "2026-10-21T05:10:44.504912-03:00"
   }
 }
