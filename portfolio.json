@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and ETH-USD. Monitor ETH-USD for a take-profit target between +3.0% and +5.0% or a hard stop-loss if it drops past -1.8%. Respect equity holding patience for AAPL while markets are closed. Keep cash reserve protected above $4.00 USD and wait for clean trend pullbacks once markets reopen.",
-    "updated_at": "2026-10-21T07:11:26.104153-03:00"
+    "notes": "Hold AAPL due to equity patience while its market is closed. Hold ETH-USD while monitoring for a take-profit target between +3.0% and +5.0% or a hard stop-loss if it drops past -1.8%. Watch BTC-USD for potential pullback entry if it turns positive on the 1-hour candle while remaining above SMA20.",
+    "updated_at": "2026-10-21T07:20:45.123927-03:00"
   }
 }
