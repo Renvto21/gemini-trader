@@ -1832,7 +1832,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL and ETH-USD. AAPL is protected by our equity patience rule since it remains in an uptrend above SMA20. ETH-USD is currently down -0.45%, well within our risk tolerance above the -1.8% stop-loss limit. Monitor ETH-USD for a bounce towards our +3.0% target or exit if stop-loss is breached. Respect cash reserves and anti-correlation constraints.",
-    "updated_at": "2026-10-21T04:20:42.166184-03:00"
+    "notes": "Continue holding AAPL and ETH-USD. AAPL is an equity position in an uptrend above SMA20, giving it time to develop. ETH-USD is stable above our -1.8% stop-loss threshold; monitor it for a continuation towards our +3.0% to +5.0% take-profit target or exit if stop-loss triggers. Keep cash reserves intact.",
+    "updated_at": "2026-10-21T04:30:44.800920-03:00"
   }
 }
