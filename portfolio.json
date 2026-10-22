@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT positions calmly according to equity holding patience rules, tracking take-profit targets between +3.0% and +5.0% and monitoring the hard stop-loss at -1.8%. Stand aside from all cryptocurrencies since they remain in strong downtrends below SMA20 with negative short-term momentum and no validated reversal triggers.",
-    "updated_at": "2026-10-22T06:00:48.655254-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions following equity holding patience rules. Monitor positions for the +3.0% to +5.0% take-profit zone or the -1.8% stop-loss limit. Continue to avoid all crypto assets until they reclaim SMA20 uptrends and trigger confirmed positive 1-hour momentum bounces.",
+    "updated_at": "2026-10-22T06:11:04.859264-03:00"
   }
 }
