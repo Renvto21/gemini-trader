@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL towards the target profit window of +3.0% to +5.0% ($350.85 - $357.65) or exit if 1h RSI exceeds 72 with sufficient gains. Holding MSFT with a strict stop-loss alert set at $519.84 (-2.0%). Cash reserve remains strong at $22.20 USD (56.5% of equity). Strict trend-filter rules prohibit buying dipping assets (BTC, ETH, SOL, QQQ, NVDA) until they reclaim SMA20 and print confirmed 1h reversal candles.",
-    "updated_at": "2026-10-22T11:03:19.166612-03:00"
+    "notes": "Holding AAPL in an active uptrend toward the target profit window of +3.0% to +5.0% ($350.85 - $357.65) or to be exited if 1h RSI exceeds 72. Holding MSFT despite a minor pullback (-0.91%), giving the equity time to play out per equity holding patience rules, with a strict stop-loss alert set near -2.0% ($519.84). Cash reserve stands at $22.20 USD. Strict trend filters continue to block new entries in assets below SMA20 or lacking confirmed 1h green reversal candles.",
+    "updated_at": "2026-10-22T11:12:03.449171-03:00"
   }
 }
