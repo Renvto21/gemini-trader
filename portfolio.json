@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold AAPL and MSFT positions following equity holding patience rules. Monitor stop-losses strictly at -2.0% and take-profit targets between +3.0% and +5.0%. For crypto assets like BTC-USD, wait for a confirmed positive 1-hour candle (change_1h_pct > 0.0 with rsi_1h >= 32) before entering any new pullback trade. Keep cash reserves above $4.00 USD.",
-    "updated_at": "2026-10-21T22:01:04.176872-03:00"
+    "notes": "Holding AAPL and MSFT positions patiently as equity markets are closed. Monitor stop-losses at -2.0% and take-profit targets between +3.0% and +5.0%. For crypto assets, BTC-USD remains in an uptrend; will wait for a clearer dip and a confirmed positive 1-hour candle (change_1h_pct > 0.0 with rsi_1h >= 32) before entering. Maintain cash reserves above $4.00 USD.",
+    "updated_at": "2026-10-21T22:10:44.980196-03:00"
   }
 }
