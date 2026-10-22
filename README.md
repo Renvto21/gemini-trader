@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 04:50:43`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 05:00:53`
 
 ---
 
@@ -17,23 +17,23 @@
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | `AAPL` | 0.029357 | $340.64 | $343.99 | $10.10 | 📈 +0.98% | 1d 16h |
-| `MSFT` | 0.013196 | $530.45 | $532.95 | $7.03 | 📈 +0.47% | 16h 49m |
+| `MSFT` | 0.013196 | $530.45 | $532.95 | $7.03 | 📈 +0.47% | 16h 59m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities (AAPL, MSFT, SPY, etc.) are currently closed, with market status showing CERRADO. Our existing equity positions in AAPL (+0.98% PnL) and MSFT (+0.47% PnL) remain stable above their SMA20 uptrends and are being held patiently according to equity holding rules. In the crypto markets, assets like ETH-USD, BTC-USD, and SOL-USD are open (24/7) but are currently in bearish trends (below SMA20) with negative 1-hour changes and low RSI values, failing our strict reversal confirmation and trend-following filters. Therefore, no new crypto trades will be executed."
+> "Wall Street equities (AAPL, MSFT, SPY, QQQ, NVDA) are currently closed with frozen prices. Active crypto assets (SOL-USD, ETH-USD, BTC-USD) are open 24/7, but they are all trading in bearish trends below their SMA20 with low 1-hour RSI readings, preventing any valid buy setups. Our existing equity positions in AAPL and MSFT remain stable, in confirmed uptrends, and are being held patiently according to equity holding rules."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Asset is in a confirmed uptrend above SMA20 and currently shows positive unrealized gains (+0.98%). Following equity holding patience rules while markets are closed (CERRADO), awaiting our target profit zone (+3.0% to +5.0%).
-- **[HOLD] MSFT** (Confidence: 100%): Asset is above SMA20 in a confirmed uptrend with positive performance. Maintaining position as equities require time to play out and market status is currently CERRADO.
+- **[HOLD] AAPL** (Confidence: 90%): Asset is in a confirmed uptrend and holding a positive gain of +0.98%. Following equity holding patience guidelines, we hold through flat periods until profit targets or stop-losses are triggered.
+- **[HOLD] MSFT** (Confidence: 90%): Asset is in a confirmed uptrend and maintaining a positive return of +0.47%. Adhering to equity holding patience guidelines while monitoring stop-losses and profit targets.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL and MSFT positions patiently as per equity patience guidelines. AAPL target profit zone: $350.85 - $357.65; MSFT target profit zone: $546.36 - $556.95. Stop-losses remain set at -1.8% to -2.0%. Crypto assets remain in downtrends and will not be touched until a confirmed uptrend and green 1-hour candle trigger appear."
+> "Holding AAPL and MSFT positions patiently. AAPL is showing solid resilience with a +0.98% return, while MSFT is up +0.47%. Stop-losses are maintained at -1.8% to -2.0%, and profit targets remain at +3.0% to +5.0%. Crypto markets are currently in downtrends and will be strictly avoided until a confirmed uptrend and positive 1-hour momentum bounce materialize."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
