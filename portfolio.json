@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT as per equity holding rules. For crypto, keep monitoring BTC-USD; wait for a clear 1-hour green candle confirmation (change_1h_pct > 0.0 with rsi_1h >= 32) before considering a crypto trade. Respect the anti-correlation constraint and ensure cash reserve stays above $4.00.",
-    "updated_at": "2026-10-21T23:10:44.901717-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT as per equity holding rules since they are in confirmed uptrends. For the crypto sector, stay sidelined as BTC, ETH, and SOL are trading below their SMA20 with negative 1-hour changes. Wait for a clear reversal confirmation (rsi_1h >= 32 and change_1h_pct > 0.0) before allocating any capital to crypto, while keeping cash reserves well above the $4.00 minimum.",
+    "updated_at": "2026-10-21T23:20:44.983000-03:00"
   }
 }
