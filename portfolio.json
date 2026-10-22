@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT as they remain in healthy uptrends and are within normal holding periods. Continue monitoring take-profit objectives (+3% to +5%) and strict stop-loss levels (-2%). Keep crypto sidelined as all major digital assets are trading below their SMA20 without confirmed green 1-hour candles. Cash reserves are well maintained above the $4.00 minimum threshold.",
-    "updated_at": "2026-10-22T00:40:41.411416-03:00"
+    "notes": "Maintain existing equity holdings in AAPL and MSFT according to equity holding patience rules. Do not touch closed equity markets. Keep crypto sidelined as all major tokens are below their SMA20 trend line. Wait for a confirmed bullish reversal with a positive 1-hour candle and RSI above 32 before considering any crypto dip-buying opportunities.",
+    "updated_at": "2026-10-22T00:50:45.963357-03:00"
   }
 }
