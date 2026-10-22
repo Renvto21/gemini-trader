@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 16:00:58`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 16:10:57`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market is currently experiencing a pullback, with nearly all tracked equities and crypto assets falling below their SMA20 trend lines, signaling a bearish short-term environment. AAPL remains a notable exception, maintaining a confirmed uptrend above its SMA20 with a daily RSI of 70.6, though its 1-hour RSI is heavily overextended at 78.3. MSFT, our current holding, is down -1.71%, nearing our strict -1.8% to -2.0% stop-loss threshold as it trades below its SMA20 with a negative 1-hour price action change. Capital preservation and patience remain the primary objectives as we respect the strict trend filter and avoid catching falling knives."
+> "The broader market is currently experiencing downward pressure with almost all equities and cryptocurrencies trading below their SMA20, signaling a prevailing bear trend. AAPL remains the sole asset in a confirmed uptrend (above SMA20), but its 1-hour RSI is heavily overbought at 77.7, precluding new buy entries under our strict pullback rules. Cryptocurrencies like ETH-USD, BTC-USD, and SOL-USD are in downtrends with negative 24-hour changes and weak 1-hour momentum, violating the Rule of Gold. With cash reserves at $39.25 and no open positions, patience and strict adherence to capital preservation are paramount until high-quality assets pull back into valid entry zones."
 
 **Cycle Actions:**
-- **[SELL] MSFT** (Confidence: 95%): MSFT has dropped to a PnL of -1.71%, closely approaching our mandatory stop-loss threshold of -1.8% to -2.0% to protect capital. Furthermore, it has slipped below its SMA20 trend line.
+- **[HOLD] AAPL** (Confidence: 80%): AAPL is in a confirmed uptrend above its SMA20, but the current 1-hour RSI of 77.7 is overextended. We await a healthy pullback where rsi_1h >= 32 and change_1h_pct > 0 before establishing a new position.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "MSFT is approaching our stop-loss threshold (-1.71% PnL). If it breaches the -1.8% to -2.0% circuit breaker, we will cut losses immediately. AAPL is in an uptrend but overextended on the 1-hour timeframe; we await a healthy dip where rsi_1h >= 32 and change_1h_pct > 0 before entering. Crypto assets and other equities are below SMA20, violating the rule of gold, so no new entries are permitted."
+> "We successfully cut losses on MSFT before breaching the hard stop-loss circuit breaker, preserving capital. AAPL is overextended with rsi_1h at 77.7; we will wait for AAPL to experience a healthy pullback where rsi_1h is >= 32 and change_1h_pct > 0 before considering a new entry. All other assets are in downtrends below SMA20, so no trades will be forced. Maintain minimum cash reserve and wait for trend confirmations."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
