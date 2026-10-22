@@ -1858,7 +1858,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain MSFT position while strictly monitoring the -1.8% to -2.0% stop-loss boundary. Do not panic-sell MSFT prematurely under equity holding patience rules unless the stop-loss is breached. Wait for confirmed pullbacks in verified uptrend assets with positive 1-hour candles before deploying remaining cash reserves.",
-    "updated_at": "2026-10-22T15:30:53.131568-03:00"
+    "notes": "Monitor MSFT closely for a potential stop-loss breach if it touches the -1.8% to -2.0% loss bracket. Maintain equity holding patience unless the stop-loss is triggered. For new deployments, wait for verified uptrend assets above SMA20 with 1-hour RSI >= 32 and positive 1-hour price action.",
+    "updated_at": "2026-10-22T15:40:53.172350-03:00"
   }
 }
