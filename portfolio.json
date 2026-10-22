@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as per equity holding rules since they are in confirmed uptrends. For the crypto sector, stay sidelined as BTC, ETH, and SOL are trading below their SMA20 with negative 1-hour changes. Wait for a clear reversal confirmation (rsi_1h >= 32 and change_1h_pct > 0.0) before allocating any capital to crypto, while keeping cash reserves well above the $4.00 minimum.",
-    "updated_at": "2026-10-21T23:20:44.983000-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT following equity holding patience rules, tracking take-profit targets (+3% to +5%) and stop-loss floors (-2%). For crypto assets (BTC-USD, ETH-USD, SOL-USD), continue to remain sidelined as they are below SMA20 in a downtrend. Wait strictly for rsi_1h >= 32 and change_1h_pct > 0.0 before deploying capital into any crypto pullback, keeping a minimum cash reserve above $4.00.",
+    "updated_at": "2026-10-21T23:30:44.574998-03:00"
   }
 }
