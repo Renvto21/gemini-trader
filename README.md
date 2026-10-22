@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 14:31:41`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 14:40:44`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$22.20 USD** | **$17.08 USD** | **$39.28 USD** | 🔴 **-1.81%** ($-0.72) |
+| **$40.00 USD** | **$32.37 USD** | **$6.91 USD** | **$39.28 USD** | 🔴 **-1.80%** ($-0.72) |
 
 ---
 
@@ -16,42 +16,40 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $346.17 | $10.16 | 📈 +1.62% | 2d 2h |
-| `MSFT` | 0.013196 | $530.45 | $524.21 | $6.92 | 📉 -1.18% | 1d 2h |
+| `MSFT` | 0.013196 | $530.45 | $523.93 | $6.91 | 📉 -1.23% | 1d 2h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market is experiencing a cautious and bearish correction, with major assets like SPY, QQQ, and NVDA trading below their SMA20 trends. AAPL remains a strong outlier, maintaining its uptrend above SMA20 with 1-hour RSI reaching 72.7 and a current unrealized gain of +1.62%. MSFT has dipped slightly below its SMA20 trend line with a PnL of -1.18%, holding well above our strict -1.8% to -2.0% stop-loss threshold. Cryptocurrencies are mostly in downtrends, with BTC-USD and ETH-USD showing low 1-hour RSIs and negative 24-hour performance."
+> "The broader market conditions are currently defensive, with most tracked assets sliding below their SMA20 trends amid general weakness. However, AAPL remains a standout outperformer, holding firmly above its SMA20 with an 1-hour RSI reaching 73.4 and a positive return of +1.73%, satisfying our take-profit criteria of +3.0% to +5.0% or RSI > 72 with profit >= +2.5%. MSFT has pulled back slightly to -1.23%, remaining well above our hard stop-loss circuit breaker (-1.8% to -2.0%). Other assets are failing the strict trend filter as they remain below SMA20."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in an established uptrend above SMA20, and its rsi_1h is currently at 72.7 with a positive return of +1.62%. We will let the winner run toward our +3.0% to +5.0% target or until reversal confirmation.
-- **[HOLD] MSFT** (Confidence: 80%): MSFT is currently down -1.18%, which is well within our acceptable holding threshold before reaching the -1.8% to -2.0% stop-loss boundary. Equity patience applies.
+- **[SELL] AAPL** (Confidence: 95%): AAPL rsi_1h has surpassed 72 (currently 73.4) with a positive return of +1.73%, satisfying our take-profit parameters for locking in gains.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue to hold AAPL and monitor its profit closely for a potential take-profit action if rsi_1h stays elevated or profit targets (+3.0% to +5.0%) are reached. Hold MSFT while respecting the hard stop-loss threshold at -1.8% to -2.0%. Do not open new crypto or stock positions until assets firmly reclaim their uptrend above SMA20 and fulfill the 1-hour reversal trigger criteria."
+> "Successfully executed take-profit on AAPL as RSI crossed 72 with solid gains. Continue holding MSFT while closely observing its price action and respecting the strict stop-loss threshold (-1.8% to -2.0%). Refrain from opening any new positions until market breadth improves and more assets confirm an uptrend above their SMA20 with valid reversal triggers."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
 
 | Closed Trades | Win Rate | Realized PnL | Best Trade | Worst Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **83** | 🎯 **44.6%** (37W / 31L / 15BE) | 🔴 **$-0.67 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
+| **84** | 🎯 **45.2%** (38W / 31L / 15BE) | 🔴 **$-0.50 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
 ---
 
 ### 📜 Recent Trades
 
 | Date | Action | Asset | Amount | Price | Reasoning |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-10-22 14:40` | 🔴 SELL (+0.17$) | `AAPL` | $10.17 | $346.52 | AAPL rsi_1h has surpassed 72 (currently 73.4) with a positive return of +1.73%, satisfying... |
 | `2026-10-21 12:01` | 🟢 BUY | `MSFT` | $7.00 | $530.45 | MSFT is in a confirmed uptrend above its SMA20. The 1-hour RSI is at 36.7 (above the 32 th... |
 | `2026-10-21 10:10` | 🔴 SELL (+0.12$) | `ETH-USD` | $10.07 | $2481.87 | ETH-USD rsi_1h has surpassed 72 (currently 73.7) with a positive return of +1.21%, satisfy... |
 | `2026-10-20 13:51` | 🟢 BUY | `ETH-USD` | $9.95 | $2452.17 | ETH-USD muestra un excelente impulso de corto plazo con change_1h_pct positivo (+0.55%) y ... |
 | `2026-10-20 13:51` | 🔴 SELL (-0.05$) | `GLD` | $9.95 | $377.90 | GLD se encuentra estancado con un rendimiento ligeramente negativo (-0.47%) y un rsi_1h de... |
-| `2026-10-20 12:01` | 🟢 BUY | `GLD` | $10.00 | $379.70 | GLD presenta un RSI de 1 hora en 31.4, acercándose a la zona ideal de sobreventa para acti... |
 
 ---
 

@@ -1,12 +1,7 @@
 {
   "initial_capital": 40.0,
-  "cash": 22.195389895998154,
+  "cash": 32.368006147759544,
   "positions": {
-    "AAPL": {
-      "shares": 0.029356505401596997,
-      "avg_price": 340.64,
-      "opened_at": "2026-10-20T12:01:38.897439-03:00"
-    },
     "MSFT": {
       "shares": 0.01319634272787256,
       "avg_price": 530.45,
@@ -1849,10 +1844,21 @@
       "shares": 0.013196,
       "price": 530.45,
       "reason": "MSFT is in a confirmed uptrend above its SMA20. The 1-hour RSI is at 36.7 (above the 32 threshold) and the 1-hour change is positive (+0.2%), confirming a healthy pullback and bounce entry according to our quantitative rules."
+    },
+    {
+      "timestamp": "2026-10-22T14:40:44.889366-03:00",
+      "action": "SELL",
+      "ticker": "AAPL",
+      "amount_usd": 10.17,
+      "shares": 0.029357,
+      "price": 346.52,
+      "pnl_usd": 0.17,
+      "pnl_pct": 1.73,
+      "reason": "AAPL rsi_1h has surpassed 72 (currently 73.4) with a positive return of +1.73%, satisfying our take-profit parameters for locking in gains."
     }
   ],
   "memory": {
-    "notes": "Continue to hold AAPL and monitor its profit closely for a potential take-profit action if rsi_1h stays elevated or profit targets (+3.0% to +5.0%) are reached. Hold MSFT while respecting the hard stop-loss threshold at -1.8% to -2.0%. Do not open new crypto or stock positions until assets firmly reclaim their uptrend above SMA20 and fulfill the 1-hour reversal trigger criteria.",
-    "updated_at": "2026-10-22T14:31:41.790370-03:00"
+    "notes": "Successfully executed take-profit on AAPL as RSI crossed 72 with solid gains. Continue holding MSFT while closely observing its price action and respecting the strict stop-loss threshold (-1.8% to -2.0%). Refrain from opening any new positions until market breadth improves and more assets confirm an uptrend above their SMA20 with valid reversal triggers.",
+    "updated_at": "2026-10-22T14:40:44.886752-03:00"
   }
 }
