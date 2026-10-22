@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 22:50:38`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 23:00:55`
 
 ---
 
@@ -17,22 +17,22 @@
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | `AAPL` | 0.029357 | $340.64 | $343.99 | $10.10 | 📈 +0.98% | 1d 10h |
-| `MSFT` | 0.013196 | $530.45 | $532.95 | $7.03 | 📈 +0.47% | 10h 49m |
+| `MSFT` | 0.013196 | $530.45 | $532.95 | $7.03 | 📈 +0.47% | 10h 59m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities (AAPL, MSFT, SPY) are currently closed with frozen prices. AAPL and MSFT remain in healthy uptrends above their SMA20, showing modest gains (+0.98% and +0.47% respectively) and are being held patiently in accordance with equity patience rules. In the crypto markets, which remain open 24/7, BTC-USD is in an uptrend above SMA20 but currently exhibits a negative 1-hour change (-0.61%), failing our reversal confirmation trigger (change_1h_pct > 0). Other cryptos like ETH-USD and SOL-USD are currently below their SMA20 (downtrend). Therefore, no immediate crypto entries or equity exits are warranted."
+> "Wall Street equities and ETFs (AAPL, MSFT, SPY, QQQ, NVDA, GLD) are currently closed with frozen prices. Cryptocurrencies remain open 24/7. BTC-USD is trading above its SMA20 in an uptrend, with an RSI_1h of 50.9 and a positive 1-hour change (+0.03%), meeting our quantitative criteria for entry. AAPL and MSFT are currently held in the portfolio and show steady performance (+0.98% and +0.47% respectively) while maintaining equity patience."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above SMA20 with positive PnL (+0.98%). Following equity holding patience rules, we maintain the position as market is closed.
+- **[HOLD] AAPL** (Confidence: 85%): Holding AAPL in an uptrend. Equity holding patience rule applies; position is currently profitable at +0.98% and has not hit take-profit or stop-loss thresholds.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL and MSFT positions patiently. Monitoring BTC-USD for a positive 1-hour candle confirmation (change_1h_pct > 0) while it remains in an uptrend above SMA20. Cash reserves are robust at $22.20. Maintain discipline on asymmetric risk/reward targets (+3% to +5% for take-profit, -2% hard stop-loss)."
+> "Holding AAPL and MSFT positions patiently as per equity holding rules. BTC-USD is showing a confirmed uptrend above SMA20 with positive 1-hour momentum; however, since we maintain strict equity/crypto risk constraints, we will monitor Bitcoin for a stronger pullback entry. Cash reserves stand at $22.20. Ready to execute asymmetric trades when crypto setups align or when markets reopen."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
