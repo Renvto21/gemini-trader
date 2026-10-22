@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT patiently according to equity holding rules and asymmetric risk management. AAPL is approaching take-profit consideration if its 1-hour RSI exceeds 72 with profit >= +2.5%. MSFT is monitored closely for stop-loss compliance, holding steady above the -1.8% threshold despite brief consolidation below the SMA20. No new buy orders are executed as current market conditions lack sufficient uptrend confirmations across available assets.",
-    "updated_at": "2026-10-22T12:50:55.578644-03:00"
+    "notes": "Holding AAPL and MSFT. AAPL is approaching take-profit territory (+3.0% to +5.0% or rsi_1h > 72 with profit >= +2.5%); will monitor closely for exit conditions. MSFT is stable above our hard stop-loss threshold despite trading below its SMA20 at entry; adhering to equity holding patience. No new positions will be opened until clear trend and RSI recovery criteria are met on available assets.",
+    "updated_at": "2026-10-22T13:00:58.566482-03:00"
   }
 }
