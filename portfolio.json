@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT positions patiently in accordance with equity holding rules. Neither profit target (+3.0% to +5.0%) nor stop-loss (-1.8%) has been hit. Crypto assets are in a downtrend and are being strictly avoided. Continue monitoring for a green 1-hour candle and RSI recovery in crypto, and maintain current positions in equities while markets remain closed.",
-    "updated_at": "2026-10-22T05:10:42.829355-03:00"
+    "notes": "Holding AAPL and MSFT patiently according to equity holding rules, waiting for either take-profit (+3.0% to +5.0%) or stop-loss (-1.8%). Crypto markets remain in bearish trends below SMA20 with negative hourly changes; continue to stand aside until a confirmed uptrend and green 1-hour reversal trigger appears.",
+    "updated_at": "2026-10-22T05:20:40.789796-03:00"
   }
 }
