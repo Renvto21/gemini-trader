@@ -1,39 +1,3 @@
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The market is currently experiencing weekend closure conditions for traditional equities (AAPL, MSFT, SPY, QQQ, NVDA, GLD), meaning their prices are frozen and no execution is possible per market rules. Crypto assets (BTC-USD, ETH-USD, SOL-USD) are trading 24/7, but they are all currently in a BAJISTA (below SMA20) trend with low 1-hour RSI values, failing the trend-following pullback criteria. Existing equity holdings AAPL and MSFT remain open, showing modest positive returns (+0.98% and +0.47% respectively) and are well within the holding patience guidelines, avoiding premature exits while awaiting take-profit targets between +3.0% and +5.0%."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintain existing positions in AAPL and MSFT according to equity holding patience rules. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%). Keep crypto exposure sidelined until assets reclaim their SMA20 uptrends and show confirmed 1-hour momentum bounces with RSI >= 32 and positive 1-hour price changes."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 100%)
-    Reason: Asset is currently in a closed market state and holding steady in an uptrend with a positive return of +0.98%. Upholding equity holding patience.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.33 USD (Cash: $22.20 USD)
-
-[2026-10-22 07:30:35] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $22.20 USD
- Assets Value:        $17.13 USD
- Total Balance:       $39.33 USD
- Net PnL:             🔴 $-0.67 USD (-1.68%)
-
- 💼 Open Positions:
-   • AAPL: 0.029357 u. | Buy: $340.64 | Now: $343.99 | Total: $10.1 📈 (+0.98%) [Time: 1d 19h]
-   • MSFT: 0.013196 u. | Buy: $530.45 | Now: $532.95 | Total: $7.03 📈 (+0.47%) [Time: 19h 29m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
 "Wall Street equities (AAPL, MSFT, SPY) are currently closed with frozen prices. AAPL and MSFT remain in solid uptrends above their SMA20, showing modest positive gains. Cryptocurrencies (SOL-USD, BTC-USD, ETH-USD) are open 24/7, but they are all trading below their SMA20 in bear trends with severely depressed 1-hour RSI levels (below 32), meaning we must strictly avoid catching falling knives per our quantitative rules."
 
 📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
@@ -147,6 +111,42 @@ Final Cycle Balance: $39.33 USD (Cash: $22.20 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 100%)
     Reason: Holding AAPL in accordance with equity holding patience rules. Position is in profit (+0.98%) and above SMA20 in a confirmed uptrend.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.33 USD (Cash: $22.20 USD)
+
+[2026-10-22 08:10:36] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $22.20 USD
+ Assets Value:        $17.13 USD
+ Total Balance:       $39.33 USD
+ Net PnL:             🔴 $-0.67 USD (-1.68%)
+
+ 💼 Open Positions:
+   • AAPL: 0.029357 u. | Buy: $340.64 | Now: $343.99 | Total: $10.1 📈 (+0.98%) [Time: 1d 20h]
+   • MSFT: 0.013196 u. | Buy: $530.45 | Now: $532.95 | Total: $7.03 📈 (+0.47%) [Time: 20h 9m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The equity markets are currently closed (CERRADO), so prices remain frozen and no trades can be executed on stocks or ETFs per operational rules. AAPL and MSFT are both currently held in profitable uptrends (+0.98% and +0.47% respectively) and we maintain equity holding patience as per our rules. In the crypto markets (ABIERTO 24/7), major assets like ETH-USD, BTC-USD, and SOL-USD are currently trading in bearish trends below their respective SMA20 with low 1-hour RSI readings and negative or flat 1-hour percentage changes, failing the strict trend filter and reversal confirmation triggers."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintain existing positions in AAPL and MSFT as they continue to hold steady in confirmed uptrends. Monitor equities upon reopening for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-2.0%). Keep crypto sidelined as available cryptocurrencies are in downtrends below SMA20 without the required positive 1-hour momentum confirmation (rsi_1h >= 32 and change_1h_pct > 0.0)."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 100%)
+    Reason: AAPL is in a confirmed uptrend above its SMA20 and currently showing a positive return (+0.98%). Following equity holding patience, we maintain the position as markets are closed.
+    ⏸️ Holding current position without changes.
+  • Action: [HOLD] MSFT (Confidence: 100%)
+    Reason: MSFT remains in a confirmed uptrend above its SMA20 with a positive return (+0.47%). Markets are closed, so we hold and give the position time to play out.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
