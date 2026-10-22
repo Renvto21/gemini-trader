@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 20:20:39`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 20:30:47`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The portfolio currently holds $39.25 in cash and zero open positions after closing MSFT on a stop-loss trigger. Wall Street assets are closed for the weekend and are predominantly in a bearish trend below their SMA20, with only AAPL showing a bullish trend but its market status is closed. In the crypto markets, SOL-USD, ETH-USD, and BTC-USD are open 24/7 but are currently in bearish trends below the SMA20. Although SOL-USD shows an hourly RSI of 37.2 and a positive 1-hour change of +0.06%, it violates our strict trend filter since it is trading below the SMA20 in a downtrend. Therefore, no trades will be executed today to protect capital."
+> "Wall Street is closed (CERRADO) for all equities and ETFs (AAPL, MSFT, QQQ, SPY, NVDA, GLD), preventing any trading actions on these assets. Among crypto assets (ABIERTO 24/7), BTC-USD, ETH-USD, and SOL-USD are all currently trading below their SMA20 trendlines in a bearish trend, with negative 1-hour percentage changes (-0.04%, -0.06%, and -0.02% respectively). This violates our strict trend filter (no buying falling knives) and lacks the required reversal confirmation trigger (1-hour candle turn green with positive change and rsi_1h >= 32). Therefore, capital preservation is maintained with high cash reserves."
 
 **Cycle Actions:**
-- **[HOLD] SOL-USD** (Confidence: 0%): Crypto assets are currently in a downtrend below the SMA20. Despite meeting the 1-hour RSI and positive change criteria, we strictly avoid buying assets in a bear trend to prevent catching falling knives.
+- **[HOLD] SOL-USD** (Confidence: 100%): No valid buy setup. Crypto markets are open 24/7, but SOL-USD is currently trading below its SMA20 with a negative 1-hour change (-0.02%), violating our strict trend-following pullback rules.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained high liquidity with $39.25 in cash. Wall Street is closed and all major equity assets plus crypto assets are currently trading below their SMA20 trendlines. Sticking strictly to the trend filter to avoid catching falling knives. Will wait for markets to reopen and for confirmed uptrend assets to provide valid pullback entries."
+> "Maintained high liquidity with $39.25 in cash while Wall Street remains closed. All available crypto and equity assets fail the trend filter (trading below SMA20) or lack a green 1-hour reversal candle. Will continue to monitor crypto for potential pullback setups once a confirmed bullish 1-hour bounce appears, and wait for traditional markets to reopen for equity opportunities."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
