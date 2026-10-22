@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT. AAPL is approaching take-profit territory (+3.0% to +5.0% or rsi_1h > 72 with profit >= +2.5%); will monitor closely for exit conditions. MSFT is stable above our hard stop-loss threshold despite trading below its SMA20 at entry; adhering to equity holding patience. No new positions will be opened until clear trend and RSI recovery criteria are met on available assets.",
-    "updated_at": "2026-10-22T13:00:58.566482-03:00"
+    "notes": "Holding AAPL and MSFT. Continue to monitor AAPL closely for take-profit targets (+3.0% to +5.0% gain, or if rsi_1h > 72 with profit >= +2.5%). Maintain MSFT unless stop-loss of -1.8% to -2.0% is triggered. Keep cash reserves intact at $22.20 USD while awaiting confirmed uptrend pullbacks.",
+    "updated_at": "2026-10-22T13:11:42.081777-03:00"
   }
 }
