@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT following equity holding patience rules. Neither asset has reached our +3.0% to +5.0% profit targets nor the -1.8% stop-loss limits. Keep crypto completely sidelined as all available coins are below their SMA20 trend lines and lack proper reversal confirmation triggers.",
-    "updated_at": "2026-10-22T07:30:42.392234-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT in accordance with equity holding patience rules. Monitor for upcoming market opening to assess whether equity take-profit targets (+3.0% to +5.0%) are met. Keep crypto sidelined due to persistent downtrends below SMA20 across all major tokens.",
+    "updated_at": "2026-10-22T07:40:37.699882-03:00"
   }
 }
