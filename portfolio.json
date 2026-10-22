@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT patiently as they progress toward our take-profit target of +3.0% to +5.0%. Keep crypto completely sidelined due to ongoing downtrends below the SMA20. Monitor for market open to assess breakout or reversal conditions.",
-    "updated_at": "2026-10-22T08:50:42.500546-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT patiently as they progress toward our take-profit target of +3.0% to +5.0%, keeping a tight eye on the stop-loss threshold (-2.0%). Keep crypto sidelined because SOL, BTC, and ETH remain below their SMA20 with weak trend structures, violating our trend-following rules. Wait for market open and proper confirmation triggers before considering new allocations.",
+    "updated_at": "2026-10-22T09:01:02.046173-03:00"
   }
 }
