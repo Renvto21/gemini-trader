@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 19:40:35`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 19:50:45`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The portfolio is entirely in cash with $39.25 remaining after cutting MSFT on the stop-loss and taking profits on AAPL. Major equities and asset classes such as SPY, QQQ, NVDA, and GLD are currently in a CERRADO (market closed) state and trending below their SMA20, requiring strict adherence to our capital preservation and trend rules. Cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) are open 24/7, but they are currently exhibiting negative 1-hour percentage changes (e.g., BTC -0.14%, ETH -0.32%, SOL -0.21%), failing our Reversal Confirmation Trigger (change_1h_pct > 0.0). Consequently, no buy or sell actions are warranted at this exact cycle, maintaining our disciplined defensive stance."
+> "Wall Street equities remain closed (CERRADO) with prices frozen. Cryptocurrencies are trading live 24/7, but ETH-USD, SOL-USD, and BTC-USD are currently in a confirmed downtrend below their SMA20 with negative 1-hour percentage changes, failing our reversal confirmation and trend filter rules. AAPL is the only asset in a confirmed uptrend (above SMA20), but its market status is closed. With cash reserves at $39.25, capital preservation remains our absolute priority until high-quality assets show valid trend and reversal triggers."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 100%): No active positions held. Crypto markets are open but currently showing negative 1-hour price changes, failing the Reversal Confirmation Trigger (change_1h_pct > 0.0).
+- **[HOLD] BTC-USD** (Confidence: 100%): Crypto markets are open but BTC-USD is in a downtrend (below SMA20) with a negative 1-hour change (-0.16%), failing our strict trend and reversal filters. Maintaining cash posture.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained defensive posture with $39.25 in cash. Wall Street assets remain closed and major equities/cryptos are failing the uptrend or reversal confirmation filters. Will continue to monitor crypto 1-hour candles for green reversals (change_1h_pct > 0.0 and rsi_1h >= 32) or wait for Wall Street markets to reopen to scan for quality pullbacks above SMA20."
+> "Maintained full cash posture of $39.25. All available live crypto assets (BTC, ETH, SOL) are below their SMA20 and experiencing negative 1-hour changes, preventing any entries. Wall Street equities are closed. Will wait for markets to reopen or for cryptos to establish a confirmed uptrend above SMA20 with rsi_1h >= 32 and change_1h_pct > 0.0 before deploying capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
