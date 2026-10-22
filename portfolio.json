@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue to hold AAPL patiently, targeting a take-profit gain of +3.0% to +5.0% or selling if rsi_1h exceeds 72 with profit >= +2.5%. Hold MSFT while strictly monitoring the -1.8% to -2.0% stop-loss threshold. Do not enter any new long positions until assets fulfill both the uptrend condition (above SMA20) and the 1-hour reversal trigger (rsi_1h >= 32 and change_1h_pct > 0.0).",
-    "updated_at": "2026-10-22T14:20:48.138335-03:00"
+    "notes": "Continue to hold AAPL and monitor its profit closely for a potential take-profit action if rsi_1h stays elevated or profit targets (+3.0% to +5.0%) are reached. Hold MSFT while respecting the hard stop-loss threshold at -1.8% to -2.0%. Do not open new crypto or stock positions until assets firmly reclaim their uptrend above SMA20 and fulfill the 1-hour reversal trigger criteria.",
+    "updated_at": "2026-10-22T14:31:41.790370-03:00"
   }
 }
