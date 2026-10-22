@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue to hold AAPL and monitor for profit-taking targets (+3.0% to +5.0% gain, or rsi_1h > 72 with profit >= +2.5%). Hold MSFT patiently despite short-term consolidation below SMA20, respecting the hard stop-loss at -1.8% to -2.0%. Keep cash reserves high and wait for validated pullback entry triggers (rsi_1h >= 32 and change_1h_pct > 0.0) in assets confirmed above their SMA20 trend.",
-    "updated_at": "2026-10-22T13:31:14.417115-03:00"
+    "notes": "Continue to hold AAPL and monitor for profit-taking targets (+3.0% to +5.0% gain, or rsi_1h > 72 with profit >= +2.5%). Hold MSFT patiently as equities require time to play out, strictly respecting the hard stop-loss at -1.8% to -2.0%. Maintain cash reserves above $4.00 USD and wait for validated pullback entry triggers (rsi_1h >= 32 and change_1h_pct > 0.0) in assets confirmed above their SMA20 trend.",
+    "updated_at": "2026-10-22T13:40:58.187666-03:00"
   }
 }
