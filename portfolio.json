@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT positions patiently during market closure. BTC-USD is in an uptrend, but waiting for a positive 1-hour candle confirmation (change_1h_pct > 0) before considering a crypto pullback entry. Maintaining strong cash reserves ($22.20).",
-    "updated_at": "2026-10-21T22:40:44.986426-03:00"
+    "notes": "Holding AAPL and MSFT positions patiently. Monitoring BTC-USD for a positive 1-hour candle confirmation (change_1h_pct > 0) while it remains in an uptrend above SMA20. Cash reserves are robust at $22.20. Maintain discipline on asymmetric risk/reward targets (+3% to +5% for take-profit, -2% hard stop-loss).",
+    "updated_at": "2026-10-21T22:50:38.772199-03:00"
   }
 }
