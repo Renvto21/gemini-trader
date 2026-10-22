@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as they continue to hold steady in confirmed uptrends. Monitor equities upon reopening for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-2.0%). Keep crypto sidelined as available cryptocurrencies are in downtrends below SMA20 without the required positive 1-hour momentum confirmation (rsi_1h >= 32 and change_1h_pct > 0.0).",
-    "updated_at": "2026-10-22T08:10:42.005005-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT patiently as per equity holding rules. Do not rotate or sell flat positions prematurely. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-2.0%) when markets reopen. Keep crypto sidelined due to bearish trends and lack of proper pullback confirmation.",
+    "updated_at": "2026-10-22T08:20:43.601477-03:00"
   }
 }
