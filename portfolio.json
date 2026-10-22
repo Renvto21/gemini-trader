@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "We are currently maintaining a strong cash reserve of $39.25 USD while avoiding all bearish assets below SMA20. AAPL is the only asset in an uptrend, but its 1-hour RSI is overextended near 78.8; we will patiently wait for AAPL to pull back toward a healthier RSI level (>= 32) with a confirmed green 1-hour candle (change_1h_pct > 0) before executing any long entry. We continue to monitor all other assets for trend reversals. Minimum cash reserve is well-protected.",
-    "updated_at": "2026-10-22T16:20:54.999362-03:00"
+    "notes": "We are maintaining our cash reserve of $39.25 USD while strictly avoiding all assets currently situated in downtrends below their SMA20. AAPL is the sole asset in an uptrend, but its RSI is too high (78.0); we are patiently waiting for AAPL to pull back to a healthier RSI level combined with a confirmed green 1-hour candle before executing any long trade. We will continue scanning for valid pullback entries across high-quality uptrend assets while honoring our risk parameters.",
+    "updated_at": "2026-10-22T16:30:49.405467-03:00"
   }
 }

@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 16:20:55`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 16:30:49`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market is currently experiencing a widespread corrective phase, with nearly all tracked equities and cryptocurrencies trading below their respective SMA20 trends (bearish conditions). AAPL is the sole asset maintaining a confirmed uptrend above its SMA20, but its 1-hour RSI is severely overextended at 78.8, precluding any immediate buy entries. Cryptocurrencies like ETH-USD and BTC-USD show oversold 1-hour RSIs, but their trends remain bearish and 1-hour candles show lack of strong reversal confirmation, alongside strict rules against catching falling knives or holding multiple crypto assets. Given the prevailing macro weakness and strict trend-following filters, capital preservation remains our absolute priority, requiring us to stay in cash and wait for high-quality pullbacks in confirmed uptrend assets."
+> "The broader market is currently experiencing a strong downward correction, with major equities (QQQ, SPY, MSFT, NVDA) and crypto assets (BTC, ETH, SOL) trading in bearish territory below their respective SMA20 trends. Only AAPL remains in a confirmed bullish trend above its SMA20, but its 1-hour RSI is currently overextended at 78.0 with a minimal 1-hour change of +0.05%, which does not provide a safe pullback entry point yet. All other assets are either in a downtrend or failing to meet our strict reversal trigger criteria (rsi_1h >= 32 and change_1h_pct > 0). Therefore, strict capital preservation applies, and we remain in cash."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is the only asset in a confirmed uptrend (above SMA20), but its 1-hour RSI is currently overextended at 78.8. According to our strict pullback rules, we must wait for a healthy dip and reversal confirmation before entering.
+- **[HOLD] AAPL** (Confidence: 80%): AAPL is the only asset in a confirmed uptrend (above SMA20), but the 1-hour RSI is overextended at 78.0. We await a proper pullback where rsi_1h is healthier and change_1h_pct > 0 before entering.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "We are currently maintaining a strong cash reserve of $39.25 USD while avoiding all bearish assets below SMA20. AAPL is the only asset in an uptrend, but its 1-hour RSI is overextended near 78.8; we will patiently wait for AAPL to pull back toward a healthier RSI level (>= 32) with a confirmed green 1-hour candle (change_1h_pct > 0) before executing any long entry. We continue to monitor all other assets for trend reversals. Minimum cash reserve is well-protected."
+> "We are maintaining our cash reserve of $39.25 USD while strictly avoiding all assets currently situated in downtrends below their SMA20. AAPL is the sole asset in an uptrend, but its RSI is too high (78.0); we are patiently waiting for AAPL to pull back to a healthier RSI level combined with a confirmed green 1-hour candle before executing any long trade. We will continue scanning for valid pullback entries across high-quality uptrend assets while honoring our risk parameters."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
