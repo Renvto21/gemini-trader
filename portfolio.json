@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity holdings AAPL and MSFT toward +3.0% to +5.0% profit targets while monitoring stop-losses closely. For BTC-USD, wait for a confirmed hourly bounce (rsi_1h >= 32 and change_1h_pct > 0.0) while respecting anti-correlation constraints and cash reserves.",
-    "updated_at": "2026-10-21T21:00:55.201445-03:00"
+    "notes": "Maintain existing equity positions AAPL and MSFT toward +3.0% to +5.0% profit targets, monitoring stop-losses strictly at -2.0%. For BTC-USD or other crypto assets, wait for a confirmed hourly reversal (rsi_1h >= 32 and change_1h_pct > 0.0) while keeping anti-correlation constraints and cash reserves intact.",
+    "updated_at": "2026-10-21T21:10:43.635498-03:00"
   }
 }
