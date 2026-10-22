@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL and MSFT according to equity patience rules. Monitor AAPL closely as it approaches the +3.0% to +5.0% profit target zone; exit if RSI surpasses 72 or the target is reached. Keep MSFT position active as it trades in a confirmed uptrend. Maintain cash reserves safely above $22.00 USD. Avoid opening any crypto positions until strict reversal and trend criteria are met.",
-    "updated_at": "2026-10-22T10:40:59.795067-03:00"
+    "notes": "Continue holding AAPL as it approaches the +3.0% to +5.0% profit target zone; exit if RSI surpasses 72 or the target is reached. Maintain MSFT position under equity patience rules unless the hard stop-loss at -2.0% is triggered. Keep cash reserves safe above $22.00 USD and avoid opening new positions until market-wide trends stabilize above SMA20.",
+    "updated_at": "2026-10-22T10:50:57.371319-03:00"
   }
 }
