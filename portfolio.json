@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions AAPL and MSFT targeting +3.0% to +5.0% gains while keeping strict stop-losses at -2.0%. For BTC-USD, wait for a confirmed positive 1-hour candle (change_1h_pct > 0.0 with rsi_1h >= 32) before considering a pullback entry. Keep cash reserves above $4.00 USD intact.",
-    "updated_at": "2026-10-21T21:30:49.286120-03:00"
+    "notes": "Hold AAPL and MSFT positions while monitoring stop-losses at -2.0% and targeting +3.0% to +5.0% gains. For BTC-USD, wait for a confirmed positive 1-hour candle (change_1h_pct > 0.0 with rsi_1h >= 32) before considering a pullback entry. Keep cash reserves safely above $4.00 USD.",
+    "updated_at": "2026-10-21T21:40:37.988588-03:00"
   }
 }
