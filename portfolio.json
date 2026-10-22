@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Capital preserved at $39.25 cash with no active positions. All available crypto assets (SOL, BTC, ETH) are currently in downtrends below their SMA20. Will continue to maintain patience and wait for structural trend reversals or confirmed pullbacks in uptrending assets before deploying capital.",
-    "updated_at": "2026-10-22T18:40:43.412666-03:00"
+    "notes": "Maintained capital preservation with $39.25 in cash and zero open positions. All crypto assets (SOL, BTC, ETH) and equities remain below their SMA20 lines in a bearish posture. Will continue to strictly monitor for structural trend reversals, ensuring we only buy pullbacks in confirmed uptrends (above SMA20) with RSI_1h >= 32 and positive 1-hour momentum.",
+    "updated_at": "2026-10-22T18:50:46.848472-03:00"
   }
 }
