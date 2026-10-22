@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 23:00:55`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-21 23:10:44`
 
 ---
 
@@ -16,23 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.029357 | $340.64 | $343.99 | $10.10 | 📈 +0.98% | 1d 10h |
-| `MSFT` | 0.013196 | $530.45 | $532.95 | $7.03 | 📈 +0.47% | 10h 59m |
+| `AAPL` | 0.029357 | $340.64 | $343.99 | $10.10 | 📈 +0.98% | 1d 11h |
+| `MSFT` | 0.013196 | $530.45 | $532.95 | $7.03 | 📈 +0.47% | 11h 9m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities and ETFs (AAPL, MSFT, SPY, QQQ, NVDA, GLD) are currently closed with frozen prices. Cryptocurrencies remain open 24/7. BTC-USD is trading above its SMA20 in an uptrend, with an RSI_1h of 50.9 and a positive 1-hour change (+0.03%), meeting our quantitative criteria for entry. AAPL and MSFT are currently held in the portfolio and show steady performance (+0.98% and +0.47% respectively) while maintaining equity patience."
+> "The traditional stock market is currently closed, with AAPL and MSFT holding steady in our portfolio with positive returns (+0.98% and +0.47% respectively). In the 24/7 crypto market, BTC-USD is trading above its SMA20 in an uptrend, but currently exhibits a slightly negative 1-hour change (-0.05%) and an RSI of 50.4, meaning it lacks the positive 1-hour confirmation trigger (>0.0) required to initiate a new pullback entry. Cash reserves are healthy at $22.20."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): Holding AAPL in an uptrend. Equity holding patience rule applies; position is currently profitable at +0.98% and has not hit take-profit or stop-loss thresholds.
+- **[HOLD] MSFT** (Confidence: 100%): Holding MSFT per equity holding patience rules; the position is in profit (+0.47%) and the market is closed.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL and MSFT positions patiently as per equity holding rules. BTC-USD is showing a confirmed uptrend above SMA20 with positive 1-hour momentum; however, since we maintain strict equity/crypto risk constraints, we will monitor Bitcoin for a stronger pullback entry. Cash reserves stand at $22.20. Ready to execute asymmetric trades when crypto setups align or when markets reopen."
+> "Maintain current equity positions in AAPL and MSFT as per equity holding rules. For crypto, keep monitoring BTC-USD; wait for a clear 1-hour green candle confirmation (change_1h_pct > 0.0 with rsi_1h >= 32) before considering a crypto trade. Respect the anti-correlation constraint and ensure cash reserve stays above $4.00."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

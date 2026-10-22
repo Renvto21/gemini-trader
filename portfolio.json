@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT positions patiently as per equity holding rules. BTC-USD is showing a confirmed uptrend above SMA20 with positive 1-hour momentum; however, since we maintain strict equity/crypto risk constraints, we will monitor Bitcoin for a stronger pullback entry. Cash reserves stand at $22.20. Ready to execute asymmetric trades when crypto setups align or when markets reopen.",
-    "updated_at": "2026-10-21T23:00:55.458086-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT as per equity holding rules. For crypto, keep monitoring BTC-USD; wait for a clear 1-hour green candle confirmation (change_1h_pct > 0.0 with rsi_1h >= 32) before considering a crypto trade. Respect the anti-correlation constraint and ensure cash reserve stays above $4.00.",
+    "updated_at": "2026-10-21T23:10:44.901717-03:00"
   }
 }
