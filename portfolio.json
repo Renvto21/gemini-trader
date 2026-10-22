@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity holdings in AAPL and MSFT according to equity holding patience rules. Do not touch closed equity markets. Keep crypto sidelined as all major tokens are below their SMA20 trend line. Wait for a confirmed bullish reversal with a positive 1-hour candle and RSI above 32 before considering any crypto dip-buying opportunities.",
-    "updated_at": "2026-10-22T00:50:45.963357-03:00"
+    "notes": "Maintain existing equity holdings in AAPL and MSFT. Do not trade closed equity markets. Keep crypto sidelined as all major tokens remain in a downtrend below the SMA20 line and fail to meet robust reversal triggers. Wait for crypto assets to reclaim their SMA20 trend line and show confirmed bullish momentum before deploying capital.",
+    "updated_at": "2026-10-22T01:00:51.595453-03:00"
   }
 }
