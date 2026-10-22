@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT with strict adherence to equity holding patience. Monitor for take-profit targets between +3.0% and +5.0% or stop-loss limits around -1.8%. Keep crypto assets sidelined until confirmed uptrends above the SMA20 and valid reversal triggers (rsi_1h >= 32 and change_1h_pct > 0.0) materialize.",
-    "updated_at": "2026-10-22T01:40:42.453879-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT with strict adherence to equity holding patience. Monitor positions for take-profit targets between +3.0% and +5.0% or stop-loss limits around -1.8%. Keep crypto assets sidelined as they remain in downtrends below the SMA20 without confirmed green 1-hour candles or RSI recovery.",
+    "updated_at": "2026-10-22T01:50:44.628939-03:00"
   }
 }
