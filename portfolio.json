@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT positions patiently during market closure. BTC-USD is strong in an uptrend, but no crypto position is currently open, and we maintain our cash reserve ($22.20). Will monitor BTC-USD and equities for optimal pullback entries when volatility presents clear asymmetric setups.",
-    "updated_at": "2026-10-21T22:30:44.909909-03:00"
+    "notes": "Holding AAPL and MSFT positions patiently during market closure. BTC-USD is in an uptrend, but waiting for a positive 1-hour candle confirmation (change_1h_pct > 0) before considering a crypto pullback entry. Maintaining strong cash reserves ($22.20).",
+    "updated_at": "2026-10-21T22:40:44.986426-03:00"
   }
 }
