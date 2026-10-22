@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT patiently as per equity holding rules. Do not rotate or sell flat positions prematurely. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-2.0%) when markets reopen. Keep crypto sidelined due to bearish trends and lack of proper pullback confirmation.",
-    "updated_at": "2026-10-22T08:20:43.601477-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT patiently. Do not sell flat equity positions prematurely. Watch for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-2.0%) when standard market hours reopen. Keep crypto sidelined due to persistent bearish trends and lack of confirmed 1-hour green candle bounces.",
+    "updated_at": "2026-10-22T08:31:02.056513-03:00"
   }
 }
