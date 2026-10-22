@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue to hold AAPL and monitor for profit-taking targets (+3.0% to +5.0% gain, or rsi_1h > 72 with profit >= +2.5%). Hold MSFT patiently despite its temporary dip below SMA20, maintaining strict discipline against the -1.8% to -2.0% stop-loss threshold. Keep cash reserves safely above $4.00 USD ($22.20 currently) and wait for assets to clear both the SMA20 uptrend requirement and the 1-hour reversal trigger (rsi_1h >= 32 and change_1h_pct > 0.0) before deploying new capital.",
-    "updated_at": "2026-10-22T14:01:09.002555-03:00"
+    "notes": "Continue to hold AAPL patiently as it approaches our target take-profit zone of +3.0% to +5.0% (currently at +1.5%). Hold MSFT despite its dip, strictly respecting the -1.8% to -2.0% stop-loss threshold while monitoring for a bounce above SMA20. Do not deploy capital into any crypto or equities until both the uptrend requirement and the 1-hour reversal confirmation (rsi_1h >= 32 and change_1h_pct > 0.0) are fully satisfied.",
+    "updated_at": "2026-10-22T14:11:03.900547-03:00"
   }
 }
