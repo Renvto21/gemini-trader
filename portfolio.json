@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital with $39.25 in cash. Traditional markets remain closed and all crypto assets fail the trend filter (trading below SMA20). Will continue to wait for assets to reclaim their SMA20 or form valid confirmed uptrend pullbacks with positive 1-hour candles before deploying capital.",
-    "updated_at": "2026-10-22T20:40:47.135317-03:00"
+    "notes": "Preserving capital with $39.25 in cash. Traditional equities are closed, and although AAPL remains in an uptrend, we cannot trade it while markets are closed. Cryptocurrencies show minor 1-hour bounce attempts but fail the strict trend filter as they remain below their SMA20. I will continue to wait for a valid confirmed pullback setup above the SMA20 in crypto or the reopening of traditional markets.",
+    "updated_at": "2026-10-22T20:50:45.317193-03:00"
   }
 }
