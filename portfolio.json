@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT according to equity holding patience. Monitor take-profit levels (+3% to +5%) and stop-loss limits (-2%). Keep crypto sidelined as available cryptocurrencies are currently trading below their SMA20 trend lines. Ensure minimum cash reserve remains securely above $4.00.",
-    "updated_at": "2026-10-22T00:00:51.056428-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT in accordance with equity holding patience guidelines. Do not rotate or sell prematurely. Monitor take-profit levels between +3% and +5% and hard stop-losses at -2%. Keep crypto sidelined since available tokens are trading below their SMA20 trend lines and lack valid reversal confirmation triggers. Ensure minimum cash reserve stays above $4.00.",
+    "updated_at": "2026-10-22T00:10:41.679189-03:00"
   }
 }
