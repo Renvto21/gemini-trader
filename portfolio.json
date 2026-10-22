@@ -1852,7 +1852,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT as they remain in healthy uptrends above their SMA20. Patiently hold until positions reach take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%). Keep crypto sidelined until market structures shift above SMA20 with confirmed RSI >= 32 and positive 1-hour momentum.",
-    "updated_at": "2026-10-22T02:40:41.445578-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT. Patiently hold until positions reach the take-profit target zone (+3.0% to +5.0%) or hit stop-loss limits (-1.8%). Keep crypto sidelined as all available digital assets are currently trading below their SMA20 with negative short-term momentum. Wait for a clear trend shift and confirmed RSI >= 32 with positive 1-hour momentum before entering new crypto or equity pullback opportunities.",
+    "updated_at": "2026-10-22T02:50:49.857127-03:00"
   }
 }
