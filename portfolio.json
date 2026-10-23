@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "We maintain 100% cash ($39.25). AAPL remains above its SMA20 in an uptrend, but we are waiting for its 1-hour RSI to stabilize and for a confirmed green 1-hour candle (change_1h_pct > 0.0%) before entering a pullback position. All other assets are in downtrends and will be ignored.",
-    "updated_at": "2026-10-23T13:10:44.495719-03:00"
+    "notes": "We hold 100% cash ($39.25). AAPL is in an uptrend above SMA20, but we await a positive 1-hour price change (change_1h_pct > 0.0) combined with a stable 1-hour RSI before buying a pullback. All other assets are below their SMA20 and will continue to be ignored.",
+    "updated_at": "2026-10-23T13:20:51.100207-03:00"
   }
 }
