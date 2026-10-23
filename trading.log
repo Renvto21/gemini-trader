@@ -1,35 +1,4 @@
 ⚡ DECIDED ACTIONS:
-  • Action: [HOLD] BTC-USD (Confidence: 0%)
-    Reason: Crypto assets are currently in a downtrend (below SMA20) with negative 1h returns. Bypassing entry until strict reversal criteria are met.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
-
-[2026-10-23 07:00:46] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $39.25 USD
- Assets Value:        $0.00 USD
- Total Balance:       $39.25 USD
- Net PnL:             🔴 $-0.75 USD (-1.88%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Traditional markets are closed (CERRADO), so trading is restricted to crypto assets. In crypto, SOL-USD, ETH-USD, and BTC-USD remain in a bearish trend below their SMA20. Although SOL-USD shows a positive 1-hour percentage change and an RSI above 32, it fails the strict requirement of being in a confirmed uptrend above the SMA20. Therefore, no trades can be executed at this time to protect capital and adhere to the strict trend-following pullback rules."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Preserving capital with $39.25 in cash. Traditional equities are closed, and crypto assets lack a confirmed bullish structural uptrend above the SMA20. We will remain on the sidelines until a high-quality asset breaks back above its SMA20 with positive momentum or until traditional markets reopen with clear pullback setups."
-
-⚡ DECIDED ACTIONS:
 
 🏁 Cycle completed.
 Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
@@ -147,6 +116,37 @@ Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 100%)
     Reason: No trades executed as traditional markets are closed and crypto assets do not meet our uptrend filter (below SMA20). Maintaining cash reserves for high-quality setups.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
+
+[2026-10-23 07:50:36] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $39.25 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $39.25 USD
+ Net PnL:             🔴 $-0.75 USD (-1.88%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Traditional markets remain closed (market status CERRADO), meaning no trades can be executed on equities or ETFs like AAPL, MSFT, or QQQ. In the crypto sector, assets such as ETH-USD, BTC-USD, and SOL-USD are open 24/7 but currently remain in a downtrend (below their SMA20). Although ETH-USD and BTC-USD show positive 1-hour changes and RSI values above 32, our strict quantitative filter prohibits buying any asset that trades below its SMA20 to avoid catching falling knives. Consequently, we maintain a defensive posture with 100% cash allocation until traditional markets reopen or cryptocurrencies establish a confirmed uptrend above their SMA20."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding $39.25 in cash with zero active positions. Traditional markets are closed, and crypto assets are currently below their SMA20. We maintain strict adherence to our trend-following rules: no crypto purchases while below SMA20. When traditional markets reopen, we will monitor AAPL and other high-quality equities for pullback opportunities above their SMA20 with 1-hour RSI >= 32 and positive 1-hour candles."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 100%)
+    Reason: Traditional markets are closed (CERRADO), and no positions are currently open. We wait for market opening and valid setup conditions.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
