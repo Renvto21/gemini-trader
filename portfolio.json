@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Capital is preserved at $39.25 cash. Wall Street is closed, restricting equity operations. Cryptocurrencies are open but lack green 1-hour reversal confirmation (change_1h_pct is negative across the board). Next cycle: continue waiting for Wall Street to reopen to look for pullbacks on AAPL or other confirmed uptrend equities, or wait for crypto assets to show a valid 1-hour green candle with rsi_1h >= 32 and an uptrend recovery.",
-    "updated_at": "2026-10-23T10:20:58.749604-03:00"
+    "notes": "Cash reserves are at $39.25. AAPL is in a strong uptrend but currently overbought (rsi_1h 81.0); waiting for a healthy pullback with rsi_1h >= 32 and a green 1-hour candle. All other assets are in downtrends below SMA20 or overbought. Maintain discipline and avoid catching falling knives.",
+    "updated_at": "2026-10-23T10:30:42.727251-03:00"
   }
 }

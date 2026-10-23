@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 10:20:58`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 10:30:42`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets remain closed with prices frozen, and most major equities and commodities are currently trading below their SMA20 trendlines. Among available open assets, the crypto market is trading 24/7, but major coins such as BTC-USD, ETH-USD, and SOL-USD are currently experiencing negative 1-hour momentum (change_1h_pct < 0), failing our strict reversal trigger. AAPL is the only asset currently in a confirmed uptrend above its SMA20, but because Wall Street is closed (CERRADO), we cannot execute trades on it at this time."
+> "Wall Street is open and trading. Overall market conditions show most major indices and stocks (QQQ, SPY, NVDA, MSFT, GLD) in a downtrend below their SMA20. AAPL remains a notable exception, trading in a confirmed bullish uptrend (above SMA20) with strong momentum, though its 1-hour RSI is currently overbought at 81.0, ruling out an immediate pullback entry. Cryptocurrencies (SOL-USD, ETH-USD, BTC-USD) are open 24/7 with positive 1-hour changes, but all remain classified in a bearish trend below their respective SMA20 lines, violating our strict trend filter. Therefore, capital preservation is maintained in cash while we wait for high-quality pullback opportunities in confirmed uptrend assets."
 
 **Cycle Actions:**
-- *No changes this cycle (HOLD)*
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20, but the current 1-hour RSI is 81.0, indicating an overbought state. We will wait for a pullback with an RSI >= 32 and a positive 1-hour return before initiating a new position.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Capital is preserved at $39.25 cash. Wall Street is closed, restricting equity operations. Cryptocurrencies are open but lack green 1-hour reversal confirmation (change_1h_pct is negative across the board). Next cycle: continue waiting for Wall Street to reopen to look for pullbacks on AAPL or other confirmed uptrend equities, or wait for crypto assets to show a valid 1-hour green candle with rsi_1h >= 32 and an uptrend recovery."
+> "Cash reserves are at $39.25. AAPL is in a strong uptrend but currently overbought (rsi_1h 81.0); waiting for a healthy pullback with rsi_1h >= 32 and a green 1-hour candle. All other assets are in downtrends below SMA20 or overbought. Maintain discipline and avoid catching falling knives."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
