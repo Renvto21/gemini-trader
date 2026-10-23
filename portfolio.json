@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital preservation with $39.25 in cash. Crypto assets do not show valid 1-hour green candle confirmation (change_1h_pct > 0.0) combined with an uptrend above SMA20. Will continue monitoring crypto for bounce setups and wait for the reopening of traditional equity markets for AAPL or other uptrend opportunities.",
-    "updated_at": "2026-10-23T01:10:44.805581-03:00"
+    "notes": "Preserving capital with $39.25 in cash. All available assets either fail the trend filter (trading below SMA20) or lack positive 1-hour momentum confirmation. Traditional markets are closed, and crypto markets show downward pressure without green candle bounces. Will maintain patience, keep cash reserves above the $4.00 minimum, and wait for equities to reopen or for crypto assets to form a proper pullback setup with change_1h_pct > 0.0 and rsi_1h >= 32 in an uptrend.",
+    "updated_at": "2026-10-23T01:20:42.561403-03:00"
   }
 }
