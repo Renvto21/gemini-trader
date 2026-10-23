@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital preservation with $39.25 in cash. Wall Street is closed. Crypto assets remain in downtrends below their SMA20 lines, violating our rule against catching falling knives. We will wait for Wall Street to reopen to look for quality equity pullbacks in confirmed uptrends, or for crypto assets to reclaim their SMA20 with positive 1H momentum and RSI >= 32.",
-    "updated_at": "2026-10-23T09:50:40.111731-03:00"
+    "notes": "Maintained capital preservation with $39.25 in cash following the disciplined stop-loss execution on MSFT. Wall Street remains closed. Crypto assets are currently trading below their SMA20 lines, violating our trend filter. We will wait for Wall Street to reopen to look for quality equity pullbacks in confirmed uptrends (like AAPL if it dips to support), or for crypto assets to reclaim their SMA20 with positive 1H momentum and RSI >= 32.",
+    "updated_at": "2026-10-23T10:00:54.399839-03:00"
   }
 }
