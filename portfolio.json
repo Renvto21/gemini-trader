@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "We are keeping 100% cash ($39.25). AAPL remains the only asset in an uptrend (above SMA20), but we are waiting for its 1-hour RSI to cool down further and for a confirmed positive 1-hour candle change (> 0.0%) before initiating a pullback entry. All other equities and cryptos remain in downtrends below their SMA20 and will be strictly avoided.",
-    "updated_at": "2026-10-23T13:00:55.065743-03:00"
+    "notes": "We maintain 100% cash ($39.25). AAPL remains above its SMA20 in an uptrend, but we are waiting for its 1-hour RSI to stabilize and for a confirmed green 1-hour candle (change_1h_pct > 0.0%) before entering a pullback position. All other assets are in downtrends and will be ignored.",
+    "updated_at": "2026-10-23T13:10:44.495719-03:00"
   }
 }
