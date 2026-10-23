@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital preservation with $39.25 in cash and zero open positions. Wall Street is closed, and active crypto assets fail the trend-following pullback rules as they are trading below their SMA20 with negative or insufficient 1-hour momentum. We will wait for market reopening and look for confirmed uptrend assets pulling back with an RSI >= 32 and positive 1-hour green candle confirmation.",
-    "updated_at": "2026-10-23T09:20:44.312755-03:00"
+    "notes": "Maintained capital preservation with $39.25 in cash and zero open positions. All crypto assets (SOL, BTC, ETH) fail our strict trend filter as they are below their SMA20 despite positive short-term momentum. Wall Street assets are closed. We will wait for market reopening and look for confirmed uptrend equities or cryptos pulling back with an RSI >= 32 and positive 1-hour green candle confirmation.",
+    "updated_at": "2026-10-23T09:30:52.781818-03:00"
   }
 }
