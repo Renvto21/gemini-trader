@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 11:50:51`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 12:00:54`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The majority of assets remain in a short-term downtrend below their SMA20, reflecting ongoing macro caution. However, AAPL continues to trade in a confirmed uptrend above its SMA20 with positive 1-hour momentum (change_1h_pct: +0.08%) and a healthy 1-hour RSI of 63.5, though its daily RSI is elevated at 72.0. We will monitor AAPL for an ideal pullback entry, while maintaining strict discipline on our cash preservation and avoiding falling knives."
+> "The broader market remains mostly under pressure, with major indices and equities like SPY, QQQ, NVDA, and MSFT trading below their SMA20 trend lines. AAPL is the sole asset maintaining a confirmed uptrend above its SMA20 with a positive 1-hour percentage change of +0.09% and an hourly RSI of 63.6, satisfying our bounce criteria. Other assets are either failing trend filters or showing negative hourly momentum."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 70%): AAPL is in a confirmed uptrend above the SMA20 with positive 1-hour momentum, but its daily RSI is currently at 72.0, suggesting it is slightly overextended for an immediate new entry. We are holding cash to wait for a better risk-reward entry point.
+- **[HOLD] AAPL** (Confidence: 65%): AAPL is in an uptrend above SMA20 with positive 1-hour change (+0.09%), but the daily RSI is at 72.1, leaving little immediate upside margin without a minor cooling dip. We hold cash and wait for an optimal entry.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "We are holding $39.25 in cash while waiting for an optimal pullback setup in AAPL, which is our sole asset above the SMA20. AAPL's daily RSI is currently at 72.0, so we prefer a slight cooling off of the daily RSI or a clearer dip before deploying capital. All other assets remain in bearish trends below their SMA20 and are strictly excluded from buying. Minimum cash reserves and risk controls are fully maintained."
+> "We hold $39.25 in cash. AAPL is our only candidate in a confirmed uptrend (above SMA20) with positive 1-hour momentum. However, its daily RSI remains elevated at 72.1. We will wait for a slightly more favorable intraday pullback or consolidation before deploying capital, keeping strict adherence to risk management, stop-loss (-2%), and target profit rules (+3% to +5%)."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

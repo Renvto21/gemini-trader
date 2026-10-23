@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "We are holding $39.25 in cash while waiting for an optimal pullback setup in AAPL, which is our sole asset above the SMA20. AAPL's daily RSI is currently at 72.0, so we prefer a slight cooling off of the daily RSI or a clearer dip before deploying capital. All other assets remain in bearish trends below their SMA20 and are strictly excluded from buying. Minimum cash reserves and risk controls are fully maintained.",
-    "updated_at": "2026-10-23T11:50:51.338206-03:00"
+    "notes": "We hold $39.25 in cash. AAPL is our only candidate in a confirmed uptrend (above SMA20) with positive 1-hour momentum. However, its daily RSI remains elevated at 72.1. We will wait for a slightly more favorable intraday pullback or consolidation before deploying capital, keeping strict adherence to risk management, stop-loss (-2%), and target profit rules (+3% to +5%).",
+    "updated_at": "2026-10-23T12:00:54.610431-03:00"
   }
 }
