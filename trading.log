@@ -1,35 +1,4 @@
 ⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 100%)
-    Reason: Wall Street is closed. AAPL is in an uptrend but cannot be traded until market hours resume. No crypto assets satisfy our uptrend and reversal criteria.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
-
-[2026-10-23 09:20:37] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $39.25 USD
- Assets Value:        $0.00 USD
- Total Balance:       $39.25 USD
- Net PnL:             🔴 $-0.75 USD (-1.88%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Wall Street markets remain closed with prices frozen, meaning equities and ETFs like AAPL, MSFT, and SPY cannot be traded. Among open crypto markets (ETH-USD, SOL-USD, BTC-USD), all major assets are currently in a bearish trend below their respective SMA20 lines and lack a positive 1-hour percentage change to satisfy the reversal confirmation trigger. AAPL is the only asset in a confirmed uptrend above its SMA20, but its market is closed and its 1-hour RSI is heavily overbought at 79.6, precluding any buy action. Therefore, we maintain 100% cash patience."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained capital preservation with $39.25 in cash and zero open positions. Wall Street is closed, and active crypto assets fail the trend-following pullback rules as they are trading below their SMA20 with negative or insufficient 1-hour momentum. We will wait for market reopening and look for confirmed uptrend assets pulling back with an RSI >= 32 and positive 1-hour green candle confirmation."
-
-⚡ DECIDED ACTIONS:
 
 🏁 Cycle completed.
 Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
@@ -147,6 +116,37 @@ Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 100%)
     Reason: No active positions to manage and current market conditions do not present valid asymmetric risk/reward setups. Wall Street is closed, and open crypto assets fail our strict SMA20 uptrend filter. Remaining in cash to preserve capital.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
+
+[2026-10-23 10:10:40] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $39.25 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $39.25 USD
+ Net PnL:             🔴 $-0.75 USD (-1.88%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Wall Street markets remain closed (CERRADO) with prices frozen. Among equities, only AAPL is trading in a confirmed uptrend (above SMA20), but its market status is closed and its 1-hour RSI is heavily overbought at 79.6, preventing any entry. All other equities (QQQ, SPY, MSFT, NVDA, GLD) are currently in a downtrend below their SMA20 lines. In the crypto markets (ABIERTO 24/7), BTC-USD, ETH-USD, and SOL-USD are also trading below their SMA20 lines and currently show negative 1-hour price changes (change_1h_pct < 0), failing our reversal confirmation and trend filter rules. We maintain 100% cash preservation ($39.25) and will wait patiently for Wall Street to reopen and for assets to form valid uptrend pullback setups."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintained capital preservation with $39.25 in cash. Wall Street is closed and available crypto assets fail our strict trend filter (trading below SMA20 with negative 1-hour momentum). Next cycle: continue monitoring crypto for a bullish 1H reversal candle combined with reclaiming SMA20, or wait for Wall Street to reopen to target quality equity pullbacks in established uptrends (such as AAPL upon support retests)."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 100%)
+    Reason: No active positions to manage and all tradable assets fail our strict quantitative trend filters or market hours constraints. Capital is preserved securely in cash.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
