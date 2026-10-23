@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital preservation by avoiding downtrending assets. Traditional markets are closed, preventing any action on AAPL which remains in a strong uptrend above SMA20 with an rsi_1h at 79.6. For the next cycle, if traditional markets open, monitor AAPL for a healthy pullback above its SMA20 with rsi_1h >= 32 and a positive 1-hour candle. Continue to avoid all crypto assets since they remain in bearish trends below SMA20.",
-    "updated_at": "2026-10-23T04:00:48.646008-03:00"
+    "notes": "Maintained capital preservation by avoiding downtrending crypto assets and respecting closed market hours. AAPL remains the only asset in a confirmed uptrend above SMA20, but the market is closed. For the next cycle, when traditional markets reopen, monitor AAPL for a healthy pullback with an rsi_1h >= 32 and a positive 1-hour candle before entering. Continue to hold off on crypto assets as long as they remain below their SMA20.",
+    "updated_at": "2026-10-23T04:10:39.731909-03:00"
   }
 }
