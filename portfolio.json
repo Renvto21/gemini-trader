@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position patiently as it remains in an established uptrend above the SMA20. Wall Street is currently closed, so no stock trades can be executed. Crypto assets do not meet our uptrend or reversal confirmation criteria. We will continue monitoring AAPL for take-profit criteria upon market reopening or cut losses strictly if it triggers the -1.8% stop-loss threshold. Cash reserves remain robust at $32.25.",
-    "updated_at": "2026-10-23T18:40:45.486240-03:00"
+    "notes": "Holding AAPL patiently as mandated by equity patience rules, monitoring for take-profit criteria if rsi_1h surpasses 72 or price reaches +3.0% to +5.0% gain upon market reopening. Stop-loss is firmly set at -1.8% to -2.0% to protect capital. Cash reserve stands strong at $32.25. Will resume scanning equities upon market opening and maintain discipline on crypto due to lack of established uptrends.",
+    "updated_at": "2026-10-23T18:50:44.804161-03:00"
   }
 }
