@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "We are currently holding 100 percent in cash ($39.25). AAPL remains the only asset in a confirmed uptrend but needs to cool off or provide an intraday dip where rsi_1h >= 32 and change_1h_pct > 0.0 before deployment. We will patiently wait for either AAPL to pull back or for other quality equities to reclaim their SMA20 and display proper reversal confirmation. Strict adherence to our risk management rules remains paramount.",
-    "updated_at": "2026-10-23T12:30:59.468308-03:00"
+    "notes": "We are currently sitting in 100% cash ($39.25) after cleanly cutting MSFT before hitting the hard stop-loss. AAPL remains the only asset in a confirmed uptrend, but its RSI is too high for a safe entry. We will wait for AAPL to undergo a healthy pullback where rsi_1h drops closer to or above 32, followed by a confirmed positive 1-hour candle change (> 0.0%) before allocating capital.",
+    "updated_at": "2026-10-23T12:40:48.231614-03:00"
   }
 }
