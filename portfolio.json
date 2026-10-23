@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position with current PnL at +0.16%. Traditional markets are closed, so we exercise equity holding patience and wait for active trading hours to monitor for take-profit criteria (+3.0% to +5.0% gain or 1H RSI > 72) or the stop-loss threshold (-1.8%). Cryptocurrencies remain in downtrends below SMA20, so no crypto exposure will be added. Cash reserves are maintained at $32.25.",
-    "updated_at": "2026-10-23T18:10:45.937405-03:00"
+    "notes": "Holding the AAPL position patiently as it is in an established uptrend above the SMA20. We will monitor for take-profit criteria (+3.0% to +5.0% gain or 1H RSI > 72) once traditional markets reopen, or cut losses strictly if it approaches the -1.8% threshold. No crypto exposure will be added since all cryptos are currently in bearish trends below SMA20. Cash reserves remain safe at $32.25.",
+    "updated_at": "2026-10-23T18:20:42.389713-03:00"
   }
 }
