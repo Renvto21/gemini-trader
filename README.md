@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 10:11:02`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 10:20:58`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets remain closed (CERRADO) with prices frozen. Among equities, only AAPL is trading in a confirmed uptrend (above SMA20), but its market status is closed and its 1-hour RSI is heavily overbought at 79.6, preventing any entry. All other equities (QQQ, SPY, MSFT, NVDA, GLD) are currently in a downtrend below their SMA20 lines. In the crypto markets (ABIERTO 24/7), BTC-USD, ETH-USD, and SOL-USD are also trading below their SMA20 lines and currently show negative 1-hour price changes (change_1h_pct < 0), failing our reversal confirmation and trend filter rules. We maintain 100% cash preservation ($39.25) and will wait patiently for Wall Street to reopen and for assets to form valid uptrend pullback setups."
+> "Wall Street markets remain closed with prices frozen, and most major equities and commodities are currently trading below their SMA20 trendlines. Among available open assets, the crypto market is trading 24/7, but major coins such as BTC-USD, ETH-USD, and SOL-USD are currently experiencing negative 1-hour momentum (change_1h_pct < 0), failing our strict reversal trigger. AAPL is the only asset currently in a confirmed uptrend above its SMA20, but because Wall Street is closed (CERRADO), we cannot execute trades on it at this time."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): No active positions to manage and all tradable assets fail our strict quantitative trend filters or market hours constraints. Capital is preserved securely in cash.
+- *No changes this cycle (HOLD)*
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained capital preservation with $39.25 in cash. Wall Street is closed and available crypto assets fail our strict trend filter (trading below SMA20 with negative 1-hour momentum). Next cycle: continue monitoring crypto for a bullish 1H reversal candle combined with reclaiming SMA20, or wait for Wall Street to reopen to target quality equity pullbacks in established uptrends (such as AAPL upon support retests)."
+> "Capital is preserved at $39.25 cash. Wall Street is closed, restricting equity operations. Cryptocurrencies are open but lack green 1-hour reversal confirmation (change_1h_pct is negative across the board). Next cycle: continue waiting for Wall Street to reopen to look for pullbacks on AAPL or other confirmed uptrend equities, or wait for crypto assets to show a valid 1-hour green candle with rsi_1h >= 32 and an uptrend recovery."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

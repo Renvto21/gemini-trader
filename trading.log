@@ -3,34 +3,6 @@
 🏁 Cycle completed.
 Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
 
-[2026-10-23 09:30:41] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $39.25 USD
- Assets Value:        $0.00 USD
- Total Balance:       $39.25 USD
- Net PnL:             🔴 $-0.75 USD (-1.88%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The current market environment shows traditional equity and ETF markets closed, with prices frozen. Most assets including NVDA, MSFT, GLD, QQQ, and SPY are trading below their SMA20 trend filters, indicating broader weakness. AAPL is in a confirmed uptrend above its SMA20 with an RSI_1h of 79.6, but its market status is closed. In the cryptocurrency sector (open 24/7), SOL-USD, BTC-USD, and ETH-USD are all currently trading below their SMA20, classifying them in bearish trends. Under our strict trend-following pullback rules, we never catch falling knives or buy assets in a downtrend. Therefore, no crypto assets qualify for purchase despite positive 1-hour candles."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained capital preservation with $39.25 in cash and zero open positions. All crypto assets (SOL, BTC, ETH) fail our strict trend filter as they are below their SMA20 despite positive short-term momentum. Wall Street assets are closed. We will wait for market reopening and look for confirmed uptrend equities or cryptos pulling back with an RSI >= 32 and positive 1-hour green candle confirmation."
-
-⚡ DECIDED ACTIONS:
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
-
 [2026-10-23 09:40:35] 🔍 Starting analysis cycle...
 📡 Downloading quotes & 1H intraday indicators for 9 assets...
 
@@ -148,6 +120,34 @@ Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
   • Action: [HOLD] AAPL (Confidence: 100%)
     Reason: No active positions to manage and all tradable assets fail our strict quantitative trend filters or market hours constraints. Capital is preserved securely in cash.
     ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
+
+[2026-10-23 10:20:38] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $39.25 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $39.25 USD
+ Net PnL:             🔴 $-0.75 USD (-1.88%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Wall Street markets remain closed with prices frozen, and most major equities and commodities are currently trading below their SMA20 trendlines. Among available open assets, the crypto market is trading 24/7, but major coins such as BTC-USD, ETH-USD, and SOL-USD are currently experiencing negative 1-hour momentum (change_1h_pct < 0), failing our strict reversal trigger. AAPL is the only asset currently in a confirmed uptrend above its SMA20, but because Wall Street is closed (CERRADO), we cannot execute trades on it at this time."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Capital is preserved at $39.25 cash. Wall Street is closed, restricting equity operations. Cryptocurrencies are open but lack green 1-hour reversal confirmation (change_1h_pct is negative across the board). Next cycle: continue waiting for Wall Street to reopen to look for pullbacks on AAPL or other confirmed uptrend equities, or wait for crypto assets to show a valid 1-hour green candle with rsi_1h >= 32 and an uptrend recovery."
+
+⚡ DECIDED ACTIONS:
 
 🏁 Cycle completed.
 Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)

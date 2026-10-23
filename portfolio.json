@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital preservation with $39.25 in cash. Wall Street is closed and available crypto assets fail our strict trend filter (trading below SMA20 with negative 1-hour momentum). Next cycle: continue monitoring crypto for a bullish 1H reversal candle combined with reclaiming SMA20, or wait for Wall Street to reopen to target quality equity pullbacks in established uptrends (such as AAPL upon support retests).",
-    "updated_at": "2026-10-23T10:11:02.312051-03:00"
+    "notes": "Capital is preserved at $39.25 cash. Wall Street is closed, restricting equity operations. Cryptocurrencies are open but lack green 1-hour reversal confirmation (change_1h_pct is negative across the board). Next cycle: continue waiting for Wall Street to reopen to look for pullbacks on AAPL or other confirmed uptrend equities, or wait for crypto assets to show a valid 1-hour green candle with rsi_1h >= 32 and an uptrend recovery.",
+    "updated_at": "2026-10-23T10:20:58.749604-03:00"
   }
 }
