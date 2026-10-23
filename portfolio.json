@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Cash reserves are preserved at $39.25 following the strict stop-loss execution on MSFT. AAPL remains the sole asset above the SMA20 trend filter, but lacks a valid pullback setup (rsi_1h >= 32 and change_1h_pct > 0.0). We will remain on the sidelines, patiently waiting for AAPL or other candidates to form a clean dip and green 1-hour reversal candle before deploying capital.",
-    "updated_at": "2026-10-23T11:10:56.044684-03:00"
+    "notes": "Cash reserves are held at $39.25. AAPL is the only asset above the SMA20 trend filter, but it is currently overbought and declining on the 1-hour timeframe (change_1h_pct = -0.17%). We will wait for AAPL to pull back further while maintaining its uptrend status, ensuring rsi_1h >= 32 and a green 1-hour candle (change_1h_pct > 0.0) before allocating $7.00 to $10.00. Strict adherence to our trend filter and risk management rules prevents catching falling knives in other assets.",
+    "updated_at": "2026-10-23T11:20:51.471132-03:00"
   }
 }
