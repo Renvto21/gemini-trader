@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "We are holding $39.25 in cash. AAPL remains the only candidate in a confirmed uptrend (above SMA20), but its daily RSI is currently overextended at 72.5. We will patiently wait for a minor intraday dip where rsi_1h is >= 32 and change_1h_pct > 0.0 before deploying a standard $7.00 position, adhering strictly to our +3% to +5% target and -2% stop-loss constraints.",
-    "updated_at": "2026-10-23T12:10:58.053328-03:00"
+    "notes": "We are preserving capital with $39.25 in cash. AAPL remains in a confirmed uptrend but is currently overextended on the daily timeframe. We will wait for AAPL to provide a cleaner intraday dip where rsi_1h is >= 32 and change_1h_pct > 0.0, or for another equity to reclaim its SMA20 before deploying a $6.00 to $7.00 position. Strict adherence to our +3% to +5% take-profit target and -2% stop-loss remains mandatory.",
+    "updated_at": "2026-10-23T12:21:00.936281-03:00"
   }
 }
