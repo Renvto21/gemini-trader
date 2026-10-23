@@ -1,31 +1,3 @@
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
-
-[2026-10-23 00:20:37] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $39.25 USD
- Assets Value:        $0.00 USD
- Total Balance:       $39.25 USD
- Net PnL:             🔴 $-0.75 USD (-1.88%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The portfolio is currently holding 100 percent cash ($39.25) following a disciplined stop-loss execution on MSFT. Traditional equities and assets are currently closed ('CERRADO'), and most major assets including the open crypto markets (BTC-USD, ETH-USD, SOL-USD) are exhibiting a bearish trend below the SMA20 with negative 1-hour percentage changes, failing our strict trend filter. Although AAPL is in a confirmed uptrend ('ALCISTA (sobre SMA20)'), its market status is closed and its 1-hour RSI is severely overbought at 79.6, offering no viable entry pullback right now. We remain patient in cash, avoiding falling knives until solid trend confirmation and green 1-hour candles appear."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained capital preservation with $39.25 cash. Crypto assets (BTC, ETH, SOL) currently trade below SMA20 with negative 1-hour changes, violating our reversal trigger. AAPL is in an uptrend but markets are closed and RSI is overbought (>72). Will wait for Wall Street market open and monitor for pullback opportunities in quality uptrend stocks with positive 1-hour candle reversals and RSI >= 32."
-
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 100%)
     Reason: Traditional markets are closed and AAPL 1-hour RSI is extremely overbought at 79.6, violating pullback criteria. Maintaining cash reserves.
@@ -148,6 +120,34 @@ Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
   • Action: [HOLD] AAPL (Confidence: 80%)
     Reason: No active positions to manage. AAPL is in an uptrend but the market is closed. Awaiting valid pullback and confirmation signals across available assets.
     ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
+
+[2026-10-23 01:10:37] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $39.25 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $39.25 USD
+ Net PnL:             🔴 $-0.75 USD (-1.88%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"All traditional equity and ETF markets are currently closed (CERRADO), so no transactions can be executed on stocks or indices. In the crypto markets (ABIERTO 24/7), assets such as BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 with negative 1-hour percentage changes, failing our strict trend-following filter and reversal confirmation triggers. AAPL is the only asset currently in a confirmed uptrend above its SMA20, but its market is closed. Therefore, we remain in 100% cash, preserving our capital until valid pullback setups appear."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintained capital preservation with $39.25 in cash. Crypto assets do not show valid 1-hour green candle confirmation (change_1h_pct > 0.0) combined with an uptrend above SMA20. Will continue monitoring crypto for bounce setups and wait for the reopening of traditional equity markets for AAPL or other uptrend opportunities."
+
+⚡ DECIDED ACTIONS:
 
 🏁 Cycle completed.
 Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)

@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital preservation strategy with $39.25 in cash. Crypto markets are open but lack green 1-hour confirmation candles (change_1h_pct > 0.0) needed for pullback entries. Equities are closed. Will wait for market reopening or crypto reversal confirmation before deploying capital.",
-    "updated_at": "2026-10-23T01:01:01.793343-03:00"
+    "notes": "Maintained capital preservation with $39.25 in cash. Crypto assets do not show valid 1-hour green candle confirmation (change_1h_pct > 0.0) combined with an uptrend above SMA20. Will continue monitoring crypto for bounce setups and wait for the reopening of traditional equity markets for AAPL or other uptrend opportunities.",
+    "updated_at": "2026-10-23T01:10:44.805581-03:00"
   }
 }
