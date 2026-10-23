@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 11:20:51`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 11:30:51`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broad market is currently exhibiting a defensive posture with major equity indices (SPY, QQQ, NVDA, MSFT) trading below their SMA20 trend filters, signaling a broader market pullback or bearish continuation. AAPL remains the sole asset in a confirmed uptrend above its SMA20, but its 1-hour change is currently negative (-0.17%) with an elevated RSI of 75.4, indicating it is overbought and lacking a valid dip entry. Crypto assets (SOL-USD, BTC-USD, ETH-USD) are also trading below their SMA20 lines with negative 1-hour momentum. Disciplined capital preservation requires us to stay on the sidelines until confirmed trend-following pullback setups emerge with positive 1-hour confirmation."
+> "The broader market is currently experiencing a strong risk-off environment, with nearly all major equities (GLD, QQQ, NVDA, SPY, MSFT) trading below their SMA20 trend filters and showing weak 1-hour price action. Cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) are also under downward pressure on the hourly charts, failing our strict trend and reversal criteria. AAPL remains the sole asset in a confirmed uptrend (above SMA20), but its 1-hour change is currently negative (-0.03%), meaning it fails our reversal trigger requirement of a green 1-hour candle (change_1h_pct > 0.0). Consequently, strict capital preservation rules apply, and we remain in cash."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 0%): AAPL is in an uptrend above SMA20, but its 1-hour price change is negative (-0.17%) and RSI is overbought (75.4). Awaiting a healthier pullback and a green 1-hour reversal candle to enter.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in an uptrend above its SMA20, but the current 1-hour candle is negative (change_1h_pct = -0.03%), failing our reversal confirmation trigger. Maintaining cash until a valid pullback entry is established.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Cash reserves are held at $39.25. AAPL is the only asset above the SMA20 trend filter, but it is currently overbought and declining on the 1-hour timeframe (change_1h_pct = -0.17%). We will wait for AAPL to pull back further while maintaining its uptrend status, ensuring rsi_1h >= 32 and a green 1-hour candle (change_1h_pct > 0.0) before allocating $7.00 to $10.00. Strict adherence to our trend filter and risk management rules prevents catching falling knives in other assets."
+> "Cash reserves are held at $39.25. AAPL is our only candidate in an uptrend (above SMA20), but it lacks the required positive 1-hour price change confirmation. We will patiently wait for AAPL to provide a green 1-hour candle (change_1h_pct > 0.0) alongside an RSI >= 32 before deploying $7.00 to $10.00. All other assets are in downtrends and are strictly ignored to avoid catching falling knives."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
