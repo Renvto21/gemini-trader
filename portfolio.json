@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position currently showing an unrealized loss of -0.26%. We maintain our target profit range at +3.0% to +5.0% gain or exit if 1-hour RSI exceeds 72. Strict stop-loss is enforced at -1.8%. We will continue practicing equity holding patience, giving AAPL time to play out while monitoring for any macro shifts or trend reversals in other assets.",
-    "updated_at": "2026-10-23T14:31:02.919030-03:00"
+    "notes": "Holding AAPL with an unrealized loss of -0.3%. Maintaining target profit range at +3.0% to +5.0% gain or exit if 1-hour RSI exceeds 72. Strict stop-loss is enforced at -1.8%. We will continue to practice equity holding patience, giving AAPL time to play out while waiting for a green 1-hour candle before considering any new positions.",
+    "updated_at": "2026-10-23T14:40:41.457165-03:00"
   }
 }
