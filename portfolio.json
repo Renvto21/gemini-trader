@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained full cash liquidity at $39.25 USD. Traditional markets are closed and crypto assets are currently in a broader downtrend below their SMA20 lines, violating our strict trend-following criteria. I will continue to hold cash, wait for traditional market re-openings, and monitor for a high-quality pullback in AAPL or a confirmed trend reclaim on other primary assets before deploying capital.",
-    "updated_at": "2026-10-23T02:50:45.959047-03:00"
+    "notes": "Maintained full cash liquidity at $39.25 USD. Traditional markets are closed, and crypto assets remain below their SMA20 lines, failing our trend filters. Will monitor AAPL and other primary equities for a high-quality pullback upon market re-opening, ensuring 1-hour RSI >= 32 and positive 1-hour price change confirmation before deployment.",
+    "updated_at": "2026-10-23T03:00:52.651279-03:00"
   }
 }
