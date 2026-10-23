@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position patiently as it is in an uptrend above SMA20 and equity holding rules dictate giving stocks time to work. Watch for take-profit criteria upon market reopening if rsi_1h surpasses 72 or price achieves a +3.0% to +5.0% gain. Keep strict stop-loss protection at -1.8% to -2.0%. Cryptocurrencies remain uninvestable due to downtrends and failure to meet the reversal confirmation trigger. Cash reserves remain safe at $32.25.",
-    "updated_at": "2026-10-23T19:50:37.505105-03:00"
+    "notes": "Maintain the current AAPL position patiently in accordance with equity holding rules, giving the stock time to develop without premature rotation. Monitor take-profit thresholds (+3.0% to +5.0% or rsi_1h > 72) and adhere to strict stop-loss protection at -1.8% to -2.0% when the market reopens. Keep crypto assets sidelined due to ongoing downtrends and violation of core trend filters. Cash reserves remain secure at $32.25.",
+    "updated_at": "2026-10-23T20:00:49.701841-03:00"
   }
 }
