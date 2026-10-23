@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 06:30:52`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 06:40:48`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets remain closed (CERRADO) with prices frozen, rendering equities untradeable for this cycle per our market hours rule. In the 24/7 crypto markets, SOL-USD, BTC-USD, and ETH-USD are currently trading below their SMA20 trend filters with negative 1-hour percentage changes, failing our strict reversal confirmation triggers (change_1h_pct > 0.0). Consequently, we maintain a 100 percent cash position to preserve capital until a valid pullback setup aligns with our quantitative filters."
+> "Traditional equity markets are currently closed (CERRADO), and all tracked stock and ETF assets except AAPL are currently sitting below their SMA20 lines in a bearish trend. AAPL is in an uptrend above SMA20, but the market is closed, so we cannot execute orders on it right now. Active 24/7 crypto markets (ETH-USD, SOL-USD, BTC-USD) are all currently in a downtrend (below SMA20) with negative 1-hour percentage changes (-0.45%, -0.64%, -0.25%), failing our strict trend filter and reversal confirmation triggers."
 
 **Cycle Actions:**
-- **[HOLD] SOL-USD** (Confidence: 100%): Crypto assets are currently experiencing negative 1-hour changes and remain below their SMA20 trend lines, failing our strict entry filter. Holding cash until a valid reversal trigger appears.
+- **[HOLD] AAPL** (Confidence: 80%): No active positions currently held. Maintaining cash reserves while waiting for market hours to open and assets to meet strict uptrend and pullback criteria.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained cash position ($39.25) as traditional markets are closed and active crypto assets do not satisfy our trend or reversal confirmation criteria (all crypto are currently showing negative 1-hour percentage changes below SMA20). For upcoming cycles, we will wait for Wall Street to reopen to target AAPL or other robust uptrend equities, and continue scanning crypto for a verified bullish bounce above SMA20 with 1H RSI >= 32 and positive 1-hour change."
+> "Maintained current cash position ($39.25) as traditional exchanges are closed and active crypto assets do not meet our strict uptrend and bounce confirmation criteria (all crypto are below SMA20 with negative 1H returns). We will wait for traditional markets to reopen to scan for confirmed pullbacks on high-quality uptrend equities, and continue monitoring 24/7 crypto for a valid bullish reversal above SMA20."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
