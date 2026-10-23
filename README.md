@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 09:10:51`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 09:20:44`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities remain closed (CERRADO) with prices frozen. Cryptocurrencies are trading 24/7, but none currently meet our rigorous reversal criteria: SOL-USD, ETH-USD, and BTC-USD are either in a bajista trend below SMA20 or showing a negative 1-hour percentage change. AAPL is the only asset in a confirmed uptrend (sobre SMA20), but because the market is closed, we cannot execute trades on it right now. Cash reserves are strictly preserved at $39.25."
+> "Wall Street markets remain closed with prices frozen, meaning equities and ETFs like AAPL, MSFT, and SPY cannot be traded. Among open crypto markets (ETH-USD, SOL-USD, BTC-USD), all major assets are currently in a bearish trend below their respective SMA20 lines and lack a positive 1-hour percentage change to satisfy the reversal confirmation trigger. AAPL is the only asset in a confirmed uptrend above its SMA20, but its market is closed and its 1-hour RSI is heavily overbought at 79.6, precluding any buy action. Therefore, we maintain 100% cash patience."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Wall Street is closed. AAPL is in an uptrend but cannot be traded until market hours resume. No crypto assets satisfy our uptrend and reversal criteria.
+- *No changes this cycle (HOLD)*
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained capital with $39.25 in cash and zero open positions. Wall Street remains closed. Crypto assets do not satisfy the 1-hour green candle reversal trigger combined with a bullish SMA20 trend. We will wait for the market to reopen and monitor AAPL or other uptrend assets for a valid pullback entry."
+> "Maintained capital preservation with $39.25 in cash and zero open positions. Wall Street is closed, and active crypto assets fail the trend-following pullback rules as they are trading below their SMA20 with negative or insufficient 1-hour momentum. We will wait for market reopening and look for confirmed uptrend assets pulling back with an RSI >= 32 and positive 1-hour green candle confirmation."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
