@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained strict adherence to capital preservation by staying in cash. Traditional markets are closed and crypto assets are all trading below their SMA20 lines with negative 1-hour momentum, violating our trend filter and reversal confirmation rules. When traditional markets reopen, monitor AAPL for a healthy pullback to a neutral RSI range with a positive 1-hour candle before entry, and continue to ignore downtrending crypto assets.",
-    "updated_at": "2026-10-23T04:20:42.248978-03:00"
+    "notes": "Maintained strict discipline by staying in cash as all open crypto assets are in downtrends below their SMA20 lines and traditional markets are closed. For upcoming cycles, monitor AAPL and SPY for a proper pullback to a neutral RSI range with a positive 1-hour candle when traditional markets reopen. Keep strict adherence to the trend filter, avoiding any asset below its SMA20 regardless of oversold daily RSI levels.",
+    "updated_at": "2026-10-23T04:30:45.521734-03:00"
   }
 }
