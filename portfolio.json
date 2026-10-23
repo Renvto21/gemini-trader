@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained 100 percent cash position ($39.25). Traditional markets are closed, and available crypto assets fail our strict trend filter by trading below their SMA20. For upcoming cycles when Wall Street reopens, AAPL is our primary watchlist candidate if it pulls back while maintaining its uptrend above SMA20 with 1H RSI >= 32 and positive hourly momentum. In crypto, we await a confirmed bullish recapture of the SMA20 before deployment.",
-    "updated_at": "2026-10-23T06:00:46.911580-03:00"
+    "notes": "Maintained 100 percent cash position ($39.25) as traditional markets are closed and current open crypto assets fail our strict trend filter (trading below SMA20). For upcoming cycles, we will monitor crypto assets for a bullish recapture of SMA20 accompanied by 1H RSI >= 32 and positive 1-hour percentage change. When Wall Street reopens, AAPL remains our top watchlist candidate for a pullback entry above SMA20.",
+    "updated_at": "2026-10-23T06:10:47.511132-03:00"
   }
 }
