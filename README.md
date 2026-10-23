@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 10:30:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 10:40:48`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street is open and trading. Overall market conditions show most major indices and stocks (QQQ, SPY, NVDA, MSFT, GLD) in a downtrend below their SMA20. AAPL remains a notable exception, trading in a confirmed bullish uptrend (above SMA20) with strong momentum, though its 1-hour RSI is currently overbought at 81.0, ruling out an immediate pullback entry. Cryptocurrencies (SOL-USD, ETH-USD, BTC-USD) are open 24/7 with positive 1-hour changes, but all remain classified in a bearish trend below their respective SMA20 lines, violating our strict trend filter. Therefore, capital preservation is maintained in cash while we wait for high-quality pullback opportunities in confirmed uptrend assets."
+> "The broader market remains largely under pressure with most equities and crypto assets situated below their respective SMA20 trend filters, signaling a persistent bearish macro environment. AAPL stands out as the sole asset maintaining a confirmed uptrend above its SMA20, though its short-term indicators reflect extreme overbought conditions (rsi_1h at 80.5, rsi_daily at 74.5). All other major indices and tech equities like MSFT, NVDA, QQQ, and SPY are trading in downtrends with weak hourly momentum. Cryptocurrencies show minor positive hourly changes, but none meet our strict trend-following criteria as they remain below their SMA20 benchmarks."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20, but the current 1-hour RSI is 81.0, indicating an overbought state. We will wait for a pullback with an RSI >= 32 and a positive 1-hour return before initiating a new position.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above SMA20, but its 1-hour RSI is currently at 80.5 (severely overbought). Per our strict trend-following pullback rules, we must wait for a healthy dip with rsi_1h >= 32 and a positive 1-hour candle before entering.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Cash reserves are at $39.25. AAPL is in a strong uptrend but currently overbought (rsi_1h 81.0); waiting for a healthy pullback with rsi_1h >= 32 and a green 1-hour candle. All other assets are in downtrends below SMA20 or overbought. Maintain discipline and avoid catching falling knives."
+> "Cash reserves are at $39.25. AAPL is in a strong uptrend above SMA20 but remains overbought (rsi_1h 80.5); we are waiting for a healthy pullback where rsi_1h >= 32 and change_1h_pct > 0.0 to execute a safe entry. All other assets are currently in downtrends or fail our entry criteria. Maintain strict capital preservation and patience."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
