@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL with an unrealized PnL of -0.2%. Strict take-profit target remains at +3.0% to +5.0% or an exit if the 1-hour RSI surpasses 72. Stop-loss remains firmly at -1.8% to protect capital. We continue to monitor crypto assets for any emerging uptrends but currently keep cash reserves secure with $32.25 available.",
-    "updated_at": "2026-10-23T15:10:39.073152-03:00"
+    "notes": "Holding AAPL with an unrealized PnL of -0.26%, well within normal intraday noise. Upholding equity holding patience as AAPL is the only asset matching our strict uptrend and pullback criteria. The take-profit target remains at +3.0% to +5.0% or an exit if rsi_1h surpasses 72. Stop-loss remains firmly at -1.8%. Cash reserves are secured at $32.25.",
+    "updated_at": "2026-10-23T15:20:47.878538-03:00"
   }
 }
