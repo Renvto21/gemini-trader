@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "We are maintaining a defensive cash reserve of $39.25 while monitoring AAPL. AAPL is our exclusive candidate in an uptrend (above SMA20), but it currently shows a negative 1-hour change (-0.12%). We will wait patiently for AAPL to print a positive 1-hour candle (change_1h_pct > 0.0) alongside an RSI >= 32 before deploying $7.00 to $10.00. All crypto assets are in downtrends below SMA20 and are strictly ignored.",
-    "updated_at": "2026-10-23T11:40:43.182975-03:00"
+    "notes": "We are holding $39.25 in cash while waiting for an optimal pullback setup in AAPL, which is our sole asset above the SMA20. AAPL's daily RSI is currently at 72.0, so we prefer a slight cooling off of the daily RSI or a clearer dip before deploying capital. All other assets remain in bearish trends below their SMA20 and are strictly excluded from buying. Minimum cash reserves and risk controls are fully maintained.",
+    "updated_at": "2026-10-23T11:50:51.338206-03:00"
   }
 }
