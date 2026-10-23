@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 22:20:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-22 22:30:43`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Traditional markets are closed (CERRADO) with prices frozen, meaning no stock or ETF trades can be executed. Active liquidity must focus on cryptocurrencies, which trade 24/7. However, current crypto assets (ETH-USD, BTC-USD, SOL-USD) are in a downtrend (below their SMA20) with negative 1-hour changes, failing our strict trend-following pullback rules. Cash reserves are preserved at $39.25."
+> "The traditional stock market is currently closed (CERRADO), meaning no trades can be executed on equities such as AAPL, MSFT, QQQ, SPY, and NVDA. In the crypto sector (ABIERTO 24/7), assets like ETH-USD, SOL-USD, and BTC-USD are currently trading below their SMA20 trendlines with negative 24-hour performance and flat-to-negative 1-hour momentum. Specifically, crypto assets do not meet our strict trend-following filter (they are in a downtrend below the SMA20), and none currently present a confirmed positive 1-hour candle bounce (> 0.0) combined with RSI conditions that would justify a safe entry. Capital preservation remains paramount with $39.25 currently held in cash."
 
 **Cycle Actions:**
-- **[HOLD] SPY** (Confidence: 100%): Traditional markets are closed and no open positions exist. Awaiting proper entry conditions on equities or crypto.
+- **[HOLD] BTC-USD** (Confidence: 0%): No trade executed. Crypto assets are currently below their SMA20 trendline and do not meet the reversal trigger criteria (change_1h_pct must be > 0.0 and above SMA20). Maintaining cash reserve.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained $39.25 in cash. Traditional markets remain closed. Crypto assets are currently trading below the SMA20 trendline with negative 1-hour momentum, so no crypto buys are permitted. Will wait for traditional markets to reopen or for crypto assets to reclaim their SMA20 with a confirmed positive 1-hour price action (> 0.0) and RSI >= 32 before entering new trades."
+> "Maintained $39.25 in cash. Traditional markets remain closed. Crypto assets are below the SMA20 trendline with weak 1-hour momentum, so no buys are permitted. Will wait for traditional markets to reopen or for crypto assets to reclaim their SMA20 with a confirmed positive 1-hour price action (> 0.0) and RSI >= 32 before entering new trades."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
