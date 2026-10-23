@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position with PnL at +0.16%. Maintain equity holding patience and monitor for take-profit criteria (+3.0% to +5.0% gain or 1H RSI > 72) or the stop-loss threshold (-1.8%). Cryptocurrencies remain below SMA20 and are skipped to avoid falling knife traps. Keep cash reserve intact at $32.25.",
-    "updated_at": "2026-10-23T17:20:43.821648-03:00"
+    "notes": "Holding AAPL position with PnL at +0.16%. Maintain equity holding patience while the market is closed, monitoring for take-profit criteria (+3.0% to +5.0% gain or 1H RSI > 72) or the stop-loss threshold (-1.8%) once trading resumes. All cryptocurrencies remain in downtrends below SMA20 and are skipped. Keep cash reserves intact at $32.25.",
+    "updated_at": "2026-10-23T17:30:51.257750-03:00"
   }
 }
