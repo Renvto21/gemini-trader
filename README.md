@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 11:30:51`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 11:40:43`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market is currently experiencing a strong risk-off environment, with nearly all major equities (GLD, QQQ, NVDA, SPY, MSFT) trading below their SMA20 trend filters and showing weak 1-hour price action. Cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) are also under downward pressure on the hourly charts, failing our strict trend and reversal criteria. AAPL remains the sole asset in a confirmed uptrend (above SMA20), but its 1-hour change is currently negative (-0.03%), meaning it fails our reversal trigger requirement of a green 1-hour candle (change_1h_pct > 0.0). Consequently, strict capital preservation rules apply, and we remain in cash."
+> "Most monitored assets are currently in a corrective or bearish trend below their respective SMA20 levels. AAPL is the only asset remaining in a confirmed uptrend (above SMA20) with a daily RSI of 70.6, but its current 1-hour change is slightly negative (-0.12%) with an RSI_1h of 60.2, missing the strict green candle bounce confirmation (change_1h_pct > 0.0). All other major stocks and crypto pairs fail either the trend filter or the reversal confirmation triggers. Cash is preserved defensively at $39.25."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in an uptrend above its SMA20, but the current 1-hour candle is negative (change_1h_pct = -0.03%), failing our reversal confirmation trigger. Maintaining cash until a valid pullback entry is established.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is in an uptrend above SMA20, but the current 1-hour price change is negative (-0.12%), failing our strict reversal confirmation trigger. We wait for a positive 1-hour price change before entering.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Cash reserves are held at $39.25. AAPL is our only candidate in an uptrend (above SMA20), but it lacks the required positive 1-hour price change confirmation. We will patiently wait for AAPL to provide a green 1-hour candle (change_1h_pct > 0.0) alongside an RSI >= 32 before deploying $7.00 to $10.00. All other assets are in downtrends and are strictly ignored to avoid catching falling knives."
+> "We are maintaining a defensive cash reserve of $39.25 while monitoring AAPL. AAPL is our exclusive candidate in an uptrend (above SMA20), but it currently shows a negative 1-hour change (-0.12%). We will wait patiently for AAPL to print a positive 1-hour candle (change_1h_pct > 0.0) alongside an RSI >= 32 before deploying $7.00 to $10.00. All crypto assets are in downtrends below SMA20 and are strictly ignored."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
