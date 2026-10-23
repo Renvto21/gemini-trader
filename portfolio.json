@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained $39.25 in cash with zero open positions. Traditional equities are closed. Crypto assets (SOL, BTC, ETH) show short-term 1-hour stability but fail the primary macro requirement of trading above the SMA20 trend line. We will maintain discipline and wait for Wall Street reopening or a confirmed uptrend continuation before deploying capital.",
-    "updated_at": "2026-10-23T08:30:41.285019-03:00"
+    "notes": "Maintained $39.25 in cash with zero open positions. Traditional equities are closed and crypto assets fail our strict uptrend (SMA20) filter. We will wait for Wall Street to reopen and monitor AAPL for a pullback opportunity once markets resume.",
+    "updated_at": "2026-10-23T08:40:43.498941-03:00"
   }
 }
