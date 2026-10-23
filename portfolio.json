@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Cash reserves are fully intact at $39.25. AAPL remains the only asset in an uptrend above SMA20, but its current 1h RSI is overbought (78.8) and lacks a proper dip with a green 1-hour candle confirmation. We will patiently wait for AAPL to experience a controlled pullback where rsi_1h >= 32 and change_1h_pct > 0.0 before entering. Maintain absolute discipline, preserving capital, and strictly avoiding falling knives.",
-    "updated_at": "2026-10-23T11:01:06.083137-03:00"
+    "notes": "Cash reserves are preserved at $39.25 following the strict stop-loss execution on MSFT. AAPL remains the sole asset above the SMA20 trend filter, but lacks a valid pullback setup (rsi_1h >= 32 and change_1h_pct > 0.0). We will remain on the sidelines, patiently waiting for AAPL or other candidates to form a clean dip and green 1-hour reversal candle before deploying capital.",
+    "updated_at": "2026-10-23T11:10:56.044684-03:00"
   }
 }
