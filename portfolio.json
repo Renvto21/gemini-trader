@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Preserving cash at $39.25 following previous stop-outs. Traditional equities and crypto assets do not currently meet our combined criteria of being open, above the SMA20 trend filter, and having valid pullback metrics. We will maintain patience and wait for traditional markets to reopen or for crypto assets to cross above their SMA20 with confirmed bullish trend alignment.",
-    "updated_at": "2026-10-23T07:20:39.173128-03:00"
+    "notes": "Preserving capital with $39.25 in cash. Traditional markets are closed and crypto assets are currently below their SMA20 trend filter. We will maintain discipline and wait for traditional market reopenings or for crypto assets to reclaim their SMA20 with confirmed 1-hour RSI and green candle pullback triggers.",
+    "updated_at": "2026-10-23T07:30:47.004961-03:00"
   }
 }
