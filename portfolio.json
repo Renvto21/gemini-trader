@@ -1863,7 +1863,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained $39.25 in cash with zero active positions. Traditional markets are closed, and available crypto assets fail our trend-following rules (trading below SMA20 without positive 1-hour confirmation). We will wait patiently for crypto assets to reclaim their SMA20 with positive 1-hour momentum or wait for Wall Street to reopen to scan for high-quality equity pullbacks.",
-    "updated_at": "2026-10-23T08:20:46.542984-03:00"
+    "notes": "Maintained $39.25 in cash with zero open positions. Traditional equities are closed. Crypto assets (SOL, BTC, ETH) show short-term 1-hour stability but fail the primary macro requirement of trading above the SMA20 trend line. We will maintain discipline and wait for Wall Street reopening or a confirmed uptrend continuation before deploying capital.",
+    "updated_at": "2026-10-23T08:30:41.285019-03:00"
   }
 }
