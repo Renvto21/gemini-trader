@@ -1,35 +1,4 @@
 📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained $39.25 in cash. All traditional equity markets are closed, and active crypto assets (BTC-USD, ETH-USD, SOL-USD) are in downtrends below SMA20 with negative 1-hour changes. Will continue to wait for a confirmed uptrend asset to display a positive 1-hour reversal candle (change_1h_pct > 0.0 and rsi_1h >= 32) before deploying capital."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] BTC-USD (Confidence: 0%)
-    Reason: No trade action taken. BTC-USD is currently below its SMA20 trend and exhibiting a negative 1-hour price change, violating our trend filter and reversal confirmation rules.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
-
-[2026-10-23 00:50:40] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $39.25 USD
- Assets Value:        $0.00 USD
- Total Balance:       $39.25 USD
- Net PnL:             🔴 $-0.75 USD (-1.88%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Traditional equity and commodity markets (SPY, NVDA, QQQ, MSFT, GLD, AAPL) are currently closed ('CERRADO'), with prices frozen. Among equities, only AAPL is in a confirmed uptrend (above SMA20), but its 1-hour RSI is extremely overbought at 79.6, precluding new entries. Active 24/7 crypto assets (BTC-USD, SOL-USD, ETH-USD) are all trading in a downtrend below their SMA20 with negative or weak hourly changes, failing our strict trend-following pullback criteria. Therefore, capital preservation is prioritized with cash held at $39.25."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
 "Maintained $39.25 in cash. All equities are closed and crypto assets remain in downtrends below SMA20 without confirmed reversal candles (change_1h_pct > 0.0 and rsi_1h >= 32). Will wait for active crypto or reopening equities to establish a confirmed uptrend before deploying capital."
 
 ⚡ DECIDED ACTIONS:
@@ -148,6 +117,37 @@ Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
 "Maintained $39.25 in cash. All traditional markets are closed, and crypto assets are currently in bearish trends below their SMA20 with negative 1-hour momentum. Will continue to wait for a confirmed pullback setup (change_1h_pct > 0.0, rsi_1h >= 32, and trend above SMA20) before allocating capital."
 
 ⚡ DECIDED ACTIONS:
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
+
+[2026-10-23 01:40:34] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $39.25 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $39.25 USD
+ Net PnL:             🔴 $-0.75 USD (-1.88%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Traditional markets are currently closed (CERRADO) with major indices and equities trading below their SMA20 lines, reflecting a general short-term bearish pullback. Cryptocurrencies are open (24/7) but are likewise exhibiting downward momentum with negative 1-hour changes and prices sitting below their SMA20 trend lines. AAPL remains the sole asset in a confirmed bullish trend above SMA20 with an overbought 1-hour RSI, but its market is closed. Following our strict trend-following and anti-falling knife rules, we must remain in cash and wait for confirmed bullish momentum and trend alignment."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintained $39.25 in cash. Traditional markets are closed, and crypto assets lack a confirmed positive 1-hour momentum bounce (change_1h_pct > 0.0) combined with an uptrend above SMA20. Will continue monitoring crypto assets for reversal triggers or wait for traditional market hours to re-evaluate AAPL or other uptrend pullbacks."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 100%)
+    Reason: No active positions to manage and current market conditions do not meet our strict entry requirements (assets are either in a downtrend below SMA20 or markets are closed). Maintaining cash discipline.
+    ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
 Final Cycle Balance: $39.25 USD (Cash: $39.25 USD)
