@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 07:51:04`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-23 08:00:58`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Traditional markets remain closed (market status CERRADO), meaning no trades can be executed on equities or ETFs like AAPL, MSFT, or QQQ. In the crypto sector, assets such as ETH-USD, BTC-USD, and SOL-USD are open 24/7 but currently remain in a downtrend (below their SMA20). Although ETH-USD and BTC-USD show positive 1-hour changes and RSI values above 32, our strict quantitative filter prohibits buying any asset that trades below its SMA20 to avoid catching falling knives. Consequently, we maintain a defensive posture with 100% cash allocation until traditional markets reopen or cryptocurrencies establish a confirmed uptrend above their SMA20."
+> "Traditional equity and commodity markets are currently closed ('CERRADO'), with prices frozen. Among the open crypto assets (BTC-USD, SOL-USD, ETH-USD), all are trading below their respective 20-period simple moving averages (is_above_sma20 = false) in a bearish trend, and none meet our reversal confirmation trigger (change_1h_pct > 0.0 with rsi_1h >= 32). AAPL is in an uptrend above SMA20 but its market status is closed, preventing any execution. Therefore, we remain in cash and maintain strict adherence to our quantitative trend-following rules."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Traditional markets are closed (CERRADO), and no positions are currently open. We wait for market opening and valid setup conditions.
+- **[HOLD] AAPL** (Confidence: 100%): Traditional markets are closed (market_status: CERRADO). While AAPL is in a confirmed uptrend above SMA20, execution is blocked until market hours resume.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding $39.25 in cash with zero active positions. Traditional markets are closed, and crypto assets are currently below their SMA20. We maintain strict adherence to our trend-following rules: no crypto purchases while below SMA20. When traditional markets reopen, we will monitor AAPL and other high-quality equities for pullback opportunities above their SMA20 with 1-hour RSI >= 32 and positive 1-hour candles."
+> "Holding $39.25 in cash with zero open positions. Traditional markets are closed, and available crypto assets remain in downtrends below their SMA20 or lack positive 1-hour reversal candles. When traditional markets reopen, we will monitor AAPL and other high-quality equities for pullback opportunities above their SMA20 with 1-hour RSI >= 32 and positive 1-hour candles. For crypto, we await a confirmed bullish shift above SMA20."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
