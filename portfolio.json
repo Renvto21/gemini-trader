@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL while respecting equity holding patience. Monitor for the take-profit target band of +3.0% to +5.0% or an exit if rsi_1h surpasses 72 with a gain >= +2.5%. Keep strict stop-loss protection at -1.8%. Crypto assets remain in downtrends below SMA20, so sideline all crypto orders until a confirmed structural breakout occurs.",
-    "updated_at": "2026-10-24T10:00:52.081704-03:00"
+    "notes": "Continue holding AAPL in accordance with equity holding patience, monitoring for the take-profit target band between +3.0% and +5.0% or an RSI-driven exit if rsi_1h surpasses 72 with a gain >= +2.5%. Maintain the hard stop-loss at -1.8%. Keep crypto assets sidelined until a confirmed structural uptrend above the SMA20 emerges.",
+    "updated_at": "2026-10-24T10:10:42.520163-03:00"
   }
 }
