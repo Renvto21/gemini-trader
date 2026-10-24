@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding the AAPL position as it adheres to the equity holding patience rule and remains in a confirmed uptrend above the SMA20. Monitor rsi_1h closely for a take-profit execution once it crosses 72 with a +3% to +5% return, and maintain the hard -1.8% stop-loss. Keep all crypto assets sidelined as they violate the uptrend rule.",
-    "updated_at": "2026-10-24T09:20:52.246389-03:00"
+    "notes": "Continue holding AAPL as it adheres to the equity holding patience rule. Monitor rsi_1h for an exit once it surpasses 72 and the position profit reaches the +3% to +5% target band. Keep stop-loss strictly at -1.8%. Maintain cash reserves and keep all crypto sidelined until they regain uptrend status above the SMA20.",
+    "updated_at": "2026-10-24T09:30:48.954916-03:00"
   }
 }
