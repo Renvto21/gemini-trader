@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL in accordance with equity holding patience rules. AAPL is currently at 347.73 (+0.16% PnL). Maintain take-profit targets at +3.0% to +5.0% (or rsi_1h > 72 with gain >= +2.5%) and hard stop-loss protection at -1.8%. Keep crypto sidelined until active 24/7 assets confirm a clear uptrend above SMA20 with positive momentum.",
-    "updated_at": "2026-10-24T12:00:58.503362-03:00"
+    "notes": "Continue holding AAPL under the equity holding patience rule, currently up +0.16%. Maintain take-profit targets between +3.0% and +5.0% (or rsi_1h > 72 with profit >= +2.5%) and strict stop-loss protection at -1.8%. Keep crypto sidelined until active 24/7 assets confirm a clear uptrend above SMA20 with positive 1-hour momentum candles.",
+    "updated_at": "2026-10-24T12:11:26.082677-03:00"
   }
 }
