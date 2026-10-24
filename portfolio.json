@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position in accordance with equity holding patience guidelines. Watch for take-profit opportunities if AAPL hourly RSI surpasses 72 or total gains reach +3.0% to +5.0%. Keep stop-loss strict at -1.8% to -2.0%. Keep all crypto assets sidelined until an asset enters an confirmed uptrend above the SMA20 with validated reversal momentum.",
-    "updated_at": "2026-10-24T01:30:42.434116-03:00"
+    "notes": "Maintain the AAPL position in accordance with equity holding patience guidelines. Watch for take-profit opportunities if AAPL hourly RSI surpasses 72 or total gains reach +3.0% to +5.0%. Keep stop-loss strict at -1.8% to -2.0%. Keep all crypto assets sidelined until an asset enters a confirmed uptrend above the SMA20 with validated reversal momentum (rsi_1h >= 32 and change_1h_pct > 0.0).",
+    "updated_at": "2026-10-24T01:40:45.408001-03:00"
   }
 }
