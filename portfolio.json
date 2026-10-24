@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position adhering to equity holding patience rules. Wait for Wall Street to reopen to evaluate AAPL for take-profit triggers (+3.0% to +5.0% gain or 1-hour RSI above 72) or strict stop-loss discipline at -1.8% to -2.0%. Keep crypto assets sidelined due to downtrends below SMA20 and lack of solid reversal confirmation.",
-    "updated_at": "2026-10-24T20:10:48.444315-03:00"
+    "notes": "Maintain the AAPL position adhering to equity holding patience rules while the market is closed. Watch for Wall Street reopening to monitor AAPL for take-profit targets (+3.0% to +5.0% gain or 1-hour RSI surpassing 72) or strict stop-loss discipline if it drops to -1.8% to -2.0%. Keep crypto assets sidelined due to downtrends below SMA20.",
+    "updated_at": "2026-10-24T20:20:49.806503-03:00"
   }
 }
