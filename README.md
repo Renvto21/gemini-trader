@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-24 20:30:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-24 20:40:40`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities (AAPL, SPY, MSFT, QQQ, NVDA, GLD) are currently closed, with their market status marked as 'CERRADO'. According to quantitative market rules, we refrain from executing trades on closed assets. AAPL remains our sole active position, showing positive performance (+0.16% PnL) and a solid technical posture above its SMA20 in a confirmed uptrend, with a 1-hour RSI at 66.0. In the crypto markets (ABIERTO 24/7), BTC, ETH, and SOL are currently exhibiting bearish trends below their respective SMA20s, with negative 24-hour momentum. Consequently, no crypto buy setups qualify under our strict trend-following filters."
+> "Wall Street equities are currently closed (CERRADO), freezing prices with AAPL remaining our sole active equity holding in a confirmed uptrend (above SMA20) with a current PnL of +0.16% and a 1-hour RSI of 66.0. Crypto markets remain open 24/7, but all major crypto assets (SOL-USD, ETH-USD, BTC-USD) are in a bearish trend below their SMA20, violating our strict trend filter. Therefore, no crypto positions will be opened to avoid catching falling knives. We continue to hold AAPL patiently while monitoring for our take-profit target (+3.0% to +5.0% or 1h RSI > 72) or stop-loss threshold."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 and currently shows a positive return of +0.16%. Following equity holding patience rules while markets are closed, we maintain this position awaiting either take-profit targets (+3.0% to +5.0% or RSI 1H > 72) or stop-loss triggers.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in a confirmed uptrend above its SMA20 with a stable holding time. Following equity holding patience guidelines, we maintain the position while the market is closed, waiting for our take-profit target (+3.0% to +5.0% gain or 1h RSI > 72) or stop-loss discipline.
 
 ---
 
