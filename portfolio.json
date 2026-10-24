@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL while respecting equity holding patience, monitoring for take-profit opportunities if rsi_1h reaches >= 72 with a gain of +3% to +5%, while keeping the -1.8% stop-loss strictly enforced. Keep all crypto assets sidelined due to bearish trends and lack of confirmed reversal triggers. Wait for market reopening or stronger reversal signals before deploying additional capital.",
-    "updated_at": "2026-10-24T09:00:51.967890-03:00"
+    "notes": "Continue holding AAPL position. Monitor rsi_1h and price closely for a take-profit target once rsi_1h surpasses 72 with a gain between +3% and +5%, ensuring strict enforcement of the -1.8% stop-loss. Keep all crypto and closed-market equities sidelined due to unfavorable trend filters and market status constraints.",
+    "updated_at": "2026-10-24T09:10:42.120520-03:00"
   }
 }
