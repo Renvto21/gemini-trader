@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as per equity holding patience rules, since it is above its SMA20 and has only been held for 1 day. Monitor AAPL closely for take-profit targets (+3.0% to +5.0% or rsi_1h > 72) and stop-loss levels (-1.8% to -2.0%). Keep all crypto assets sidelined due to downtrends and failure to meet strict reversal filters. Wait for Wall Street to reopen before considering new equity entries.",
-    "updated_at": "2026-10-24T14:40:53.387022-03:00"
+    "notes": "Continue holding AAPL position as it remains in an uptrend above SMA20. Monitor AAPL closely for take-profit targets (+3.0% to +5.0% or rsi_1h > 72) and stop-loss levels (-1.8% to -2.0%). Keep crypto sidelined due to downtrends (below SMA20) and inadequate reversal confirmations. Wait for Wall Street to reopen before evaluating new equity entries.",
+    "updated_at": "2026-10-24T14:50:43.835661-03:00"
   }
 }
