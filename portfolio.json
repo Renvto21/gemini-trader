@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL based on equity holding patience and its established uptrend above the SMA20. We are currently observing a 1-hour RSI of 66.0 for AAPL; we will prepare to take profits if the RSI approaches or surpasses 72 with a solid gain (+3% to +5%), or cut losses strictly if it drops below -1.8%. All other assets remain in downtrends or closed markets, requiring strict adherence to our anti-catch-falling-knife and market hours rules.",
-    "updated_at": "2026-10-24T07:10:35.843072-03:00"
+    "notes": "Continue holding AAPL based on equity holding patience and its established uptrend above the SMA20. Current RSI_1h is 66.0; prepare to take profits if RSI_1h reaches or exceeds 72 with solid gains (+3% to +5%), or cut losses strictly if it hits the -1.8% threshold. Keep all crypto assets sidelined until confirmed uptrends and proper reversal triggers materialize.",
+    "updated_at": "2026-10-24T07:20:43.383871-03:00"
   }
 }
