@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as it maintains its uptrend above SMA20 (+0.16% PnL currently). Respect the patience rule for equities—do not rotate or exit prematurely. Monitor for take-profit criteria (+3.0% to +5.0% gain, or rsi_1h > 72) and stop-loss limits (-1.8% to -2.0%). Keep crypto sidelined until a confirmed uptrend above SMA20 and a positive 1h price reversal materialize.",
-    "updated_at": "2026-10-23T23:20:51.882411-03:00"
+    "notes": "Continue holding AAPL in accordance with equity patience rules. Monitor for take-profit criteria (+3.0% to +5.0% gain or rsi_1h > 72) and stop-loss parameters (-1.8% to -2.0%). Keep crypto sidelined as all available digital assets remain in a downtrend below SMA20.",
+    "updated_at": "2026-10-23T23:30:42.770682-03:00"
   }
 }
