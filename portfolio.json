@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL position during market closure, respecting equity holding patience. Monitor AAPL closely when Wall Street reopens for take-profit triggers (+3.0% to +5.0% or rsi_1h > 72 with profit >= +2.5%) or stop-loss protection (-1.8%). Keep all crypto assets sidelined as they remain in downtrends below SMA20.",
-    "updated_at": "2026-10-24T13:10:50.378474-03:00"
+    "notes": "Continue holding AAPL as it maintains its uptrend above SMA20 and approaches our take-profit target zone (+3.0% to +5.0% or rsi_1h > 72 with profit >= +2.5%). Keep strict stop-loss protection at -1.8%. Maintain all crypto assets sidelined as they remain in bear trends below their SMA20. Await Wall Street reopening for potential equity actions and watch for any reversal confirmation triggers in crypto.",
+    "updated_at": "2026-10-24T13:20:43.247071-03:00"
   }
 }
