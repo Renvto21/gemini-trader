@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding the existing AAPL position as it is in a confirmed uptrend and the stock market is closed. Monitor AAPL closely once markets reopen for take-profit opportunities if hourly RSI exceeds 72 or if price gains approach the +3.0% to +5.0% target window. Keep stop-loss discipline active between -1.8% and -2.0%. Avoid entering crypto positions as they currently fail our strict trend filter or lack strong continuation signals, and preserve strong cash reserves.",
-    "updated_at": "2026-10-24T06:00:53.526095-03:00"
+    "notes": "Continue holding the existing AAPL position as it remains above the SMA20 trend line and the stock market is closed. Monitor AAPL closely once trading resumes for a take-profit window target of +3.0% to +5.0% or if the 1-hour RSI exceeds 72. Keep stop-loss discipline active between -1.8% and -2.0%. Avoid entering crypto markets as they are in downtrends below SMA20.",
+    "updated_at": "2026-10-24T06:10:41.312593-03:00"
   }
 }
