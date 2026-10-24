@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as it maintains its position above the SMA20 trendline. Monitor for take-profit opportunities if rsi_1h reaches >= 72 with a gain of +3% to +5%, while strictly respecting the -1.8% stop-loss threshold. Keep all crypto assets sidelined until a confirmed UPTREND above SMA20, RSI >= 32, and positive hourly momentum are achieved.",
-    "updated_at": "2026-10-24T08:20:48.407915-03:00"
+    "notes": "Continue holding AAPL as it maintains its position above the SMA20 trendline. Monitor for take-profit opportunities if rsi_1h reaches >= 72 with a gain of +3% to +5%, while strictly respecting the -1.8% stop-loss threshold. Keep all crypto assets sidelined as they remain in a bearish trend below the SMA20 line, violating our trend filter rules.",
+    "updated_at": "2026-10-24T08:30:46.384164-03:00"
   }
 }
