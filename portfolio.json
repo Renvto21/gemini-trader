@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as it maintains its uptrend above SMA20. Monitor AAPL closely for take-profit triggers (+3.0% to +5.0% gain or rsi_1h > 72) and adhere strictly to stop-loss levels (-1.8% to -2.0%). Keep crypto sidelined as all assets are currently in bearish trends (below SMA20) or lack proper reversal confirmation.",
-    "updated_at": "2026-10-24T15:10:49.718513-03:00"
+    "notes": "Continue holding AAPL while respecting the established take-profit threshold (+3.0% to +5.0% gain or rsi_1h > 72) and stop-loss guard (-1.8% to -2.0%). Keep crypto sidelined due to lack of strong trend confirmations above SMA20. Do not execute trades on closed equities.",
+    "updated_at": "2026-10-24T15:20:39.476455-03:00"
   }
 }
