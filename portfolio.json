@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position in accordance with equity holding patience guidelines. Do not sell prematurely; target an hourly RSI > 72 or a profit gain between +3.0% and +5.0% before taking profits. Keep stop-loss strict between -1.8% and -2.0%. Keep all crypto assets sidelined since none currently present a confirmed uptrend above the SMA20 with validated reversal momentum (rsi_1h >= 32 and change_1h_pct > 0.0). Wall Street equities are currently closed, so active trading is paused for stocks.",
-    "updated_at": "2026-10-24T02:00:50.840743-03:00"
+    "notes": "Maintain the AAPL position and respect equity holding patience while Wall Street remains closed. Do not sell AAPL prematurely; wait for hourly RSI to exceed 72 or for profits to reach the +3.0% to +5.0% target band, while keeping a strict stop-loss in place. Keep all crypto assets sidelined as none meet the strict requirements of being in an uptrend above the SMA20 with validated reversal momentum (rsi_1h >= 32 and change_1h_pct > 0.0).",
+    "updated_at": "2026-10-24T02:10:42.663594-03:00"
   }
 }
