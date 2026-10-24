@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under the equity holding patience rule, currently up +0.16%. Maintain take-profit targets between +3.0% and +5.0% (or rsi_1h > 72 with profit >= +2.5%) and strict stop-loss protection at -1.8%. Keep crypto sidelined until active 24/7 assets confirm a clear uptrend above SMA20 with positive 1-hour momentum candles.",
-    "updated_at": "2026-10-24T12:11:26.082677-03:00"
+    "notes": "Continue holding AAPL under the equity holding patience rule while Wall Street remains closed. Monitor AAPL for take-profit opportunities (+3.0% to +5.0% or rsi_1h > 72 with profit >= +2.5%) or stop-loss protection (-1.8%) once markets reopen. Keep crypto sidelined due to persistent downtrends below SMA20 and negative 1-hour momentum across all 24/7 assets.",
+    "updated_at": "2026-10-24T12:20:49.600999-03:00"
   }
 }
