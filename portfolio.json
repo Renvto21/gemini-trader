@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as it maintains its position above the SMA20 trendline with a holding time of ~19 hours. Monitor for take-profit opportunities if rsi_1h reaches >= 72 with a gain of +3% to +5%, while strictly respecting the -1.8% stop-loss threshold. Keep all crypto assets sidelined as they remain in a bearish trend below the SMA20 line or fail reversal triggers.",
-    "updated_at": "2026-10-24T08:40:45.112363-03:00"
+    "notes": "Continue holding AAPL while the market is closed, respecting equity holding patience. Monitor AAPL for take-profit opportunities if rsi_1h reaches >= 72 with a gain of +3% to +5%, while strictly keeping the -1.8% stop-loss in place. Keep all crypto assets sidelined due to bearish trends and lack of confirmed reversal triggers.",
+    "updated_at": "2026-10-24T08:50:47.452760-03:00"
   }
 }
