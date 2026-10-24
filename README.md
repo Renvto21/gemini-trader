@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-24 16:50:41`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-24 17:00:50`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader equity market remains closed with prices frozen, and major indices like SPY, QQQ, and NVDA continue to trade below their SMA20 in bearish trends. AAPL remains the sole asset in a confirmed structural uptrend above its SMA20, currently holding steady at $347.73 with a small positive PnL (+0.16%). Crypto assets (BTC-USD, ETH-USD, SOL-USD) are open 24/7 but are currently showing bearish trends below their respective SMA20 lines without meeting our robust reversal confirmation criteria for entry. Capital preservation remains paramount."
+> "The traditional market is currently closed (market status: CERRADO), meaning equity prices are frozen and no trade execution is permitted on assets like AAPL, MSFT, SPY, QQQ, and NVDA. Cryptocurrencies are open (24/7), but all major crypto assets (BTC-USD, ETH-USD, SOL-USD) remain in a strict downtrend below their respective SMA20 levels with weak momentum, violating our trend-following filter. Our sole open position is AAPL, which is currently holding steady with a minor positive return (+0.16%) above its SMA20. Following our equity holding patience rule, we will maintain the AAPL position and let it play out without premature rotation, while keeping crypto sidelined due to bearish macro conditions and lack of confirmed upward reversals."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed uptrend above its SMA20 with a positive PnL (+0.16%). In accordance with our equity holding patience and trend-following rules, we hold the position as it has not reached our profit target (+3.0% to +5.0%) or stop-loss threshold.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed uptrend above its SMA20 with a positive PnL of +0.16%. Since the market is closed (CERRADO) and equity holding patience dictates letting positions play out unless stop-loss or take-profit targets are met, we will continue holding the position.
 
 ---
 
