@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding the AAPL position patiently in accordance with equity holding rules, as stocks require time to play out and market status is currently closed. Monitor AAPL closely for take-profit target zone (+3.0% to +5.0% gain or rsi_1h > 72) and maintain strict stop-loss protection at -1.8% to -2.0%. Keep crypto assets completely sidelined because all available crypto pairs remain in a bearish trend below the SMA20.",
-    "updated_at": "2026-10-23T20:50:43.913018-03:00"
+    "notes": "Continue holding the AAPL position patiently as it remains in an uptrend above SMA20. Monitor AAPL for take-profit target zone (+3.0% to +5.0% gain, or when rsi_1h surpasses 72) and maintain strict stop-loss protection at -1.8% to -2.0%. Keep all crypto assets sidelined since they remain below the SMA20 trend filter.",
+    "updated_at": "2026-10-23T21:00:46.908034-03:00"
   }
 }
