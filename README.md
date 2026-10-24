@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-24 16:30:45`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-24 16:40:40`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The market is currently experiencing a quiet phase with Wall Street equities closed (market status CERRADO). Among the available assets, AAPL remains our sole active holding, showing resilience in a structural uptrend above the SMA20 with a current PnL of +0.16% and an hourly RSI of 66.0. Crypto assets are open (ABIERTO 24/7) but are currently in bearish trends below their respective SMA20s, lacking the necessary reversal confirmation triggers. Overall macro conditions require disciplined patience, adherence to stop-loss levels, and waiting for optimal upside continuation before taking further action."
+> "The overall market continues to experience broad weakness, with major equities (SPY, QQQ, MSFT, NVDA) and all crypto assets (BTC, ETH, SOL) trading below their SMA20 lines in bearish trends. Wall Street equity markets are currently closed (market status 'CERRADO'), meaning prices are frozen and no equity trades can be executed. AAPL remains our sole active holding, currently exhibiting an ongoing structural uptrend above the SMA20 with a mild gain of +0.16% and a 1-hour RSI of 66.0. Crypto assets are open (24/7) but remain in downtrends, failing to meet our strict pullback buy criteria (needing an uptrend above SMA20 plus RSI >= 32 and positive 1-hour momentum)."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is maintaining its position in a confirmed structural uptrend above the SMA20. Equity holding patience dictates that we let the position play out rather than rotating prematurely. Current RSI and price action indicate stable momentum short of our take-profit threshold.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed structural uptrend above its SMA20 with positive performance. Since equity markets are closed ('CERRADO') and the position has not hit our take-profit threshold (+3.0% to +5.0% gain or 1-hour RSI > 72) nor our stop-loss limit, equity holding patience applies. We will continue to hold.
 
 ---
 
