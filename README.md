@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 08:00:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 08:10:40`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market continues to experience broad weakness, with major equity indices and crypto assets mostly trading below their SMA20 trend filters. Wall Street is currently closed (CERRADO), leaving stock prices frozen. AAPL remains our sole active holding, demonstrating resilience and maintaining an uptrend above its SMA20 with a positive 7-day performance. Cryptocurrencies are open 24/7, but their trends remain bearish and fail our stringent entry criteria, keeping us sidelined in that sector."
+> "The overall market remains mostly closed (Wall Street is CERRADO), with crypto assets open 24/7. Cryptocurrencies like BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 trends (BAJISTA), which keeps them sidelined according to our strict trend filter. Our only open position is AAPL, which is currently holding steady with a PnL of +0.16% and an RSI_1h of 66.0, remaining above its SMA20 in an uptrend (ALCISTA). Since equity holding patience dictates that we let equities play out unless a stop-loss is triggered or take-profit targets are met, and Wall Street is closed, we will maintain our current AAPL position and keep cash reserves intact."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above the SMA20 and is currently showing a stable PnL of +0.16%. Following equity holding patience rules, we maintain the position while waiting for the 1-hour RSI to approach 72 to trigger our profit target once the market reopens.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in an active uptrend above its SMA20 and is currently up +0.16%. Wall Street is closed (CERRADO), and adhering to equity holding patience rules, we maintain our position without premature exits while monitoring for the RSI_1h to reach our +3.0% to +5.0% profit target.
 
 ---
 
