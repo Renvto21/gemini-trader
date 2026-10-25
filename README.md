@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 06:20:50`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 06:30:46`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets remain closed (CERRADO) with frozen prices, keeping equity options inactive for trading. AAPL remains our sole active position, holding steady slightly above its entry price at $347.73 with a modest gain of +0.16%. It is currently the only asset meeting our strict trend filter (ALCISTA, above SMA20). Crypto assets (SOL-USD, ETH-USD, BTC-USD) are open 24/7 but are all in downtrends (below SMA20) with negative 1-hour changes, failing our reversal and trend confirmation filters. We maintain cash reserves and practice patience with our equity holding."
+> "The broader market remains largely bearish with major assets (SPY, QQQ, NVDA, MSFT, GLD) trading below their SMA20 lines. Wall Street is currently closed, meaning equities and ETFs are frozen. In the cryptocurrency sector (ETH-USD, SOL-USD, BTC-USD), prices are also in bearish trends below the SMA20 with negative 24-hour changes, failing our strict trend filter and reversal confirmation triggers (1-hour changes are negative or lack strong green candle confirmation). Meanwhile, our open equity position AAPL is currently closed for the weekend but maintains a confirmed bullish trend above its SMA20. Its 1H RSI is at 66.0 with a positive 1-hour change, sitting comfortably without breaching our stop-loss (-1.8% to -2.0%) or take-profit targets (+3.0% to +5.0% or 1H RSI > 72). Following the equity holding patience rule, we maintain our AAPL position while preserving cash."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed uptrend above its SMA20 and holding above our entry price with a +0.16% PnL. Market is closed and our take-profit (+3% to +5% or 1H RSI > 72 with gain >= +2.5%) and stop-loss (-1.8% to -2.0%) thresholds have not been breached. Adhering to equity holding patience.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is remaining above its SMA20 trend filter in a confirmed uptrend. Following equity holding patience rules, we maintain the position without premature rotation while keeping strict stop-losses and take-profit targets monitored.
 
 ---
 
