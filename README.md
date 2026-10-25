@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 02:00:48`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 02:10:39`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The equity markets remain closed with frozen prices. AAPL is our only currently active position, maintaining a positive PnL of +0.16% while holding above its SMA20 trend line. Other equity assets and crypto markets show broad weakness or remain below their SMA20, failing our strict trend filter. Crypto assets such as ETH-USD and SOL-USD are currently in a downtrend relative to their SMA20 despite being open 24/7, meaning we stay sidelined to avoid falling knives and duplicate crypto risk. We will continue to exercise patience with AAPL until it hits our profit target or stop-loss upon market reopening."
+> "The traditional equity markets are currently closed with prices frozen, showing broad corrective pressures with most indices and mega-caps residing below their respective SMA20 lines. AAPL remains the sole notable exception holding an uptrend above its SMA20 with a mild positive return (+0.16% PnL). Cryptocurrencies are open 24/7, but all major assets (SOL-USD, BTC-USD, ETH-USD) are currently in a downtrend (below SMA20) with negative 1-hour percentage changes, failing our strict trend-following filter and reversal confirmation rules. Therefore, no new crypto trades will be executed."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed uptrend above its SMA20 with a positive PnL (+0.16%). Equity markets are closed, so we must exercise equity holding patience and hold the position until take-profit or stop-loss triggers are met.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in a confirmed uptrend above its SMA20 with a positive holding return. Since equity markets are closed, we adhere to equity holding patience and maintain the position until take-profit targets (+3.0% to +5.0% or RSI > 72) or stop-loss limits (-1.8% to -2.0%) are reached.
 
 ---
 
