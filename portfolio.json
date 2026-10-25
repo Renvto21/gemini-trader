@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL while Wall Street is closed. Maintain watch on AAPL for take-profit execution if 1-hour RSI exceeds 72 or gains hit the +3.0% to +5.0% target band, while strictly honoring the -1.8% stop-loss. Keep crypto sidelined due to persistent downtrends below the SMA20.",
-    "updated_at": "2026-10-25T18:30:47.588328-03:00"
+    "notes": "Continue holding AAPL while Wall Street is closed. Monitor AAPL for take-profit execution if the 1-hour RSI crosses above 72 or total gain reaches the +3.0% to +5.0% target band, while rigorously maintaining the -1.8% stop-loss floor. Keep crypto assets sidelined due to persistent downtrends below the SMA20.",
+    "updated_at": "2026-10-25T18:40:45.634285-03:00"
   }
 }
