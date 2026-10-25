@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 03:10:43`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 03:20:42`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The stock market is currently closed, meaning equities and ETFs (AAPL, MSFT, SPY, QQQ, NVDA, GLD) are frozen and should not be traded. AAPL remains our sole open position, demonstrating resilience with a positive PnL (+0.16%) and maintaining an uptrend above the SMA20. In the crypto sector, all major assets (SOL-USD, ETH-USD, BTC-USD) are in a bearish trend below their respective SMA20 lines, failing our strict trend filter. Therefore, capital preservation and patience are maintained."
+> "The market environment shows Wall Street assets closed with general weakness and downtrends across most indices (SPY, QQQ, NVDA, MSFT, GLD) under their respective SMA20s. AAPL remains our sole open position, currently in a confirmed uptrend above the SMA20 with a minor positive PnL (+0.16%) and 1H RSI at 66.0. Cryptocurrencies are open (24/7) but remain in bearish trends below their SMA20s (BTC-USD, ETH-USD, SOL-USD), so no crypto positions are warranted due to our strict trend filter and anti-correlation constraints. We continue to exercise equity holding patience with AAPL, waiting for our take-profit target (+3.0% to +5.0% gain or 1H RSI > 72) or maintaining strict downside stop-loss protection."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is currently in a confirmed uptrend above its SMA20 with a positive PnL. Since the stock market is closed, equity holding patience rules apply. We hold the position until take-profit or stop-loss conditions are met upon market reopening.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is maintaining its uptrend above the SMA20 and currently shows a positive return. Per our equity holding patience and asymmetric risk/reward guidelines, we give stocks time to play out rather than rotating prematurely, keeping it until our take-profit target or stop-loss threshold is reached.
 
 ---
 
