@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 02:20:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 02:30:45`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market continues to experience broad weakness with major equity and crypto assets sitting in downtrends below their respective SMA20s. However, AAPL remains a notable exception, holding firm in a confirmed uptrend above the SMA20 with market status currently closed. Crypto assets (BTC, ETH, SOL) show overbought 1H RSI readings combined with negative 1-hour changes and downtrend status, failing all strict trend and reversal filters. Consequently, capital preservation and patience are paramount."
+> "The overall market continues to experience a broad consolidation phase with most equities and crypto assets trading below their SMA20 lines, indicating bearish macro conditions. Wall Street is currently closed (market status CERRADO), freezing equity prices. Our sole active holding, AAPL, remains in a confirmed uptrend above its SMA20 and is currently holding steady with a minor unrealized profit of +0.16%. Cryptocurrencies are open 24/7, but all major crypto assets (BTC, ETH, SOL) are currently in downtrends and do not satisfy our strict trend filter or reversal confirmation triggers, meaning no crypto positions will be initiated."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in a confirmed uptrend above its SMA20 with a positive PnL and stable holding time. Since equity markets are closed and the take-profit target (+3.0% to +5.0% or 1H RSI > 72) has not yet been reached, equity holding patience applies.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed uptrend above its SMA20. In accordance with equity holding patience rules, we maintain our position through flat periods while markets are closed, waiting for our take-profit target (+3.0% to +5.0%) or stop-loss threshold (-1.8% to -2.0%).
 
 ---
 
