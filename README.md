@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 05:10:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 05:20:35`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market is currently experiencing closed status for equities and ETFs (SPY, AAPL, QQQ, MSFT, GLD, NVDA) with prices frozen. Cryptocurrencies are open (24/7), but all major crypto assets (BTC-USD, SOL-USD, ETH-USD) are in a downtrend (below SMA20) with negative 24-hour momentum, failing our strict trend filter. AAPL remains our sole active equity position, currently holding steady at $347.73 (+0.16% PnL) with market status CERRADO. Given the equity market closure and our equity holding patience rule, we maintain AAPL without premature rotation, awaiting market reopening for further action."
+> "Wall Street is closed (CERRADO), leaving stock prices frozen. AAPL remains our sole active position, trading slightly up by +0.16% while holding above its SMA20 uptrend. Crypto assets (SOL-USD, ETH-USD, BTC-USD) are open 24/7 but remain in a BAJISTA (below SMA20) downtrend with negative 1-hour changes, failing our strict trend-following filter and reversal confirmation triggers."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above SMA20 and currently shows positive momentum. Since the market status is closed, we adhere to the equity holding patience rule and do not sell prematurely, waiting for take-profit targets or stop-loss triggers upon market reopening.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is maintaining its uptrend above SMA20 and is currently closed for the weekend. Per our equity holding patience and asymmetric risk/reward rules, we hold the position steady while monitoring for our take-profit target (+3% to +5% or RSI > 72) or stop-loss limit (-1.8% to -2.0%).
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL position patiently through market closure. Entry at $347.17, current price $347.73 (+0.16%). Take-profit target remains at +3.0% to +5.0% ($357.58 to $364.53) or if 1H RSI exceeds 72 with gain >= +2.5%. Stop-loss remains strictly enforced at -1.8% to -2.0% ($340.22 to $340.92). Crypto markets remain on the sidelines due to downtrends below SMA20. Maintain cash reserves at $32.25."
+> "Holding AAPL position patiently through weekend market closure. Entry at $347.17, current price $347.73 (+0.16%). Take-profit target remains at +3.0% to +5.0% ($357.58 to $364.53) or if 1H RSI exceeds 72 with gain >= +2.5%. Stop-loss remains strictly enforced at -1.8% to -2.0% ($340.22 to $340.92). Crypto markets remain on the sidelines due to downtrends below SMA20. Maintain cash reserves at $32.25."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
