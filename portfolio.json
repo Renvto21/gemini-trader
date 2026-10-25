@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position during the weekend closure, adhering to equity holding patience. Upon market reopening, monitor AAPL for take-profit opportunities if 1-hour RSI exceeds 72 or total return reaches +3.0% to +5.0%, while keeping a strict stop-loss active at -1.8% / -2.0%. Keep all crypto assets sidelined as they remain in a downtrend below the SMA20.",
-    "updated_at": "2026-10-24T21:00:56.490308-03:00"
+    "notes": "Maintain the current AAPL position as it adheres to equity holding patience while markets remain closed. Watch for AAPL take-profit opportunities (+3.0% to +5.0% or 1H RSI > 72) upon market reopening, while preserving the strict stop-loss threshold at -1.8% to -2.0%. Keep all crypto assets sidelined due to bearish trend conditions.",
+    "updated_at": "2026-10-24T21:10:39.256678-03:00"
   }
 }
