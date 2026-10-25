@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 19:10:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 19:20:44`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The market is mixed with major equities and assets currently closed (market status 'CERRADO'). AAPL remains our sole active holding, displaying resilience in a confirmed uptrend above its SMA20 with a minor positive PnL (+0.16%) and a 1-hour RSI of 66.0, approaching our take-profit threshold of 72. All available cryptocurrency assets (SOL-USD, BTC-USD, ETH-USD) are currently trading below their SMA20 trends, violating our strict trend-following pullback rules, and equities/commodities are closed for trading."
+> "The broader equity market remains closed with prices frozen, and most major assets (NVDA, QQQ, GLD, MSFT, SPY) trade below their SMA20 in bearish trends. AAPL is the sole asset maintaining a confirmed structural uptrend above its SMA20 with a positive PnL of +0.16% and an hourly RSI of 66.0. Crypto assets are open 24/7, but major coins like BTC-USD, ETH-USD, and SOL-USD remain below their SMA20, disqualifying them due to our strict trend filter. Equity holding patience dictates that we continue holding AAPL as it matures toward our take-profit target without violating stop-loss constraints."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is maintaining an uptrend above its SMA20 with a positive PnL and steady momentum. Following the equity holding patience rule and strict trend filters, we retain the position while waiting for take-profit conditions (1h RSI > 72 or +3% to +5% gain) to trigger.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 and currently shows a minor positive gain. Following our equity holding patience and asymmetric risk/reward rules, we will hold the position until our take-profit target (+3.0% to +5.0% or 1h RSI > 72) is met or stop-loss limits are breached. The market is closed, making execution impossible anyway.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL as it maintains its structural uptrend above SMA20. Monitor 1-hour RSI and price action for take-profit execution (+3.0% to +5.0% gain target or 1h RSI > 72) or enforce strict stop-loss protection if it drops below -1.8%. Keep crypto and closed equities sidelined due to unfavorable trend conditions or closed market status."
+> "Continue holding AAPL within its structural uptrend above SMA20. Monitor 1-hour RSI and price action for take-profit execution (+3.0% to +5.0% gain target or 1h RSI > 72) or enforce strict stop-loss protection if it drops below -1.8%. Keep all crypto and closed equities sidelined due to unfavorable bearish trends or closed market status."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

@@ -11,38 +11,6 @@
 🤖 Consulting Gemini for market analysis and trading decisions...
 
 🧠 GEMINI MARKET ANALYSIS:
-"The overall market is currently experiencing a weekend shutdown for traditional equities and ETFs, with all major stock markets showing 'CERRADO'. AAPL remains our sole active position, holding steady in an uptrend above its SMA20 with a minor positive return (+0.16%). Although AAPL's 1-hour RSI is at 66.0, it has not yet reached the 72 threshold required for take-profit, nor has it hit our stop-loss parameters. Cryptocurrencies remain open 24/7, but all tracked crypto assets (BTC-USD, ETH-USD, SOL-USD) are in bearish trends below their respective SMA20 lines and lack sufficient reversal triggers, keeping them sidelined."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Continue holding AAPL while Wall Street is closed. Maintain watch on AAPL for take-profit execution if 1-hour RSI exceeds 72 or gains hit the +3.0% to +5.0% target band, while strictly honoring the -1.8% stop-loss. Keep crypto sidelined due to persistent downtrends below the SMA20."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 90%)
-    Reason: AAPL is currently in a confirmed uptrend above the SMA20 and is showing stability with a modest positive PnL. Since traditional markets are closed and take-profit/stop-loss criteria are not yet triggered, holding is the most disciplined approach.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.26 USD (Cash: $32.25 USD)
-
-[2026-10-25 18:40:39] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $32.25 USD
- Assets Value:        $7.01 USD
- Total Balance:       $39.26 USD
- Net PnL:             🔴 $-0.74 USD (-1.85%)
-
- 💼 Open Positions:
-   • AAPL: 0.020163 u. | Buy: $347.17 | Now: $347.73 | Total: $7.01 📈 (+0.16%) [Time: 2d 4h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
 "Wall Street markets remain closed for the weekend (market_status CERRADO), freezing prices for equities and ETFs such as AAPL, MSFT, NVDA, SPY, QQQ, and GLD. Cryptocurrencies remain open 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD continue to exhibit bearish trends below their respective SMA20 lines with negative hourly momentum, failing our strict trend filter and reversal trigger requirements. Our sole open position is AAPL, which is in a confirmed uptrend (above SMA20) with a current holding time of over two days. AAPL's 1-hour RSI is at 66.0 with a positive 1-hour change (+0.31%), holding steady near our target profit threshold but not yet triggering the +3.0% to +5.0% gain or 1-hour RSI > 72 rule. Given the equity holding patience rule and closed market status, we maintain our position in AAPL and keep cash reserves untouched."
 
 📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
@@ -147,6 +115,38 @@ Final Cycle Balance: $39.26 USD (Cash: $32.25 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 100%)
     Reason: AAPL is maintaining an uptrend above its SMA20 with a positive PnL and steady momentum. Following the equity holding patience rule and strict trend filters, we retain the position while waiting for take-profit conditions (1h RSI > 72 or +3% to +5% gain) to trigger.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.26 USD (Cash: $32.25 USD)
+
+[2026-10-25 19:20:38] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $32.25 USD
+ Assets Value:        $7.01 USD
+ Total Balance:       $39.26 USD
+ Net PnL:             🔴 $-0.74 USD (-1.85%)
+
+ 💼 Open Positions:
+   • AAPL: 0.020163 u. | Buy: $347.17 | Now: $347.73 | Total: $7.01 📈 (+0.16%) [Time: 2d 5h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The broader equity market remains closed with prices frozen, and most major assets (NVDA, QQQ, GLD, MSFT, SPY) trade below their SMA20 in bearish trends. AAPL is the sole asset maintaining a confirmed structural uptrend above its SMA20 with a positive PnL of +0.16% and an hourly RSI of 66.0. Crypto assets are open 24/7, but major coins like BTC-USD, ETH-USD, and SOL-USD remain below their SMA20, disqualifying them due to our strict trend filter. Equity holding patience dictates that we continue holding AAPL as it matures toward our take-profit target without violating stop-loss constraints."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Continue holding AAPL within its structural uptrend above SMA20. Monitor 1-hour RSI and price action for take-profit execution (+3.0% to +5.0% gain target or 1h RSI > 72) or enforce strict stop-loss protection if it drops below -1.8%. Keep all crypto and closed equities sidelined due to unfavorable bearish trends or closed market status."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 85%)
+    Reason: AAPL is in a confirmed uptrend above its SMA20 and currently shows a minor positive gain. Following our equity holding patience and asymmetric risk/reward rules, we will hold the position until our take-profit target (+3.0% to +5.0% or 1h RSI > 72) is met or stop-loss limits are breached. The market is closed, making execution impossible anyway.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
