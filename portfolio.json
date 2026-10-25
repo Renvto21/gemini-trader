@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain holding AAPL during the weekend market closure. Monitor AAPL upon market reopening for take-profit opportunities if 1-hour RSI surpasses 72 or PnL reaches +3.0% to +5.0%, and respect the strict -1.8% stop-loss limit. Keep crypto assets sidelined due to unfavorable trends below the SMA20.",
-    "updated_at": "2026-10-25T15:10:47.956389-03:00"
+    "notes": "Hold AAPL position during the weekend market closure, monitoring for take-profit opportunities once the market reopens if 1-hour RSI exceeds 72 or PnL achieves +3.0% to +5.0%. Maintain strict discipline on the -1.8% stop-loss threshold. Keep crypto assets completely sidelined until macro trends shift above the SMA20 and clear reversal confirmation triggers are met.",
+    "updated_at": "2026-10-25T15:20:47.185653-03:00"
   }
 }

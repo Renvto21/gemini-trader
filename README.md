@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 15:10:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 15:20:47`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), freezing asset prices and restricting trading activity for equities like AAPL. Cryptocurrencies remain open 24/7, but all major crypto assets (BTC-USD, ETH-USD, SOL-USD) are currently in bearish trends below their SMA20 with negative or neutral hourly momentum, failing our strict trend-following pullback rules. Our existing equity position in AAPL is holding steady in a confirmed uptrend (above SMA20) with a minor profit of +0.16%. Following the equity holding patience rule, we will maintain the AAPL position while markets are closed, awaiting higher take-profit thresholds (RSI > 72 or PnL +3.0% to +5.0%) or managing against the mandatory -1.8% stop-loss when Wall Street reopens."
+> "Major equity markets (QQQ, SPY, NVDA, MSFT, AAPL, GLD) are currently closed for the weekend with frozen prices. Among equities, AAPL remains our sole active holding, positioned in a confirmed bullish trend above its SMA20 with an RSI of 66.0, showing steady resilience. Cryptocurrencies are trading live 24/7, but all major crypto assets (ETH-USD, BTC-USD, SOL-USD) remain in a bearish trend below their respective SMA20 lines and do not satisfy our strict trend filter or positive 1-hour momentum reversal triggers for entry. Capital preservation and adherence to equity holding patience remain top priorities."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above the SMA20 and showing a positive holding state. Following equity holding patience rules, positions should not be sold prematurely while flat during market closures unless stop-loss limits are approached.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in a confirmed uptrend above its SMA20 and is held according to the equity holding patience rule. Markets are closed for the weekend, preventing active trading. We will let the position develop until take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%) are reached upon market reopening.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain holding AAPL during the weekend market closure. Monitor AAPL upon market reopening for take-profit opportunities if 1-hour RSI surpasses 72 or PnL reaches +3.0% to +5.0%, and respect the strict -1.8% stop-loss limit. Keep crypto assets sidelined due to unfavorable trends below the SMA20."
+> "Hold AAPL position during the weekend market closure, monitoring for take-profit opportunities once the market reopens if 1-hour RSI exceeds 72 or PnL achieves +3.0% to +5.0%. Maintain strict discipline on the -1.8% stop-loss threshold. Keep crypto assets completely sidelined until macro trends shift above the SMA20 and clear reversal confirmation triggers are met."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
