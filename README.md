@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 19:20:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 19:30:40`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader equity market remains closed with prices frozen, and most major assets (NVDA, QQQ, GLD, MSFT, SPY) trade below their SMA20 in bearish trends. AAPL is the sole asset maintaining a confirmed structural uptrend above its SMA20 with a positive PnL of +0.16% and an hourly RSI of 66.0. Crypto assets are open 24/7, but major coins like BTC-USD, ETH-USD, and SOL-USD remain below their SMA20, disqualifying them due to our strict trend filter. Equity holding patience dictates that we continue holding AAPL as it matures toward our take-profit target without violating stop-loss constraints."
+> "The majority of stock and ETF assets are currently closed for the weekend (market_status: CERRADO) and trading in bearish trends below their respective SMA20 lines. AAPL is our only active holding, currently situated above its SMA20 in a confirmed uptrend with a minor positive PnL (+0.16%) and a 1-hour RSI of 66.0. Crypto assets are open (24/7) but remain in bearish trends below SMA20, keeping them ineligible for purchase per our strict trend filter. Given equity market closure and patience rules for equity holdings, we will maintain our current position in AAPL."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 and currently shows a minor positive gain. Following our equity holding patience and asymmetric risk/reward rules, we will hold the position until our take-profit target (+3.0% to +5.0% or 1h RSI > 72) is met or stop-loss limits are breached. The market is closed, making execution impossible anyway.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20. Per equity holding patience rules, we should not exit prematurely and instead allow the trade time to play out toward our +3% to +5% take-profit target while maintaining strict stop-loss boundaries.
 
 ---
 
