@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 07:40:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 07:50:38`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), keeping equity prices frozen. AAPL remains our sole active position, currently showing a modest positive return while maintaining its structural uptrend above the SMA20 with an hourly RSI at 66.0. Other equities and crypto assets are largely in a downtrend (below SMA20) or lack the required 1-hour bullish reversal confirmation (change_1h_pct > 0.0), rendering them ineligible for purchase under our strict trend-following rules."
+> "The overall market is currently closed for traditional equities and ETFs, with most assets displaying a bearish trend below their respective SMA20. AAPL remains our sole active position, currently holding steady with a minor positive PnL of +0.16% while its market status is CERRADO. Cryptocurrencies are open (24/7) but continue to exhibit downward momentum and are currently trading below their SMA20 levels without valid bullish reversal triggers (change_1h_pct is negative across major pairs). We maintain strict adherence to our equity holding patience and trend-following rules."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20 with a stable positive PnL. Adhering to the equity holding patience rule, we continue to hold the position while waiting for the 1-hour RSI to exceed 72 for our take-profit target.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 and market status is closed. Adhering to the equity holding patience rule, we continue holding through flat periods, monitoring for rsi_1h to exceed 72 for a take-profit opportunity or managing the stop-loss.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL patiently as per equity holding patience rules. AAPL current PnL is +0.16%. Monitor for AAPL 1-hour RSI to push past 72 towards our profit target of +3.0% to +5.0%. Maintain strict stop-loss protection between -1.8% and -2.0%. Keep crypto assets sidelined due to persistent bearish trends below SMA20 and lack of confirmed bounce triggers."
+> "Continue holding AAPL patiently as per equity holding patience rules. AAPL current PnL is +0.16% with an rsi_1h at 66.0. Monitor for AAPL 1-hour RSI to push past 72 towards our profit target of +3.0% to +5.0% once the market reopens. Maintain strict stop-loss protection between -1.8% and -2.0%. Keep crypto assets sidelined due to persistent bearish trends below SMA20 and negative 1-hour percentage changes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

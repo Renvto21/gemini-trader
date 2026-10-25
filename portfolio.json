@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL patiently as per equity holding patience rules. AAPL current PnL is +0.16%. Monitor for AAPL 1-hour RSI to push past 72 towards our profit target of +3.0% to +5.0%. Maintain strict stop-loss protection between -1.8% and -2.0%. Keep crypto assets sidelined due to persistent bearish trends below SMA20 and lack of confirmed bounce triggers.",
-    "updated_at": "2026-10-25T07:40:47.225209-03:00"
+    "notes": "Continue holding AAPL patiently as per equity holding patience rules. AAPL current PnL is +0.16% with an rsi_1h at 66.0. Monitor for AAPL 1-hour RSI to push past 72 towards our profit target of +3.0% to +5.0% once the market reopens. Maintain strict stop-loss protection between -1.8% and -2.0%. Keep crypto assets sidelined due to persistent bearish trends below SMA20 and negative 1-hour percentage changes.",
+    "updated_at": "2026-10-25T07:50:38.061384-03:00"
   }
 }
