@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 09:20:40`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 09:30:44`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The equity markets are currently closed (CERRADO) with prices frozen. AAPL remains our sole active equity position, showing stable price action in an uptrend (above SMA20) with a 1-hour RSI at 66.0 and slight positive momentum, approaching our target profit range of +3.0% to +5.0%. Other equities like QQQ, NVDA, SPY, and GLD are in bearish trends below their SMA20. Cryptocurrencies such as BTC-USD, ETH-USD, and SOL-USD are currently open (24/7) but remain in bearish trends below their respective SMA20 levels, failing our strict trend-following filter and anti-correlation constraints for new entries."
+> "The overall market continues to experience a bearish macro trend with major indices and crypto assets trading below their respective SMA20 levels. Wall Street is currently closed (market status CERRADO), freezing equity prices. AAPL remains our sole active equity position, currently showing a modest profit of +0.16% with an hourly RSI of 66.0, approaching overbought territories. Crypto assets are open 24/7 but remain firmly in a downtrend below the SMA20 with negative momentum, so we continue to keep crypto sidelined in adherence to our strict trend filters and anti-correlation constraints."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is maintaining its position nicely in a confirmed uptrend above the SMA20 with a current PnL of +0.16%. Following equity holding patience guidelines, we give the stock time to play out and approach our +3.0% to +5.0% take-profit target without premature rotation.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 and currently shows a positive PnL. In accordance with equity holding patience guidelines, we will maintain the position while the market is closed until our take-profit target (+3% to +5%) or stop-loss limit is reached.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL patiently while the market is closed. Monitor AAPL's 1-hour RSI as it nears overbought conditions (>72) and aim for a take-profit target of +3.0% to +5.0%. Keep a strict stop-loss at -1.8% to -2.0% in case of a reversal. Keep crypto assets sidelined due to persistent bearish macro trends below the SMA20."
+> "Continue holding AAPL patiently while the market is closed. Monitor AAPL's 1-hour RSI as it nears overbought conditions (>72) and aim for a take-profit target of +3.0% to +5.0%. Keep a strict stop-loss at -1.8% to -2.0%. Keep crypto assets sidelined due to persistent bearish macro trends below the SMA20."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
