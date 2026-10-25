@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position patiently as required by equity holding rules since it is above SMA20 and has not hit take-profit (+3.0% to +5.0%) or stop-loss thresholds (-1.8% to -2.0%). Current PnL is +0.16%. Market status for equities is closed, preventing any immediate execution on stocks. Crypto markets are open but currently exhibit bearish trends (below SMA20), so no crypto positions will be opened. Will maintain cash reserves and await Wall Street opening for potential pullback opportunities in confirmed uptrends.",
-    "updated_at": "2026-10-25T06:50:43.813427-03:00"
+    "notes": "Holding AAPL position patiently per equity holding rules. Current PnL is +0.16%. Monitoring for AAPL rsi_1h to climb past 72 or for the return to yield a take-profit target of +3.0% to +5.0%. Stop-loss remains firmly monitored at -1.8% to -2.0%. Wall Street is closed, so no stock execution is possible. Crypto assets are in bear trends, so no crypto will be bought. Await market re-opening for fresh breakout or pullback opportunities in confirmed uptrend assets.",
+    "updated_at": "2026-10-25T07:00:49.200189-03:00"
   }
 }
