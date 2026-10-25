@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 20:30:45`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 20:40:45`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Equity markets remain closed (CERRADO), maintaining frozen prices and preventing any active trade execution for stock assets like AAPL. AAPL is currently in a confirmed uptrend above its SMA20 with a 1h RSI of 66.0, holding a slight positive PnL (+0.16%). Meanwhile, all available cryptocurrency assets (BTC-USD, SOL-USD, ETH-USD) are currently in bearish trends below their respective SMA20 levels with negative 1-hour percentage changes, failing our strict trend and reversal confirmation filters. Therefore, no crypto positions will be opened, and we maintain our equity holding patience on AAPL."
+> "Wall Street markets are currently closed (CERRADO), meaning equity assets like AAPL, MSFT, QQQ, SPY, NVDA, and GLD cannot be traded. Crypto markets remain open 24/7, but all major cryptocurrencies (ETH-USD, BTC-USD, SOL-USD) are in bearish trends below their respective SMA20 with negative 24-hour momentum, failing our strict trend filter. AAPL continues to hold above its SMA20 in an uptrend, satisfying equity holding patience rules while we wait for equity markets to reopen and for take-profit criteria (+3.0% to +5.0% or 1h RSI > 72) or stop-loss protection (-1.8%) to trigger."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in a confirmed uptrend above its SMA20. Equity markets are closed, so we maintain equity holding patience, keeping the position open as it approaches our take-profit target while respecting the strict stop-loss.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently holding steady above its SMA20 in a confirmed uptrend. Equity markets are closed, and per our equity holding patience and trend-following rules, we maintain our position while awaiting further upside momentum toward our +3.0% to +5.0% take-profit target.
 
 ---
 
