@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL position. Market is currently closed for equities. Monitor AAPL for a take-profit target of +3.0% to +5.0% or an RSI_1h > 72 combined with profit >= +2.5%. Ensure stop-loss is rigidly enforced at -1.8% to -2.0%. Keep crypto assets sidelined due to bearish trends below SMA20.",
-    "updated_at": "2026-10-26T05:00:43.876009-03:00"
+    "notes": "Continue holding AAPL as equity patience dictates holding flat positions unless stop-loss (-1.8% to -2.0%) or take-profit (+3.0% to +5.0% / RSI_1h > 72 with profit >= +2.5%) is triggered. Keep crypto assets sidelined due to bearish trends and lack of positive 1-hour confirmation. Maintain focus on capital preservation and strict adherence to risk rules.",
+    "updated_at": "2026-10-26T05:10:47.014260-03:00"
   }
 }
