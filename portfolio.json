@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in MSFT and AAPL as they stay above the SMA20. Monitor MSFT closely for take-profit opportunities if gains reach +3.0% to +5.0% or if momentum peaks. Keep AAPL open to recover from minor drawdown. Avoid crypto and downtrending equities. Cash reserves are safely maintained above $4.00 USD.",
-    "updated_at": "2026-10-26T14:41:20.731985-03:00"
+    "notes": "Maintain current equity positions in MSFT and AAPL. Monitor MSFT for potential take-profit if gains reach +3.0% to +5.0% or momentum peaks. Keep AAPL open as equity holdings require patience, honoring the stop-loss limit near -1.8% to -2.0%. Avoid all crypto and downtrending assets due to strict trend filtering.",
+    "updated_at": "2026-10-26T14:50:58.103678-03:00"
   }
 }
