@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as they remain above their SMA20 trend lines. Do not panic over minor hourly negative candles. Continue to monitor for take-profit targets between +3.0% and +5.0%, and ensure strict stop-loss exits if positions breach -1.8% to -2.0%. Keep cash reserves above $4.00 USD and avoid crypto assets due to lack of confirmed uptrends above SMA20.",
-    "updated_at": "2026-10-26T13:51:07.437130-03:00"
+    "notes": "Maintain current positions in AAPL and MSFT as both remain in confirmed uptrends above their SMA20 lines. Give AAPL time to recover from its minor hourly dip without panicking, and monitor MSFT for potential take-profit targets between +3.0% and +5.0%. Keep cash reserves above $4.00 USD and refrain from entering any crypto assets until trend reversals above the SMA20 are confirmed.",
+    "updated_at": "2026-10-26T14:01:15.134429-03:00"
   }
 }
