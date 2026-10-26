@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-26 18:10:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-26 18:20:54`
 
 ---
 
@@ -17,23 +17,23 @@
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | `AAPL` | 0.020163 | $347.17 | $343.91 | $6.93 | 📉 -0.94% | 3d 4h |
-| `MSFT` | 0.012263 | $530.04 | $532.60 | $6.53 | 📈 +0.48% | 6h 9m |
+| `MSFT` | 0.012263 | $530.04 | $532.60 | $6.53 | 📈 +0.48% | 6h 19m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Major equity markets are currently closed with prices frozen, while cryptocurrencies remain open 24/7. However, crypto assets like BTC, ETH, and SOL continue to trade in bearish trends below their respective SMA20 lines, failing our strict trend-following filter. Within our existing equity portfolio, AAPL is holding steady despite short-term pressure, and MSFT is showing robust performance with a high 1-hour RSI, approaching our take-profit target window (+3.0% to +5.0%). We adhere to equity holding patience and maintain positions while monitoring market re-openings."
+> "Wall Street is currently closed (market_status: CERRADO), meaning equity positions cannot be traded at this time. Crypto assets are open 24/7, but all major cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) remain in a bearish trend below the SMA20, failing our strict trend filter. Among equities, MSFT sits in an uptrend with a strong 1-hour RSI above 72 (80.0), but cannot be acted upon due to market closure. AAPL continues its consolidation phase within an uptrend. We maintain patience with existing equity positions and keep cash reserves safe."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 80%): AAPL is currently in a confirmed uptrend above the SMA20. Per equity holding patience rules, we maintain the position while the market is closed and give it time to develop.
-- **[HOLD] MSFT** (Confidence: 85%): MSFT is performing well above its SMA20 with strong momentum. We hold the position through the market closure to capture upside towards our take-profit target.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend and the market is currently closed. Adhering to the equity holding patience rule, we hold the position.
+- **[HOLD] MSFT** (Confidence: 100%): MSFT is performing well with a positive PnL, and the market is currently closed. We hold until market re-open to target profits.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain current equity positions in AAPL and MSFT during market closure. For MSFT, prepare to execute a take-profit order if the price advances towards the +3.0% to +5.0% gain threshold upon market re-open. Keep AAPL open as it consolidates within its uptrend. Avoid all crypto assets due to the prevailing bearish momentum below the SMA20."
+> "Maintain current equity positions in AAPL and MSFT during market closure. For MSFT, the 1-hour RSI is elevated at 80.0; monitor closely upon market re-open to take profit if the gain target of +3.0% to +5.0% is reached. Keep AAPL open as it consolidates within its uptrend. Avoid all crypto assets due to the prevailing bearish momentum below the SMA20."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
