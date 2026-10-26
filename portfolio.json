@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position in accordance with equity holding patience rules. Since the stock market is currently closed, no new equity trades can be executed. Monitor AAPL for take-profit criteria (+3.0% to +5.0% gain or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection at -1.8% to -2.0%. Keep all crypto sidelined due to active downtrends under SMA20, and wait for the equity market to reopen to scout new uptrend pullbacks.",
-    "updated_at": "2026-10-26T05:40:41.537387-03:00"
+    "notes": "Maintain the AAPL position as equity markets remain closed. Watch for take-profit criteria on AAPL (+3.0% to +5.0% gain, or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection at -1.8% to -2.0%. Keep crypto sidelined due to downtrends below SMA20. Re-evaluate equities and potential pullbacks once Wall Street reopens.",
+    "updated_at": "2026-10-26T05:50:41.816222-03:00"
   }
 }
