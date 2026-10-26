@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position patiently as it is in an uptrend above SMA20. Monitor closely for take-profit targets between +3.0% and +5.0%, or if rsi_1h exceeds 72 with profit >= +2.5%. Keep strict stop-loss protection between -1.8% and -2.0%. Keep crypto sidelined due to bearish trends below SMA20. Await market re-opening and strong reversal confirmation triggers for any new equity entries.",
-    "updated_at": "2026-10-26T09:00:58.521530-03:00"
+    "notes": "Patiently hold the current AAPL position as it continues to consolidate in an uptrend above SMA20 with a current PnL of +0.16% and 1-hour RSI at 66.0. Monitor closely for our take-profit target between +3.0% and +5.0%, or if 1-hour RSI exceeds 72 with profit >= +2.5%. Keep strict stop-loss protection between -1.8% and -2.0%. Keep crypto sidelined due to bearish trends and lack of confirmation triggers. Await market re-opening for potential new equity setups.",
+    "updated_at": "2026-10-26T09:10:42.507764-03:00"
   }
 }
