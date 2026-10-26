@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL and MSFT under equity holding patience rules since markets are closed and positions are within normal risk parameters. Monitor MSFT closely for a potential take-profit target once profit reaches the +3.0% to +5.0% range or if momentum stalls. Keep cash reserve at $25.75 and refrain from opening any new crypto trades until a confirmed uptrend above SMA20 materializes.",
-    "updated_at": "2026-10-26T17:01:00.473675-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT under equity holding patience rules. Monitor MSFT for potential take-profit triggers if it approaches the +3.0% to +5.0% range, and keep AAPL under observation as long as it stays above its SMA20 trendline and avoids hitting the -1.8% stop-loss. Refrain from opening new crypto positions until a clear uptrend above SMA20 and positive 1-hour momentum materialize.",
+    "updated_at": "2026-10-26T17:10:42.582449-03:00"
   }
 }
