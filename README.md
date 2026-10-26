@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 21:20:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 21:30:49`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The equity market remains closed for the weekend, with all stock and ETF prices frozen and most major assets trading below their SMA20 trend filters. AAPL is our sole open position, currently holding steady with a modest +0.16% PnL in an established uptrend above its SMA20. Crypto assets are open 24/7, but all major tokens (BTC-USD, ETH-USD, SOL-USD) are in bearish trends below their SMA20 with weak or negative short-term momentum, violating our strict trend filters. Therefore, no new trades are warranted during this weekend cycle, and we will maintain our current AAPL position while respecting equity market hours."
+> "Equity markets remain closed (CERRADO) with prices frozen, leaving AAPL as our sole active holding. AAPL is showing solid resilience with a positive PnL (+0.16%), sitting in a confirmed uptrend above the SMA20 with a 1h RSI at 66.0 and daily RSI at 72.3, approaching our take-profit threshold (+3.0% to +5.0% or 1h RSI > 72). Other major equities are currently in downtrends below their SMA20. Crypto assets are open (24/7), but ETH-USD, SOL-USD, and BTC-USD remain in bearish trends below their SMA20 with negative 24h momentum, failing our strict trend filter and reversal confirmation rules. Therefore, no crypto trades will be executed."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL remains in a confirmed uptrend above its SMA20. Equity markets are currently closed, and per our equity holding patience and market hours rules, we maintain the position without premature rotation while monitoring for take-profit or stop-loss triggers upon market reopening.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is remaining in a healthy confirmed uptrend above the SMA20 with positive PnL (+0.16%). Equity markets are currently closed (CERRADO), and the asset has not yet reached our take-profit target or breached our stop-loss. Complying with equity holding patience.
 
 ---
 
