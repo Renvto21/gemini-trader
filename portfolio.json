@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as they remain in confirmed uptrends. Monitor AAPL for a rebound confirmation as its 1-hour candle turns positive and watch MSFT for potential take-profit targets between +3.0% and +5.0%. Keep cash reserves above $4.00 USD and refrain from entering any crypto assets until trend reversals above the SMA20 are fully confirmed.",
-    "updated_at": "2026-10-26T14:11:24.382453-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT as they are the sole assets above the SMA20. Monitor MSFT for potential take-profit targets approaching +3.0% to +5.0% and AAPL for a rebound confirmation as its 1-hour change turns positive. Keep cash reserves secure above $4.00 USD and avoid crypto markets until a clear bullish reversal above the SMA20 occurs.",
+    "updated_at": "2026-10-26T14:21:07.958552-03:00"
   }
 }
