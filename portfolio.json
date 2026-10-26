@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in MSFT and AAPL. Monitor MSFT for potential take-profit if gains reach +3.0% to +5.0% or momentum peaks. Keep AAPL open as equity holdings require patience, honoring the stop-loss limit near -1.8% to -2.0%. Avoid all crypto and downtrending assets due to strict trend filtering.",
-    "updated_at": "2026-10-26T14:50:58.103678-03:00"
+    "notes": "Maintain current equity holdings in AAPL and MSFT. Monitor MSFT closely for a potential take-profit action if gains hit +3.0% to +5.0% or if hourly momentum starts fading. Keep AAPL open as patience is required for equities, and respect the stop-loss limit near -1.8% to -2.0%. Continue avoiding downtrending assets and crypto due to strict risk parameters.",
+    "updated_at": "2026-10-26T15:01:03.535231-03:00"
   }
 }
