@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 21:10:40`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 21:20:46`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The portfolio currently holds AAPL, which remains in a confirmed uptrend above its SMA20 with a current PnL of +0.16% and an hourly RSI of 66.0. Equity markets are currently CERRADO (prices frozen), meaning we must maintain patience and hold our equity position according to the equity holding patience rule. Crypto markets are open (24/7), but all major crypto assets (BTC, ETH, SOL) are currently in a bearish trend (below SMA20), so no crypto purchases are made to avoid catching falling knives. We continue to monitor AAPL for our take-profit target of +3.0% to +5.0% or an hourly RSI above 72."
+> "The equity market remains closed for the weekend, with all stock and ETF prices frozen and most major assets trading below their SMA20 trend filters. AAPL is our sole open position, currently holding steady with a modest +0.16% PnL in an established uptrend above its SMA20. Crypto assets are open 24/7, but all major tokens (BTC-USD, ETH-USD, SOL-USD) are in bearish trends below their SMA20 with weak or negative short-term momentum, violating our strict trend filters. Therefore, no new trades are warranted during this weekend cycle, and we will maintain our current AAPL position while respecting equity market hours."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above SMA20, currently holding steady with a positive return. Equity markets are closed, and our equity holding patience rule dictates we give the stock time to play out toward our +3.0% to +5.0% take-profit target while respecting our -1.8% stop-loss.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL remains in a confirmed uptrend above its SMA20. Equity markets are currently closed, and per our equity holding patience and market hours rules, we maintain the position without premature rotation while monitoring for take-profit or stop-loss triggers upon market reopening.
 
 ---
 
