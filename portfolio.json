@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as it maintains its uptrend above the SMA20. Monitor AAPL for our take-profit target of +3.0% to +5.0% (or an RSI_1h > 72 with profit >= +2.5%) and keep the stop-loss strictly at -1.8%. Avoid opening new crypto positions since all major coins are in downtrends below their SMA20 with negative 1-hour price action. Wait for market reopen and proper breakout/pullback confirmations before allocating additional capital.",
-    "updated_at": "2026-10-26T03:30:48.097619-03:00"
+    "notes": "Continue holding AAPL as it maintains its uptrend above the SMA20. Monitor AAPL closely for our take-profit target of +3.0% to +5.0% (or if rsi_1h exceeds 72 with profit >= +2.5%) and keep the strict stop-loss at -1.8%. Avoid opening any new crypto positions because all major coins are in downtrends below their SMA20. Wait for market reopen and proper breakout/pullback confirmations before allocating additional capital.",
+    "updated_at": "2026-10-26T03:40:38.102799-03:00"
   }
 }
