@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL position as Wall Street is closed. Monitor AAPL for take-profit condition (+3.0% to +5.0% or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection at -1.8% to -2.0%. Keep crypto sidelined as none have reclaimed their SMA20 uptrend.",
-    "updated_at": "2026-10-26T06:50:45.243031-03:00"
+    "notes": "Maintain current AAPL position as Wall Street is closed. Monitor AAPL for take-profit target (+3.0% to +5.0% gain or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection at -1.8% to -2.0%. Keep crypto sidelined as none have reclaimed their SMA20 uptrend.",
+    "updated_at": "2026-10-26T07:00:51.854526-03:00"
   }
 }
