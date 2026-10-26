@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position as it respects patience rules for equities, watching closely for a return to profitability and a 1-hour RSI above 72 to take profit, or a hard stop-loss trigger at -1.8%. Keep cash reserves above $4.00. Strictly enforce trend-following criteria and do not enter new assets unless they are in a confirmed uptrend with positive 1-hour momentum.",
-    "updated_at": "2026-10-26T11:31:38.399816-03:00"
+    "notes": "Maintain the current AAPL position respecting equity holding patience, monitoring closely for either a push toward a take-profit target (RSI 1h > 72 with profit >= +2.5%) or a strict stop-loss trigger at -1.8%. Cash reserves stand at $32.25, ensuring we maintain well above the $4.00 minimum. Keep monitoring MSFT and other uptrend assets for potential pullback entries when strict reversal confirmation criteria (rsi_1h >= 32 and positive 1-hour change) are met.",
+    "updated_at": "2026-10-26T11:41:06.934915-03:00"
   }
 }
