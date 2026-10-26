@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL patiently through the weekend closure, monitoring for take-profit targets between +3.0% and +5.0% (or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection between -1.8% and -2.0%. Keep crypto sidelined until a valid uptrend combined with a confirmed positive 1-hour reversal trigger appears.",
-    "updated_at": "2026-10-26T08:30:49.077668-03:00"
+    "notes": "Maintain AAPL patiently through the market closure, monitoring for take-profit targets between +3.0% and +5.0% (or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection between -1.8% and -2.0%. Keep crypto sidelined as they remain in a bearish trend below their SMA20. Await market re-opening for equity opportunities and strictly adhere to the pullback and uptrend rules.",
+    "updated_at": "2026-10-26T08:40:41.876505-03:00"
   }
 }
