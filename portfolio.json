@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT as they remain above their SMA20 trend lines. Do not panic or sell prematurely due to minor fluctuations; respect the equity holding patience rule. Watch for take-profit targets between +3.0% and +5.0% or RSI 1h > 72 with profit >= +2.5%. Keep stop-loss strictly at -1.8% to -2.0%. Cash reserve stands at $25.75, well above the $4.00 minimum.",
-    "updated_at": "2026-10-26T12:41:10.248707-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT as they remain in bullish uptrends above the SMA20. Respect equity holding patience and do not exit prematurely on minor fluctuations. Monitor stop-loss closely at -1.8% to -2.0% and take-profit targets between +3.0% and +5.0%. Avoid entering crypto positions while they remain below their SMA20 trend lines.",
+    "updated_at": "2026-10-26T12:51:09.550098-03:00"
   }
 }
