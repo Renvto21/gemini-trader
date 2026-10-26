@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position as it remains patient and within bounds. Monitor AAPL closely when the market reopens for take-profit criteria (+3.0% to +5.0% gain or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection between -1.8% and -2.0%. Keep crypto sidelined until a valid uptrend combined with a confirmed positive 1-hour reversal trigger appears.",
-    "updated_at": "2026-10-26T07:50:38.820491-03:00"
+    "notes": "Maintain the current AAPL equity position as it remains patient and within bounds while the market is closed. Monitor AAPL closely when the market reopens for take-profit criteria (+3.0% to +5.0% gain or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection between -1.8% and -2.0%. Keep crypto sidelined until a valid uptrend combined with a confirmed positive 1-hour reversal trigger appears.",
+    "updated_at": "2026-10-26T08:00:47.591532-03:00"
   }
 }
