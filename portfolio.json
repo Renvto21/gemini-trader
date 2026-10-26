@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with AAPL in accordance with equity holding guidelines, allowing time for recovery unless the stop-loss limit of -1.8% to -2.0% is triggered. Wait for confirmed uptrend alignments and green 1-hour reversal triggers before considering any new allocations. Keep cash reserves protected above the $4.00 minimum.",
-    "updated_at": "2026-10-26T11:01:22.867600-03:00"
+    "notes": "Maintain AAPL position and monitor closely for potential stop-loss activation if it reaches -1.8% to -2.0%, or wait for a return to profitability and a 1-hour RSI above 72 to take profit. Keep cash reserves protected above the $4.00 minimum. Strictly adhere to trend-following rules: do not enter assets below SMA20 and wait for green 1-hour candles with RSI >= 32 before adding new positions.",
+    "updated_at": "2026-10-26T11:11:07.299411-03:00"
   }
 }
