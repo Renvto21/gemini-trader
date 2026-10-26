@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT under equity holding patience rules. Monitor MSFT for potential take-profit triggers if it approaches the +3.0% to +5.0% range, and keep AAPL under observation as long as it stays above its SMA20 trendline and avoids hitting the -1.8% stop-loss. Refrain from opening new crypto positions until a clear uptrend above SMA20 and positive 1-hour momentum materialize.",
-    "updated_at": "2026-10-26T17:10:42.582449-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT under equity holding patience rules. Since markets are closed, monitor price action for when markets reopen. For MSFT, look out for take-profit triggers if the price extends gains toward the +3.0% to +5.0% range. For AAPL, hold as long as it stays above its SMA20 trendline and avoids the -1.8% stop-loss threshold. Keep crypto sidelined due to lack of confirmation and bearish trend filters.",
+    "updated_at": "2026-10-26T17:20:52.273790-03:00"
   }
 }
