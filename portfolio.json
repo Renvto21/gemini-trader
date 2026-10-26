@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL and MSFT as equity holding patience dictates letting them play out. Monitor AAPL for a 1-hour bounce confirmation (change_1h_pct > 0 and RSI >= 32). Monitor MSFT for potential profit-taking if it reaches +3.0% to +5.0% gain targets. Strict stop-loss levels at -1.8% to -2.0% remain in place. Cash reserves are healthy at $25.75.",
-    "updated_at": "2026-10-26T15:50:49.016004-03:00"
+    "notes": "Continue holding AAPL and MSFT under equity holding patience rules. Monitor MSFT for potential profit-taking if it reaches +3.0% to +5.0% gains or if RSI 1h remains elevated above 72 with strong momentum. Monitor AAPL for a confirmed green 1-hour candle bounce before considering any further allocation. Maintain strict stop-loss levels at -1.8% to -2.0% for all open positions. Cash reserves remain solid at $25.75.",
+    "updated_at": "2026-10-26T16:00:59.638932-03:00"
   }
 }
