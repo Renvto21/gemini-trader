@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT. Give equities time to play out without reacting to minor hourly fluctuations. Monitor AAPL and MSFT for take-profit opportunities between +3.0% and +5.0% or strict stop-loss exits between -1.8% and -2.0%. Keep cash reserves above $4.00 USD and avoid crypto assets until they reclaim their SMA20 trend lines and show positive reversal triggers.",
-    "updated_at": "2026-10-26T13:31:07.388258-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT. Do not react to minor hourly fluctuations. Monitor for take-profit targets between +3.0% and +5.0%, and ensure strict stop-loss exits if positions breach -1.8% to -2.0%. Keep cash reserves above $4.00 USD and avoid opening any crypto positions until they demonstrate confirmed uptrends above their SMA20 and positive 1-hour price action.",
+    "updated_at": "2026-10-26T13:40:56.378908-03:00"
   }
 }
