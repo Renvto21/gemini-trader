@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL in accordance with equity patience rules, monitoring for a take-profit target of +3.0% to +5.0% or RSI_1h > 72 with profit >= +2.5%, and enforcing a strict stop-loss at -1.8% to -2.0%. Keep crypto assets sidelined due to downtrends and lack of positive 1-hour bounce confirmation. Wait for equity market opening to scout new uptrend pullbacks.",
-    "updated_at": "2026-10-26T05:20:44.894570-03:00"
+    "notes": "Maintain AAPL position in accordance with equity patience rules. Monitor AAPL for take-profit criteria (+3.0% to +5.0% gain or RSI_1h > 72 with profit >= +2.5%) or stop-loss protection at -1.8% to -2.0%. Keep all crypto sidelined due to active downtrends under SMA20, and wait for equity market opening to scout new uptrend pullbacks.",
+    "updated_at": "2026-10-26T05:30:43.728579-03:00"
   }
 }
