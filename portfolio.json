@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL while adhering to strict stop-loss (-1.8%) and take-profit targets (+3.0% to +5.0%, or rsi_1h > 72 with profit >= +2.5%). Keep all crypto and closed-market equities untouched as they fail our strict trend filters or market-hour availability rules. Monitor for market reopens.",
-    "updated_at": "2026-10-26T04:40:37.666573-03:00"
+    "notes": "Continue holding AAPL while adhering to strict stop-loss (-1.8%) and take-profit targets (+3.0% to +5.0%, or rsi_1h > 72 with profit >= +2.5%). All crypto assets remain sidelined due to bearish trends below SMA20. Maintain cash reserves and monitor for market reopens.",
+    "updated_at": "2026-10-26T04:50:44.523783-03:00"
   }
 }
