@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position as Wall Street is closed. Wait for AAPL to reach our target take-profit threshold (+3.0% to +5.0% or RSI_1h > 72 with profit >= +2.5%) or protect capital with a strict stop-loss (-1.8% to -2.0%). Keep crypto sidelined as all available options remain below their SMA20 trend filters.",
-    "updated_at": "2026-10-26T06:20:44.547475-03:00"
+    "notes": "Maintain our current AAPL equity position as Wall Street is closed. Wait for AAPL to reach our target take-profit threshold (+3.0% to +5.0% or RSI_1h > 72 with profit >= +2.5%) or protect capital with a strict stop-loss (-1.8% to -2.0%). Keep crypto sidelined as all available options remain below their SMA20 trend filters.",
+    "updated_at": "2026-10-26T06:30:53.702402-03:00"
   }
 }
