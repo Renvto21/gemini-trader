@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 21:50:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 22:00:45`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The equity markets remain closed for the weekend, leaving prices frozen across major stocks and ETFs like AAPL, MSFT, and SPY. AAPL continues to hold above its SMA20 in a confirmed uptrend with a current modest gain, adhering to our equity holding patience rule. Crypto markets are active 24/7, but major coins such as BTC-USD, ETH-USD, and SOL-USD remain in downtrends below their SMA20 levels with negative 24-hour momentum. Consequently, we maintain our cash reserves and keep crypto sidelined while letting our open AAPL position play out."
+> "Wall Street markets are currently closed (CERRADO), meaning equity and ETF prices are frozen. AAPL remains our sole active holding, currently exhibiting a modest positive PnL (+0.16%) while maintaining its position above the SMA20 uptrend filter. Cryptocurrencies remain open 24/7, but all tracked crypto assets (SOL-USD, BTC-USD, ETH-USD) are currently in a bearish trend below their SMA20 with weak momentum, violating our strict trend-following pullback rules. Therefore, no crypto trades will be executed."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is maintaining its position in an established uptrend above the SMA20 with a positive holding duration. Equity markets are closed, so we adhere to equity holding patience and await our take-profit target of +3.0% to +5.0% or 1h RSI > 72.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is currently in a confirmed uptrend above its SMA20. Per our equity holding patience rule and strict trend filters, we continue to hold the position while markets are closed, waiting for our target profit of +3.0% to +5.0% or an 1h RSI > 72.
 
 ---
 
