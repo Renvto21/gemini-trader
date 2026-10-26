@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 20:50:45`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-25 21:00:53`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets remain closed (CERRADO) over the weekend, freezing asset prices and restricting equity trading activity. AAPL is our only currently held position, trading in a confirmed bullish trend above its SMA20 with steady performance. Cryptocurrencies remain open 24/7, but all major crypto assets (BTC-USD, ETH-USD, SOL-USD) are currently in bearish trends (below SMA20) with negative 24-hour and 1-hour changes, failing our strict trend-filter and reversal confirmation criteria. Therefore, no crypto trades are warranted, and equity positions remain on hold due to closed market hours."
+> "The traditional equity markets are currently closed (CERRADO) with prices frozen, showing broad macroeconomic weakness as major indices like QQQ, SPY, and NVDA remain in downtrends below their SMA20. AAPL remains our sole active position, currently holding steady in a confirmed uptrend above its SMA20 with a minor positive PnL (+0.16%). Crypto assets (BTC-USD, ETH-USD, SOL-USD) are open 24/7 but are all trading below their SMA20 trend filters with negative 24h performance, failing to meet our strict reversal confirmation criteria. We maintain discipline by adhering to equity holding patience for AAPL while keeping crypto sidelined due to persistent bearish macro conditions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL remains in a confirmed uptrend above SMA20 and is currently exhibiting positive momentum. Per equity holding patience rules, we maintain the position while markets are closed, awaiting our take-profit trigger.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in a confirmed uptrend above SMA20 with a positive PnL (+0.16%). Following equity holding patience guidelines, we give the stock time to play out and do not exit prematurely, awaiting our take-profit target (+3.0% to +5.0% or 1h RSI > 72) or until the stop-loss is threatened.
 
 ---
 
