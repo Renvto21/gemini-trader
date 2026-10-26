@@ -1878,7 +1878,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL position during the weekend market closure. Monitor AAPL closely when Wall Street reopens for take-profit execution if the 1h RSI exceeds 72 or if returns reach the +3.0% to +5.0% target. Maintain stop-loss protection strictly at -1.8%. Avoid all crypto assets as they fail to meet the uptrend requirement above the SMA20.",
-    "updated_at": "2026-10-26T01:50:48.137277-03:00"
+    "notes": "Continue holding AAPL position during the weekend market closure as it remains above the SMA20 trend filter. Monitor AAPL closely when Wall Street reopens for take-profit execution if the 1h RSI exceeds 72 or if returns reach the +3.0% to +5.0% target. Maintain strict stop-loss protection at -1.8%. Avoid all crypto assets as they remain in a downtrend below the SMA20.",
+    "updated_at": "2026-10-26T02:00:48.183431-03:00"
   }
 }
