@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT. Adhere to equity holding patience and wait for take-profit levels between +3% and +5%, or RSI 1h > 72 with profit >= +2.5%. Keep stop-loss strictly at -1.8%. Avoid crypto exposure until a clear uptrend above SMA20 is established. Preserve cash reserves above the $4.00 minimum.",
-    "updated_at": "2026-10-26T12:21:26.518864-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT. Wait for take-profit targets between +3.0% and +5.0%, or RSI 1h > 72 with profit >= +2.5%. Keep stop-loss strictly at -1.8% to -2.0%. Avoid adding any new positions to preserve cash above the $4.00 minimum and prevent over-concentration.",
+    "updated_at": "2026-10-26T12:32:21.269744-03:00"
   }
 }
