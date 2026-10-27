@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-27 20:40:35`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-27 20:50:39`
 
 ---
 
@@ -16,23 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.020163 | $347.17 | $347.10 | $7.00 | 📉 -0.02% | 4d 6h |
+| `AAPL` | 0.020163 | $347.17 | $347.10 | $7.00 | 📉 -0.02% | 4d 7h |
 | `MSFT` | 0.012263 | $530.04 | $531.33 | $6.52 | 📈 +0.24% | 1d 8h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market shows Wall Street equities (AAPL, MSFT, SPY, QQQ, NVDA, GLD) in a closed status with frozen prices. AAPL and MSFT remain in confirmed bullish trends above their SMA20, consistent with our equity holding patience rule. Cryptocurrencies are open (24/7), but Bitcoin and altcoins fail to meet all criteria for entry simultaneously (either below SMA20 or lacking immediate positive 1-hour momentum confirmation). We maintain our current equity positions and preserve liquidity."
+> "Wall Street markets are currently closed (CERRADO), meaning equity positions like AAPL and MSFT remain frozen. Cryptocurrencies are trading 24/7, but all major crypto assets (ETH-USD, SOL-USD, BTC-USD) are currently in a downtrend (below their SMA20), violating our strict trend-following rule. Equity holdings AAPL and MSFT remain stable within their uptrends, respecting our equity holding patience policy."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20 and is currently holding steady with a minor fluctuation. Adhering to the equity holding patience rule, we maintain the position.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20. Adhering to the equity holding patience rule, we continue to hold this position while monitoring take-profit and stop-loss levels.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL and MSFT positions patiently. Monitor take-profit targets (+3.0% to +5.0%) and strict stop-loss thresholds (-1.8% to -2.0%). Keep crypto sidelined until a clean bullish trend above SMA20 with confirmed positive 1-hour momentum is established."
+> "Continue holding AAPL and MSFT patiently as they remain above their SMA20. Monitor take-profit targets (+3.0% to +5.0%) and strict stop-loss thresholds (-1.8% to -2.0%). Keep crypto sidelined until a clean bullish trend above SMA20 with confirmed positive 1-hour momentum is established."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
