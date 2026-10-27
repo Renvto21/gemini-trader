@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT under the equity holding patience rule. Monitor MSFT and AAPL closely for a positive 1-hour price change confirmation to validate any upcoming momentum. Keep cash reserves intact at $25.75 USD and do not open any new positions until high-probability pullback setups in verified uptrend assets appear.",
-    "updated_at": "2026-10-27T13:50:50.274383-03:00"
+    "notes": "Maintain current equity holdings in AAPL and MSFT under the equity holding patience rule. Monitor both positions closely for profit-taking targets (+3.0% to +5.0%) or stop-loss limits (-1.8%). Keep cash reserves intact at $25.75 USD and refrain from opening new positions until high-probability pullback setups with positive 1-hour confirmation appear.",
+    "updated_at": "2026-10-27T14:00:58.897372-03:00"
   }
 }
