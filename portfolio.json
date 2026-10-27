@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT. Respect equity holding patience rules, ignoring short-term flat action. Target profit-taking between +3.0% and +5.0% or 1-hour RSI above 72 before closing winning positions. Enforce stop-loss protection at -1.8% to -2.0%. Keep cash reserves intact and avoid crypto and assets in downtrends below SMA20.",
-    "updated_at": "2026-10-27T12:31:05.493907-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT. Exercise equity holding patience as per rules, letting winners run towards our +3.0% to +5.0% profit target or until 1h RSI exceeds 72 with profits >= +2.5%. Enforce the hard stop-loss circuit breaker at -1.8% to -2.0% if market conditions reverse. Continue avoiding crypto and assets trading below their SMA20 trend line.",
+    "updated_at": "2026-10-27T12:40:53.177729-03:00"
   }
 }
