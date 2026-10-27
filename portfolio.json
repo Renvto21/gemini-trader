@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT equity positions as they remain above the SMA20 trend filter. Monitor for take-profit targets of +3.0% to +5.0% or stop-loss execution at -1.8%. Avoid opening new positions until broader market indices reclaim their SMA20 and trigger bullish reversal conditions.",
-    "updated_at": "2026-10-27T10:50:55.598045-03:00"
+    "notes": "Maintain current equity holdings AAPL and MSFT as they remain in a confirmed uptrend above the SMA20. Monitor stop-loss levels strictly at -1.8% and take-profit targets between +3.0% and +5.0%. Refrain from entering any new positions until crypto or broader equity assets satisfy strict trend reversal and green 1-hour candle triggers.",
+    "updated_at": "2026-10-27T11:01:05.822390-03:00"
   }
 }
