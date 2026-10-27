@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT. Monitor during market hours for potential take-profit triggers (+3.0% to +5.0%) or strict stop-losses (-1.8%). Keep cash reserves intact and wait for confirmed uptrends and positive 1-hour hourly candles before considering any new allocations.",
-    "updated_at": "2026-10-27T20:00:51.195856-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT according to the equity holding patience rule. Monitor open positions for potential take-profit triggers (+3.0% to +5.0%) or strict stop-losses (-1.8%). Keep cash reserves intact and wait for confirmed uptrends and positive 1-hour hourly candles before opening any new crypto or equity positions.",
+    "updated_at": "2026-10-27T20:10:45.408579-03:00"
   }
 }
