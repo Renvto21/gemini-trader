@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL and MSFT while equities markets are closed, respecting equity holding patience rules. Monitor MSFT closely for take-profit opportunities once markets reopen if gains hit the +3.0% to +5.0% target or if the 1H RSI sustains extreme overbought levels. Watch AAPL against the strict -1.8% to -2.0% stop-loss threshold. Keep crypto exposure at zero until a validated uptrend above SMA20 materializes.",
-    "updated_at": "2026-10-27T08:10:50.730775-03:00"
+    "notes": "Maintain existing equity positions (AAPL and MSFT) while markets are closed. Monitor MSFT for potential take-profit triggers once markets reopen, targeting a +3.0% to +5.0% gain, especially given its high 1H RSI. Continue to monitor AAPL against the strict -1.8% to -2.0% stop-loss threshold. Keep crypto exposure at zero since all crypto assets are in a downtrend below SMA20.",
+    "updated_at": "2026-10-27T08:20:47.000643-03:00"
   }
 }
