@@ -1,36 +1,3 @@
-"The equity markets (AAPL, MSFT, SPY, QQQ, NVDA) are currently closed with prices frozen, showing most underlying equities remaining near recent ranges. AAPL and MSFT remain in confirmed uptrends above their SMA20, adhering to equity holding patience rules. In crypto, markets are active 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 (downtrend), failing our strict trend filter. Therefore, no crypto trades are executed, and we maintain our equity positions patiently."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintain current equity positions in AAPL and MSFT as they remain in uptrends. Do not rotate or sell prematurely while waiting for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%). Keep crypto sidelined as all available digital assets remain in bear trends below the SMA20."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 100%)
-    Reason: AAPL is in a confirmed uptrend above its SMA20. Following the equity holding patience rule, we maintain the position as it moves sideways during market closure, awaiting our profit target.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.26 USD (Cash: $25.75 USD)
-
-[2026-10-27 18:10:37] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $25.75 USD
- Assets Value:        $13.51 USD
- Total Balance:       $39.26 USD
- Net PnL:             🔴 $-0.74 USD (-1.84%)
-
- 💼 Open Positions:
-   • AAPL: 0.020163 u. | Buy: $347.17 | Now: $347.1 | Total: $7.0 📈 (-0.02%) [Time: 4d 4h]
-   • MSFT: 0.012263 u. | Buy: $530.04 | Now: $531.33 | Total: $6.52 📈 (+0.24%) [Time: 1d 6h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
 "The equity markets are currently closed, with both AAPL and MSFT maintaining their positions above the SMA20 trendline. Cryptocurrencies are open (24/7) but remain in confirmed bear trends below the SMA20, prompting us to stay sidelined according to our strict trend filters. Equity holding patience dictates keeping our current stock positions as they develop toward our take-profit targets."
 
 📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
@@ -147,6 +114,39 @@ Final Cycle Balance: $39.26 USD (Cash: $25.75 USD)
     ⏸️ Holding current position without changes.
   • Action: [HOLD] MSFT (Confidence: 100%)
     Reason: Asset is in a confirmed uptrend above SMA20 and market is closed. Maintaining position under equity holding patience rule.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.26 USD (Cash: $25.75 USD)
+
+[2026-10-27 18:50:41] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $25.75 USD
+ Assets Value:        $13.51 USD
+ Total Balance:       $39.26 USD
+ Net PnL:             🔴 $-0.74 USD (-1.84%)
+
+ 💼 Open Positions:
+   • AAPL: 0.020163 u. | Buy: $347.17 | Now: $347.1 | Total: $7.0 📈 (-0.02%) [Time: 4d 5h]
+   • MSFT: 0.012263 u. | Buy: $530.04 | Now: $531.33 | Total: $6.52 📈 (+0.24%) [Time: 1d 6h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The Wall Street equity markets are currently closed (CERRADO), so prices are frozen and no equity orders can be executed. Both of our current holdings, AAPL and MSFT, remain in an active uptrend above their SMA20, respecting our strict trend filter. Although crypto assets are open 24/7, all major options (BTC, ETH, SOL) are currently in a bearish trend below their SMA20, violating our core quantitative trend filter rule against catching falling knives. Therefore, maintaining patience with our equity positions and keeping cash reserves untouched is the optimal strategy."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Hold AAPL and MSFT through market closure. Monitor equity prices when Wall Street reopens, targeting +3.0% to +5.0% for take-profit or cutting strictly if stop-loss reaches -1.8%. Continue to avoid crypto assets as long as they remain below their SMA20 trend lines."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 100%)
+    Reason: Asset is in an uptrend above SMA20 and market is currently closed. Holding per equity patience guidelines.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.

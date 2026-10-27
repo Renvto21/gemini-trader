@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT. Both remain above the SMA20 trend filter. Wait for Wall Street market hours to resume for potential equity rebalancing or take-profit actions if they reach +3.0% to +5.0%. Keep crypto sidelined due to persistent bearish macro trends below SMA20.",
-    "updated_at": "2026-10-27T18:40:56.925958-03:00"
+    "notes": "Hold AAPL and MSFT through market closure. Monitor equity prices when Wall Street reopens, targeting +3.0% to +5.0% for take-profit or cutting strictly if stop-loss reaches -1.8%. Continue to avoid crypto assets as long as they remain below their SMA20 trend lines.",
+    "updated_at": "2026-10-27T18:50:48.146296-03:00"
   }
 }
