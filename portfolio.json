@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions AAPL and MSFT while respecting stop-loss levels at -1.8% and aiming for take-profit targets between +3.0% and +5.0%. Avoid opening crypto positions due to persistent bearish trends below the SMA20. Continue monitoring for pullback setups with green 1-hour candle confirmations.",
-    "updated_at": "2026-10-27T11:10:56.100542-03:00"
+    "notes": "Hold existing equity positions AAPL and MSFT. Monitor stop-loss levels strictly at -1.8% to -2.0% and take-profit targets between +3.0% and +5.0%. Avoid opening any new positions until clear pullback confirmations with green 1-hour candles appear on uptrend-confirmed assets.",
+    "updated_at": "2026-10-27T11:20:46.082504-03:00"
   }
 }
