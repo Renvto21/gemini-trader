@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT open positions respecting equity holding patience. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%) upon market reopening. Refrain from crypto trades as assets remain in a bearish trend below SMA20.",
-    "updated_at": "2026-10-27T17:10:50.367902-03:00"
+    "notes": "Maintain AAPL and MSFT open positions respecting equity holding patience during market closure. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%) upon the next market open. Avoid crypto assets as they remain below SMA20 in a downtrend.",
+    "updated_at": "2026-10-27T17:20:46.593112-03:00"
   }
 }

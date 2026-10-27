@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-27 17:10:50`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-27 17:20:46`
 
 ---
 
@@ -23,16 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market shows Wall Street equities (AAPL, MSFT, SPY, QQQ, NVDA, GLD) in a 'CERRADO' state with prices frozen, while cryptocurrencies remain open 24/7. Our equity holdings in AAPL and MSFT remain stable above their SMA20 trend lines, respecting equity holding patience despite flat short-term movements. In crypto, SOL-USD, ETH-USD, and BTC-USD are currently trading below their SMA20 with negative or neutral momentum, failing our strict trend filter and reversal confirmation triggers. Therefore, no new crypto trades will be opened."
+> "The equity markets are currently closed (CERRADO), holding our existing positions in AAPL and MSFT steady in accordance with equity holding patience guidelines. Cryptocurrencies are open 24/7, but all major crypto assets (ETH-USD, BTC-USD, SOL-USD) remain in a bearish trend below their respective SMA20 levels with negative 7-day performance, preventing any new crypto purchases due to our strict trend filter. We maintain our cash reserve while monitoring our open equity positions for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%) upon market reopening."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Holding AAPL in accordance with equity holding patience guidelines. The asset is in an uptrend above SMA20 and market is currently closed.
+- **[HOLD] AAPL** (Confidence: 100%): Holding AAPL in accordance with equity holding patience guidelines while the market is closed.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain AAPL and MSFT open positions respecting equity holding patience. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%) upon market reopening. Refrain from crypto trades as assets remain in a bearish trend below SMA20."
+> "Maintain AAPL and MSFT open positions respecting equity holding patience during market closure. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%) upon the next market open. Avoid crypto assets as they remain below SMA20 in a downtrend."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
