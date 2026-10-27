@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as they remain in a bullish trend above the SMA20, respecting equity holding patience. Monitor for regular market hours to evaluate take-profit targets (+3.0% to +5.0%) or strict stop-losses (-1.8%). Keep crypto exposure at zero due to persistent downtrends below SMA20.",
-    "updated_at": "2026-10-27T19:50:49.658324-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT. Monitor during market hours for potential take-profit triggers (+3.0% to +5.0%) or strict stop-losses (-1.8%). Keep cash reserves intact and wait for confirmed uptrends and positive 1-hour hourly candles before considering any new allocations.",
+    "updated_at": "2026-10-27T20:00:51.195856-03:00"
   }
 }
