@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT during market closure. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%) upon the next equity market open. Keep crypto positions sidelined until a confirmed uptrend and positive 1-hour pullback triggers emerge.",
-    "updated_at": "2026-10-27T17:50:37.408716-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT as they remain in uptrends. Do not rotate or sell prematurely while waiting for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%). Keep crypto sidelined as all available digital assets remain in bear trends below the SMA20.",
+    "updated_at": "2026-10-27T18:00:49.941043-03:00"
   }
 }
