@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT positions through the closed market hours. Watch MSFT for take-profit opportunities if momentum continues upon market re-opening. Keep stop-losses strictly at -1.8%. Crypto assets remain sidelined due to prevailing bear trends below the SMA20.",
-    "updated_at": "2026-10-27T01:00:51.083504-03:00"
+    "notes": "Maintain AAPL and MSFT open positions during closed market hours adhering to equity holding patience. Monitor MSFT closely for take-profit opportunities as soon as the market reopens if the +3% to +5% target is reached. Keep AAPL protected with the mandatory -1.8% to -2.0% stop-loss. Keep crypto assets sidelined due to prevailing downtrends below the SMA20.",
+    "updated_at": "2026-10-27T01:10:46.919655-03:00"
   }
 }
