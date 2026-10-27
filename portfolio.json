@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in MSFT and AAPL. MSFT is approaching potential profit-taking criteria as its 1h RSI exceeds 72 and PnL is positive; monitor closely for exit near the +3.0% to +5.0% target window or if momentum stalls. Hold AAPL patiently as it consolidates above the SMA20 trend line, letting the position develop. Strictly adhere to stop-losses (-1.8% to -2.0%) and avoid all assets in downtrends.",
-    "updated_at": "2026-10-27T13:20:42.088793-03:00"
+    "notes": "Maintain current equity holdings in AAPL and MSFT as they remain in confirmed uptrends above the SMA20. MSFT shows a 1h RSI above 72 with a modest profit; monitor closely for profit-taking in the +3.0% to +5.0% target zone or exit if momentum stalls. AAPL is consolidating nicely and should be given time to develop per equity holding patience rules. Strictly respect stop-loss levels (-1.8% to -2.0%) and avoid all assets in downtrends.",
+    "updated_at": "2026-10-27T13:31:06.581140-03:00"
   }
 }
