@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT during market closure. Once Wall Street reopens, monitor MSFT for a take-profit target upon reaching +3.0% to +5.0% gains (current 1h RSI is high at 80.0) and enforce AAPL's stop-loss at -1.8%. Continue to avoid all crypto assets due to persistent downtrends below the SMA20.",
-    "updated_at": "2026-10-27T07:20:52.097625-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT during market closure. When Wall Street reopens, monitor MSFT for a take-profit execution if gains reach the +3.0% to +5.0% target band, and monitor AAPL for either a bounce toward profitability or strict adherence to the -1.8% stop-loss level. Continue to avoid crypto due to persistent downtrends below the SMA20.",
+    "updated_at": "2026-10-27T07:30:54.335993-03:00"
   }
 }
