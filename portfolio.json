@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT. Wall Street is currently closed; do not attempt any equity trades. Crypto markets are open but all tracked coins are below SMA20 and lack valid 1-hour green candle confirmation, so stay in cash for crypto. Monitor MSFT for potential take-profit targets (+3.0% to +5.0%) and AAPL/MSFT for stop-loss triggers (-1.8%).",
-    "updated_at": "2026-10-27T00:10:39.068670-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT. Wall Street is closed; no equity trades can be executed. Crypto markets are open, but all tracked cryptocurrencies are in a downtrend below the SMA20 and lack a valid 1-hour green candle reversal trigger. Continue to monitor MSFT for take-profit opportunities (+3.0% to +5.0%) and AAPL/MSFT for stop-loss execution if they breach -1.8%.",
+    "updated_at": "2026-10-27T00:20:43.204225-03:00"
   }
 }
