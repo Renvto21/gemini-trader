@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions AAPL and MSFT. Continue to respect stop-loss thresholds between -1.8% and -2.0%, and take-profit targets between +3.0% and +5.0%. Avoid opening any new positions or crypto trades until cleaner uptrends and high-conviction pullback confirmations present themselves.",
-    "updated_at": "2026-10-27T11:30:53.489013-03:00"
+    "notes": "Maintain existing positions AAPL and MSFT. Monitor MSFT and AAPL closely for potential take-profit triggers if gains reach +3.0% to +5.0%, or apply stop-loss discipline strictly if positions drop past -1.8% to -2.0%. Keep cash reserves intact and avoid initiating crypto positions while crypto assets remain below their SMA20 trend lines.",
+    "updated_at": "2026-10-27T11:40:49.704015-03:00"
   }
 }
