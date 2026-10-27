@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as they are above their SMA20 and unaffected by weekend/market closure. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss (-1.8%) when markets reopen. Keep crypto exposure at zero due to persistent downtrends below SMA20 across all available crypto pairs.",
-    "updated_at": "2026-10-27T19:30:49.330430-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT as they remain in a bullish trend above the SMA20. Wait for regular market hours to resume to monitor take-profit targets (+3.0% to +5.0%) or manage stop-losses (-1.8%). Keep crypto exposure at zero due to persistent downtrends below SMA20.",
+    "updated_at": "2026-10-27T19:40:49.917966-03:00"
   }
 }
