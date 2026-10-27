@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT according to equity holding patience rules. Strictly monitor stop-loss levels at -1.8% to -2.0% and take-profit targets between +3.0% and +5.0%. Refrain from opening new positions until assets meet all strict trend and 1-hour reversal confirmation criteria.",
-    "updated_at": "2026-10-27T14:20:47.525497-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT. Monitor MSFT closely as its 1-hour RSI approaches overbought levels near 72, preparing to take profit if it hits the +3.0% to +5.0% target range. Keep strict stop-loss discipline at -1.8% to -2.0%. Avoid opening crypto positions until they reclaim their SMA20 trend lines.",
+    "updated_at": "2026-10-27T14:30:58.461042-03:00"
   }
 }
