@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain positions in AAPL and MSFT as equity markets are closed. Monitor MSFT upon market open for potential take-profit execution if gains reach +3.0% to +5.0%. Keep a close eye on AAPL's stop-loss level (-1.8% to -2.0%). Continue to sideline crypto assets until they reclaim their SMA20 uptrend and show confirmed reversal triggers.",
-    "updated_at": "2026-10-27T04:50:39.090546-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT as equity markets are closed. For MSFT, look for take-profit execution opportunities (+3.0% to +5.0%) upon market re-open if momentum holds. For AAPL, hold patiently following equity holding guidelines unless the stop-loss level of -1.8% to -2.0% is breached. Keep crypto assets excluded until confirmed bullish trend reversals above SMA20 occur.",
+    "updated_at": "2026-10-27T05:00:48.403555-03:00"
   }
 }
