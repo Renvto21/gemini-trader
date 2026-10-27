@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT. Wall Street is closed, so no new equity orders can be placed. Monitor MSFT closely for any approach toward the -1.8% stop-loss threshold upon market re-opening. Keep crypto exposure at zero since all crypto assets are in bearish trends below SMA20 and fail our strict trend filter.",
-    "updated_at": "2026-10-26T22:30:44.476725-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT. Keep crypto exposure at zero since crypto assets are trading below SMA20 in a downtrend. Monitor MSFT and AAPL closely for upcoming market sessions, ready to take profits if targets (+3.0% to +5.0%) are reached or cut losses strictly if stop-loss (-1.8% to -2.0%) is hit upon market opening.",
+    "updated_at": "2026-10-26T22:40:46.337336-03:00"
   }
 }
