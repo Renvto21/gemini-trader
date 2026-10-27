@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT. Monitor MSFT closely for a profit-taking opportunity as its 1-hour RSI is near 71.7 with a target return of +3.0% to +5.0%. Keep strict stop-loss discipline at -1.8% to -2.0%. Avoid opening new positions until equity pullbacks present high-quality setups or crypto assets reclaim their SMA20 lines.",
-    "updated_at": "2026-10-27T14:40:46.510792-03:00"
+    "notes": "Maintain current holdings in AAPL and MSFT as they remain above SMA20. Monitor MSFT for potential profit-taking if it reaches the +3.0% to +5.0% target range or if 1-hour RSI exceeds 72. Keep strict stop-loss levels at -1.8% to -2.0% for all open positions. Avoid opening new crypto or equity positions until clear pullbacks occur within confirmed uptrends above SMA20.",
+    "updated_at": "2026-10-27T14:50:48.495533-03:00"
   }
 }
