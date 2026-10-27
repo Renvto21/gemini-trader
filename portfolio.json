@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT as they remain above SMA20. Wait for market open to assess potential take-profit triggers for MSFT if gains reach +3.0% to +5.0%, or stop-loss execution if positions breach -1.8%. Keep crypto exposure at zero since all digital assets continue to trade below their SMA20 in bear trends.",
-    "updated_at": "2026-10-26T23:10:45.611479-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT as they remain in a confirmed uptrend above their SMA20. Monitor MSFT for potential take-profit triggers if gains expand toward the +3.0% to +5.0% range, while keeping a strict stop-loss alert around -1.8%. Avoid opening any new positions since equities are currently closed and crypto assets are all exhibiting bearish trends under their SMA20 lines.",
+    "updated_at": "2026-10-26T23:20:49.266990-03:00"
   }
 }
