@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT. Both assets remain above the SMA20 in confirmed uptrends. Enforce stop-losses strictly at -1.8% to -2.0% and target profit levels at +3.0% to +5.0%. Avoid opening crypto positions or new equities until strict trend and 1-hour reversal confirmation criteria are satisfied.",
-    "updated_at": "2026-10-27T15:30:51.241001-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT. Both assets are in confirmed uptrends above the SMA20. Monitor closely for take-profit opportunities (+3.0% to +5.0%) or strict stop-loss protection (-1.8% to -2.0%). Keep cash reserves intact and avoid entering assets below their SMA20 or crypto while holding equities.",
+    "updated_at": "2026-10-27T15:40:47.866484-03:00"
   }
 }
