@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with existing equity holdings AAPL and MSFT according to equity holding rules, avoiding premature rotation. Monitor MSFT closely to ensure it does not violate the strict -1.8% to -2.0% stop-loss circuit breaker. Watch for pullback opportunities on SPY or other uptrend assets once robust reversal confirmation signals appear. Keep cash reserves safely above $4.00 USD and avoid opening multiple or correlated positions.",
-    "updated_at": "2026-10-28T12:30:59.791132-03:00"
+    "notes": "Maintain patience with AAPL as it holds its uptrend, giving equity positions time to play out per holding rules. Monitor MSFT closely; its trend has turned bearish (below SMA20), so if it approaches the -1.8% stop-loss limit, cut the position immediately. SPY is showing strong 1-hour momentum and is in an uptrend, but its 1-hour RSI is elevated (79.8), so wait for a mild pullback before entering. Keep cash reserves secure above $4.00 USD.",
+    "updated_at": "2026-10-28T12:41:02.036474-03:00"
   }
 }
