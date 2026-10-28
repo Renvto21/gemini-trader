@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 16:50:43`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 17:00:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$32.23 USD** | **$6.94 USD** | **$39.17 USD** | 🔴 **-2.08%** ($-0.83) |
+| **$40.00 USD** | **$32.23 USD** | **$6.93 USD** | **$39.16 USD** | 🔴 **-2.11%** ($-0.84) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.020163 | $347.17 | $344.42 | $6.94 | 📉 -0.79% | 5d 3h |
+| `AAPL` | 0.020163 | $347.17 | $343.83 | $6.93 | 📉 -0.96% | 5d 3h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The market shows mixed conditions with several key equities and cryptos testing levels around their moving averages. AAPL remains in an established uptrend above its SMA20 and is currently holding steady at a minor unrealized loss, well within normal consolidation ranges. SPY is strong and above its SMA20, but its 1-hour RSI is quite overbought (82.1), indicating caution for immediate new long entries. MSFT has bounced back above its SMA20 with positive 1-hour momentum, while crypto assets like BTC-USD and SOL-USD remain in bearish trends below their respective SMA20 lines, requiring continued avoidance per our strict trend filter rules."
+> "Wall Street markets are currently closed (CERRADO), freezing asset prices for equities like AAPL, MSFT, and SPY. AAPL remains held in our portfolio with a modest unrealized loss (-0.96%), well within our stop-loss tolerance, adhering to equity holding patience. Crypto assets are open (ABIERTO 24/7), but Bitcoin, Ethereum, and Solana are currently in bearish trends below their respective SMA20 lines, violating our strict trend filter. Therefore, no crypto trades are permitted."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is maintaining a confirmed uptrend above its SMA20. In accordance with equity holding patience rules, positions should not be sold prematurely when flat or slightly negative unless the stop-loss is triggered. Holding for the target +3.0% to +5.0% gain.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in a closed market status and maintaining an unrealized PnL within our acceptable risk parameters. In accordance with equity holding patience rules, we hold the position and wait for market reopening or profit targets.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain the current AAPL position under equity holding patience, monitoring its stop-loss strictly between -1.8% and -2.0% while targeting a take-profit between +3.0% and +5.0%. Cash reserves remain healthy at $32.23. Watch MSFT closely for sustained confirmation above the SMA20 and potential pullback entries if momentum holds, while continuing to ignore crypto assets due to the bearish trend filter."
+> "Continue holding AAPL under equity holding patience, monitoring its stop-loss strictly between -1.8% and -2.0% and targeting a take-profit between +3.0% and +5.0%. Cash reserves remain solid at $32.23. Maintain discipline by ignoring crypto due to ongoing bearish trends below SMA20 and wait for equity markets to reopen or crypto trends to turn bullish with proper pullback confirmation."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
