@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 20:10:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 20:20:46`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), meaning no stock or ETF transactions can take place. Active liquidity is limited to crypto assets operating 24/7. AAPL is currently held in the portfolio with a modest loss of -0.96%, but remains above its SMA20 in a confirmed uptrend and has not breached the hard stop-loss of -1.8% to -2.0%. Adhering to the equity holding patience rule, AAPL will be held rather than sold prematurely. In the crypto sector, ETH-USD, SOL-USD, and BTC-USD are all trading below their respective SMA20 lines (bearish trends), and none exhibit the necessary robust rebound confirmation rules (rsi_1h >= 32 and change_1h_pct > 0.0 with strong momentum). Therefore, no new crypto positions are initiated to avoid catching falling knives."
+> "Wall Street markets are currently closed (CERRADO) with prices frozen, limiting our actions to open crypto assets or holding existing equity positions. AAPL remains our sole active position, currently down -0.96% but comfortably above its hard stop-loss and holding firm within its equity holding window. In the crypto markets, BTC-USD, ETH-USD, and SOL-USD are currently trading sideways or below their respective SMA20 trends without sufficient 1-hour bounce momentum (change_1h_pct near zero or negative), meaning no entry triggers are met."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 80%): AAPL is in a confirmed uptrend above its SMA20 and is down only -0.96%, well above our hard stop-loss threshold (-1.8%). Per equity holding patience rules, we allow the position time to play out without panic selling.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is an equity holding currently experiencing normal minor fluctuation (-0.96%), well within our stop-loss limit of -1.8%. Per equity holding patience rules, we do not rotate or sell flat positions prematurely without hitting risk thresholds.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain patience with the existing AAPL equity position, allowing it room to recover toward the +3% to +5% take-profit target while keeping the hard stop-loss armed at -1.8%. For crypto assets, continue monitoring ETH, SOL, and BTC for a confirmed trend reclaim above the SMA20 and a stronger 1-hour green candle bounce before executing any pullback entry."
+> "Maintain patience with the existing AAPL position as equity rules dictate giving stocks 24-48 hours and beyond to play out, while keeping the stop-loss strictly armed at -1.8% and take-profit targets between +3% and +5%. For crypto assets (BTC, ETH, SOL), wait for a clear reclaiming of the SMA20 trend and a confirmed positive 1-hour candle change (> 0.0) with an RSI >= 32 before considering any pullback entry."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
