@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-27 23:30:41`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-27 23:40:40`
 
 ---
 
@@ -23,11 +23,11 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The current equity markets (AAPL, MSFT) are closed, showing frozen prices. Both held positions remain stable: AAPL has been held for over 4 days with near-zero movement, and MSFT is showing a slight positive gain. Following equity holding patience guidelines, we maintain both positions as they respect uptrend filters and are comfortably above stop-loss thresholds. Crypto assets (ETH, BTC, SOL) are open 24/7, but major cryptocurrencies are currently trading below their SMA20 (downtrend filter) or lacking necessary bullish 1-hour momentum confirmations (change_1h_pct > 0.0), keeping us sidelined in the crypto sector to prevent catching falling knives."
+> "The current market environment shows traditional equity markets closed (AAPl and MSFT are currently marked as CERRADO). Both held equity positions (AAPL and MSFT) are currently in confirmed uptrends above their SMA20, abiding by our strict trend filter. Cryptocurrencies are open 24/7, but major assets like ETH-USD, BTC-USD, and SOL-USD remain in downtrends below their SMA20, preventing any new crypto purchases due to our strict trend filter and anti-correlation constraints. Our current holdings show resilience, and patience is warranted."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above SMA20 and is currently closed. Following the equity holding patience rule, we give the asset time to play out without rotating prematurely.
-- **[HOLD] MSFT** (Confidence: 100%): MSFT is in a confirmed uptrend above SMA20 and is currently closed. We maintain the position as it is showing a positive PnL and remains far above the stop-loss threshold.
+- **[HOLD] AAPL** (Confidence: 80%): AAPL is in a confirmed uptrend above its SMA20 and market status is closed. Adhering to the equity holding patience rule, we maintain the position and let winners run toward our profit target.
+- **[HOLD] MSFT** (Confidence: 80%): MSFT is in a confirmed uptrend above its SMA20 and market status is closed. We maintain the position patiently as it fluctuates within normal parameters well above our stop-loss threshold.
 
 ---
 
