@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as they continue to hold above the SMA20. Monitor closely for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%) when traditional markets reopen. Avoid all crypto assets due to ongoing downtrend conditions below the SMA20.",
-    "updated_at": "2026-10-28T05:30:48.820658-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT. Both assets are trading above their SMA20 and have not triggered take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%). Continue to monitor traditional markets upon reopening and strictly avoid crypto assets due to ongoing downtrends below the SMA20.",
+    "updated_at": "2026-10-28T05:40:41.851146-03:00"
   }
 }
