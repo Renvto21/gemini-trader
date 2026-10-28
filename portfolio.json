@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as it maintains its position above the SMA20 uptrend, targeting a +3.0% to +5.0% profit objective. Monitor MSFT closely; although its trend is currently below the SMA20, its PnL is only -0.38%, so give it time to recover unless it breaches the -1.8% circuit breaker. Keep crypto exposure at zero due to persistent downtrends. Maintain cash reserves and wait for clear reversal triggers on other quality assets before deploying new capital.",
-    "updated_at": "2026-10-28T12:01:19.517098-03:00"
+    "notes": "Continue holding AAPL and MSFT patiently according to equity holding rules, watching for profit targets (+3.0% to +5.0%) on AAPL and monitoring MSFT closely to ensure it avoids hitting the -1.8% stop-loss circuit breaker. Keep crypto exposure at zero due to persistent downtrends below SMA20. Maintain robust cash reserves of at least $4.00 USD and wait for strong trend-following pullback confirmations before executing new trades.",
+    "updated_at": "2026-10-28T12:12:15.129843-03:00"
   }
 }
