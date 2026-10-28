@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL as our core equity position given its uptrend status. Closely watch MSFT for any further downside approaching the -1.8% to -2.0% stop-loss threshold. Keep cash reserves secure above $4.00 USD and wait for a clear 1-hour green candle confirmation before adding any new positions.",
-    "updated_at": "2026-10-28T12:51:07.389094-03:00"
+    "notes": "Maintain AAPL as our core equity position. Monitor MSFT closely; if its performance nears the -1.8% to -2.0% stop-loss threshold, execute a disciplined sell. For new entries, patiently wait for assets to confirm an uptrend above SMA20 accompanied by a positive 1-hour RSI and green candle confirmation. Keep cash reserves secure.",
+    "updated_at": "2026-10-28T13:01:27.811767-03:00"
   }
 }
