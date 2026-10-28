@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as equity markets are closed. Monitor profit targets (+3.0% to +5.0%) and strict stop-loss levels (-1.8% to -2.0%). Keep watching cryptocurrencies for a valid uptrend breakout above SMA20 before considering any 24/7 exposure.",
-    "updated_at": "2026-10-28T07:51:09.769741-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT as markets are closed. Monitor for take-profit targets (+3.0% to +5.0%) and strict stop-losses (-1.8% to -2.0%). For 24/7 crypto assets, continue to wait for a confirmed uptrend above SMA20 and positive 1-hour price action before allocating capital.",
+    "updated_at": "2026-10-28T08:00:52.050531-03:00"
   }
 }

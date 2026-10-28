@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 07:51:09`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 08:00:52`
 
 ---
 
@@ -23,17 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Equity markets (AAPL, MSFT, QQQ, SPY, NVDA, GLD) are currently closed, displaying frozen prices. Existing positions in AAPL and MSFT remain stable with minor fluctuations, well within acceptable risk parameters. Cryptocurrencies are open 24/7, but BTC-USD, ETH-USD, and SOL-USD are all currently trading below their respective SMA20 trend filters, failing our strict trend-following criteria for new long entries. We maintain patience, adherence to capital preservation, and await market reopenings or confirmed trend reversals."
+> "The US equity market is currently closed (CERRADO) with prices frozen. AAPL and MSFT remain in solid uptrends above their SMA20, complying with our trend-following filter. Cryptocurrencies are open 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 trends or lacking the specific 1-hour green candle confirmation required to enter pullbacks safely. Given the anti-correlation constraint and strict risk management rules, we hold our current equity positions and maintain cash."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Asset is in a confirmed uptrend and equity markets are closed. Holding position patiently per equity holding rules.
-- **[HOLD] MSFT** (Confidence: 100%): Asset is in a confirmed uptrend and equity markets are closed. Holding position patiently per equity holding rules.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20 and market status is closed. Adhering to the equity holding patience rule to let the position play out.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing positions in AAPL and MSFT as equity markets are closed. Monitor profit targets (+3.0% to +5.0%) and strict stop-loss levels (-1.8% to -2.0%). Keep watching cryptocurrencies for a valid uptrend breakout above SMA20 before considering any 24/7 exposure."
+> "Maintain existing equity positions in AAPL and MSFT as markets are closed. Monitor for take-profit targets (+3.0% to +5.0%) and strict stop-losses (-1.8% to -2.0%). For 24/7 crypto assets, continue to wait for a confirmed uptrend above SMA20 and positive 1-hour price action before allocating capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
