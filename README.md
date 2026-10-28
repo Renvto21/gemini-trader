@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 08:20:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 08:30:56`
 
 ---
 
@@ -23,16 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market features several major indices and stocks under their SMA20 (e.g., SPY, QQQ, NVDA), while AAPL and MSFT remain in confirmed uptrends above their SMA20. Wall Street equity markets are currently closed (CERRADO), meaning no stock trades can or should be executed. Cryptocurrencies like BTC-USD, ETH-USD, and SOL-USD are active 24/7, but they are currently exhibiting bearish trends below their SMA20 and negative 1-hour percentage changes, failing our strict trend and momentum filters."
+> "Wall Street markets are currently closed (CERRADO), so equity positions (AAPL, MSFT) are held steady in accordance with the equity holding patience rule. Cryptocurrencies are open (24/7), but all major crypto assets (SOL-USD, ETH-USD, BTC-USD) are currently in a downtrend below their SMA20 with negative 1-hour percentage changes, failing our strict trend filter and reversal confirmation triggers. Therefore, no new crypto trades will be opened."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20. Following equity holding patience guidelines, we hold the position as it continues to develop towards our +3.0% to +5.0% take-profit target without hitting stop-loss thresholds.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20. Following equity holding patience, we maintain the position as it has not met take-profit or stop-loss criteria.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing equity positions in AAPL and MSFT as they remain in confirmed uptrends above their SMA20. Wall Street is closed, so no stock actions are permitted. Crypto assets remain in downtrends below their SMA20 with negative short-term momentum; continue to avoid crypto entries until a valid uptrend and positive 1-hour bounce confirmation materialize."
+> "Maintain existing positions in AAPL and MSFT as they remain in confirmed uptrends above their SMA20 and have not hit take-profit (+3.0% to +5.0%) or stop-loss (-1.8%) levels. Continue to monitor crypto assets for a shift into confirmed uptrends above the SMA20 with positive 1-hour momentum before considering any entries."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT as they remain in confirmed uptrends above their SMA20. Wall Street is closed, so no stock actions are permitted. Crypto assets remain in downtrends below their SMA20 with negative short-term momentum; continue to avoid crypto entries until a valid uptrend and positive 1-hour bounce confirmation materialize.",
-    "updated_at": "2026-10-28T08:20:46.081872-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT as they remain in confirmed uptrends above their SMA20 and have not hit take-profit (+3.0% to +5.0%) or stop-loss (-1.8%) levels. Continue to monitor crypto assets for a shift into confirmed uptrends above the SMA20 with positive 1-hour momentum before considering any entries.",
+    "updated_at": "2026-10-28T08:30:56.100110-03:00"
   }
 }
