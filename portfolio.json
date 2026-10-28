@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT following equity holding patience rules. Monitor for take-profit targets (+3.0% to +5.0%) and strict stop-loss levels (-1.8%). Avoid crypto and non-trending assets due to failure on the SMA20 trend filter and lack of positive 1-hour reversal confirmation.",
-    "updated_at": "2026-10-28T10:51:00.102540-03:00"
+    "notes": "Maintain AAPL and MSFT positions following equity holding patience rules. Monitor AAPL closely for a rebound toward our +3.0% to +5.0% take-profit target, and watch MSFT to ensure it does not breach the strict stop-loss limit of -1.8%. Continue to strictly avoid new entries unless assets show a confirmed uptrend above the SMA20 with a positive 1-hour percentage change and RSI >= 32.",
+    "updated_at": "2026-10-28T11:01:11.268953-03:00"
   }
 }
