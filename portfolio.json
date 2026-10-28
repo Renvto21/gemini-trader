@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain positions in AAPL and MSFT as they remain above the SMA20 in confirmed uptrends. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8%). For crypto assets, continue to wait for a confirmed bullish breakout above the SMA20 accompanied by positive 1-hour momentum before allocating capital.",
-    "updated_at": "2026-10-28T02:20:38.811831-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT as they continue to respect their uptrend structures above the SMA20. Monitor positions for profit targets between +3.0% and +5.0% or the mandatory stop-loss at -1.8%. For crypto, remain on the sidelines until a clear bullish breakout above the SMA20 with positive 1-hour momentum occurs.",
+    "updated_at": "2026-10-28T02:30:44.098742-03:00"
   }
 }
