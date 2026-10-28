@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with the existing AAPL position unless it hits the hard stop-loss at -1.8% or reaches the target gain of +3% to +5%. For crypto assets, continue monitoring for a confirmed uptrend above the SMA20 paired with a positive 1-hour change before executing any pullback entries. Preserve existing cash reserves above the $4.00 minimum.",
-    "updated_at": "2026-10-28T19:50:52.536287-03:00"
+    "notes": "Maintain patience with the existing AAPL position unless it hits the hard stop-loss at -1.8% or reaches the take-profit target of +3% to +5%. For crypto assets, continue monitoring for a confirmed trend reversal above the SMA20 paired with a positive 1-hour change before executing any new pullback entries. Preserve existing cash reserves above the $4.00 minimum.",
+    "updated_at": "2026-10-28T20:00:47.250894-03:00"
   }
 }
