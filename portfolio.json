@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position in adherence to equity holding patience guidelines. Monitor AAPL for an upside push toward our profit target (+3.0% to +5.0%) or manage the risk strictly if it approaches our -1.8% to -2.0% stop-loss threshold. Continue to sit on cash and wait for valid pullbacks in assets that are above their SMA20, ensuring 1-hour RSI >= 32 and positive 1-hour percentage change before deploying additional capital.",
-    "updated_at": "2026-10-28T15:31:23.334437-03:00"
+    "notes": "Maintain the current AAPL position in adherence to equity holding patience guidelines, tracking toward our profit target (+3.0% to +5.0%) while respecting the hard stop-loss at -1.8% to -2.0%. Keep cash reserves stable and wait for clean pullbacks in assets trading above their SMA20 with 1-hour RSI >= 32 and positive 1-hour percentage change before deploying additional capital.",
+    "updated_at": "2026-10-28T15:40:54.325940-03:00"
   }
 }
