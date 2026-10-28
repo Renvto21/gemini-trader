@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position and respect equity holding patience, monitoring its price relative to our profit target (+3.5% to +5.0%) and stop-loss limit (-1.8% to -2.0%). Keep cash reserves above $4.00 USD. Wait for confirmed pullbacks with positive 1-hour percentage changes in assets trending above their SMA20 before considering new trade entries.",
-    "updated_at": "2026-10-28T14:20:58.752257-03:00"
+    "notes": "Maintain the current AAPL position and respect equity holding patience while monitoring its price relative to our profit target (+3.5% to +5.0%) and stop-loss limit (-1.8% to -2.0%). Ensure cash reserves remain above $4.00 USD. For future cycles, wait for confirmed pullbacks with positive 1-hour percentage changes in assets trending above their SMA20 before initiating any new purchases.",
+    "updated_at": "2026-10-28T14:31:22.895573-03:00"
   }
 }
