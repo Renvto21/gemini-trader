@@ -1,16 +1,11 @@
 {
   "initial_capital": 40.0,
-  "cash": 25.748400547759545,
+  "cash": 32.22522662775955,
   "positions": {
     "AAPL": {
       "shares": 0.02016303252009102,
       "avg_price": 347.17,
       "opened_at": "2026-10-23T13:40:46.079632-03:00"
-    },
-    "MSFT": {
-      "shares": 0.012263225416949665,
-      "avg_price": 530.04,
-      "opened_at": "2026-10-26T12:01:15.916831-03:00"
     }
   },
   "history": [
@@ -1889,10 +1884,21 @@
       "shares": 0.012263,
       "price": 530.04,
       "reason": "MSFT is in a confirmed uptrend above its SMA20, and the 1-hour RSI (62.8) and 1-hour percentage change (+0.41%) confirm a solid bounce from the pullback, satisfying our strict trend filter and reversal confirmation trigger."
+    },
+    {
+      "timestamp": "2026-10-28T13:21:00.632139-03:00",
+      "action": "SELL",
+      "ticker": "MSFT",
+      "amount_usd": 6.48,
+      "shares": 0.012263,
+      "price": 528.16,
+      "pnl_usd": -0.02,
+      "pnl_pct": -0.35,
+      "reason": "MSFT has shifted to a bearish trend below its SMA20 and current performance is near our stop-loss risk threshold. Exiting now enforces disciplined capital preservation."
     }
   ],
   "memory": {
-    "notes": "Hold current positions in AAPL following equity holding patience rules. Monitor MSFT closely; if its performance hits our stop-loss threshold around -1.8% to -2.0%, execute a disciplined sell immediately. For new entries, wait for assets to confirm an uptrend above SMA20 accompanied by positive 1-hour momentum and green candle confirmation. Keep cash reserves secure at or above $4.00 USD.",
-    "updated_at": "2026-10-28T13:11:01.835408-03:00"
+    "notes": "Executed a sell on MSFT as it breached our trend filter and approached stop-loss limits. Continue to hold AAPL patiently following equity holding rules. Maintain a watchful eye on SPY and other potential breakout candidates for green candle and 1H RSI confirmation above SMA20 before deploying further capital. Ensure cash reserves remain secure.",
+    "updated_at": "2026-10-28T13:21:00.629421-03:00"
   }
 }
