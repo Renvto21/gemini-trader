@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL position as it remains in an uptrend above the SMA20 and has not breached the -1.8% stop-loss threshold. Keep crypto sidelined due to bearish trends and lack of positive 1-hour momentum. Once Wall Street markets reopen, evaluate SPY and MSFT for potential new pullback entries if they meet our strict reversal triggers (rsi_1h >= 32 and change_1h_pct > 0).",
-    "updated_at": "2026-10-28T19:10:39.054900-03:00"
+    "notes": "Continue holding AAPL as it maintains an uptrend above the SMA20 and is well above our -1.8% stop-loss limit. Crypto assets remain sidelined due to bearish trends and negative 1-hour momentum. Keep monitoring MSFT and SPY for potential pullback entries once Wall Street markets reopen and they satisfy the reversal criteria (rsi_1h >= 32 and change_1h_pct > 0).",
+    "updated_at": "2026-10-28T19:20:34.967327-03:00"
   }
 }
