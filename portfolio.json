@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position under equity holding patience, monitoring its price relative to the stop-loss level of -1.8% to -2.0% and the target profit range of +3.0% to +5.0%. Avoid all crypto assets due to ongoing bearish trends below SMA20. Wait for the equity market to reopen to look for high-quality pullbacks in confirmed uptrend assets like MSFT or SPY once reversal triggers (rsi_1h >= 32 and positive 1-hour change) are met.",
-    "updated_at": "2026-10-28T17:20:41.032537-03:00"
+    "notes": "Maintain the AAPL position under equity holding patience, monitoring its price relative to the stop-loss level of -1.8% to -2.0% and the profit target of +3.0% to +5.0%. Avoid all crypto assets due to ongoing bearish trends below SMA20. Wait for the equity market to reopen to evaluate potential entries in confirmed uptrend assets like MSFT or SPY once reversal triggers are met.",
+    "updated_at": "2026-10-28T17:30:48.996791-03:00"
   }
 }
