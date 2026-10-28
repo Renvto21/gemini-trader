@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL as our core equity position. Monitor MSFT closely; if its performance nears the -1.8% to -2.0% stop-loss threshold, execute a disciplined sell. For new entries, patiently wait for assets to confirm an uptrend above SMA20 accompanied by a positive 1-hour RSI and green candle confirmation. Keep cash reserves secure.",
-    "updated_at": "2026-10-28T13:01:27.811767-03:00"
+    "notes": "Hold current positions in AAPL following equity holding patience rules. Monitor MSFT closely; if its performance hits our stop-loss threshold around -1.8% to -2.0%, execute a disciplined sell immediately. For new entries, wait for assets to confirm an uptrend above SMA20 accompanied by positive 1-hour momentum and green candle confirmation. Keep cash reserves secure at or above $4.00 USD.",
+    "updated_at": "2026-10-28T13:11:01.835408-03:00"
   }
 }
