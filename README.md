@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 06:10:43`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 06:20:42`
 
 ---
 
@@ -23,10 +23,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The traditional stock market is currently closed, meaning prices for AAPL and MSFT are frozen. Both equities remain in confirmed uptrends above their SMA20, adhering to our core rules for holding patience. Cryptocurrencies are active 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD are currently trading in bear trends below their SMA20, prompting us to stay sidelined in crypto to avoid falling knives. We continue to hold our positions in AAPL and MSFT while awaiting better take-profit triggers or market open liquidity."
+> "Wall Street equities (AAPL, MSFT, NVDA, SPY, QQQ, GLD) are currently closed, with their market status marked as 'CERRADO'. As per our quantitative rules, we cannot execute trades on closed equities. Cryptocurrencies are open 24/7, but all major cryptos (SOL-USD, ETH-USD, BTC-USD) are currently in a bearish trend below their SMA20, violating our strict trend-following pullback filter. Our current open equity positions (AAPL and MSFT) are in confirmed uptrends above their SMA20, so we maintain them patiently, awaiting higher take-profit levels between +3.0% and +5.0%."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20. Following the equity holding patience rule, we maintain our position while the market is closed, awaiting take-profit opportunities.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in an uptrend above SMA20 and market status is closed. Holding patiently per equity holding patience rules.
 
 ---
 
