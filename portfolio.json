@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position under equity holding patience, respecting the -1.8% stop-loss and watching for a recovery toward the +3.0% take-profit target. Cash reserves remain robust at $32.23. Continue monitoring the market for additional assets to reclaim positions above their SMA20 with validated 1-hour bullish confirmation signals before deploying further capital.",
-    "updated_at": "2026-10-28T16:30:46.047360-03:00"
+    "notes": "Maintain the current AAPL position under equity holding patience, monitoring the stop-loss strictly at -1.8% to -2.0% and targeting a take-profit between +3.0% and +5.0%. Cash reserves remain solid at $32.23. Continue waiting for high-quality assets to show confirmed uptrends above their SMA20 alongside proper 1-hour RSI and positive momentum triggers before deploying additional capital.",
+    "updated_at": "2026-10-28T16:40:43.385052-03:00"
   }
 }
