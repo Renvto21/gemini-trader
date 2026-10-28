@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT as equity markets are closed. Monitor profit targets (+3.0% to +5.0%) and strict stop-loss levels (-1.8% to -2.0%). Avoid crypto assets due to ongoing downtrends below the SMA20. Wait for equity markets to reopen before considering new entries or exits.",
-    "updated_at": "2026-10-28T07:30:52.094563-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT as equity markets are closed. Monitor profit targets (+3.0% to +5.0%) and strict stop-loss levels (-1.8% to -2.0%). Keep waiting for equity markets to reopen or for cryptocurrencies to establish a confirmed uptrend above the SMA20 before considering new entries.",
+    "updated_at": "2026-10-28T07:40:50.518430-03:00"
   }
 }

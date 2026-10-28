@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 07:30:52`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-28 07:40:50`
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.020163 | $347.17 | $347.10 | $7.00 | 📉 -0.02% | 4d 17h |
+| `AAPL` | 0.020163 | $347.17 | $347.10 | $7.00 | 📉 -0.02% | 4d 18h |
 | `MSFT` | 0.012263 | $530.04 | $531.33 | $6.52 | 📈 +0.24% | 1d 19h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), meaning equity holdings like AAPL and MSFT must be held patiently in accordance with equity holding rules. Both equities remain relatively stable with MSFT showing a slight positive return (+0.24%) and AAPL nearly flat (-0.02%). In the crypto markets, assets are open 24/7, but major coins like BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 (BAJISTA) and lack valid reversal triggers matching our strict trend and pullback requirements. Therefore, capital preservation and patience are prioritized with zero trades executed during this cycle."
+> "The US equity markets are closed (CERRADO) with prices frozen, holding our current positions in AAPL and MSFT. Both equities remain above their SMA20 trend filters, though they are flat or slightly down over the hour. Cryptocurrencies are trading 24/7, but all major crypto assets (SOL-USD, BTC-USD, ETH-USD) are currently in a DOWNTREND (below their SMA20), violating our strict trend-following pullback rules. Therefore, no crypto trades are permitted."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in an uptrend above SMA20 and equity markets are closed. Adhering to the equity holding patience rule, holding the position until profit targets or stop-loss limits are reached.
-- **[HOLD] MSFT** (Confidence: 100%): MSFT is in an uptrend above SMA20 with equity markets closed. Maintaining position patiently in accordance with portfolio strategy rules.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above the SMA20 and market status is closed. Adhering to the equity holding patience rule, we maintain the position.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing positions in AAPL and MSFT as equity markets are closed. Monitor profit targets (+3.0% to +5.0%) and strict stop-loss levels (-1.8% to -2.0%). Avoid crypto assets due to ongoing downtrends below the SMA20. Wait for equity markets to reopen before considering new entries or exits."
+> "Maintain existing positions in AAPL and MSFT as equity markets are closed. Monitor profit targets (+3.0% to +5.0%) and strict stop-loss levels (-1.8% to -2.0%). Keep waiting for equity markets to reopen or for cryptocurrencies to establish a confirmed uptrend above the SMA20 before considering new entries."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
