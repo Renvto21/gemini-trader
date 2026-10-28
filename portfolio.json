@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with the existing AAPL position, monitoring the stop-loss strictly around -1.8% to -2.0% and profit targets at +3.0% to +5.0%. For crypto assets (BTC, ETH, SOL), continue to wait on the sidelines until an asset reclaims its SMA20 trend and prints a confirmed positive 1-hour candle change (> 0.0) with an RSI >= 32. Do not force any trades under current conditions.",
-    "updated_at": "2026-10-28T20:40:37.984548-03:00"
+    "notes": "Maintain patience with the existing AAPL equity position, keeping a close eye on the stop-loss threshold around -1.8% to -2.0% and profit targets at +3.0% to +5.0%. For crypto assets (BTC, ETH, SOL), continue to stay on the sidelines until an asset reclaims its SMA20 trend and prints a confirmed positive 1-hour candle change (> 0.0) with an RSI >= 32. Do not force any trades under current conditions.",
+    "updated_at": "2026-10-28T20:50:40.617611-03:00"
   }
 }
