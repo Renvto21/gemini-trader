@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position under equity holding patience. Monitor AAPL for potential profit-taking if it reaches +3.0% to +5.0% or stop-loss if it drops past -1.8%. Avoid all crypto assets as they fail the trend filter. Wait for the equity market to reopen to evaluate pullback entries in confirmed uptrend assets like SPY or MSFT.",
-    "updated_at": "2026-10-28T18:01:02.568546-03:00"
+    "notes": "Continue holding AAPL under equity holding patience as it remains in an uptrend above SMA20 and has not hit our stop-loss level. Avoid crypto assets due to the prevailing bearish trend below SMA20. Wait for the equity market to reopen to evaluate pullback opportunities in confirmed uptrend assets.",
+    "updated_at": "2026-10-28T18:10:39.034684-03:00"
   }
 }
