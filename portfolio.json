@@ -1892,7 +1892,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience on current equity holdings AAPL and MSFT as per holding rules. Monitor for market reopening to evaluate take-profit targets between +3.0% and +5.0% or stop-loss limits if conditions deteriorate. Continue to avoid all crypto assets due to ongoing downtrends below the SMA20.",
-    "updated_at": "2026-10-28T01:10:41.676140-03:00"
+    "notes": "Maintain patience on current equity holdings AAPL and MSFT as per holding patience rules. Both stocks remain in confirmed uptrends. We will monitor for market reopening to evaluate take-profit targets between +3.0% and +5.0% or strict stop-loss limits if conditions deteriorate. Continue to avoid all crypto assets due to ongoing downtrends below the SMA20.",
+    "updated_at": "2026-10-28T01:20:37.716630-03:00"
   }
 }
