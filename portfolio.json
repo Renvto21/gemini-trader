@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL patiently per equity holding rules, targeting a +3.0% to +5.0% profit objective while keeping a strict stop-loss at -1.8% to -2.0%. Monitor SPY for a valid dip confirmation while maintaining cash reserves above the $4.00 minimum. Avoid crypto exposure until a qualifying uptrend and 1H RSI recovery materialize.",
-    "updated_at": "2026-10-28T13:31:03.020260-03:00"
+    "notes": "Continue holding AAPL patiently per equity holding rules, targeting a +3.0% to +5.0% profit objective while keeping a strict stop-loss at -1.8% to -2.0%. Monitor SPY for a valid dip confirmation (change_1h_pct > 0.0) while maintaining cash reserves above the $4.00 minimum. Avoid crypto exposure until qualifying uptrends and 1H RSI recoveries materialize.",
+    "updated_at": "2026-10-28T13:41:01.101351-03:00"
   }
 }
