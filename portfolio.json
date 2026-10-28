@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position in accordance with equity holding patience rules, tracking toward our profit target (+3.0% to +5.0%) while respecting the hard stop-loss at -1.8% to -2.0%. Keep cash reserves stable at $32.23 USD and wait for clean pullbacks in assets trading above their SMA20 with 1-hour RSI >= 32 and positive 1-hour percentage change before deploying additional capital.",
-    "updated_at": "2026-10-28T15:50:46.480782-03:00"
+    "notes": "Maintain the current AAPL position under equity holding patience guidelines, tracking toward the profit target of +3.0% to +5.0% while monitoring the hard stop-loss at -1.8% to -2.0%. Keep cash reserves secure above the $4.00 minimum threshold and wait for assets above their SMA20 to exhibit positive 1-hour percentage changes (change_1h_pct > 0.0) alongside 1-hour RSI >= 32 before entering new positions.",
+    "updated_at": "2026-10-28T16:00:54.794507-03:00"
   }
 }
