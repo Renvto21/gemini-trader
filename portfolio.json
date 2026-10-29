@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are maintaining our AAPL position with current PnL around +0.72% following equity holding patience rules. Target profit remains between +3.0% and +5.0% ($357.50 to $364.50) or an RSI 1H exceeding 72. Stop-loss remains protected near the -2.0% circuit breaker. No new positions will be opened until assets currently in a downtrend reclaim their SMA20 and fulfill our reversal confirmation triggers.",
-    "updated_at": "2026-10-29T16:40:49.915277-03:00"
+    "notes": "We continue holding AAPL in accordance with equity holding patience rules, as the position remains in an uptrend above the SMA20 with a modest positive PnL of +0.64%. The take-profit target for AAPL is set between +3.0% and +5.0% ($357.60 to $366.60) or an RSI 1H exceeding 72. Stop-loss remains protected near the -2.0% circuit breaker. No new positions will be opened until candidate assets reclaim their SMA20 lines and meet our strict reversal confirmation filters.",
+    "updated_at": "2026-10-29T16:50:45.841264-03:00"
   }
 }
