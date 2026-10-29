@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain holding AAPL under equity holding patience rules, as it is the only asset staying above its SMA20 in a confirmed uptrend. AAPL is currently valued at $348.91 (+0.5%). Continue monitoring AAPL for take-profit targets between +3.0% and +5.0% ($357.60 to $366.60) or an RSI 1H > 72, while keeping a strict stop-loss near the -2.0% circuit breaker. Keep all crypto and other equities sidelined due to closed market hours and bearish trends below SMA20.",
-    "updated_at": "2026-10-29T20:10:43.626272-03:00"
+    "notes": "Maintain holding AAPL under equity holding patience rules, as it is the only asset staying above its SMA20 in a confirmed uptrend (currently at $348.91, +0.5% PnL). Continue monitoring AAPL for take-profit targets between +3.0% and +5.0% ($357.60 to $366.60) or an RSI 1H > 72, while keeping a strict stop-loss near the -2.0% circuit breaker. Keep all other assets sidelined due to closed market hours and bearish trends below SMA20.",
+    "updated_at": "2026-10-29T20:20:35.807992-03:00"
   }
 }
