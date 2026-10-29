@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL through the closed market hours as per equity holding patience guidelines. PnL is currently -0.96%; monitor closely once the market reopens for a potential recovery toward our +3.0% to +5.0% take-profit target, or exit if it triggers the -1.8% stop-loss. Keep crypto sidelined due to persistent downtrends and lack of green 1-hour confirmation candles.",
-    "updated_at": "2026-10-29T01:10:36.887834-03:00"
+    "notes": "Continue holding AAPL through the closed market hours. Monitor for a recovery toward our +3.0% to +5.0% take-profit target or an exit if the hard stop-loss at -1.8% is triggered when the market reopens. Keep crypto sidelined due to persistent downtrends below SMA20.",
+    "updated_at": "2026-10-29T01:20:44.788867-03:00"
   }
 }
