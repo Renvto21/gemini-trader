@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position as it remains safely above the SMA20 trend filter, targeting a profit objective of +3.0% to +5.0% while keeping stop-loss protection active at -1.8% to -2.0%. Keep crypto sidelined since none of the digital assets satisfy both the uptrend requirement and positive 1-hour momentum confirmation.",
-    "updated_at": "2026-10-28T22:00:44.489134-03:00"
+    "notes": "Maintain the AAPL position as it continues to hold above its SMA20 trend filter. Wait for profit targets between +3.0% and +5.0% or maintain strict stop-loss protection at -1.8% to -2.0%. Keep crypto and closed equities sidelined until markets reopen and valid pullback opportunities with positive 1-hour momentum emerge.",
+    "updated_at": "2026-10-28T22:10:41.646451-03:00"
   }
 }
