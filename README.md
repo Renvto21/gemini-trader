@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-29 00:50:45`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-29 01:00:51`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street is currently closed (market_status: CERRADO), freezing prices for equities and ETFs such as AAPL, MSFT, and SPY. Cryptocurrencies remain open 24/7 but are currently exhibiting bearish trends (below SMA20) with negative 1-hour percentage changes, failing our strict trend filter and reversal confirmation triggers. Our sole holding, AAPL, remains in a confirmed uptrend (above SMA20) with a minor unrealized loss of -0.96%. In accordance with equity holding patience guidelines, we will maintain our position through the weekend rather than rotating out prematurely."
+> "Stock and ETF markets are currently closed (CERRADO) with prices frozen, leaving crypto assets as the only actively trading instruments (ABIERTO 24/7). However, all major cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) remain in bearish trends below their respective SMA20 lines and show negative or flat 1-hour percentage changes, failing our reversal confirmation and trend-following criteria. Among equities, our sole open position AAPL remains in a confirmed uptrend (above SMA20) with a PnL of -0.96%. Following our equity holding patience rule and strict stop-loss discipline (circuit breaker at -2.0%), we maintain our AAPL position as it has not triggered a stop-loss nor reached our target."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20. In adherence to equity holding patience rules, we maintain our position through the weekend market closure while monitoring our stop-loss and take-profit targets.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20. Per equity holding patience rules, we maintain the position as it is well within risk parameters and hasn't hit stop-loss or take-profit targets.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained AAPL position through the weekend as it remains in an uptrend above SMA20 with a current PnL of -0.96%. Crypto assets remain sidelined due to bearish trends and lack of positive 1-hour reversal triggers. Will hold AAPL once markets reopen, targeting a take-profit between +3.0% and +5.0% and respecting the hard stop-loss at -1.8% to -2.0%."
+> "Maintained AAPL position through the closed market hours. Current PnL is -0.96%, safely above our -1.8% to -2.0% stop-loss threshold. Crypto markets remain unfavorable due to bearish trends and lack of positive 1-hour bounce confirmation. Will continue to hold AAPL once markets reopen, targeting take-profit between +3.0% and +5.0%."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
