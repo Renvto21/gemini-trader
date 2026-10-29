@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are holding AAPL patiently while monitoring for our take-profit target of +3.0% to +5.0% or an RSI > 72. Our stop-loss floor remains at -1.8%. No other assets meet our stringent trend-following and reversal trigger requirements at this time. We will continue preserving cash reserves and wait for confirmed uptrends and green hourly candles before allocating new capital.",
-    "updated_at": "2026-10-29T14:11:51.575090-03:00"
+    "notes": "We are maintaining our AAPL position as it remains in a confirmed uptrend above the SMA20. We will hold until our take-profit target of +3.0% to +5.0% is reached, or if RSI 1H pushes past 72 with sufficient profit, or conversely if the stop-loss limit of -1.8% is triggered. Cash reserves are kept safe at $32.23. We will continue to wait patiently for high-quality setups where assets are in an uptrend with a confirmed positive hourly candle before entering new positions.",
+    "updated_at": "2026-10-29T14:20:56.931891-03:00"
   }
 }
