@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL patiently as it remains in an uptrend above the SMA20 and has not hit our stop-loss level. Keep crypto exposure at zero since all cryptocurrencies are in bearish trends below SMA20 and fail to meet the reversal criteria (rsi_1h >= 32). Maintain strict adherence to our capital preservation and risk management rules while waiting for the next market open for equities.",
-    "updated_at": "2026-10-29T06:20:42.970088-03:00"
+    "notes": "Continue holding AAPL patiently as it remains in an uptrend above the SMA20, respecting our equity holding patience rule. Keep crypto exposure at zero since all digital assets are in bearish trends below SMA20 and fail to meet the reversal criteria (rsi_1h >= 32). Monitor equity markets for the upcoming session open, maintaining our stop-loss for AAPL at -2.0% and aiming for a take-profit target of +3.5% to +5.0%.",
+    "updated_at": "2026-10-29T06:31:01.171554-03:00"
   }
 }
