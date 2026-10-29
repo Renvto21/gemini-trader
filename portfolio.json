@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are holding our AAPL position as it stays above the SMA20 trendline with a +0.72% gain. We await our take-profit target (+3.0% to +5.0%) or an RSI 1H > 72, maintaining our strict stop-loss discipline at -1.8%. Cash reserves remain sound at $32.23. No new buys will be executed until assets meet our strict trend-following pullback criteria with confirmed green 1-hour candles.",
-    "updated_at": "2026-10-29T14:50:59.181256-03:00"
+    "notes": "We are maintaining our AAPL position as it stays above the SMA20 trendline. We await our target take-profit (+3.0% to +5.0%) or an RSI 1H > 72. Cash reserves stand at $32.23. No new positions will be opened until assets demonstrate a confirmed uptrend above the SMA20 and a positive 1-hour percentage change.",
+    "updated_at": "2026-10-29T15:01:08.173907-03:00"
   }
 }
