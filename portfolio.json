@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are holding our AAPL position patiently per equity holding rules, currently sitting at +0.78% profit. We maintain our upside profit target at +3.0% to +5.0% and our strict stop-loss protection floor at -1.8%. No other assets meet our strict trend-following pullback criteria as they remain below their SMA20. We will continue to monitor AAPL for take-profit opportunities and wait for a confirmed uptrend reversal in other assets before deploying additional capital.",
-    "updated_at": "2026-10-29T14:01:09.110599-03:00"
+    "notes": "We are holding AAPL patiently while monitoring for our take-profit target of +3.0% to +5.0% or an RSI > 72. Our stop-loss floor remains at -1.8%. No other assets meet our stringent trend-following and reversal trigger requirements at this time. We will continue preserving cash reserves and wait for confirmed uptrends and green hourly candles before allocating new capital.",
+    "updated_at": "2026-10-29T14:11:51.575090-03:00"
   }
 }
