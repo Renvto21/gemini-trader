@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain holding AAPL under equity holding patience rules, as it remains our sole position above the SMA20 uptrend filter (currently at $348.91, +0.5% PnL). Continue monitoring AAPL for take-profit targets between +3.0% and +5.0% ($357.60 to $366.60) or an RSI 1H > 72, while respecting the strict stop-loss near the -2.0% circuit breaker. Keep all other assets and cryptos sidelined due to closed market hours, bearish trends below SMA20, or lack of clear reversal confirmation triggers.",
-    "updated_at": "2026-10-29T20:30:48.154307-03:00"
+    "notes": "Continue holding AAPL under equity holding patience rules, as it is our only position above the SMA20 uptrend filter (currently at $348.91, +0.5% PnL). Monitor AAPL for take-profit targets between +3.0% and +5.0% ($357.60 to $366.60) or an RSI 1H > 72, while strictly respecting the -2.0% stop-loss circuit breaker. Keep all crypto and other assets sidelined due to closed market hours, bearish trends below SMA20, or lack of clear positive 1-hour reversal confirmation.",
+    "updated_at": "2026-10-29T20:40:42.719579-03:00"
   }
 }
