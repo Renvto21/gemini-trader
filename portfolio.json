@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position based on equity holding patience rules. Monitor for take-profit targets between +3.0% and +5.0% once Wall Street reopens, or prepare to cut if stop-loss thresholds near -1.8% to -2.0% are breached. Keep crypto exposure at zero due to lack of confirmed uptrends above SMA20.",
-    "updated_at": "2026-10-29T04:10:48.069097-03:00"
+    "notes": "Maintain AAPL position in accordance with equity holding patience rules, monitoring closely for take-profit targets between +3.0% and +5.0% or stop-loss limits near -1.8% to -2.0%. Keep crypto exposure at zero since BTC, ETH, and SOL remain in downtrends below SMA20 without confirmed green 1-hour reversal candles. Wait for Wall Street to reopen to look for high-quality equity pullbacks.",
+    "updated_at": "2026-10-29T04:20:40.813926-03:00"
   }
 }
