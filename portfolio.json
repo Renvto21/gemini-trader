@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL equity position, exercising patience as per equity holding rules since it remains in an uptrend above the SMA20. Profit target for AAPL is set around +3.0% to +5.0% ($357.50 to $364.50), while maintaining the hard stop-loss at -1.8% ($340.90). No crypto or new equity purchases will be executed due to unfavorable trend filters across alternative assets.",
-    "updated_at": "2026-10-29T13:01:17.648471-03:00"
+    "notes": "Maintain the AAPL equity position with patience, respecting our equity holding rules as it remains in an uptrend above the SMA20. Profit target for AAPL is set around +3.0% to +5.0% ($357.50 to $364.50), with a hard stop-loss at -1.8% ($340.90). Monitor BTC-USD for a potential pullback to enter once the 1H RSI cools down while retaining an uptrend above SMA20. Keep cash reserves secure.",
+    "updated_at": "2026-10-29T13:11:03.060876-03:00"
   }
 }
