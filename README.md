@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-29 10:01:04`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-29 10:10:54`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The majority of stock and ETF markets are currently closed (CERRADO), maintaining frozen prices. AAPL remains our sole open position, currently down -0.96% and holding above its crucial support levels while continuing in an overall uptrend above the SMA20. Crypto assets like BTC and SOL are trading in 24/7 markets but remain in clear downtrends below the SMA20, meaning they fail our strict trend filter. SPY and MSFT show constructive technical conditions, with MSFT having flipped back to bullish above the SMA20. However, because Wall Street is closed, no equity executions can take place."
+> "Wall Street markets remain closed (CERRADO), meaning traditional equities and ETFs such as AAPL and MSFT are currently frozen. Cryptocurrencies are trading actively (ABIERTO 24/7), but all major crypto assets (BTC-USD, ETH-USD, SOL-USD) remain in a clear bearish trend below their SMA20 with weak 24-hour performance, keeping them excluded per our strict trend filter. Our single open equity position in AAPL is experiencing minor unrealized losses (-0.96%), well within our stop-loss tolerance of -1.8% to -2.0%. Following equity holding patience rules, we will maintain AAPL through the weekend closure, awaiting Wall Street's reopening for potential directional confirmation."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above the SMA20. The current unrealized loss of -0.96% is well within our acceptable risk limits, and equity holding patience dictates we do not disrupt flat positions during market closures.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20. Although currently experiencing a minor pullback (-0.96%), it is well above our hard stop-loss threshold (-1.8% to -2.0%). Adhering to our equity holding patience rule and market hours constraint, we will hold the position steady through the weekend.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL through the weekend closure. Monitor AAPL's price against its stop-loss threshold near $340.91 (-1.8% to -2.0% risk limit) and target a profit objective around $357.00 to $360.00 (+3% to +5%). Keep crypto excluded due to persistent bearish macro trends under SMA20. When Wall Street reopens, evaluate MSFT for a potential pullback entry given its return to an uptrend above the SMA20."
+> "Continue holding AAPL through the market closure. Monitor its stop-loss threshold at approximately $340.91 (-1.8% to -2.0% risk limit) and target a profit objective around $357.00 to $360.00 (+3% to +5%). Keep all crypto assets excluded due to persistent bearish macro trends under the SMA20. Once Wall Street reopens, evaluate uptrend equities for potential new entries or exits depending on price action."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
