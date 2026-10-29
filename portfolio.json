@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as it remains above its SMA20 in a confirmed uptrend. Monitor stop-loss at -1.8% to -2.0% and take-profit targets between +3.0% and +5.0%. Keep crypto exposure at zero due to persistent bearish conditions below SMA20. Re-evaluate potential equity entries or MSFT reentry when traditional markets reopen.",
-    "updated_at": "2026-10-29T02:50:43.568341-03:00"
+    "notes": "Continue holding AAPL as it remains above its SMA20 in a confirmed uptrend, respecting equity holding patience rules. Monitor AAPL for take-profit targets between +3.0% and +5.0% or stop-loss limits near -1.8% to -2.0%. Keep crypto exposure at zero due to persistent bearish conditions below the SMA20. Re-evaluate potential equity entries or MSFT reentry when traditional markets reopen and show positive 1-hour momentum.",
+    "updated_at": "2026-10-29T03:00:46.458327-03:00"
   }
 }
