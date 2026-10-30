@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under equity holding patience rules. Current PnL is -0.73%, remaining far above our -1.8% to -2.0% stop-loss threshold, with a profit target between +3.0% and +5.0%. Cash reserve is safely maintained at $32.23. No crypto positions will be opened since all available crypto assets remain in a bearish trend below the SMA20. Monitor equities upon market reopening for any structural trend shifts.",
-    "updated_at": "2026-10-30T19:00:43.863406-03:00"
+    "notes": "Continue holding AAPL under equity holding patience rules. AAPL is currently trading at $344.63 (-0.73% PnL) and remains in an uptrend above the SMA20. Profit target is set between +3.0% and +5.0% (~$357 to $364), while stop-loss is strictly at -1.8% to -2.0% (~$340.23). Maintain current cash reserves of $32.23 and wait for market reopening or qualified trend-following pullbacks in crypto assets.",
+    "updated_at": "2026-10-30T19:10:42.508773-03:00"
   }
 }
