@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are continuing to hold our AAPL position. We will monitor AAPL closely; if it hits our stop-loss threshold near -1.8% to -2.0% (~$340.40), we will exit immediately. Take-profit target remains set between +3.5% and +5.0% gain. No new buy orders will be placed until market conditions improve and potential candidates satisfy both the uptrend filter and positive 1-hour reversal triggers (rsi_1h >= 32 and change_1h_pct > 0.0).",
-    "updated_at": "2026-10-30T15:30:46.717153-03:00"
+    "notes": "We are maintaining our AAPL position as it remains above its SMA20 and adheres to equity holding patience rules despite flat performance. We will continue to monitor its stop-loss threshold near -1.8% to -2.0% (~$340.40) and take-profit targets between +3.5% and +5.0%. No new buys will be initiated until market conditions stabilize and candidates meet both trend and reversal criteria.",
+    "updated_at": "2026-10-30T15:40:46.297016-03:00"
   }
 }
