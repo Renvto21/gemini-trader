@@ -1,38 +1,6 @@
  Initial Capital:     $40.00 USD
  Available Cash:      $32.23 USD
  Assets Value:        $6.95 USD
- Total Balance:       $39.18 USD
- Net PnL:             🔴 $-0.82 USD (-2.06%)
-
- 💼 Open Positions:
-   • AAPL: 0.020163 u. | Buy: $347.17 | Now: $344.82 | Total: $6.95 📉 (-0.68%) [Time: 7d 3h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The broader market remains largely under pressure with most equities and crypto assets trading below their SMA20, reflecting ongoing bearish sentiment. AAPL is the sole asset maintaining a confirmed uptrend above its SMA20, though market status for equities is currently closed. Crypto assets like ETH-USD and BTC-USD show mixed short-term momentum, but fail to satisfy our strict pullback criteria or are constrained by our single-crypto holding rules and market status conditions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Continue holding AAPL following equity holding patience rules. Current PnL for AAPL is -0.68%, well within acceptable limits and far from our -2.0% stop-loss circuit breaker. Maintain target profit between +3.0% and +5.0%. Keep remaining cash reserves secure and wait for broader market recovery above the SMA20 before deploying additional capital."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 85%)
-    Reason: AAPL remains in a confirmed uptrend above its SMA20 and adheres to our equity holding patience policy. Performance is stable and well above the stop-loss threshold.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $39.18 USD (Cash: $32.23 USD)
-
-[2026-10-30 17:20:34] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $32.23 USD
- Assets Value:        $6.95 USD
  Total Balance:       $39.17 USD
  Net PnL:             🔴 $-0.83 USD (-2.06%)
 
@@ -147,6 +115,38 @@ Final Cycle Balance: $39.17 USD (Cash: $32.23 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 90%)
     Reason: AAPL remains in a confirmed uptrend above its SMA20 and is currently experiencing standard consolidation. Equity markets are closed. Adhering to the equity holding patience rule, we continue to hold the position without premature rotation while monitoring downside protection against our -2.0% stop-loss.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $39.17 USD (Cash: $32.23 USD)
+
+[2026-10-30 18:00:39] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $32.23 USD
+ Assets Value:        $6.95 USD
+ Total Balance:       $39.17 USD
+ Net PnL:             🔴 $-0.83 USD (-2.06%)
+
+ 💼 Open Positions:
+   • AAPL: 0.020163 u. | Buy: $347.17 | Now: $344.63 | Total: $6.95 📉 (-0.73%) [Time: 7d 4h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The overall market is currently closed for equities (Wall Street is 'CERRADO'), with major indices like SPY, QQQ, and MSFT exhibiting bearish trends below their respective SMA20 lines. AAPL is the sole asset maintaining a bullish trend above its SMA20 with a stable daily RSI of 54.9, currently holding a minor unrealized loss of -0.73%. Crypto assets (BTC-USD, ETH-USD, SOL-USD) are open 24/7 but remain in bearish trends below their SMA20 levels, failing our strict trend filter. Therefore, capital preservation and patience are prioritized, maintaining our current equity holding in AAPL while avoiding new crypto entries until trend confirmation and market conditions improve."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Continue holding AAPL under the equity holding patience rule as it remains the only asset above its SMA20. Monitor for price recovery toward the +3.0% to +5.0% profit target while respecting the strict -2.0% stop-loss threshold. Keep crypto assets excluded due to bearish trends below SMA20 and maintain strong cash reserves ($32.23) until market hours reopen and new opportunities arise."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 85%)
+    Reason: AAPL remains in a confirmed uptrend above its SMA20 adhering to equity holding patience. Although currently showing a small unrealized loss (-0.73%), it is well above our -2.0% stop-loss circuit breaker and has not met the take-profit target yet. No market action is needed while equities are closed.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
