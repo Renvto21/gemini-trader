@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are maintaining our AAPL position as it remains above its SMA20 and adheres to equity holding patience rules despite flat performance. We will continue to monitor its stop-loss threshold near -1.8% to -2.0% (~$340.40) and take-profit targets between +3.5% and +5.0%. No new buys will be initiated until market conditions stabilize and candidates meet both trend and reversal criteria.",
-    "updated_at": "2026-10-30T15:40:46.297016-03:00"
+    "notes": "We continue to hold AAPL patiently according to equity holding rules, as it remains our only asset in an uptrend above SMA20. Its current PnL is down -1.23%, safely above our -1.8% to -2.0% stop-loss threshold. We will maintain the position and wait for a confirmed positive 1-hour reversal candle and increasing momentum before considering taking profits or entering new trades. No crypto positions will be opened due to prevailing downtrends.",
+    "updated_at": "2026-10-30T15:50:43.126986-03:00"
   }
 }
