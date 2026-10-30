@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL patiently. Monitor AAPL take-profit targets between $357 and $364 (+3.0% to +5.0%) or if RSI-1h exceeds 72. Maintain strict stop-loss protection at -1.8%. No crypto or additional equity trades will be executed until market status is open and assets satisfy both the uptrend (above SMA20) and reversal confirmation criteria (RSI-1h >= 32 and change_1h_pct > 0.0). Cash reserves are stable at $32.23.",
-    "updated_at": "2026-10-30T07:30:46.586917-03:00"
+    "notes": "Continue holding AAPL patiently as it remains in an uptrend above SMA20. Monitor AAPL take-profit targets between $357 and $364 (+3.0% to +5.0%) or if RSI-1h exceeds 72. Maintain strict stop-loss protection at -1.8%. Crypto assets (BTC-USD, ETH-USD, SOL-USD) are currently below SMA20 and will not be bought despite 24/7 market status due to the strict trend-following rule. Cash reserves remain stable at $32.23.",
+    "updated_at": "2026-10-30T07:40:40.741436-03:00"
   }
 }
