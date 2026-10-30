@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are maintaining our AAPL holding as it remains above the SMA20 trendline, despite a minor pullback. Current PnL is -1.19%, safely above our strict -2.0% stop-loss threshold. We will exercise equity holding patience, monitoring for an upside momentum push towards a +3.0% to +5.0% profit target. No new positions will be opened across stocks or cryptos until assets reclaim their SMA20 lines and fulfill our strict reversal confirmation triggers (1-hour RSI >= 32 and positive 1-hour change).",
-    "updated_at": "2026-10-30T16:10:40.444982-03:00"
+    "notes": "We are continuing to hold AAPL in accordance with equity holding patience as it remains above its SMA20 trendline. Current PnL is -1.22%, which is well within our acceptable drawdown limit before the hard stop-loss circuit breaker at -2.0%. We will maintain our cash reserve ($32.23) and wait for other assets to reclaim their SMA20 trendlines before deploying new capital. Target profit for AAPL remains at +3.0% to +5.0%.",
+    "updated_at": "2026-10-30T16:20:45.026859-03:00"
   }
 }
