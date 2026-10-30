@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are strictly adhering to equity holding patience for AAPL as it maintains its position above the SMA20 trend filter despite current intraday volatility. We will hold AAPL toward our take-profit target between +3.0% and +5.0% ($357.50 to $364.50) or cut if it breaches the strict stop-loss threshold near -1.8%. No new positions will be opened until candidate assets clear our strict trend and reversal confirmation triggers.",
-    "updated_at": "2026-10-30T10:40:46.628593-03:00"
+    "notes": "We continue to maintain equity holding patience with our existing AAPL position as it remains in an established uptrend above the SMA20 despite short-term market consolidation. Our current unrealized PnL on AAPL is -0.63%, well within our risk tolerance and far above our strict stop-loss threshold of -1.8%. We will hold AAPL toward our target take-profit level between +3.0% and +5.0% ($357.50 to $364.50). No new positions will be initiated until candidate assets clear our strict trend filter and show positive 1-hour reversal confirmation candles.",
+    "updated_at": "2026-10-30T10:50:41.175057-03:00"
   }
 }
