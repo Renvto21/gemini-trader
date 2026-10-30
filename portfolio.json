@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL in accordance with equity holding patience guidelines, maintaining our take-profit target at +3.0% to +5.0% and strict stop-loss at -1.8%. Cryptocurrencies remain in downtrends below the SMA20 with weak short-term momentum; we will stay in cash and wait for confirmed bullish reversals (1-hour RSI >= 32 and positive 1-hour price change) before considering any new entries.",
-    "updated_at": "2026-10-30T05:00:48.986395-03:00"
+    "notes": "Continue holding AAPL and monitor for our take-profit target of +3.0% to +5.0% or a stop-loss trigger at -1.8%. Cryptocurrencies remain in a downtrend below SMA20 and do not satisfy our reversal confirmation triggers (positive 1-hour price change and 1-hour RSI >= 32 simultaneously), so we remain in cash regarding crypto assets. Wait for market reopening for equities and new structural setups.",
+    "updated_at": "2026-10-30T05:10:40.907181-03:00"
   }
 }
