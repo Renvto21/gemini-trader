@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position patiently as it remains in an uptrend above SMA20, targeting a take-profit between +3.0% and +5.0% while respecting the -1.8% stop-loss guard. Keep crypto exposure at zero due to persistent bearish trends across all digital assets. Preserve cash reserves until traditional market reopens and provides validated pullback setups.",
-    "updated_at": "2026-10-30T00:00:49.883267-03:00"
+    "notes": "Hold the AAPL position patiently as it remains in an uptrend above the SMA20, respecting the take-profit target between +3.0% and +5.0% and the strict -1.8% stop-loss guard. Keep crypto exposure at zero due to persistent bearish trends below SMA20 across all digital assets. Preserve cash reserves and wait for traditional market hours to reopen before evaluating new pullback setups.",
+    "updated_at": "2026-10-30T00:10:47.335419-03:00"
   }
 }
