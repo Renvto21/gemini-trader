@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL in accordance with equity holding patience rules, keeping the take-profit target at +3.0% to +5.0% and stop-loss at -1.8%. For cryptocurrencies, market status is open but trend and momentum filters are not met (negative 1-hour changes and below SMA20), so we maintain patience and remain in cash.",
-    "updated_at": "2026-10-30T04:30:48.644701-03:00"
+    "notes": "Continue holding AAPL in accordance with equity holding patience rules, maintaining our take-profit target at +3.0% to +5.0% and stop-loss at -1.8%. For cryptocurrencies, monitor for potential trend reversals above the SMA20 with positive 1-hour momentum before considering any entry.",
+    "updated_at": "2026-10-30T04:40:42.227461-03:00"
   }
 }
