@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under equity holding patience rules. AAPL is currently down -0.73% which is well within our acceptable drawdown parameters before reaching the strict -1.8% to -2.0% stop-loss threshold. Profit target remains at +3.0% to +5.0% ($357.58+). Monitor cash reserves at $32.23. Wait for confirmed uptrends and RSI reversal triggers before opening any new positions.",
-    "updated_at": "2026-10-30T18:40:44.746076-03:00"
+    "notes": "Continue holding AAPL under equity holding patience rules. Current PnL is -0.73%, well within the acceptable drawdown limits before hitting our -1.8% to -2.0% stop-loss threshold. Profit target remains at +3.0% to +5.0%. Maintain cash reserves at $32.23. Watch for market reopening and ensure any future entries strictly follow the SMA20 uptrend filter and 1-hour RSI reversal triggers.",
+    "updated_at": "2026-10-30T18:50:42.360404-03:00"
   }
 }
