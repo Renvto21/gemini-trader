@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL patiently as per equity holding rules since it remains in an uptrend above the SMA20 with a positive PnL (+0.5%). Keep take-profit targets between $357 and $364 (+3.0% to +5.0%) and preserve strict stop-loss protection at -1.8%. Avoid opening new positions in crypto or closed equities as they do not meet our trend and confirmation criteria. Maintain cash reserve safely above $4.00.",
-    "updated_at": "2026-10-30T08:50:44.687058-03:00"
+    "notes": "Continue holding AAPL patiently as per equity holding rules since it remains in an uptrend above the SMA20. Maintain take-profit targets between $357 and $364 (+3.0% to +5.0%) and preserve strict stop-loss protection at -1.8%. Avoid opening new positions in closed equities or crypto assets as they do not currently meet our trend and bounce confirmation criteria (no positive 1-hour candle or trading below SMA20). Keep cash reserves safely above the $4.00 minimum.",
+    "updated_at": "2026-10-30T09:00:50.016339-03:00"
   }
 }
