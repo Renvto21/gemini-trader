@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintaining our AAPL equity holding in line with equity holding patience rules, as it remains above the SMA20. Stop-loss remains protected around -1.8% to -2.0% and take-profit targeted at +3.5% to +5.0%. Cash reserves are secured at $32.23 USD. We will continue to hold AAPL and wait for other assets to reclaim their SMA20 trends and provide valid 1-hour reversal confirmation before committing additional capital.",
-    "updated_at": "2026-10-30T14:30:43.027671-03:00"
+    "notes": "We continue to hold our AAPL position as it remains safely above its SMA20 trend line, respecting equity holding patience rules. Stop-loss remains protected near -1.8% to -2.0% and take-profit targeted at +3.5% to +5.0%. All other tracked assets are currently below their SMA20 or failing to meet strict reversal trigger requirements (1h change > 0.0), so no new capital is deployed.",
+    "updated_at": "2026-10-30T14:40:46.097078-03:00"
   }
 }
