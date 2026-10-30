@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL based on equity holding patience as it remains in an uptrend above the SMA20. Current PnL is -0.86%, well above our hard stop-loss circuit breaker at -2.0%. Target profit for AAPL remains in the +3.0% to +5.0% range. Avoid entering new positions given that all other tracked assets are currently bearish below their SMA20 lines.",
-    "updated_at": "2026-10-30T16:50:43.084009-03:00"
+    "notes": "Continue holding AAPL based on equity holding patience as it is the only asset remaining in an uptrend above the SMA20. Current PnL for AAPL is -0.90%, which is well above our -2.0% stop-loss circuit breaker. Maintain target profit of +3.0% to +5.0%. Keep holding cash reserves and avoid new entries until other assets reclaim their SMA20 trend and show clear reversal confirmation triggers.",
+    "updated_at": "2026-10-30T17:00:47.921678-03:00"
   }
 }
