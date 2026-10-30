@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We continue to hold our AAPL position as it remains in a confirmed uptrend above the SMA20, with current PnL at -0.47%, comfortably within risk parameters and safely above our -1.8% stop-loss. We maintain our take-profit target between +3.0% and +5.0% ($357.50 to $364.50). Cash reserves stand at $32.23. No new positions will be opened today as other tracked assets are in bearish trends or lack the required positive 1-hour reversal candle confirmation (change_1h_pct > 0.0).",
-    "updated_at": "2026-10-30T11:20:42.656069-03:00"
+    "notes": "We continue to hold our AAPL position as it is the sole asset maintaining a confirmed uptrend above the SMA20. Current PnL is stable at -0.25%, safely above our strict -1.8% stop-loss level. Take-profit targets remain between +3.0% and +5.0% ($357.50 to $364.50). Cash reserves stand at $32.23. No new positions will be initiated during this cycle as all other assets are either in bearish trends or lacking the required positive 1-hour price reversal confirmation (change_1h_pct > 0.0). We will exercise patience and monitor AAPL for continued upward momentum.",
+    "updated_at": "2026-10-30T11:30:50.448148-03:00"
   }
 }
