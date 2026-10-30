@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL based on equity holding patience guidelines. Take-profit target remains at +3.0% to +5.0% and stop-loss at -1.8%. For crypto, wait until assets cross back above their SMA20 and print a positive 1-hour return with RSI >= 32 before considering any entries.",
-    "updated_at": "2026-10-30T04:00:50.023983-03:00"
+    "notes": "Continue holding AAPL based on equity holding patience guidelines. Take-profit target remains at +3.0% to +5.0% and stop-loss at -1.8%. For crypto, all available assets are currently below their SMA20 or lack positive 1-hour momentum; we will wait for clear trend reclamation and a green 1-hour candle with RSI >= 32 before considering any crypto entries.",
+    "updated_at": "2026-10-30T04:10:46.618757-03:00"
   }
 }
