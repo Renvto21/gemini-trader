@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We continue to hold AAPL patiently following equity holding patience guidelines. Current PnL is +0.36%, and we are monitoring take-profit levels between +3.0% and +5.0% ($357.60 to $364.50). Stop-loss is firmly set around -1.8% to -2.0%. Cash reserves remain at $32.23. No new positions will be initiated as all other assets remain below their SMA20 trend filters.",
-    "updated_at": "2026-10-30T12:00:54.019723-03:00"
+    "notes": "We continue to hold AAPL patiently under our equity holding patience guidelines. Current PnL on AAPL is +0.17%, and we are targeting a take-profit window between +3.0% and +5.0% ($357.60 to $364.50). Stop-loss is firmly monitored around -1.8% to -2.0%. Cash reserves are at $32.23. All other monitored assets fail our strict trend filter (below SMA20), so no new positions will be opened at this time.",
+    "updated_at": "2026-10-30T12:10:53.546794-03:00"
   }
 }
