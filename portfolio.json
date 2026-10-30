@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We will maintain our AAPL position as long as it holds its structural uptrend above the SMA20 and stays above our -1.8% to -2.0% stop-loss limit. We continue to target a take-profit between +3.5% and +5.0%. No new entries will be made until candidates satisfy both the strict uptrend filter and positive 1-hour reversal triggers.",
-    "updated_at": "2026-10-30T15:10:43.566561-03:00"
+    "notes": "We will continue to hold our AAPL position as long as it respects its structural uptrend above the SMA20 and stays above our strict -1.8% stop-loss level. Take-profit target remains set between +3.5% and +5.0%. No new buys will be executed until market candidates clear both the uptrend filter and positive 1-hour reversal triggers (rsi_1h >= 32 and change_1h_pct > 0.0).",
+    "updated_at": "2026-10-30T15:20:38.292413-03:00"
   }
 }
