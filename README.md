@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-30 06:00:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-30 06:10:38`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities and ETFs (AAPL, MSFT, QQQ, SPY, NVDA, GLD) are currently closed with frozen prices. AAPL remains our sole active equity holding, currently showing a modest +0.5% profit, well below our +3.0% to +5.0% take-profit target but safely above stop-loss levels. In the crypto markets (open 24/7), assets such as ETH-USD, BTC-USD, and SOL-USD are either in a downtrend (below SMA20) or lack a confirmed 1-hour positive reversal candle (change_1h_pct > 0.0), keeping us on the sidelines per strict trend and anti-catch-falling-knife rules."
+> "Major equity assets and US markets are currently closed (CERRADO) for the weekend, preventing any trade execution on stocks or ETFs like AAPL, MSFT, and SPY. In the crypto markets, assets remain open 24/7 but are currently exhibiting bearish or neutral trends below their SMA20 with negative 1-hour percentage changes or weak momentum, violating our strict trend-following filters and reversal triggers. AAPL remains our sole active equity holding, currently showing a modest profit of +0.5% and adhering to our equity holding patience rule since it has not hit our take-profit targets (+3% to +5%) or stop-loss limits (-1.8%). Cash reserves are comfortably maintained above the minimum threshold."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 and is currently up +0.5%. Following equity holding patience guidelines, we will maintain the position and give it time to reach our take-profit target (+3.0% to +5.0%) without premature rotation.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is currently in a confirmed uptrend above its SMA20 and holding a +0.5% profit. Per equity holding patience rules, we do not rotate or sell flat positions prematurely. We await our take-profit target (+3.0% to +5.0%) or stop-loss limit (-1.8%).
 
 ---
 
