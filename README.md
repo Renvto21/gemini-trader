@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-30 05:50:39`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-30 06:00:49`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market continues to exhibit broad weakness, with major equity indices and cryptocurrencies trading below their respective 20-day simple moving averages (SMA20). Most assets are in a bearish trend, and key equities are currently closed. AAPL remains our sole active equity position, holding steady with a +0.5% gain while maintaining its position above the SMA20 uptrend filter. Cryptocurrencies are open 24/7, but none currently meet our strict entry filters (e.g., positive 1-hour price change combined with being above SMA20), keeping us sidelined on new risk. Capital preservation and adherence to equity holding patience remain top priorities."
+> "Wall Street equities and ETFs (AAPL, MSFT, QQQ, SPY, NVDA, GLD) are currently closed with frozen prices. AAPL remains our sole active equity holding, currently showing a modest +0.5% profit, well below our +3.0% to +5.0% take-profit target but safely above stop-loss levels. In the crypto markets (open 24/7), assets such as ETH-USD, BTC-USD, and SOL-USD are either in a downtrend (below SMA20) or lack a confirmed 1-hour positive reversal candle (change_1h_pct > 0.0), keeping us on the sidelines per strict trend and anti-catch-falling-knife rules."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is maintaining its uptrend above the SMA20 and is currently up +0.5%. Per equity holding patience rules, we do not sell flat positions prematurely and will let the trade play out toward our +3.0% to +5.0% take-profit target or down to the strict -1.8% stop-loss.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 and is currently up +0.5%. Following equity holding patience guidelines, we will maintain the position and give it time to reach our take-profit target (+3.0% to +5.0%) without premature rotation.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL while monitoring for our take-profit target of +3.0% to +5.0% (around $357 to $364) or stop-loss trigger at -1.8%. Avoid opening new positions in closed equities or in crypto assets due to ongoing downtrends and lack of clean 1-hour green candle confirmation. Maintain strict adherence to risk rules and preserve cash reserves."
+> "Continue holding AAPL patiently as per equity holding rules while monitoring for take-profit targets around $357 to $364 (+3.0% to +5.0%) or stop-loss triggers at -1.8%. Avoid opening crypto positions until a clear uptrend forms above SMA20 with strong 1-hour green candle confirmation. Preserve cash reserves above $4.00 USD."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
