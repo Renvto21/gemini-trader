@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "We are maintaining our AAPL position as it stays above the SMA20 trend line, respecting equity holding patience rules. AAPL's current PnL is -0.73%, remaining well above our hard stop-loss trigger of -1.8% to -2.0%. We continue to target a take-profit between +3.5% and +5.0%. No new trades are initiated as all other candidates fail either the SMA20 trend filter or the positive 1-hour price change confirmation trigger.",
-    "updated_at": "2026-10-30T15:00:49.568995-03:00"
+    "notes": "We will maintain our AAPL position as long as it holds its structural uptrend above the SMA20 and stays above our -1.8% to -2.0% stop-loss limit. We continue to target a take-profit between +3.5% and +5.0%. No new entries will be made until candidates satisfy both the strict uptrend filter and positive 1-hour reversal triggers.",
+    "updated_at": "2026-10-30T15:10:43.566561-03:00"
   }
 }
