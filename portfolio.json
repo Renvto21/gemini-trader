@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under equity holding patience rules since it maintains an uptrend above SMA20 despite flat performance. Target take-profit between +3.0% and +5.0% or execute a stop-loss if it approaches the -1.8% to -2.0% circuit breaker. Keep crypto sidelined due to bearish trends below SMA20 violating our strict trend filter. Monitor market reopening for any shift in equity trends.",
-    "updated_at": "2026-10-31T07:10:38.317604-03:00"
+    "notes": "Continue holding AAPL under equity holding patience rules since it maintains an uptrend above SMA20. Monitor for take-profit between +3.0% and +5.0% or execute a stop-loss if it nears the -1.8% to -2.0% circuit breaker threshold. Keep crypto sidelined due to bearish trends below SMA20 violating our strict trend filter.",
+    "updated_at": "2026-10-31T07:20:41.406361-03:00"
   }
 }
