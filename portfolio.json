@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position in accordance with equity holding patience rules while markets are closed. Monitor AAPL upon market reopening to evaluate take-profit targets (+3.0% to +5.0%) or enforce stop-loss protection (-1.8% to -2.0%). Keep all crypto assets sidelined due to prevailing downtrends below the SMA20. Ensure cash reserves stay safely above $4.00.",
-    "updated_at": "2026-10-31T17:10:41.090076-03:00"
+    "notes": "Maintain the current AAPL equity position during the weekend/market closure as it holds above its SMA20 trendline. Keep monitoring AAPL for take-profit targets (+3.0% to +5.0%) or stop-loss protection (-1.8% to -2.0%) upon market reopening. Keep all crypto assets sidelined since they do not meet our uptrend requirement. Ensure cash reserves remain comfortably above the $4.00 minimum.",
+    "updated_at": "2026-10-31T17:20:33.643819-03:00"
   }
 }
