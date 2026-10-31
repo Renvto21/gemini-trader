@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-31 00:10:38`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-31 00:20:41`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The traditional equity markets are currently closed (CERRADO), featuring widespread macroeconomic headwinds with major indices and equities like SPY, QQQ, NVDA, and MSFT trading below their respective SMA20 trends. AAPL remains the sole equity holding in an uptrend (ALCISTA sobre SMA20) with a mild current unrealized PnL of -0.73%. Cryptocurrencies are active 24/7, but BTC-USD, ETH-USD, and SOL-USD remain in bearish trends (bajo SMA20), violating our strict trend-following pullback rules. As such, no new positions will be opened, and AAPL will be held in accordance with equity holding patience guidelines."
+> "The overall market continues to experience a broad corrective phase, with major equity indices and assets sitting below their SMA20 trends. AAPL remains our sole open equity position, currently maintaining its position above the SMA20 trend filter with a mild negative PnL of -0.73%, well above our -1.8% to -2.0% stop-loss threshold. In accordance with equity holding patience guidelines, AAPL will continue to be held as equity assets require time to materialize. Crypto assets are currently trading below their SMA20 trend lines, violating our strict trend-following requirements despite some positive 1-hour changes, meaning we will remain sidelined in the crypto sector. Wall Street markets are currently closed (CERRADO), so no new equity orders can be placed at this time."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20 and adheres to equity holding patience rules despite flat short-term movement. No action is required until profit targets or stop-loss thresholds are met.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20 with a current PnL of -0.73%, which is well within our acceptable drawdown limit and far from the stop-loss threshold. Following the rule of equity holding patience, we will maintain the position and give it time to work toward our +3.0% to +5.0% profit target.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL while respecting equity holding patience, monitoring for profit targets between +3.0% and +5.0% or risk management exits near the -1.8% to -2.0% stop-loss threshold. Keep all crypto assets sidelined due to bearish trends below the SMA20. Await standard equity market hours and confirmed bullish pullbacks before deploying additional capital reserves."
+> "Continue holding AAPL and monitor its price action against our profit target (+3.0% to +5.0%) and stop-loss limit (-1.8% to -2.0%). Keep crypto assets sidelined due to bearish trend conditions below the SMA20. Maintain cash reserves and wait for standard market hours and valid confirmed pullbacks before executing any new buy orders."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
