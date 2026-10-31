@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position during market closure as it respects the SMA20 uptrend filter. Watch AAPL closely when Wall Street reopens to capture potential upside toward our +3.0% to +5.0% target or strictly cut losses if it hits the -1.8% to -2.0% stop-loss threshold. Keep crypto and bearish equities sidelined.",
-    "updated_at": "2026-10-31T18:00:51.205086-03:00"
+    "notes": "Maintain the existing AAPL position as it continues to respect the SMA20 uptrend filter during market closure. Await the reopening of Wall Street to monitor AAPL for potential upside movement towards the +3.0% to +5.0% profit target or to execute a strict stop-loss if it breaches the -1.8% to -2.0% risk threshold. Keep crypto sidelined due to bearish macro trends.",
+    "updated_at": "2026-10-31T18:10:40.992995-03:00"
   }
 }
