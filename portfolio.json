@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position under equity holding patience rules as it consolidates above the daily SMA20. Monitor for take-profit targets between +3.0% and +5.0% or observe the -1.8% to -2.0% stop-loss circuit breaker if market conditions deteriorate upon reopening. Keep crypto sidelined due to bearish trends below SMA20.",
-    "updated_at": "2026-10-31T08:50:39.278312-03:00"
+    "notes": "Maintain the AAPL position under equity holding patience rules as it continues to consolidate above the daily SMA20. We will monitor for take-profit targets between +3.0% and +5.0% or observe the strict -1.8% to -2.0% stop-loss circuit breaker upon market reopening. Keep crypto sidelined due to bearish trends below the SMA20 and lack of confirmed upward momentum matching our strict quantitative filters.",
+    "updated_at": "2026-10-31T09:00:50.112159-03:00"
   }
 }
