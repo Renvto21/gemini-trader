@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position as it remains in a confirmed uptrend above the SMA20, respecting our equity holding patience rule since it has not violated the stop-loss limit of -1.8% to -2.0%. Keep crypto exposure closed as major cryptocurrencies are currently below their SMA20 lines or lack clear 1-hour upward reversal triggers. Continue to monitor cash reserves ($32.23) and wait for Wall Street markets to reopen or for cryptocurrencies to establish robust bullish trends above the SMA20 before considering new deployments.",
-    "updated_at": "2026-10-31T20:30:47.985663-03:00"
+    "notes": "Continue to hold the AAPL position in accordance with equity holding patience guidelines, as it remains in a confirmed uptrend above the SMA20 and has not hit the -1.8% to -2.0% stop-loss circuit breaker. Keep crypto exposure closed since active crypto assets fail our strict trend filter (below SMA20). Monitor cash reserves ($32.23) and wait for Wall Street markets to reopen or for cryptocurrencies to establish verified uptrends with positive 1-hour reversal triggers before executing new buys.",
+    "updated_at": "2026-10-31T20:40:34.250916-03:00"
   }
 }
