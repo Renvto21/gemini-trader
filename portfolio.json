@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue to hold AAPL under equity holding patience rules while waiting for market reopening. Monitor AAPL for take-profit targets between +3.0% and +5.0% or the -1.8% to -2.0% stop-loss circuit breaker. Keep cryptocurrencies sidelined due to ongoing bearish trends below the SMA20.",
-    "updated_at": "2026-10-31T09:10:44.803864-03:00"
+    "notes": "Continue holding the AAPL position under equity holding patience rules. Monitor for take-profit opportunities between +3.0% and +5.0% when markets reopen, or exit immediately if the stop-loss circuit breaker (-1.8% to -2.0%) is breached. Keep cryptocurrencies sidelined due to ongoing downtrends below the SMA20.",
+    "updated_at": "2026-10-31T09:20:46.118179-03:00"
   }
 }
