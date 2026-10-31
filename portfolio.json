@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under equity holding patience rules as it remains in an uptrend above its SMA20 with a current PnL of -0.73%. Monitor AAPL for take-profit opportunities between +3.0% and +5.0% upon market reopening, and adhere strictly to the stop-loss circuit breaker (-1.8% to -2.0%). Keep crypto and other equities sidelined until clear confirmed uptrends above SMA20 materialize.",
-    "updated_at": "2026-10-31T09:40:34.317957-03:00"
+    "notes": "Continue holding AAPL under equity holding patience rules since it remains in an uptrend above its SMA20. Monitor AAPL upon market reopening for take-profit opportunities between +3.0% and +5.0% or adhere strictly to stop-loss levels if prices drop to -1.8% / -2.0%. Keep crypto sidelined as no available crypto asset meets our confirmed uptrend above SMA20 criteria with positive reversal triggers.",
+    "updated_at": "2026-10-31T09:50:43.046363-03:00"
   }
 }
