@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL holding as it remains above its SMA20 trendline. Current PnL is +0.5%, well within our target range of +3.0% to +5.0% and safely away from the -1.8% stop-loss threshold. Keep cash reserve at $32.23. Do not open any crypto positions while they remain below the SMA20 trendline, regardless of short-term 1-hour RSI bounces. Wait for the reopening of traditional equity markets for any future allocations or target evaluations.",
-    "updated_at": "2026-10-30T21:10:43.994171-03:00"
+    "notes": "Maintain the AAPL position as it is above the SMA20 trendline and holding steady within our patient equity holding guidelines. Current PnL is +0.5%, with a target profit of +3.0% to +5.0% and stop-loss at -1.8% to -2.0%. Do not open crypto positions while they remain below the SMA20 trendline. Wait for traditional market reopening to evaluate new equity allocations or potential exits.",
+    "updated_at": "2026-10-30T21:20:43.037798-03:00"
   }
 }
