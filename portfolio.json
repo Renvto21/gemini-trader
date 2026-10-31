@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the existing AAPL position as it respects the SMA20 uptrend filter during market closure. Monitor AAPL upon market reopening for upside movement towards the +3.0% to +5.0% profit target, or execute a strict stop-loss if it breaches -1.8% to -2.0%. Keep crypto sidelined due to persistent bearish macro trends below SMA20.",
-    "updated_at": "2026-10-31T18:30:47.915734-03:00"
+    "notes": "Maintain the existing AAPL position as it continues to respect the SMA20 uptrend filter during weekend/market closure. Monitor AAPL upon market reopening for potential upside movement towards the +3.0% to +5.0% profit target, or execute a strict stop-loss if it breaches -1.8% to -2.0%. Keep crypto sidelined due to persistent bearish macro trends below SMA20.",
+    "updated_at": "2026-10-31T18:40:41.677224-03:00"
   }
 }
