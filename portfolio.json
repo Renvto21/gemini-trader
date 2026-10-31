@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL as it remains above its SMA20, respecting equity holding patience rules while it fluctuates within normal ranges. Monitor for profit-taking targets between +3.0% and +5.0% or risk management triggers if it nears the -1.8% to -2.0% stop-loss threshold. Keep crypto and other equity additions on hold until confirmed uptrends and pullbacks above SMA20 emerge during active market hours.",
-    "updated_at": "2026-10-30T23:50:39.746497-03:00"
+    "notes": "Continue holding AAPL as it remains above its SMA20 and respects equity holding patience rules despite flat movement. Monitor for profit targets between +3.0% and +5.0% or risk management exits near the -1.8% to -2.0% stop-loss threshold. Avoid entering crypto positions while they remain in downtrends below the SMA20. Wait for standard equity market hours and confirmed pullbacks before deploying additional capital.",
+    "updated_at": "2026-10-31T00:00:53.617815-03:00"
   }
 }
