@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-31 16:50:41`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-10-31 17:00:43`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities (AAPL, MSFT, NVDA, SPY, QQQ, GLD) are currently closed ('CERRADO'), with prices frozen and multiple indices showing bearish trends below their SMA20 lines. AAPL remains our sole active equity position, currently experiencing a mild drawdown of -0.73%, well within our acceptable risk limits and adhering to equity holding patience rules. In the crypto markets ('ABIERTO (24/7)'), both BTC-USD, ETH-USD, and SOL-USD are exhibiting bearish daily trends below their SMA20 lines with negative 7-day performance. Specifically, BTC-USD and ETH-USD show negative 1-hour percentage changes, failing our strict trend filter and reversal confirmation triggers. Therefore, no crypto trades are executed, and AAPL is maintained."
+> "Wall Street markets remain closed (market_status: CERRADO), with asset prices frozen. AAPL is our only open equity position, currently showing a modest loss of -0.73% but maintaining its status above the SMA20 uptrend filter. Cryptocurrencies are trading 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD are currently classified as downtrends (below SMA20) or lack a confirmed 1-hour green candle bounce with sufficient reversal triggers, keeping us sidelined in crypto due to strict trend and anti-correlation constraints."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a closed market status, and our position is down only -0.73%, which is well within our strict stop-loss threshold (-1.8% to -2.0%). Adhering to the equity holding patience rule, we maintain the position while awaiting market reopening.
+- **[HOLD] AAPL** (Confidence: 80%): AAPL is currently in an uptrend (above SMA20) and the market is closed. Per equity holding patience rules, we maintain the position without premature rotation while monitoring stop-loss and take-profit thresholds for market reopening.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL under equity holding patience rules as market is closed. Monitor AAPL for potential take-profit between +3.0% and +5.0% or stop-loss at -1.8% to -2.0% upon market reopening. Keep crypto assets sidelined due to bearish trends and lack of confirmed 1-hour green candle bounces. Maintain strict adherence to cash reserves and anti-correlation constraints."
+> "Continue holding AAPL under equity holding patience rules while the market is closed. Monitor AAPL upon market reopening for take-profit targets (+3.0% to +5.0%) or stop-loss protection (-1.8% to -2.0%). Keep crypto assets sidelined due to bearish trends and lack of confirmed breakout conditions. Maintain cash reserves above $4.00."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
