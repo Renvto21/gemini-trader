@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under equity holding patience rules. AAPL is currently trading at $344.63, safely above our -1.8% to -2.0% stop-loss threshold (~$340.00). Maintain the take-profit target at $360.00 (+3.8%). Cash reserves stand strong at $32.23. Refrain from opening new crypto or equity positions until market conditions shift and assets clearly reclaim an uptrend above their SMA20 alongside confirmed pullback triggers.",
-    "updated_at": "2026-11-01T10:20:42.763233-03:00"
+    "notes": "Continue holding AAPL under equity holding patience rules. AAPL is currently at $344.63 (-0.73% PnL), well above our hard stop-loss circuit breaker (-1.8% to -2.0%, ~uo $340.00). Maintain take-profit target near $360.00 (+3.8%). Cash reserves stand at $32.23. Refrain from opening new crypto positions as BTC, ETH, and SOL remain in bearish trends below their SMA20. Monitor market re-openings for potential new pullbacks in confirmed uptrend assets.",
+    "updated_at": "2026-11-01T10:30:46.715957-03:00"
   }
 }
