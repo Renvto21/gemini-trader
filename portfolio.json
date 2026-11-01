@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL holding as it remains above the SMA20 trend line, respecting the stop-loss threshold and targeting profit levels above $360.00. Keep cash reserves secure ($32.23). Avoid crypto entries as prevailing trends are bearish below SMA20. Re-evaluate equity and crypto pullback opportunities once traditional markets reopen or confirmed uptrends establish.",
-    "updated_at": "2026-11-01T13:30:47.579556-03:00"
+    "notes": "Maintain AAPL holding as it remains above the SMA20 trend line, respecting equity holding patience guidelines. Do not rotate out of AAPL prematurely. Keep cash reserves secure ($32.23). Avoid crypto entries because prevailing trends remain bearish below the SMA20 despite minor hourly rebounds. Re-evaluate equity opportunities once traditional markets reopen.",
+    "updated_at": "2026-11-01T13:40:44.451880-03:00"
   }
 }
