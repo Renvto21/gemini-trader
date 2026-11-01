@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position under equity holding patience rules, as its current PnL of -0.73% is far from the -1.8% to -2.0% stop-loss threshold. Keep all crypto assets sidelined since they lack confirmed uptrends above the SMA20 and fail the 1-hour green candle confirmation trigger. Wait for Wall Street markets to reopen and look for qualified pullback entries on high-quality uptrend assets.",
-    "updated_at": "2026-11-01T09:30:48.484051-03:00"
+    "notes": "Maintain the AAPL position under equity holding patience rules; stop-loss is set near -1.8% to -2.0% (around 340.00 USD) and take-profit target is 360.00 USD (+3.8%). Keep crypto assets sidelined because none satisfy both the uptrend requirement above the SMA20 and a positive 1-hour green candle confirmation trigger. Wait for Wall Street markets to reopen to evaluate equity pullbacks.",
+    "updated_at": "2026-11-01T09:40:40.468188-03:00"
   }
 }
