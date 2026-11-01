@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position as it respects the holding patience rule and stays in an uptrend above SMA20. Monitor stop-loss around -1.8% to -2.0% and target profit above +3.0%. For crypto assets, keep standing on the sidelines as all active options are currently in a bearish trend below the SMA20. Await market re-openings and confirmed trend reversals before taking new positions.",
-    "updated_at": "2026-11-01T07:30:45.187602-03:00"
+    "notes": "Maintain AAPL equity position as it remains in a confirmed uptrend above SMA20, adhering to the equity holding patience rule. Monitor AAPL's stop-loss around -1.8% to -2.0% and profit target above +3.0%. For crypto assets, stay on the sidelines as they lack a verified bullish trend above the SMA20 combined with a confirmed positive 1-hour reversal trigger. Wait for Wall Street markets to re-open before evaluating new equity opportunities.",
+    "updated_at": "2026-11-01T07:40:37.510046-03:00"
   }
 }
