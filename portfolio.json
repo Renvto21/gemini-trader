@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current position in AAPL in accordance with equity holding patience, as it remains in an uptrend above the SMA20 and far from our -2.0% stop-loss threshold. Do not execute any crypto trades because all available crypto assets are in downtrends below the SMA20 or fail our reversal confirmation filter. Await market reopening for equities to assess new pullback entries or take profits once AAPL reaches the +3.5% to +5.0% target zone.",
-    "updated_at": "2026-11-01T19:11:05.371868-03:00"
+    "notes": "Maintain the AAPL position as it remains in an uptrend above the SMA20, well above our strict -2.0% stop-loss threshold. Do not execute any new buys in crypto or closed equities due to unfavorable trend conditions and market closures. Wait for market reopening to evaluate equities for potential take-profit execution if AAPL reaches the +3.5% to +5.0% target zone, or monitor closely for stop-loss triggers if downside volatility accelerates.",
+    "updated_at": "2026-11-01T19:20:41.254164-03:00"
   }
 }
