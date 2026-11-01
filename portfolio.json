@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL within acceptable drawdown limits (-0.73%) as equity markets are closed. Cryptocurrencies remain under their SMA20, signaling that we must stay flat on crypto until a robust reclaim of the SMA20 and confirmed green hourly candles occur. Maintain cash reserves and monitor for any trend reversals once traditional markets open.",
-    "updated_at": "2026-11-01T14:31:10.818246-03:00"
+    "notes": "Holding AAPL within acceptable drawdown limits (-0.73%) as equity markets are closed. Cryptocurrencies remain under their SMA20 or lack positive 1-hour momentum confirmation, signaling that we must stay flat on crypto. Maintain cash reserves and monitor for any trend reversals once traditional markets open.",
+    "updated_at": "2026-11-01T14:41:00.966824-03:00"
   }
 }
