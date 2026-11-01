@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL while markets are closed, adhering to equity holding patience rules. Wait for AAPL to recover toward our +3.0% to +5.0% profit target, or exit immediately if the stop-loss threshold of -1.8% to -2.0% is breached. Keep all crypto assets sidelined as they remain in downtrends below the SMA20, violating our strict trend-following filter. Monitor for market openings and improved trend confirmations before deploying additional capital.",
-    "updated_at": "2026-11-01T00:10:41.700981-03:00"
+    "notes": "Continue holding AAPL while equities markets remain closed, respecting equity holding patience rules. Monitor AAPL for a rebound toward the +3.0% to +5.0% profit target or enforce a strict stop-loss if it approaches -1.8% to -2.0%. Keep all cryptocurrencies sidelined as they are currently in bearish trends below the SMA20, violating the trend filter. Wait for confirmed trend reversals above the SMA20 and positive 1-hour momentum before deploying any additional capital into new positions.",
+    "updated_at": "2026-11-01T00:20:42.957709-03:00"
   }
 }
