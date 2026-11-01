@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position adhering to equity holding patience guidelines. Stop-loss remains protected around the -1.8% to -2.0% threshold, and take-profit targets are set above +3.0%. Cash reserves remain at $32.23 USD. Do not execute any trades while traditional markets are closed and crypto assets fail to meet our trend-following criteria.",
-    "updated_at": "2026-11-01T07:11:14.922290-03:00"
+    "notes": "Maintain the current AAPL position adhering to equity holding patience. The stop-loss is protected near -1.8% to -2.0% and take-profit targets are set above +3.0%. For crypto assets, remain on the sidelines until a clear confirmed uptrend above the SMA20 emerges alongside positive momentum triggers.",
+    "updated_at": "2026-11-01T07:20:42.594828-03:00"
   }
 }
