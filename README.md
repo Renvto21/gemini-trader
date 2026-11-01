@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-01 17:10:39`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-01 17:20:41`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broad market remains under corrective pressure, with most equities and crypto assets trading below their SMA20 lines in a bearish posture. AAPL is the sole asset maintaining a confirmed uptrend (above SMA20) with a healthy daily RSI of 54.9. Wall Street markets are closed (market_status: CERRADO), and crypto assets show flat or neutral momentum without fulfilling the strict reversal trigger criteria (change_1h_pct > 0.0 with sufficient volume and upside continuation). Therefore, capital preservation and patience are prioritized."
+> "The overall market continues to experience broad weakness with all major tracked assets except AAPL trading below their SMA20 trendlines. Wall Street equities (AAPL, MSFT, SPY, QQQ, NVDA, GLD) are currently closed with frozen prices. AAPL remains our sole active equity position, holding its bullish stance above the SMA20 with a current PnL of -0.73%, well away from our stop-loss threshold. Cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) are open 24/7, but they currently show bearish trends below their respective SMA20 lines and lack positive 1-hour percentage changes or required reversal triggers, keeping us on the sidelines."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is maintaining its position above the SMA20 uptrend filter and is currently holding steady at a minor -0.73% drawdown. In line with equity holding patience rules, we allow the stock time to develop and hold through temporary consolidation without violating the -2.0% stop-loss.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20 despite a temporary minor drawdown of -0.73%. Per equity holding patience rules, positions should not be sold for being flat or slightly down over short durations unless the stop-loss is reached.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL in accordance with equity holding patience rules since it remains above the SMA20 with a PnL of -0.73%. Monitor stop-loss around -2.0% ($340.23) and target an upside exit between +3.5% and +5.0% ($359.30 to $364.50). Refrain from taking any actions on closed equities or crypto assets until strict trend filters and hourly bounce triggers are met."
+> "Continue holding AAPL in accordance with equity holding patience rules, maintaining a target upside exit between +3.5% and +5.0% ($359.30 to $364.50) and a stop-loss around -2.0% ($340.23). Do not execute new trades in crypto since available assets fail the strict trend filter (below SMA20) or lack the required positive 1-hour bounce trigger."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
