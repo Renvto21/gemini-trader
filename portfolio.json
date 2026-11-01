@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL while equity markets are closed, monitoring for a rebound toward the +3.0% to +5.0% profit target while respecting the -1.8% stop-loss threshold. Keep all crypto assets sidelined since none satisfy both a confirmed uptrend above SMA20 and clean reversal criteria. Maintain cash reserves above $4.00 USD.",
-    "updated_at": "2026-11-01T00:50:39.942445-03:00"
+    "notes": "Continue holding AAPL as it remains above its SMA20 trend filter, monitoring for a rebound toward the +3.0% to +5.0% profit target while respecting the strict -1.8% stop-loss threshold (-2.0% circuit breaker). Keep crypto sidelined due to bearish trends below SMA20 and lack of clean reversal confirmation. Maintain cash reserves above $4.00 USD.",
+    "updated_at": "2026-11-01T01:00:46.719615-03:00"
   }
 }
