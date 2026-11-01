@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL while respecting equity holding patience rules. AAPL is above the SMA20 trend line with a minor drawdown of -0.73%; we maintain our profit objective at +3.0% to +5.0% and a hard stop-loss at -1.8%. Traditional markets are closed, and crypto assets lack a confirmed bullish pullback setup above the SMA20 with positive 1-hour momentum. We will maintain cash reserves and wait for active Wall Street market hours and valid reversal triggers.",
-    "updated_at": "2026-11-01T15:31:10.607541-03:00"
+    "notes": "Holding AAPL under equity holding patience rules with a current PnL of -0.73%. Wall Street is closed, so no stock actions can be taken. Crypto markets do not present any valid setups as all major coins (SOL, ETH, BTC) remain in downtrends below their SMA20 lines. We will continue holding AAPL, monitor its performance upon market reopening, and maintain cash reserves while waiting for confirmed bullish pullbacks above the SMA20.",
+    "updated_at": "2026-11-01T15:40:45.527740-03:00"
   }
 }
