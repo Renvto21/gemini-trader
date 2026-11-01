@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current holding in AAPL as it remains above the SMA20, respecting equity holding patience. Monitor AAPL for price recovery towards the +3.5% to +5.0% profit target while keeping a strict watch on the -2.0% stop-loss threshold. Do not execute any crypto trades because available assets are below the SMA20 or fail our reversal confirmation criteria. Await market reopening for equities to assess new pullback setups.",
-    "updated_at": "2026-11-01T19:01:22.281591-03:00"
+    "notes": "Maintain the current position in AAPL in accordance with equity holding patience, as it remains in an uptrend above the SMA20 and far from our -2.0% stop-loss threshold. Do not execute any crypto trades because all available crypto assets are in downtrends below the SMA20 or fail our reversal confirmation filter. Await market reopening for equities to assess new pullback entries or take profits once AAPL reaches the +3.5% to +5.0% target zone.",
+    "updated_at": "2026-11-01T19:11:05.371868-03:00"
   }
 }
