@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position in accordance with equity holding patience guidelines, keeping stop-loss discipline near $338.00 and looking for take-profit opportunities above $360.00. Keep a complete sideline posture on cryptocurrencies until a confirmed trend reversal above the SMA20 occurs simultaneously with positive 1-hour momentum and an RSI >= 32. Continue preserving cash reserves and protecting capital.",
-    "updated_at": "2026-11-01T12:00:51.730866-03:00"
+    "notes": "Maintain the AAPL equity position with patience, respecting stop-loss discipline near $338.00 and looking for take-profit targets above $360.00. Keep a complete sideline posture on cryptocurrencies and closed equities until a confirmed uptrend above the SMA20 is re-established alongside positive 1-hour momentum and an RSI >= 32. Preserve the $32.23 cash buffer to maintain dry powder for future asymmetric setups.",
+    "updated_at": "2026-11-01T12:10:38.944608-03:00"
   }
 }
