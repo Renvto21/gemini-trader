@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL in accordance with equity holding patience rules, maintaining a target upside exit between +3.5% and +5.0% ($359.30 to $364.50) and a stop-loss around -2.0% ($340.23). Do not execute new trades in crypto since available assets fail the strict trend filter (below SMA20) or lack the required positive 1-hour bounce trigger.",
-    "updated_at": "2026-11-01T17:20:41.451183-03:00"
+    "notes": "Continue holding AAPL in accordance with equity holding patience rules, maintaining a target upside exit between +3.5% and +5.0% and a stop-loss around -2.0% ($340.23). Do not execute new trades in crypto since available assets fail the strict trend filter (below SMA20) or lack the required robust continuation confirmation. Wait for Wall Street reopening to reassess equity pullbacks.",
+    "updated_at": "2026-11-01T17:30:41.935182-03:00"
   }
 }
