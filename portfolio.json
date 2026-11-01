@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL in accordance with equity holding patience rules, respecting the hard stop-loss at -2.0% and targeting a +3.5% to +5.0% gain. Keep crypto exposure at zero since available options are below their SMA20s and lack confirmed positive 1-hour momentum with RSI >= 32. Monitor equity markets upon reopening for trend continuation or reversal confirmations.",
-    "updated_at": "2026-11-01T16:30:46.094266-03:00"
+    "notes": "Continue holding AAPL in accordance with equity holding patience rules, keeping a strict stop-loss at -2.0% and targeting a +3.5% to +5.0% gain. Keep crypto exposure at zero since available options do not satisfy the positive 1-hour momentum confirmation alongside the trend filter. Monitor equity markets upon reopening for trend continuation or reversal confirmations.",
+    "updated_at": "2026-11-01T16:40:44.545410-03:00"
   }
 }
