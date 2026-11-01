@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL within acceptable parameters above the SMA20 trend line, respecting equity holding patience rules. We will target a +3.0% to +5.0% profit objective while closely watching the -1.8% stop-loss threshold. Since traditional equities are closed and crypto assets lack a confirmed bullish trend above the SMA20, we will maintain our cash buffer, stay flat on new entries, and await valid pullback setups during active market hours.",
-    "updated_at": "2026-11-01T15:10:42.781270-03:00"
+    "notes": "Holding AAPL within acceptable drawdown limits while respecting equity holding patience rules. AAPL remains above the SMA20 trend line; we will target a +3.0% to +5.0% profit objective while strictly monitoring the -1.8% stop-loss threshold. Traditional markets are closed, and crypto assets lack a confirmed bullish setup above the SMA20 with positive 1-hour momentum. We will maintain our cash reserve and wait for active market hours and valid pullback triggers.",
+    "updated_at": "2026-11-01T15:20:45.247021-03:00"
   }
 }
