@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL in accordance with equity holding patience guidelines as it remains in an uptrend. We are monitoring crypto assets for when they reclaim their SMA20 and show confirmed 1-hour green candles with RSI >= 32. Cash reserves are healthy at $32.23.",
-    "updated_at": "2026-11-01T14:11:19.867098-03:00"
+    "notes": "Holding AAPL patiently while monitoring equity and crypto markets. Wall Street assets are closed. For crypto, BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 with negative 1-hour percentage changes; we will wait for a confirmed reclaim of the SMA20 and 1-hour green candles with RSI >= 32 before considering any crypto allocation.",
+    "updated_at": "2026-11-01T14:21:10.269541-03:00"
   }
 }
