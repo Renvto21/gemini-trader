@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL patiently while monitoring equity and crypto markets. Wall Street assets are closed. For crypto, BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 with negative 1-hour percentage changes; we will wait for a confirmed reclaim of the SMA20 and 1-hour green candles with RSI >= 32 before considering any crypto allocation.",
-    "updated_at": "2026-11-01T14:21:10.269541-03:00"
+    "notes": "Holding AAPL within acceptable drawdown limits (-0.73%) as equity markets are closed. Cryptocurrencies remain under their SMA20, signaling that we must stay flat on crypto until a robust reclaim of the SMA20 and confirmed green hourly candles occur. Maintain cash reserves and monitor for any trend reversals once traditional markets open.",
+    "updated_at": "2026-11-01T14:31:10.818246-03:00"
   }
 }
