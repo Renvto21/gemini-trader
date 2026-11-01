@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL in accordance with equity holding patience rules, as it remains in an uptrend above the SMA20 despite flat performance. Monitor AAPL for a target recovery of +3.0% to +5.0% or a stop-loss exit if losses breach -1.8% to -2.0%. Keep all crypto assets sidelined since none meet the uptrend filter above SMA20. Maintain cash reserves above $4.00 USD.",
-    "updated_at": "2026-11-01T00:00:52.478413-03:00"
+    "notes": "Continue holding AAPL while markets are closed, adhering to equity holding patience rules. Wait for AAPL to recover toward our +3.0% to +5.0% profit target, or exit immediately if the stop-loss threshold of -1.8% to -2.0% is breached. Keep all crypto assets sidelined as they remain in downtrends below the SMA20, violating our strict trend-following filter. Monitor for market openings and improved trend confirmations before deploying additional capital.",
+    "updated_at": "2026-11-01T00:10:41.700981-03:00"
   }
 }
