@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under equity holding patience rules, respecting the target profit of +3.5% to +5.0% and the stop-loss limit of -2.0%. Monitor stock market reopening for potential trend continuation or exit signals. Avoid crypto positions until assets successfully reclaim their SMA20 trendlines with confirmed 1-hour RSI and positive momentum.",
-    "updated_at": "2026-11-01T16:00:51.057129-03:00"
+    "notes": "Continue holding AAPL under equity holding patience rules, as it remains in a confirmed uptrend (above SMA20) despite temporary consolidation. Watch for equity market reopening to assess trend continuity, targeting a take-profit gain of +3.5% to +5.0% and respecting the hard stop-loss at -2.0%. Keep crypto exposure at zero until assets reclaim their SMA20 trendlines with confirmed positive 1-hour momentum.",
+    "updated_at": "2026-11-01T16:10:44.159056-03:00"
   }
 }
