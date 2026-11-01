@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position patiently as it is in an uptrend above the SMA20. Monitor stop-loss around -2.0% and target a +3.5% to +5.0% profit objective upon market reopening. Avoid all crypto assets because they remain in downtrends below the SMA20, violating our strict trend filter. Preserve cash reserves ($32.23 USD) and await high-quality pullbacks in confirmed uptrend assets when markets reopen.",
-    "updated_at": "2026-11-01T20:10:39.996081-03:00"
+    "notes": "Maintain the AAPL position patiently as it is in a confirmed uptrend above the SMA20. Monitor stop-loss around -2.0% (-0.73% currently) and target a +3.5% to +5.0% profit objective upon market reopening. Avoid all crypto assets because they remain in downtrends below the SMA20, violating our strict trend filter. Preserve cash reserves ($32.23 USD) and await high-quality pullbacks in confirmed uptrend assets when traditional markets reopen.",
+    "updated_at": "2026-11-01T20:20:42.445292-03:00"
   }
 }
