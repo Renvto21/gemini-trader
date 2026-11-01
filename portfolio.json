@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under equity holding patience rules. AAPL is still in a confirmed uptrend above the SMA20; current price is $344.63 against our entry of $347.17 (-0.73%). Maintain stop-loss protection near -1.8% to -2.0% (around $340.00) and take-profit target at $360.00 (+3.8%). Keep cash reserves intact ($32.23) and wait for Wall Street markets to reopen or for cryptocurrencies to establish valid uptrends above SMA20 before deploying new capital.",
-    "updated_at": "2026-11-01T09:50:40.347325-03:00"
+    "notes": "Continue holding AAPL under equity holding patience rules. AAPL is currently trading at $344.63 against our entry price of $347.17 (-0.73%), staying safely above our stop-loss trigger at -1.8% to -2.0% (~$340.00). The take-profit target remains at $360.00 (+3.8%). Keep cash reserves intact at $32.23 and avoid entering crypto assets while they remain in downtrends below the SMA20.",
+    "updated_at": "2026-11-01T10:01:07.661398-03:00"
   }
 }
