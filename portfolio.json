@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL as it stays above the SMA20 trend filter, respecting our equity holding patience policy unless the stop-loss threshold near -1.8% to -2.0% is breached or a profit target of +3.0% to +5.0% is reached. Keep crypto sidelined due to lack of a valid uptrend confirmation.",
-    "updated_at": "2026-11-01T02:20:40.963142-03:00"
+    "notes": "Continue holding AAPL as it remains above the SMA20 trend filter. Monitor AAPL closely for a potential take-profit target between +3.0% and +5.0% or a stop-loss threshold near -1.8% to -2.0%. Keep crypto sidelined due to lack of a confirmed uptrend above the SMA20.",
+    "updated_at": "2026-11-01T02:30:51.043698-03:00"
   }
 }
