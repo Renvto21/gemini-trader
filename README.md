@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-02 11:40:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-02 11:50:50`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market remains under pressure with all monitored assets currently trading below their SMA20 trend lines in bearish daily structures. AAPL has experienced further downside, bringing its PnL close to the -1.8% to -2.0% stop-loss threshold. While equity holding patience allows giving stocks time to work, the strict stop-loss limit must be respected if conditions worsen. Crypto assets are consolidating, but none currently meet the strict trend filter requirements since all are below their SMA20."
+> "The broad market and tracked equities/crypto assets remain in a bearish trend across the board, trading below their respective SMA20 lines. While several instruments show short-term positive hourly ticks and bounce attempts, strict trend-following filters require us to avoid buying assets in a downtrend ('Rule of Gold' - never catch falling knives). Furthermore, strict confirmation triggers for pullbacks are not yet fully met across high-quality uptrend setups. Consequently, capital preservation remains paramount, and we will hold our cash reserves until a clear market structure recovery above the SMA20 emerges."
 
 **Cycle Actions:**
-- **[SELL] AAPL** (Confidence: 90%): AAPL has slipped further into a bearish trend below its SMA20 with a 1-hour RSI of 24.8 and is approaching our hard stop-loss threshold (-1.87% PnL). Disciplined capital preservation requires cutting the trade to protect remaining capital.
+- **[HOLD] SPY** (Confidence: 0%): All available assets, including SPY, are currently trading below their SMA20 lines in a bearish market structure. Adhering strictly to the trend filter and anti-catch-falling-knives rules, no new positions will be opened until a confirmed uptrend materializes.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Monitor AAPL closely; if drawdown breaches -1.8% to -2.0%, execute a stop-loss sell to protect capital. Continue to hold cash reserves and refrain from opening new positions until assets confirm an uptrend above their SMA20 lines with proper 1-hour momentum confirmation."
+> "Maintain cash discipline with $39.09 USD in reserve. Do not execute new long entries until assets cross back above their SMA20 lines and show confirmed 1-hour momentum. Keep monitoring GLD, SPY, and major crypto assets for trend reversals."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
