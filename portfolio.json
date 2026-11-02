@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold AAPL position during the weekend market closure, respecting equity holding patience. Target profit for AAPL remains +3.5% to +5.0%, with a hard stop-loss trigger at -2.0%. Avoid all crypto assets as none meet the strict SMA20 uptrend filter and pullback trigger conditions. Maintain cash discipline and wait for traditional market reopening to reassess equity pullbacks.",
-    "updated_at": "2026-11-01T21:30:48.149081-03:00"
+    "notes": "Maintain the current AAPL position as it remains in an uptrend above the SMA20. Profit target for AAPL is set between +3.5% and +5.0%, with a hard stop-loss circuit breaker at -2.0% (-0.73% currently). Do not buy any crypto assets as they are in downtrends below SMA20. Continue holding cash reserves ($32.23) and wait for traditional market reopening to evaluate new equity pullback opportunities.",
+    "updated_at": "2026-11-01T21:40:43.834416-03:00"
   }
 }
