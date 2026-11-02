@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained the AAPL position under equity holding patience rules. The current drawdown is -0.73%, which is well within our stop-loss limit of -2.0%. The take-profit target remains near +3.5% (~$359.32). Avoided all crypto and closed-market assets since none satisfy both the strict uptrend requirement above the SMA20 and clean reversal confirmation triggers. Will continue to hold AAPL and monitor for market re-openings or valid pullback setups.",
-    "updated_at": "2026-11-02T11:10:48.336615-03:00"
+    "notes": "Maintained the AAPL position under equity holding patience rules; current unrealized drawdown is -0.73%, well within the -2.0% stop-loss floor. Take-profit remains targeted near +3.5% (~$359.32). Avoided opening new crypto positions as ETH-USD and BTC-USD remain below their SMA20 despite brief positive 1h changes. Will hold AAPL until market re-opens and monitor for trend continuation or stop-loss events.",
+    "updated_at": "2026-11-02T11:20:43.898697-03:00"
   }
 }
