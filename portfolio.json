@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Capital remains safely preserved in cash ($39.09). All available assets are currently trading below their SMA20 in clear downtrends. Adhering strictly to the rule of never catching falling knives, we will remain on the sidelines until an asset reclaims its SMA20, prints a positive 1-hour change, and reaches an 1-hour RSI >= 32. We wait patiently for valid trend-following pullback setups.",
-    "updated_at": "2026-11-02T19:40:43.296167-03:00"
+    "notes": "Preserving capital with $39.09 in cash. All available assets remain under their SMA20, signaling bearish market conditions. We will maintain patience and wait for equities to reopen and trends to reverse. For crypto assets, we require 'is_above_sma20' to turn true, 'rsi_1h' >= 32, and 'change_1h_pct' > 0.0 before considering any pullback entries.",
+    "updated_at": "2026-11-02T19:50:41.929917-03:00"
   }
 }
