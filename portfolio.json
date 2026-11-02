@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Capital is safely preserved in cash ($39.09). All available assets fail our strict trend filter, trading below their SMA20 lines with insufficient reversal confirmations (1-hour RSI < 32 for active cryptos, and equities closed). We will wait patiently for a regime shift where assets reclaim their SMA20 and display confirmed bullish momentum triggers before deploying capital.",
-    "updated_at": "2026-11-02T19:01:36.216381-03:00"
+    "notes": "Capital remains securely in cash ($39.09). No assets meet our strict trend-following criteria (all are below SMA20 and lack reversal confirmation with RSI >= 32 and positive 1-hour candles). We will patiently wait for a confirmed trend reversal where assets reclaim their SMA20 and show genuine bullish momentum before executing any new entries.",
+    "updated_at": "2026-11-02T19:10:48.543725-03:00"
   }
 }
