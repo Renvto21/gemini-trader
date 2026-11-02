@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-02 12:01:14`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-02 12:10:41`
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The market remains predominantly in a bearish trend across all major assets, with equities and cryptos trading below their respective SMA20 lines. Although several equities (such as NVDA, QQQ, and SPY) show minor 1-hour positive momentum, strict trend-filtering rules prohibit buying assets below the SMA20. Cryptocurrencies like ETH-USD and BTC-USD show flat to slightly positive 1-hour changes but lack a confirmed breakout above their daily trends. Cash preservation is prioritized while waiting for a confirmed shift back above the SMA20."
+> "The market remains in a defensive posture with all tracked assets currently classified under a bearish trend below their respective SMA20. Although some assets are displaying positive 1-hour momentum, the strict quantitative rule requiring assets to be above the SMA20 prevents entering new long positions. We maintain capital preservation by holding cash and waiting for structural trend reversals."
 
 **Cycle Actions:**
 - *No changes this cycle (HOLD)*
@@ -31,7 +31,7 @@
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Preserving cash at $39.09 USD. Avoid entering any positions as all tracked assets are currently below their SMA20 (bearish trend). Wait for assets to cross back above their SMA20 and display robust 1-hour momentum before allocating capital."
+> "Preserving cash at $39.09 USD. All assets remain below SMA20, signaling continued bearish pressure. Do not catch falling knives. Continue to monitor for assets reclaiming their SMA20 alongside robust 1-hour momentum and RSI >= 32 before deploying capital into the next trend-following pullback."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
