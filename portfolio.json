@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position adhering to the equity holding patience rule as it remains above its SMA20 filter with a PnL of -0.73%. Watch for market reopening and keep cash reserves intact at $32.23. Do not open any crypto positions as all available crypto assets are currently trading below their SMA20. Wait for clear bullish reversals and confirmed uptrends on equities during market hours before deploying additional capital.",
-    "updated_at": "2026-11-02T05:00:52.663628-03:00"
+    "notes": "Maintain the current AAPL equity position as it adheres to the equity holding patience rule and remains our only asset in a confirmed uptrend above the SMA20. Monitor stop-loss closely around the -1.8% to -2.0% threshold. Do not execute any new trades or rotate out of AAPL while stock markets are closed. Keep cash reserves intact at $32.23 and wait for market reopening and confirmed bullish trend conditions before considering further capital deployment.",
+    "updated_at": "2026-11-02T05:10:38.229225-03:00"
   }
 }
