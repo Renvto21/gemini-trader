@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position as it remains above its SMA20 filter, adhering to the equity holding patience rule. Monitor AAPL for a target recovery towards $360.00 and maintain a strict stop-loss threshold near $340.00 (-1.8% to -2.0%). Keep cash reserves protected ($32.23) and wait for confirmed uptrend reversals and positive 1-hour candles on open markets before deploying new capital.",
-    "updated_at": "2026-11-02T04:20:44.124679-03:00"
+    "notes": "Maintain the current AAPL equity position as it remains above its SMA20 filter and adheres to the equity holding patience rule despite being flat. Target recovery for AAPL is near $360.00, keeping a tight stop-loss near $340.00 (-1.8% to -2.0%). Cash reserves are safely maintained at $32.23. For upcoming crypto cycles, wait for assets to reclaim their SMA20 trend lines and show confirmed positive 1-hour candles before deploying capital.",
+    "updated_at": "2026-11-02T04:30:46.151498-03:00"
   }
 }
