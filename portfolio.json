@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position as it remains above the SMA20 trend filter, respecting equity holding patience. Monitor AAPL upon market reopening for take-profit targets between +3.5% and +5.0% or stop-loss defense near -2.0%. Avoid opening new crypto or equity positions until assets meet the strict uptrend and reversal confirmation criteria.",
-    "updated_at": "2026-11-01T23:20:41.177791-03:00"
+    "notes": "Hold AAPL position as it remains above the SMA20 trend filter, respecting equity holding patience. Monitor AAPL upon market reopening for take-profit targets between +3.5% and +5.0% or stop-loss defense near -2.0%. Avoid opening new crypto positions as all available crypto assets are currently trading below their SMA20, violating our strict trend filter rules.",
+    "updated_at": "2026-11-01T23:31:06.990800-03:00"
   }
 }
