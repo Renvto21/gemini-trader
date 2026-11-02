@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position adhering to equity patience under rule #6; stop-loss is near -2.0% ($340.23) and take-profit target is +3.5% ($359.32). Avoid entering crypto assets due to the prevailing bearish trends below SMA20. Await market re-open for equities and monitor for confirmed trend reversals on quality stocks or cryptos.",
-    "updated_at": "2026-11-02T09:30:43.523471-03:00"
+    "notes": "Maintain the current AAPL position adhering to equity patience under rule #6; stop-loss is set near -2.0% ($340.23) and take-profit target at +3.5% ($359.32). Avoid entering crypto assets due to prevailing bearish trends below SMA20 and lack of clean multi-indicator breakouts. Await market re-opening for equities and monitor SPY, QQQ, and NVDA for trend recovery above SMA20.",
+    "updated_at": "2026-11-02T09:40:46.485331-03:00"
   }
 }
