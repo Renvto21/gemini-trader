@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position as it respects the trend filter and equity holding patience guidelines. Watch stop-loss levels near -1.8% to -2.0% ($340.20). Keep crypto exposure at zero due to persistent macro downtrends across SOL, ETH, and BTC below the SMA20. Wait for traditional market hours to resume and confirm higher highs before considering new allocations.",
-    "updated_at": "2026-11-02T05:30:41.030689-03:00"
+    "notes": "Maintain the AAPL position patiently as it respects the trend filter above the SMA20. Monitor stop-loss around -1.8% to -2.0% ($340.20) and take-profit targets between +3.0% and +5.0% ($357.50+). Keep crypto exposure at zero due to persistent macro downtrends below the SMA20 across ETH, BTC, and SOL. Wait for equity markets to open and confirm constructive price action before deploying additional capital from cash reserves ($32.23).",
+    "updated_at": "2026-11-02T05:41:24.505786-03:00"
   }
 }
