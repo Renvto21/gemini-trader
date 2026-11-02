@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position patiently as it remains in an uptrend above the SMA20. Watch for take-profit opportunities if AAPL approaches +3.0% to +5.0% (~$357.50+) or implement strict stop-loss measures if it breaches -1.8% to -2.0% (~$340.20). Keep crypto exposure at zero since all major coins are in downtrends below their SMA20. Wait for equity market re-opening before scanning for new pullback entries.",
-    "updated_at": "2026-11-02T06:31:07.873788-03:00"
+    "notes": "Maintain AAPL position patiently as it is the only asset remaining in an uptrend above the SMA20 while equity markets are closed. Watch for take-profit opportunities if AAPL approaches +3.0% to +5.0% (~$357.50+) or enforce stop-loss measures if it approaches -1.8% to -2.0% (~$340.20). Keep crypto exposure at zero since all major coins are currently in downtrends below their SMA20. Wait for the equity market re-opening before scanning for new pullback entries.",
+    "updated_at": "2026-11-02T06:40:50.422663-03:00"
   }
 }
