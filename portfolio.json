@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position, monitoring its stop-loss level near -1.8% to -2.0% ($340.00 target price area) and looking for a take-profit window around +3.5% to +5.0% ($360.00). Keep sideline liquidity protected while monitoring open crypto markets for any potential confirmed trend reversals above SMA20.",
-    "updated_at": "2026-11-02T04:00:48.024449-03:00"
+    "notes": "Maintain the current AAPL equity position as it continues to hold above its SMA20 trend filter, respecting the equity holding patience rule. Monitor its stop-loss level near -1.8% to -2.0% ($340.00) and take-profit window around +3.5% to +5.0% ($360.00). Keep sideline liquidity protected while monitoring open crypto markets for any potential confirmed trend reversals above SMA20.",
+    "updated_at": "2026-11-02T04:10:37.079347-03:00"
   }
 }
