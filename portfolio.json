@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the existing AAPL position as it remains in a structural uptrend above the SMA20, adhering to the equity holding patience rule while markets are closed. Keep sidelined cash intact and avoid entering crypto positions due to prevailing downtrends and lack of verified bullish reversal confirmations.",
-    "updated_at": "2026-11-02T03:50:39.827845-03:00"
+    "notes": "Maintain the current AAPL equity position, monitoring its stop-loss level near -1.8% to -2.0% ($340.00 target price area) and looking for a take-profit window around +3.5% to +5.0% ($360.00). Keep sideline liquidity protected while monitoring open crypto markets for any potential confirmed trend reversals above SMA20.",
+    "updated_at": "2026-11-02T04:00:48.024449-03:00"
   }
 }
