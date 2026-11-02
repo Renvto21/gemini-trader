@@ -1898,7 +1898,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position as it adheres to the equity holding patience rule and remains our only asset in a confirmed uptrend above the SMA20. Monitor stop-loss closely around the -1.8% to -2.0% threshold. Do not execute any new trades or rotate out of AAPL while stock markets are closed. Keep cash reserves intact at $32.23 and wait for market reopening and confirmed bullish trend conditions before considering further capital deployment.",
-    "updated_at": "2026-11-02T05:10:38.229225-03:00"
+    "notes": "Maintain the AAPL position as it continues to adhere to the equity holding patience rule and remains above the SMA20 trend filter. Monitor stop-loss around -1.8% to -2.0% ($340.20). Crypto assets (SOL-USD, BTC-USD, ETH-USD) remain in downtrends below the SMA20, so no crypto buys are permitted despite positive 1-hour candles. Wait for traditional markets to reopen and check for trend confirmations before deploying additional capital.",
+    "updated_at": "2026-11-02T05:20:39.265924-03:00"
   }
 }
