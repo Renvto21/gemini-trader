@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained 100% cash ($39.09). All assets are below SMA20, violating the rule against catching falling knives. In the next cycles, we will wait for assets to flip above SMA20 and confirm a reversal with rsi_1h >= 32 and positive hourly momentum before deploying capital.",
-    "updated_at": "2026-11-02T21:50:42.493446-03:00"
+    "notes": "Maintained 100% cash ($39.09). All available open crypto assets (BTC, ETH, SOL) fail the reversal trigger rules (negative 1-hour changes and RSI under 32) and remain below their SMA20. Equities are closed. We will continue to patiently monitor for assets reclaiming the SMA20 with positive 1-hour momentum and RSI >= 32 before deploying capital.",
+    "updated_at": "2026-11-02T22:00:48.050121-03:00"
   }
 }
