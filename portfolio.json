@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained 100% cash posture ($39.09 USD). All watched assets remain in downtrends below their SMA20 or lack positive 1-hour reversal confirmation. Will patiently wait for assets to reclaim their SMA20 trend lines and show green 1-hour candles before deploying capital within standard sizing rules.",
-    "updated_at": "2026-11-03T19:30:46.642043-03:00"
+    "notes": "Maintained 100% cash posture ($39.09 USD). All watched assets remain in downtrends below their SMA20 or lack positive 1-hour reversal confirmation (green candles with rsi_1h >= 32). Will patiently wait for assets to reclaim their SMA20 trend lines before deploying capital within standard sizing rules.",
+    "updated_at": "2026-11-03T19:40:39.720923-03:00"
   }
 }
