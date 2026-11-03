@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained 100% cash ($39.09). All available crypto assets (BTC, ETH, SOL) remain in a downtrend below their SMA20 despite brief green 1-hour bounces, violating our trend filter. Traditional markets are closed. We will continue to wait for an asset to reclaim its SMA20 with confirmed upward momentum before deploying capital.",
-    "updated_at": "2026-11-02T22:30:49.607990-03:00"
+    "notes": "Maintained 100% cash ($39.09). All available crypto assets are in a downtrend below SMA20 or fail our reversal confirmation criteria. Traditional equities are closed. We will continue to wait for an asset to reclaim its SMA20 with confirmed upward momentum (1H RSI >= 32 and positive 1H change) before deploying capital.",
+    "updated_at": "2026-11-02T22:40:38.679672-03:00"
   }
 }
