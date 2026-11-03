@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-03 05:40:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-03 05:50:37`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broad market remains in a strong bearish regime with all monitored equities and cryptocurrencies trading below their respective SMA20 lines. Equities are currently closed with frozen prices, while crypto assets (BTC, ETH, SOL) are open but experiencing negative 1-hour percentage changes and lack a confirmed upward reversal trigger. Sticking strictly to capital preservation rules, no buying actions will be executed until assets reclaim the SMA20 and exhibit confirmed 1-hour green candles with RSI >= 32."
+> "All tracked equities and crypto assets remain in clear downtrends (trading below their respective SMA20 lines), reflecting broad macro weakness and depressed daily RSIs. Wall Street markets are closed (CERRADO), leaving crypto assets as the only actively tradable instruments. However, crypto assets such as SOL-USD, ETH-USD, and BTC-USD are currently experiencing negative 1-hour percentage changes (change_1h_pct < 0), failing our reversal trigger requirement of a green 1-hour candle. Therefore, no long entries meet our strict trend-following pullback criteria. We maintain full cash reserves to preserve capital."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 100%): Asset is currently in a bearish trend below the SMA20 with a negative 1-hour change (-0.4%), violating the strict trend filter and reversal trigger rules. Maintaining capital preservation.
+- **[HOLD] SOL-USD** (Confidence: 100%): Crypto markets are open 24/7, but SOL-USD is currently below its SMA20 and has a negative 1-hour percentage change (-0.42%), failing the mandatory reversal confirmation trigger. Maintaining cash reserves until a valid uptrend pullback setup appears.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained full cash reserves ($39.09) as all available assets continue to exhibit bearish trends below the SMA20. Will continue monitoring crypto 24/7 for a shift above SMA20 backed by positive 1-hour price action and RSI >= 32. Equity markets remain closed and will be reassessed upon re-opening."
+> "Maintained full cash reserves ($39.09) as all available assets remain bearish below the SMA20. Will continue monitoring crypto 24/7 for a shift above SMA20 backed by positive 1-hour price action (change_1h_pct > 0.0) and RSI >= 32. Equity markets remain closed and will be reassessed upon re-opening."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
