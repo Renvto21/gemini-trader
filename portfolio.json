@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained 100% cash position ($39.09). All available assets across both equities and crypto remain below their SMA20 lines in a bearish market structure. Will continue to maintain strict discipline, avoiding all buys until an asset fully reclaims its SMA20 with confirmed 1-hour reversal triggers.",
-    "updated_at": "2026-11-03T08:50:41.202300-03:00"
+    "notes": "Maintained 100% cash position ($39.09). All available assets across equities and crypto remain below their SMA20 trend filters. Will maintain strict discipline, completely avoiding buy entries until an asset fully reclaims its SMA20 and prints a confirmed positive 1-hour candle change with an RSI >= 32.",
+    "updated_at": "2026-11-03T09:01:05.305103-03:00"
   }
 }
