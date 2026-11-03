@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained total liquidity in cash ($39.09) as the broader market remains below the SMA20. Will continue monitoring for structural trend reversals where assets break back above the SMA20 accompanied by positive 1-hour momentum and RSI >= 32 before deploying capital.",
-    "updated_at": "2026-11-03T15:40:46.247936-03:00"
+    "notes": "Maintained total cash liquidity due to all assets remaining in a downtrend below the SMA20. Will strictly wait for assets to reclaim the SMA20 with positive 1-hour momentum (change_1h_pct > 0.0 and RSI_1h >= 32) before deploying standard trade sizes ($6.00 to $10.00). Target asymmetric risk/reward profiles aiming for +3.0% to +5.0% gains with tight stop-losses at -1.8% to -2.0%.",
+    "updated_at": "2026-11-03T15:50:49.294046-03:00"
   }
 }

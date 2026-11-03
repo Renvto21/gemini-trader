@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-03 15:40:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-03 15:50:49`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "All tracked assets (QQQ, BTC-USD, MSFT, SOL-USD, ETH-USD, NVDA, SPY, AAPL, GLD) are currently trading below their SMA20, remaining in a confirmed bearish trend ('BAJISTA'). Adhering strictly to our trend filter rule to never catch falling knives, we refrain from entering any long positions despite minor hourly bounces and oversold daily conditions. Capital preservation is paramount as we wait for assets to sustainably reclaim their SMA20 levels."
+> "The broader market remains in a cautious state with all monitored assets (both equities and cryptocurrencies) currently trading below their respective 20-period simple moving averages (SMA20). This confirms a prevailing bearish macro trend across major indices, stocks, and crypto tokens. While some assets show mild 24-hour bounces or neutral 1-hour momentum, the strict trend-following rules prohibit entering new long positions while assets are below the SMA20. Capital preservation is prioritized, and liquidity remains fully in cash ($39.09) waiting for structural breakouts back into confirmed uptrends."
 
 **Cycle Actions:**
-- **[HOLD] QQQ** (Confidence: 100%): Asset remains in a confirmed downtrend below SMA20. Strict adherence to quantitative rules requires holding cash and avoiding falling knives.
+- **[HOLD] MSFT** (Confidence: 100%): No open positions to manage and all available assets are currently trading below their SMA20. Adhering strictly to the rule of never catching falling knives or entering bearish trends, keeping all capital in cash.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained total liquidity in cash ($39.09) as the broader market remains below the SMA20. Will continue monitoring for structural trend reversals where assets break back above the SMA20 accompanied by positive 1-hour momentum and RSI >= 32 before deploying capital."
+> "Maintained total cash liquidity due to all assets remaining in a downtrend below the SMA20. Will strictly wait for assets to reclaim the SMA20 with positive 1-hour momentum (change_1h_pct > 0.0 and RSI_1h >= 32) before deploying standard trade sizes ($6.00 to $10.00). Target asymmetric risk/reward profiles aiming for +3.0% to +5.0% gains with tight stop-losses at -1.8% to -2.0%."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
