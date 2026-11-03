@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained 100% cash ($39.09). All available open crypto assets (BTC, ETH, SOL) fail the trend filter (trading below SMA20), despite minor positive 1-hour ticks. Equities are closed for the weekend. We will continue to wait for an asset to reclaim its SMA20 while meeting our momentum and RSI triggers before entering any position.",
-    "updated_at": "2026-11-02T22:10:47.282153-03:00"
+    "notes": "Maintained 100% cash ($39.09). All available open crypto assets (BTC, ETH, SOL) fail the trend filter (trading below SMA20). Equities are closed. We will wait patiently for crypto or equities to reclaim their SMA20 with positive 1-hour momentum and RSI >= 32 before entering any position.",
+    "updated_at": "2026-11-02T22:20:37.849544-03:00"
   }
 }
