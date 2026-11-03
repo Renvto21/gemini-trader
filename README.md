@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-03 19:40:39`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-03 19:50:43`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "All tracked assets (stocks, ETFs, and cryptocurrencies) are currently positioned in a bearish trend below their respective SMA20 lines. Furthermore, major stock markets and ETFs are closed ('CERRADO'). Among crypto assets, while some show high 1-hour RSI values, their 1-hour percentage changes are currently negative (red candles), failing our reversal confirmation and trend criteria. Consequently, cash preservation remains the highest-priority posture."
+> "All tracked equities (SPY, MSFT, GLD, AAPL, NVDA, QQQ) are currently closed with prices frozen, and every single asset across both equities and 24/7 crypto markets is in a confirmed bearish trend below its SMA20. Furthermore, crypto assets like BTC-USD, SOL-USD, and ETH-USD currently show negative 1-hour percentage changes despite high hourly RSI levels, failing the reversal confirmation trigger (positive 1-hour candle required). Adhering strictly to the trend-following rules and capital preservation, no long positions can be initiated."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 100%): No active positions held. Continuing to preserve cash as all assets are currently trading below their SMA20 trend line and fail our quantitative reversal confirmation rules.
+- **[HOLD] BTC-USD** (Confidence: 100%): Holding cash position as all available assets are currently trading below their SMA20 trend lines and fail the strict trend and reversal criteria.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained 100% cash posture ($39.09 USD). All watched assets remain in downtrends below their SMA20 or lack positive 1-hour reversal confirmation (green candles with rsi_1h >= 32). Will patiently wait for assets to reclaim their SMA20 trend lines before deploying capital within standard sizing rules."
+> "Maintained 100% cash posture ($39.09 USD). All watched assets remain in downtrends below their SMA20 or lack positive 1-hour reversal confirmation (change_1h_pct > 0.0). Will patiently wait for assets to reclaim their SMA20 trend lines and demonstrate confirmed bullish pullbacks before deploying capital within standard sizing rules."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
