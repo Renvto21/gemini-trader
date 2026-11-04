@@ -1918,7 +1918,7 @@
     }
   ],
   "memory": {
-    "notes": "We continue holding our MSFT equity position patiently as it is in an uptrend above SMA20, awaiting market reopening to target a take-profit between +3.0% and +5.0% or observe our strict -2.0% stop-loss. For crypto assets like ETH-USD, we remain on the sidelines waiting for a deeper, healthier pullback where rsi_1h >= 32 and change_1h_pct turns more convincingly positive before entering any new trade.",
-    "updated_at": "2026-11-04T18:40:34.845603-03:00"
+    "notes": "We are currently holding MSFT patiently in accordance with equity holding patience rules since it remains in an uptrend above the SMA20. We will monitor for market reopening to target a take-profit between +3.0% and +5.0% or respect the strict -2.0% stop-loss level. For crypto assets, we remain on the sidelines since ETH-USD and other tokens do not currently offer a valid pullback entry meeting rsi_1h >= 32 and positive 1-hour momentum simultaneously.",
+    "updated_at": "2026-11-04T18:50:41.311464-03:00"
   }
 }
