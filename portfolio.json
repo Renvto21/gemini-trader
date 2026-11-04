@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained total cash reserves on the sidelines. All assets are currently in confirmed downtrends below their SMA20 and fail to satisfy our strict pullback reversal criteria (1h RSI >= 32 and 1h change > 0). Will continue to hold cash until market conditions improve and assets reclaim their SMA20 with confirmed bullish momentum.",
-    "updated_at": "2026-11-04T00:20:48.498888-03:00"
+    "notes": "Maintained total cash reserves as all assets are currently below their SMA20 trend filter. Avoided catching falling knives in crypto despite oversold daily conditions because 1h RSI and momentum triggers were not met. Will continue to monitor BTC, ETH, and SOL for a reclaim of the SMA20 paired with a confirmed bounce (1h RSI >= 32 and 1h change > 0), while waiting for Wall Street to reopen for equities.",
+    "updated_at": "2026-11-04T00:30:44.341808-03:00"
   }
 }
