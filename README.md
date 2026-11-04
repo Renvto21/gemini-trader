@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 18:00:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 18:10:54`
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012839 | $545.20 | $555.86 | $7.14 | 📈 +1.96% | 6h 29m |
+| `MSFT` | 0.012839 | $545.20 | $555.80 | $7.14 | 📈 +1.94% | 6h 39m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market shows Wall Street equities and commodities closed with frozen prices, while 24/7 crypto markets remain open. AAPL, MSFT, and ETH-USD are currently trading above their SMA20 in confirmed uptrends. Our active position in MSFT is holding steady with an unrealized gain of +1.96%, while equity holding rules dictate patience as the market digests recent post-election movements. Although ETH-USD is in an uptrend, its market status is open, but our anti-correlation constraint prevents us from opening crypto positions while maintaining strict risk controls."
+> "The equity market is currently closed (CERRADO) for standard stocks and ETFs such as MSFT, AAPL, NVDA, and SPY, meaning no trading actions can be taken on them during this cycle per strict market hours rules. Meanwhile, crypto markets are open 24/7. Among them, BTC-USD and ETH-USD are in confirmed uptrends (above SMA20). Specifically, ETH-USD shows positive 1h momentum (+0.21%) and an RSI of 79.3, but we already hold MSFT and are bound by the anti-correlation constraint of holding at most one open position (or avoiding duplicate risk). Since we currently hold MSFT which is closed and performing well with a +1.94% unrealized gain, and no crypto pullback entry criteria are met with an optimal low-risk setup below extended levels, we will maintain a HOLD posture."
 
 **Cycle Actions:**
-- **[HOLD] MSFT** (Confidence: 90%): MSFT remains above its SMA20 in an uptrend with a positive unrealized gain of +1.96%. Following equity holding patience and asymmetric reward principles, we hold the position to reach our +3.0% to +5.0% take-profit target while keeping the stop-loss protected.
+- **[HOLD] MSFT** (Confidence: 90%): MSFT is in a confirmed uptrend with a positive unrealized gain of +1.94%. The market is currently closed (CERRADO), and equity holding patience dictates we let winners run rather than rotating out prematurely.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding MSFT with a +1.96% unrealized gain. RSI(1h) is extended at 92.9. We will maintain equity patience, letting winners run while monitoring the stop-loss strictly at -2.0% and targeting a take-profit gain of +3.0% to +5.0%. Cash reserves are currently at $32.09. We will wait for market reopening or proper pullback confirmation before deploying additional capital."
+> "Holding MSFT with a +1.94% unrealized gain while the market is closed. We maintain equity patience as per rules. For upcoming cycles, we will watch for potential pullbacks in ETH-USD or BTC-USD if they show a healthy dip and subsequent confirmation (rsi_1h >= 32 and change_1h_pct > 0.0), or wait for Wall Street reopening to manage our MSFT position targeting a take-profit gain of +3.0% to +5.0% or cutting if it hits the -2.0% stop-loss."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

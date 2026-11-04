@@ -1918,7 +1918,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding MSFT with a +1.96% unrealized gain. RSI(1h) is extended at 92.9. We will maintain equity patience, letting winners run while monitoring the stop-loss strictly at -2.0% and targeting a take-profit gain of +3.0% to +5.0%. Cash reserves are currently at $32.09. We will wait for market reopening or proper pullback confirmation before deploying additional capital.",
-    "updated_at": "2026-11-04T18:00:46.747208-03:00"
+    "notes": "Holding MSFT with a +1.94% unrealized gain while the market is closed. We maintain equity patience as per rules. For upcoming cycles, we will watch for potential pullbacks in ETH-USD or BTC-USD if they show a healthy dip and subsequent confirmation (rsi_1h >= 32 and change_1h_pct > 0.0), or wait for Wall Street reopening to manage our MSFT position targeting a take-profit gain of +3.0% to +5.0% or cutting if it hits the -2.0% stop-loss.",
+    "updated_at": "2026-11-04T18:10:54.054511-03:00"
   }
 }
