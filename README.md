@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 06:10:41`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 06:20:44`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "All tracked equities and traditional market assets (AAPL, SPY, QQQ, GLD, NVDA, MSFT) are currently in closed status with bearish trends below their respective SMA20 lines. Crypto markets (BTC-USD, ETH-USD, SOL-USD) remain open 24/7, but every single digital asset is currently flagged in a bearish trend (below SMA20) and displaying negative 1-hour momentum changes (change_1h_pct < 0.0), failing the strict reversal trigger criteria. Maintaining capital preservation discipline, no positions will be opened or closed during this cycle."
+> "All monitored assets across equities, precious metals, and cryptocurrencies are currently residing in bearish trends below their respective SMA20 lines. Wall Street equity markets and GLD are closed, while cryptocurrencies (SOL-USD, ETH-USD, BTC-USD) are open 24/7 but lack the required reversal trigger (either showing negative 1-hour percentage changes or failing to confirm sustained upside momentum while remaining below the SMA20 trend filter). Adhering strictly to our quantitative rules, we avoid catching falling knives."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 100%): Asset is currently in a bearish trend below its SMA20 and has a negative 1-hour change, violating our strict trend-following pullback rules. Remaining in cash.
+- **[HOLD] BTC-USD** (Confidence: 100%): Asset is currently in a bearish trend below its SMA20 and lacks positive 1-hour momentum confirmation. Maintaining cash until strict trend-following pullback criteria are met.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained 100% cash position ($39.09). All available markets continue to reside in bearish trends below their SMA20. Cryptocurrencies lack positive 1-hour momentum confirmation. I will wait patiently for markets to open or for crypto assets to reclaim their SMA20 with confirmed positive 1-hour price action before executing any trades."
+> "Maintained 100% cash position ($39.09). Awaiting crypto or equity assets to reclaim their SMA20 lines with confirmed positive 1-hour price action (change_1h_pct > 0.0 and rsi_1h >= 32) before considering any long entries. Patiently preserving capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
