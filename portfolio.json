@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained 100% cash equivalent discipline as no assets satisfy the rigorous trend-following pullback criteria (all assets remain below SMA20). Will continue to monitor BTC-USD and ETH-USD for a sustainable reclaim of the SMA20 and robust 1h reversal triggers. For equities, will wait for Wall Street to reopen and for individual components to form a confirmed base above their moving averages before re-entering any long positions.",
-    "updated_at": "2026-11-04T00:50:44.761020-03:00"
+    "notes": "Maintained 100% cash equivalent discipline as all available assets fail our strict trend-following pullback criteria (trading below SMA20). Will continue to track BTC-USD and ETH-USD for a definitive reclaiming of the SMA20 alongside robust positive 1h momentum and RSI >= 32. For equities, will wait for Wall Street markets to reopen and for individual components to form a confirmed base above their moving averages before deploying any capital.",
+    "updated_at": "2026-11-04T01:00:52.707121-03:00"
   }
 }
