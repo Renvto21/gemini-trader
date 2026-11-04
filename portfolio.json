@@ -1918,7 +1918,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain MSFT position in line with equity holding patience rules, keeping stop-loss strict around -1.8% to -2.0% and aiming for a take-profit target of +3.5% to +5.0%. For crypto assets (BTC-USD, ETH-USD), monitor for a healthy pullback to cool down 1-hour RSI levels before considering entries under the anti-correlation rule (maximum 1 crypto position).",
-    "updated_at": "2026-11-04T12:51:07.611586-03:00"
+    "notes": "Maintain the MSFT position in adherence to equity holding patience rules, keeping the stop-loss strictly between -1.8% and -2.0% and targeting a take-profit of +3.5% to +5.0%. For crypto assets (BTC-USD, ETH-USD), 1-hour RSI levels are overbought (>90), so we must wait patiently for a healthy pullback to cool down and for 1-hour changes to turn positive before deploying capital under the anti-correlation rule.",
+    "updated_at": "2026-11-04T13:01:07.490900-03:00"
   }
 }
