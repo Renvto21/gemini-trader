@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 06:00:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 06:10:41`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "All monitored traditional assets (MSFT, AAPL, GLD, NVDA, SPY, QQQ) are currently closed with markets in a 'CERRADO' state. Furthermore, every single asset across both equities and crypto (BTC-USD, ETH-USD, SOL-USD) is currently trading below its SMA20 in a defined 'BAJISTA' trend. In crypto, although BTC-USD and ETH-USD show some positive 24-hour momentum, none of the open 24/7 assets meet our rigorous trend-following rules: they are either below the SMA20 or lacking a positive 1-hour percentage change combined with RSI >= 32 confirming a bounce. Consequently, capital preservation remains the absolute priority."
+> "All tracked equities and traditional market assets (AAPL, SPY, QQQ, GLD, NVDA, MSFT) are currently in closed status with bearish trends below their respective SMA20 lines. Crypto markets (BTC-USD, ETH-USD, SOL-USD) remain open 24/7, but every single digital asset is currently flagged in a bearish trend (below SMA20) and displaying negative 1-hour momentum changes (change_1h_pct < 0.0), failing the strict reversal trigger criteria. Maintaining capital preservation discipline, no positions will be opened or closed during this cycle."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 100%): Holding cash due to strict trend filters. All assets, including BTC-USD, remain below the SMA20, violating our core rule against catching falling knives.
+- **[HOLD] BTC-USD** (Confidence: 100%): Asset is currently in a bearish trend below its SMA20 and has a negative 1-hour change, violating our strict trend-following pullback rules. Remaining in cash.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained 100% cash position ($39.09). All available markets are either closed or currently residing in bearish trends below the SMA20. I will maintain strict discipline, waiting for equities to reopen and reclaim their SMA20, or for crypto assets to firmly establish a confirmed bullish trend above the SMA20 accompanied by positive 1-hour momentum before entering any positions."
+> "Maintained 100% cash position ($39.09). All available markets continue to reside in bearish trends below their SMA20. Cryptocurrencies lack positive 1-hour momentum confirmation. I will wait patiently for markets to open or for crypto assets to reclaim their SMA20 with confirmed positive 1-hour price action before executing any trades."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
