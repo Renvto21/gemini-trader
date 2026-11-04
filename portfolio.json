@@ -1903,7 +1903,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained defensive cash of $39.09 with zero open positions. All assets remain in a downtrend below the SMA20. Will continue to monitor crypto assets during the weekend and equity markets upon opening, waiting patiently for a verified reclaim of the SMA20 with positive momentum before deploying capital.",
-    "updated_at": "2026-11-04T08:50:49.239715-03:00"
+    "notes": "Maintained defensive cash at $39.09 with zero open positions. All assets continue to trade below their SMA20 trend line, failing our rule of gold for trend-following pullbacks. Will wait patiently for a verified reclaim of the SMA20 coupled with positive momentum (rsi_1h >= 32 and change_1h_pct > 0.0) before deploying any capital into crypto or equities.",
+    "updated_at": "2026-11-04T09:00:51.236506-03:00"
   }
 }
