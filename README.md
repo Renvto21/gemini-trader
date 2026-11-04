@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 06:30:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 06:41:05`
 
 ---
 
@@ -22,10 +22,10 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The macro and technical conditions remain difficult across all monitored asset classes. Wall Street equities and ETFs (SPY, QQQ, AAPL, MSFT, NVDA) are currently closed with their market status marked as closed, and every single asset is sitting in a bearish trend below its SMA20. In the crypto markets (which are open 24/7), BTC-USD, ETH-USD, and SOL-USD are also trading below their SMA20 lines, accompanied by negative 1-hour price changes (change_1h_pct < 0.0). Strict adherence to our trend-following pullback rules and the absolute ban on catching falling knives prevent us from executing any long entries at this stage. Capital preservation is prioritized while we await assets to reclaim their SMA20 with confirmed positive 1-hour momentum."
+> "All tracked assets (stocks, ETFs, and crypto) remain in a broad bearish trend, currently trading below their respective SMA20 trendlines with negative 1-hour price action across major instruments. Wall Street markets are closed (market_status: CERRADO), meaning active focus must be directed toward 24/7 crypto assets. However, current crypto assets (SOL-USD, BTC-USD, ETH-USD) fail the strict trend filter as they remain below the SMA20, and their 1-hour changes are negative (change_1h_pct < 0). Therefore, no entry criteria have been met. Cash preservation takes absolute priority."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 100%): Holding cash and waiting for setup. BTC-USD is currently below its SMA20 with a negative 1-hour change (-0.19%), violating our trend and reversal confirmation filters.
+- **[HOLD] BTC-USD** (Confidence: 100%): Strict adherence to quantitative rules requires avoiding falling knives. All assets are below their SMA20 and lack a confirmed positive 1-hour price reversal, so we preserve capital in cash.
 
 ---
 
