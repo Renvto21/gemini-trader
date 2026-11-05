@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 11:20:58`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 11:31:03`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities and ETFs (AAPL, MSFT, SPY, QQQ, NVDA, GLD) are currently closed for the weekend (market_status: CERRADO). Among open 24/7 crypto assets, ETH-USD is in a confirmed uptrend above its SMA20 but its 1-hour RSI is at 27.6 and 1-hour change is negative (-0.45%), failing to meet our reversal confirmation trigger (rsi_1h >= 32 and change_1h_pct > 0.0). BTC-USD and SOL-USD are in downtrends below their SMA20. Therefore, no trades meet our strict quantitative criteria for trend-following pullbacks, and we remain in cash to preserve capital."
+> "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 17h28m57.020064586s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '62937s'}]}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] ETH-USD** (Confidence: 0%): ETH-USD is in an uptrend, but current 1-hour RSI (27.6) and negative 1-hour change (-0.45%) do not meet the reversal confirmation trigger (rsi_1h >= 32 and change_1h_pct > 0.0). Holding cash until a valid bounce confirms.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "We are currently sitting in cash ($38.64) following recent stop-loss liquidations. Traditional markets are closed. For crypto assets, we are monitoring ETH-USD and other uptrend candidates for a valid reversal confirmation trigger (rsi_1h >= 32 and change_1h_pct > 0.0). We will maintain discipline, avoid catching falling knives, and wait for high-quality setup pullbacks."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
