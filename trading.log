@@ -1,37 +1,5 @@
  Initial Capital:     $40.00 USD
  Available Cash:      $31.78 USD
- Assets Value:        $6.96 USD
- Total Balance:       $38.74 USD
- Net PnL:             🔴 $-1.26 USD (-3.14%)
-
- 💼 Open Positions:
-   • ETH-USD: 0.002886 u. | Buy: $2425.59 | Now: $2412.09 | Total: $6.96 📉 (-0.56%) [Time: 5h 9m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Temporary notice from Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Safety HOLD rule applied to protect positions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Holding positions and previous plan while connection with Gemini stabilizes."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
-    Reason: Temporary connection issue, safely holding current positions.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.74 USD (Cash: $31.78 USD)
-
-[2026-11-05 07:00:40] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $31.78 USD
  Assets Value:        $6.98 USD
  Total Balance:       $38.76 USD
  Net PnL:             🔴 $-1.24 USD (-3.10%)
@@ -140,6 +108,38 @@ Final Cycle Balance: $38.76 USD (Cash: $31.78 USD)
 
 🧠 GEMINI MARKET ANALYSIS:
 "Temporary notice from Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.76 USD (Cash: $31.78 USD)
+
+[2026-11-05 07:40:37] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.78 USD
+ Assets Value:        $6.97 USD
+ Total Balance:       $38.76 USD
+ Net PnL:             🔴 $-1.24 USD (-3.11%)
+
+ 💼 Open Positions:
+   • ETH-USD: 0.002886 u. | Buy: $2425.59 | Now: $2415.76 | Total: $6.97 📉 (-0.41%) [Time: 5h 59m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Safety HOLD rule applied to protect positions."
 
 📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
 "Holding positions and previous plan while connection with Gemini stabilizes."
