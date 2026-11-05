@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 17:20:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 17:30:42`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market is experiencing a significant pullback with major indices and equities like NVDA, SPY, QQQ, and crypto assets (BTC, ETH, SOL) trading in bearish territory below their SMA20. Strict trend filters prevent entering falling knives. AAPL, MSFT, and GLD show bullish trends above SMA20, but AAPL and MSFT lack the ideal pullback-reversal trigger on the 1-hour chart or present high RSI conditions (GLD 1h RSI is at 90.8). Cash is preserved as we await proper reversal confirmation."
+> "The broader market remains under heavy selling pressure, with major indices like QQQ, SPY, and high-beta assets such as NVDA trading firmly in a bear trend below their SMA20. Cryptocurrencies are also collapsing with negative 24h performance and RSI levels deeply depressed, failing the trend filter. Among equities, MSFT and AAPL remain in a confirmed uptrend (above SMA20) but are currently experiencing slight intraday weakness with negative 1-hour changes. GLD is also above SMA20 but shows an extremely overbought 1-hour RSI (89.6), failing our pullback criteria. Adhering strictly to quantitative rules, we avoid catching falling knives and remain patient for a confirmed positive 1-hour candle and healthy RSI on uptrend assets before deployment."
 
 **Cycle Actions:**
-- *No changes this cycle (HOLD)*
+- **[HOLD] MSFT** (Confidence: 0%): MSFT is in an uptrend above SMA20, but the 1-hour candle is currently negative (change_1h_pct = -0.13), failing our reversal confirmation trigger. Holding cash until a confirmed green candle appears.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained 100% cash ($38.64) following recent stop-losses. Sticking strictly to quantitative rules: no buying assets below SMA20 regardless of oversold RSI levels. Waiting for assets in confirmed uptrends (like AAPL or MSFT) to provide a clean pullback followed by a green 1-hour candle and RSI >= 32 before deploying capital. Crypto will only be entered on confirmed trend reversal."
+> "Maintained capital preservation with 100% cash ($38.64) following recent strict stop-losses. Crypto and major tech sectors remain in downtrends. Will monitor MSFT and AAPL for a pullback entry once 1-hour momentum turns positive (change_1h_pct > 0.0 and rsi_1h >= 32)."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
