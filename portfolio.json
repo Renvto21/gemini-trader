@@ -1923,7 +1923,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital preservation with $38.78 in cash after the recent stop-loss on MSFT. Equity markets are closed. BTC-USD and ETH-USD are confirmed in uptrends (above SMA20) but currently extended with 1h RSI values around 76. We are monitoring for a minor consolidation/pullback to a 1h RSI between 35 and 65 with a confirmed green 1h candle before allocating $6.00 to $8.00 into a single crypto position.",
-    "updated_at": "2026-11-04T22:10:43.757674-03:00"
+    "notes": "Capital preservation remains strong with $38.78 in cash. BTC and ETH are in uptrends but currently lack the required pullback depth and green 1h candle trigger. We will monitor BTC-USD and ETH-USD for a healthy dip into the 35-65 RSI range, followed by a confirmed green 1h candle and 1h RSI >= 32, before deploying $6.00 to $8.00 into a single crypto position.",
+    "updated_at": "2026-11-04T22:20:44.427051-03:00"
   }
 }
