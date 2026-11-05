@@ -1938,7 +1938,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding positions and previous plan while connection with Gemini stabilizes.",
-    "updated_at": "2026-11-05T06:02:18.708583-03:00"
+    "notes": "Holding existing ETH-USD position. Monitor ETH-USD for a positive 1-hour candle change (> 0.0) combined with an RSI >= 32 before considering any add-on buys. Respect the stop-loss level at -1.8% to -2.0% and take-profit targets between +3.0% and +5.0%. Keep cash reserve secure.",
+    "updated_at": "2026-11-05T06:10:47.990000-03:00"
   }
 }
