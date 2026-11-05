@@ -1938,7 +1938,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding the current ETH-USD position. Monitor ETH-USD for take-profit levels (+3.0% to +5.0% or RSI > 72) and respect the hard -2.0% stop-loss circuit breaker. Wait for Wall Street markets to open before evaluating equity positions such as AAPL or MSFT.",
-    "updated_at": "2026-11-05T03:10:48.894757-03:00"
+    "notes": "Holding ETH-USD. Monitor for take-profit between +3.0% and +5.0% or RSI > 72. Respect the strict -2.0% stop-loss circuit breaker. Maintain cash reserves and wait for traditional markets to open before evaluating equity assets such as AAPL or MSFT.",
+    "updated_at": "2026-11-05T03:20:40.282641-03:00"
   }
 }
