@@ -15,37 +15,6 @@
 🤖 Consulting Gemini for market analysis and trading decisions...
 
 🧠 GEMINI MARKET ANALYSIS:
-"The broader market is experiencing significant downward pressure with major indices like QQQ, SPY, and crypto assets (BTC, ETH, SOL, NVDA) trading firmly in a bear trend below their respective SMA20 levels. RSI levels on 1-hour timeframes indicate heavily oversold conditions across the board, but strict quantitative trend-following filters dictate that we do not catch falling knives. Only assets like MSFT, AAPL, and GLD remain above their SMA20. Specifically, GLD shows an uptrend with positive 1-hour momentum, but its 1-hour RSI is extremely overbought at 93.5, signaling an imminent cooling-off period rather than an ideal entry. Given current conditions and strict reversal confirmation triggers (requiring 1-hour RSI >= 32 and positive 1-hour change), no new buy setups currently meet our asymmetric risk/reward criteria."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained capital preservation with 38.64 USD in cash reserves after previous stop-loss triggers. Awaiting solid trend-following pullback confirmations in uptrend assets (e.g., MSFT or AAPL) where 1-hour RSI recovers to >= 32 with positive hourly price action. Continuing to avoid all crypto assets and falling market indices until clear structural reversals emerge."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] MSFT (Confidence: 80%)
-    Reason: MSFT is currently in a confirmed uptrend above its SMA20 with solid daily strength, but its 1-hour candle is currently negative (-0.44%). We hold cash and wait for a proper pullback confirmation with a green hourly candle before re-entering.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.64 USD (Cash: $38.64 USD)
-
-[2026-11-05 14:30:36] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $38.64 USD
- Assets Value:        $0.00 USD
- Total Balance:       $38.64 USD
- Net PnL:             🔴 $-1.36 USD (-3.41%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
 "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 14h29m1.676246211s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52141s'}]}}). Safety HOLD rule applied to protect positions."
 
 📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
@@ -140,6 +109,37 @@ Final Cycle Balance: $38.64 USD (Cash: $38.64 USD)
 
 🧠 GEMINI MARKET ANALYSIS:
 "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 13h58m38.037271012s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50318s'}]}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.64 USD (Cash: $38.64 USD)
+
+[2026-11-05 15:10:38] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $38.64 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $38.64 USD
+ Net PnL:             🔴 $-1.36 USD (-3.41%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 13h49m6.277099457s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49746s'}]}}). Safety HOLD rule applied to protect positions."
 
 📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
 "Holding positions and previous plan while connection with Gemini stabilizes."
