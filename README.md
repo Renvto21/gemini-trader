@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 23:00:54`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 23:10:41`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Traditional equity and commodity markets are currently closed with prices frozen, showing pervasive bearish trends below their respective SMA20 levels following recent pullbacks. In contrast, cryptocurrency markets remain active 24/7. Among the crypto assets, ETH-USD and BTC-USD are trading in confirmed uptrends above their SMA20. However, BTC-USD features a 1-hour RSI of 79.0 with a negligible 1-hour change of +0.01%, and ETH-USD shows a 1-hour RSI of 77.5 with a negative 1-hour change of -0.05%, failing to meet our strict reversal confirmation trigger ('rsi_1h' >= 32 and 'change_1h_pct' > 0.0 with a proper cooling pullback). Consequently, capital preservation rules dictate a HOLD posture until an optimal entry dip occurs."
+> "Traditional equity and commodity markets are closed (CERRADO), so active focus remains strictly on 24/7 crypto markets. Among crypto assets, ETH-USD and BTC-USD are in confirmed uptrends above their SMA20. However, their 1-hour RSI indicators remain extremely elevated (ETH at 78.5, BTC at 81.3), signalling overbought short-term conditions and cautioning against chasing immediate upside without a proper pullback. SOL-USD is currently in a downtrend (below SMA20) and is disqualified. Given our strict trend-following and pullback rules, we maintain our cash reserve and wait for a healthy consolidation phase."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 85%): BTC-USD is above the SMA20 in an uptrend, but the 1-hour RSI is currently overbought at 79.0 and the 1-hour price change (+0.01%) shows lack of immediate bounce momentum. Waiting for a proper pullback and confirmed green candle per institutional rules.
+- **[HOLD] ETH-USD** (Confidence: 80%): ETH-USD is in an uptrend above SMA20, but the 1-hour RSI is at 78.5 (overbought). Waiting for a deeper pullback and cooling RSI before execution.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Capital preserved at $38.78 cash. Traditional markets are closed; crypto assets ETH-USD and BTC-USD remain in confirmed uptrends above the SMA20 but their 1-hour RSI indicators are still elevated (>75) and lacking strong positive 1-hour momentum candles. Will wait patiently for a deeper consolidation phase (RSI cooling down to 45-65) paired with a confirmed positive 1-hour price change before allocating $6.00 to $8.00 into a single crypto position."
+> "Maintained capital preservation at $38.78 cash following previous stop-out. Traditional assets are closed. ETH-USD and BTC-USD are trading above SMA20 in confirmed uptrends, but 1-hour RSIs are too high (>75) to initiate a compliant entry. Will continue to wait for an hourly RSI cooling toward the 45-65 range accompanied by a positive 1-hour momentum candle before deploying $6.00 to $8.00 into a single crypto position."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

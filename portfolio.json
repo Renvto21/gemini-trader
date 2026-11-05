@@ -1923,7 +1923,7 @@
     }
   ],
   "memory": {
-    "notes": "Capital preserved at $38.78 cash. Traditional markets are closed; crypto assets ETH-USD and BTC-USD remain in confirmed uptrends above the SMA20 but their 1-hour RSI indicators are still elevated (>75) and lacking strong positive 1-hour momentum candles. Will wait patiently for a deeper consolidation phase (RSI cooling down to 45-65) paired with a confirmed positive 1-hour price change before allocating $6.00 to $8.00 into a single crypto position.",
-    "updated_at": "2026-11-04T23:00:54.511317-03:00"
+    "notes": "Maintained capital preservation at $38.78 cash following previous stop-out. Traditional assets are closed. ETH-USD and BTC-USD are trading above SMA20 in confirmed uptrends, but 1-hour RSIs are too high (>75) to initiate a compliant entry. Will continue to wait for an hourly RSI cooling toward the 45-65 range accompanied by a positive 1-hour momentum candle before deploying $6.00 to $8.00 into a single crypto position.",
+    "updated_at": "2026-11-04T23:10:41.259922-03:00"
   }
 }
