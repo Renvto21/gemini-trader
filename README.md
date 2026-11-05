@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 00:20:55`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 00:31:01`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Temporary notice from Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Safety HOLD rule applied to protect positions."
+> "Wall Street markets are currently closed (CERRADO) for the weekend/night, freezing prices for equities and ETFs like AAPL, MSFT, and SPY. Crypto markets remain open 24/7. Among the open crypto assets, Bitcoin (BTC-USD) and Ethereum (ETH-USD) are in confirmed uptrends above their SMA20 and showing positive 1-hour momentum. However, BTC's 1-hour RSI is elevated at 78.6 and ETH's is at 77.4, indicating they are currently overbought after strong rallies. We must wait for a proper pullback to support levels with rsi_1h >= 32 and a green 1-hour candle before entering."
 
 **Cycle Actions:**
-- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
+- **[HOLD] BTC-USD** (Confidence: 80%): Asset is in a confirmed uptrend and open 24/7, but 1-hour RSI is overbought at 78.6. Awaiting a healthy pullback before deploying capital.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding positions and previous plan while connection with Gemini stabilizes."
+> "Maintained capital in cash ($38.78) after cutting MSFT on the stop-loss circuit breaker. Wall Street is closed, so no stock trades can occur. Monitoring BTC-USD and ETH-USD for minor pullbacks to enter on trend-following continuation when RSI cools down slightly while maintaining an uptrend above SMA20."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
