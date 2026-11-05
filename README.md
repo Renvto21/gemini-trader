@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 17:40:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 17:50:47`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$32.14 USD** | **$6.50 USD** | **$38.64 USD** | 🔴 **-3.41%** ($-1.36) |
+| **$40.00 USD** | **$32.14 USD** | **$6.51 USD** | **$38.65 USD** | 🔴 **-3.37%** ($-1.35) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $345.35 | $6.50 | 📈 +0.00% | 0m |
+| `AAPL` | 0.018821 | $345.35 | $346.14 | $6.51 | 📈 +0.23% | 10m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market remains fragile with several key tech assets and major crypto assets trading in a downtrend below their SMA20. However, MSFT, AAPL, and GLD are currently exhibiting bullish trends above their SMA20. Specifically, AAPL is showing positive 1-hour momentum (change_1h_pct > 0.0) with an hourly RSI above 32, fulfilling our pullback criteria in a confirmed uptrend."
+> "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 11h9m12.384703464s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '40152s'}]}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[BUY] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20, market status is open, and 1-hour momentum has turned positive (change_1h_pct > 0.0) with an RSI above 32, representing a high-quality pullback entry.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained discipline while most assets recovered or tested support. Evaluated AAPL for a pullback entry as it trades above its SMA20 with positive 1-hour momentum and healthy RSI. Will target a +3.5% gain with a strict -1.8% stop-loss."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
