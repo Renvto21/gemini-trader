@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 06:40:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 06:50:56`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.78 USD** | **$6.96 USD** | **$38.75 USD** | 🔴 **-3.13%** ($-1.25) |
+| **$40.00 USD** | **$31.78 USD** | **$6.96 USD** | **$38.74 USD** | 🔴 **-3.14%** ($-1.26) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.002886 | $2425.59 | $2412.94 | $6.96 | 📉 -0.52% | 4h 59m |
+| `ETH-USD` | 0.002886 | $2425.59 | $2412.09 | $6.96 | 📉 -0.56% | 5h 9m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The traditional equity and ETF markets are currently closed (CERRADO), showing frozen prices and mixed 24-hour sentiment. Among crypto assets trading 24/7, ETH-USD remains in a confirmed uptrend above its SMA20, though it is experiencing a minor consolidation with a negative 1-hour percentage change (-0.22%) and a 1-hour RSI of 54.2. BTC-USD is also in an uptrend above its SMA20, trading above $80,000. Our active position in ETH-USD is down slightly by -0.52%, well above our -1.8% stop-loss threshold. Since the 1-hour candle is not yet green (change_1h_pct is -0.22%), we must hold patience and let the position play out according to our trend-following rules."
+> "Temporary notice from Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] ETH-USD** (Confidence: 80%): ETH-USD is in a confirmed uptrend above its SMA20, and our current loss (-0.52%) is safely within acceptable limits far above our -1.8% stop-loss threshold. The 1-hour change is slightly negative (-0.22%), meaning we hold patiently until the bounce confirmation triggers or the target is reached.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding ETH-USD acquired at 2425.59. Current stop-loss is protected around 2380 (-1.8%) and take-profit target remains set at 2500 (+3.0%). Maintaining patience and waiting for a confirmed green 1-hour candle bounce before considering any scaling or additional entries. Cash reserve is healthy at $31.78."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
