@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 13:50:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 14:00:47`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market is experiencing a severe tech and crypto drawdown with major indices like SPY, QQQ, and NVDA in clear downtrends (below SMA20). Crypto assets are deeply oversold across daily timeframes, and multiple major assets are breaking critical levels. However, disciplined trend-following rules dictate that we do not buy falling knives. Assets in uptrends such as MSFT and AAPL show positive momentum over 7 days and are above their SMA20, but their immediate 1-hour changes are slightly negative (-0.40% and -0.59%), meaning they do not meet our strict pullback entry trigger (change_1h_pct > 0.0). GLD is in an uptrend above SMA20 with positive 24-hour change, but its 1-hour RSI is extremely overbought at 93.6, posing an excessive chase risk. Therefore, we preserve capital and maintain our cash reserve."
+> "Global equity and cryptocurrency markets are experiencing a severe correction, driven by a major unwinding of AI trades, massive long liquidations in crypto, and bearish macroeconomic sentiment. Major indices like SPY, QQQ, and NVDA are in clear downtrends below their SMA20 with collapsing momentum. Crypto assets (BTC, ETH, SOL) are heavily oversold with 1-hour RSIs deep in the teens, but remain firmly in downtrends (below SMA20) and lack any 1-hour green candle confirmation. Among equities, AAPL and MSFT remain in an uptrend above their SMA20, though their 1-hour changes are currently slightly negative. GLD is showing strength as a defensive asset in an uptrend, but its 1-hour RSI is extremely overbought at 93.7, ruling out immediate entry."
 
 **Cycle Actions:**
-- *No changes this cycle (HOLD)*
+- **[HOLD] AAPL** (Confidence: 80%): AAPL is in an uptrend above its SMA20, but the 1-hour change is currently negative (-0.52%) and waiting for a confirmed green 1-hour reversal candle before entry.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding cash reserve at $38.64 to protect capital during this macro tech and crypto correction. Watching MSFT and AAPL for a confirmed 1-hour bounce above SMA20 where change_1h_pct turns positive and rsi_1h >= 32. For crypto, waiting for a definitive trend reversal above SMA20 before risking capital."
+> "Preserving capital and maintaining cash reserve while the market flushes out excess leverage. Strictly adhering to quantitative rules: no buying of assets below SMA20 or without a confirmed 1-hour green candle (change_1h_pct > 0.0 and rsi_1h >= 32). Watching AAPL and MSFT for pullbacks that print a confirmed green 1-hour reversal. For crypto, waiting for a definitive reclaim of the SMA20 trend line before risking capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

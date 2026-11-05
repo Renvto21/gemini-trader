@@ -1943,7 +1943,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding cash reserve at $38.64 to protect capital during this macro tech and crypto correction. Watching MSFT and AAPL for a confirmed 1-hour bounce above SMA20 where change_1h_pct turns positive and rsi_1h >= 32. For crypto, waiting for a definitive trend reversal above SMA20 before risking capital.",
-    "updated_at": "2026-11-05T13:50:47.571950-03:00"
+    "notes": "Preserving capital and maintaining cash reserve while the market flushes out excess leverage. Strictly adhering to quantitative rules: no buying of assets below SMA20 or without a confirmed 1-hour green candle (change_1h_pct > 0.0 and rsi_1h >= 32). Watching AAPL and MSFT for pullbacks that print a confirmed green 1-hour reversal. For crypto, waiting for a definitive reclaim of the SMA20 trend line before risking capital.",
+    "updated_at": "2026-11-05T14:00:47.060912-03:00"
   }
 }
