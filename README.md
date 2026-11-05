@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 21:50:39`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 22:00:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$32.09 USD** | **$7.14 USD** | **$39.23 USD** | 🔴 **-1.92%** ($-0.77) |
+| **$40.00 USD** | **$38.78 USD** | **$0.00 USD** | **$38.78 USD** | 🔴 **-3.04%** ($-1.22) |
 
 ---
 
@@ -16,40 +16,40 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `MSFT` | 0.012839 | $545.20 | $555.80 | $7.14 | 📈 +1.94% | 10h 19m |
+| *(No open positions - 100% in cash)* | - | - | - | - | - | - |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broad stock market is currently closed (market status 'CERRADO'), so equities like MSFT cannot be traded at this moment. MSFT is currently held in our portfolio and is performing well with a +1.94% profit, maintaining its bullish posture above the SMA20. In the crypto markets (which are open 24/7), assets such as ETH-USD and BTC-USD are in confirmed uptrends above their SMA20s, but their 1-hour RSIs remain elevated near ~79, indicating overbought short-term conditions. Following our strict trend-following pullback rules, we must wait for a proper cool-off phase in RSI levels accompanied by a green 1-hour reversal candle before considering any new entry."
+> "All traditional equities and ETF markets (QQQ, GLD, NVDA, AAPL, MSFT, SPY) are currently closed (CERRADO), precluding any active stock trading. Cryptocurrencies are open (24/7). BTC-USD and ETH-USD are in confirmed uptrends (above SMA20) with strong 24h momentum, though their 1h candles show slight negative changes (-0.02% and -0.03%) and 1h RSIs are slightly elevated near 75-76. SOL-USD is currently in a downtrend (below SMA20). Following strict rules, we must wait for a clear green 1h candle confirmation (>0.0%) and RSI cooling before opening a crypto position."
 
 **Cycle Actions:**
-- **[HOLD] MSFT** (Confidence: 90%): MSFT is currently in a profitable position (+1.94%) and remains above its SMA20 in a confirmed uptrend. Since the stock market is closed (CERRADO), we apply equity holding patience and hold the position to let gains run toward our take-profit target.
+- **[HOLD] BTC-USD** (Confidence: 80%): Asset is in an uptrend above SMA20, but the current 1h candle change is slightly negative (-0.02%) and RSI is elevated at 75.9. Waiting for a proper pullback confirmation and green 1h candle before entry.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding MSFT patiently in accordance with equity holding patience guidelines, monitoring for any approach to our take-profit target (+3.5% to +5.0%) or stop-loss limits. For crypto, ETH-USD and BTC-USD are currently overbought on the 1H timeframe (RSI > 75); maintain patience and wait for a healthy pullback and RSI cool-off below 60 before executing a single crypto position."
+> "All equity markets are closed; focusing exclusively on crypto assets. BTC-USD and ETH-USD are in uptrends above their SMA20 but currently display flat to slightly negative 1h price action (-0.02% / -0.03%) with RSI around 75-76. Maintain patience, avoid catching falling knives, and wait for a confirmed green 1h candle and a healthy pullback before deploying capital into a single crypto position."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
 
 | Closed Trades | Win Rate | Realized PnL | Best Trade | Worst Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **87** | 🎯 **43.7%** (38W / 34L / 15BE) | 🔴 **$-0.77 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
+| **88** | 🎯 **43.2%** (38W / 35L / 15BE) | 🔴 **$-1.08 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
 ---
 
 ### 📜 Recent Trades
 
 | Date | Action | Asset | Amount | Price | Reasoning |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-11-04 22:00` | 🔴 SELL (-0.31$) | `MSFT` | $6.69 | $520.99 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -4.44% hit safety limit (-2.0%). Liquidated by code... |
 | `2026-11-04 11:30` | 🟢 BUY | `MSFT` | $7.00 | $545.20 | MSFT is currently the only asset trading above its SMA20 in a confirmed uptrend with stron... |
 | `2026-11-02 11:40` | 🔴 SELL (-0.13$) | `AAPL` | $6.87 | $340.69 | AAPL has slipped further into a bearish trend below its SMA20 with a 1-hour RSI of 24.8 an... |
 | `2026-10-28 13:21` | 🔴 SELL (-0.02$) | `MSFT` | $6.48 | $528.16 | MSFT has shifted to a bearish trend below its SMA20 and current performance is near our st... |
 | `2026-10-26 12:01` | 🟢 BUY | `MSFT` | $6.50 | $530.04 | MSFT is in a confirmed uptrend above its SMA20, and the 1-hour RSI (62.8) and 1-hour perce... |
-| `2026-10-23 13:40` | 🟢 BUY | `AAPL` | $7.00 | $347.17 | AAPL is in a confirmed uptrend above its SMA20, satisfying our strict trend filter. The 1-... |
 
 ---
 
