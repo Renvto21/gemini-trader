@@ -1,36 +1,5 @@
 Final Cycle Balance: $38.78 USD (Cash: $38.78 USD)
 
-[2026-11-05 00:30:40] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $38.78 USD
- Assets Value:        $0.00 USD
- Total Balance:       $38.78 USD
- Net PnL:             🔴 $-1.22 USD (-3.04%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Wall Street markets are currently closed (CERRADO) for the weekend/night, freezing prices for equities and ETFs like AAPL, MSFT, and SPY. Crypto markets remain open 24/7. Among the open crypto assets, Bitcoin (BTC-USD) and Ethereum (ETH-USD) are in confirmed uptrends above their SMA20 and showing positive 1-hour momentum. However, BTC's 1-hour RSI is elevated at 78.6 and ETH's is at 77.4, indicating they are currently overbought after strong rallies. We must wait for a proper pullback to support levels with rsi_1h >= 32 and a green 1-hour candle before entering."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained capital in cash ($38.78) after cutting MSFT on the stop-loss circuit breaker. Wall Street is closed, so no stock trades can occur. Monitoring BTC-USD and ETH-USD for minor pullbacks to enter on trend-following continuation when RSI cools down slightly while maintaining an uptrend above SMA20."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] BTC-USD (Confidence: 80%)
-    Reason: Asset is in a confirmed uptrend and open 24/7, but 1-hour RSI is overbought at 78.6. Awaiting a healthy pullback before deploying capital.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.78 USD (Cash: $38.78 USD)
-
 [2026-11-05 00:40:38] 🔍 Starting analysis cycle...
 📡 Downloading quotes & 1H intraday indicators for 9 assets...
 
@@ -147,6 +116,37 @@ Final Cycle Balance: $38.78 USD (Cash: $38.78 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] BTC-USD (Confidence: 50%)
     Reason: Asset is in an uptrend above SMA20, but the 1-hour change is currently negative (-0.12%). Waiting for a confirmed green 1-hour candle (change_1h_pct > 0) to execute a pullback entry per quantitative rules.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.78 USD (Cash: $38.78 USD)
+
+[2026-11-05 01:20:35] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $38.78 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $38.78 USD
+ Net PnL:             🔴 $-1.22 USD (-3.04%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Most traditional equities and ETFs are currently closed (market_status: CERRADO) or trading below their SMA20 trend filter, precluding new equity entries. In the crypto markets (ABIERTO 24/7), BTC-USD and ETH-USD are in confirmed uptrends (above SMA20) with positive 24-hour performance. However, their immediate 1-hour candles are showing minor pullbacks (change_1h_pct < 0), meaning the reversal trigger (green 1-hour candle) has not yet been satisfied. Capital is preserved safely in cash while we wait for proper confirmation."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Preserving capital in cash ($38.78 USD). BTC-USD and ETH-USD are trending above SMA20 but require a positive 1-hour change (change_1h_pct > 0) with RSI >= 32 to trigger a disciplined pullback entry of $6.00 to $7.00 USD. Strict adherence to anti-correlation rules limits us to a single crypto asset."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] BTC-USD (Confidence: 80%)
+    Reason: Asset is in an uptrend above SMA20, but the 1-hour change is currently negative (-0.18%). Waiting for a confirmed green 1-hour reversal candle (change_1h_pct > 0) prior to executing a pullback buy order.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.

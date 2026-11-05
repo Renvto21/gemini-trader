@@ -1923,7 +1923,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital in cash while monitoring crypto assets. BTC-USD and ETH-USD are above SMA20 but require a green 1-hour reversal candle (change_1h_pct > 0) to trigger a standard pullback entry ($6.00-$7.00 USD). Will continue to enforce strict anti-correlation rules by holding a maximum of one crypto asset at a time once entry triggers are met.",
-    "updated_at": "2026-11-05T01:10:49.128282-03:00"
+    "notes": "Preserving capital in cash ($38.78 USD). BTC-USD and ETH-USD are trending above SMA20 but require a positive 1-hour change (change_1h_pct > 0) with RSI >= 32 to trigger a disciplined pullback entry of $6.00 to $7.00 USD. Strict adherence to anti-correlation rules limits us to a single crypto asset.",
+    "updated_at": "2026-11-05T01:20:49.057329-03:00"
   }
 }

@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 01:10:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 01:20:49`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), meaning no trades can be executed on equities or ETFs like AAPL or MSFT until the next session. Cryptocurrencies are operating normally on 24/7 markets. Within the crypto space, BTC-USD and ETH-USD are trading in confirmed uptrends above their SMA20. However, both currently exhibit negative 1-hour changes (change_1h_pct < 0), indicating ongoing minor pullbacks. Per quantitative rules, we must wait for a positive 1-hour reversal candle (change_1h_pct > 0) with an RSI >= 32 before entering. Cash reserves are intact at $38.78."
+> "Most traditional equities and ETFs are currently closed (market_status: CERRADO) or trading below their SMA20 trend filter, precluding new equity entries. In the crypto markets (ABIERTO 24/7), BTC-USD and ETH-USD are in confirmed uptrends (above SMA20) with positive 24-hour performance. However, their immediate 1-hour candles are showing minor pullbacks (change_1h_pct < 0), meaning the reversal trigger (green 1-hour candle) has not yet been satisfied. Capital is preserved safely in cash while we wait for proper confirmation."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 50%): Asset is in an uptrend above SMA20, but the 1-hour change is currently negative (-0.12%). Waiting for a confirmed green 1-hour candle (change_1h_pct > 0) to execute a pullback entry per quantitative rules.
+- **[HOLD] BTC-USD** (Confidence: 80%): Asset is in an uptrend above SMA20, but the 1-hour change is currently negative (-0.18%). Waiting for a confirmed green 1-hour reversal candle (change_1h_pct > 0) prior to executing a pullback buy order.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained capital in cash while monitoring crypto assets. BTC-USD and ETH-USD are above SMA20 but require a green 1-hour reversal candle (change_1h_pct > 0) to trigger a standard pullback entry ($6.00-$7.00 USD). Will continue to enforce strict anti-correlation rules by holding a maximum of one crypto asset at a time once entry triggers are met."
+> "Preserving capital in cash ($38.78 USD). BTC-USD and ETH-USD are trending above SMA20 but require a positive 1-hour change (change_1h_pct > 0) with RSI >= 32 to trigger a disciplined pullback entry of $6.00 to $7.00 USD. Strict adherence to anti-correlation rules limits us to a single crypto asset."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
