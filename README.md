@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 04:50:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 05:01:18`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.78 USD** | **$6.96 USD** | **$38.75 USD** | 🔴 **-3.13%** ($-1.25) |
+| **$40.00 USD** | **$31.78 USD** | **$6.97 USD** | **$38.76 USD** | 🔴 **-3.10%** ($-1.24) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.002886 | $2425.59 | $2413.19 | $6.96 | 📉 -0.51% | 3h 9m |
+| `ETH-USD` | 0.002886 | $2425.59 | $2416.86 | $6.97 | 📉 -0.36% | 3h 20m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The current portfolio holds a single crypto position in ETH-USD, which is experiencing a minor pullback (-0.51%) but remains in a confirmed uptrend above its SMA20. Wall Street markets are closed (CERRADO), preventing any equity trades on assets like AAPL or MSFT. Among 24/7 crypto assets, ETH-USD and BTC-USD are above their SMA20, but current 1-hour changes are negative (-0.59% and -0.28% respectively), failing our reversal confirmation trigger (change_1h_pct > 0.0). Therefore, we maintain our current position and wait for clear green candle confirmation before adding exposure or letting our targets unfold."
+> "Temporary notice from Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] ETH-USD** (Confidence: 85%): ETH-USD is currently in a healthy uptrend above its SMA20. Although down slightly (-0.51%), it has not triggered our stop-loss nor reached our take-profit target (+3.0% to +5.0%). We maintain our holding patience according to quantitative risk management rules.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding ETH-USD. Monitor position closely to ensure stop-loss protection between -1.8% and -2.0% ($2377-2380) remains respected. Target take-profit levels at +3.0% to +5.0% ($2500-2540). Maintain cash reserves above $4.00 USD ($31.78 current cash) and wait for Wall Street markets to reopen before evaluating quality equity pullbacks like AAPL."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
