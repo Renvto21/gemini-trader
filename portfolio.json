@@ -1923,7 +1923,7 @@
     }
   ],
   "memory": {
-    "notes": "Preserving capital in cash ($38.78 USD). BTC-USD and ETH-USD are trending above SMA20 but require a positive 1-hour change (change_1h_pct > 0) with RSI >= 32 to trigger a disciplined pullback entry of $6.00 to $7.00 USD. Strict adherence to anti-correlation rules limits us to a single crypto asset.",
-    "updated_at": "2026-11-05T01:20:49.057329-03:00"
+    "notes": "Holding capital in cash ($38.78 USD). BTC-USD and ETH-USD are strong uptrend candidates above SMA20, but we require change_1h_pct > 0 and rsi_1h >= 32 to execute a $6.00 to $7.00 buy order. Strict adherence to the 1 crypto asset anti-correlation limit remains in effect.",
+    "updated_at": "2026-11-05T01:30:46.189705-03:00"
   }
 }

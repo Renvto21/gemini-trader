@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 01:20:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 01:30:46`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Most traditional equities and ETFs are currently closed (market_status: CERRADO) or trading below their SMA20 trend filter, precluding new equity entries. In the crypto markets (ABIERTO 24/7), BTC-USD and ETH-USD are in confirmed uptrends (above SMA20) with positive 24-hour performance. However, their immediate 1-hour candles are showing minor pullbacks (change_1h_pct < 0), meaning the reversal trigger (green 1-hour candle) has not yet been satisfied. Capital is preserved safely in cash while we wait for proper confirmation."
+> "Wall Street equities and ETFs are currently closed (CERRADO), meaning no actions can be executed on traditional stocks like AAPL, MSFT, or SPY during this cycle. Attention shifts entirely to 24/7 crypto assets (ABIERTO). Among cryptos, ETH-USD and BTC-USD are trading in confirmed uptrends above their SMA20. However, both currently show a negative 1-hour percentage change (ETH-USD at -0.07%, BTC-USD at -0.11%), violating the reversal confirmation trigger (change_1h_pct > 0). Therefore, we maintain a disciplined posture in cash, waiting for a clear green 1-hour candle bounce before entering."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 80%): Asset is in an uptrend above SMA20, but the 1-hour change is currently negative (-0.18%). Waiting for a confirmed green 1-hour reversal candle (change_1h_pct > 0) prior to executing a pullback buy order.
+- **[HOLD] BTC-USD** (Confidence: 0%): Waiting for the 1-hour candle to turn positive (change_1h_pct > 0) to confirm a bounce before initiating a position.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Preserving capital in cash ($38.78 USD). BTC-USD and ETH-USD are trending above SMA20 but require a positive 1-hour change (change_1h_pct > 0) with RSI >= 32 to trigger a disciplined pullback entry of $6.00 to $7.00 USD. Strict adherence to anti-correlation rules limits us to a single crypto asset."
+> "Holding capital in cash ($38.78 USD). BTC-USD and ETH-USD are strong uptrend candidates above SMA20, but we require change_1h_pct > 0 and rsi_1h >= 32 to execute a $6.00 to $7.00 buy order. Strict adherence to the 1 crypto asset anti-correlation limit remains in effect."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
