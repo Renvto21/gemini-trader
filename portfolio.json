@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL in an uptrend above SMA20. Wall Street is currently closed; will wait for market reopening to evaluate take-profit targets (+3% to +5%) or enforce stop-loss protection (-2%). Crypto assets fail our trend and reversal confirmation criteria, so no crypto exposure will be opened at this time.",
-    "updated_at": "2026-11-05T19:40:44.359931-03:00"
+    "notes": "Holding AAPL position which is currently showing a minor unrealized loss (-0.34%), comfortably above the stop-loss threshold (-2.0%). Wall Street is closed, so no adjustments can be made. Crypto assets are in severe downtrends with negative momentum and low RSI levels, completely failing our trend filter (never catch falling knives). Will continue monitoring MSFT and GLD for potential pullbacks once markets reopen, and wait for confirmed green 1-hour candles before considering new entries.",
+    "updated_at": "2026-11-05T19:50:36.643542-03:00"
   }
 }
