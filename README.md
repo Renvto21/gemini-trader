@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 17:50:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 18:00:46`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$32.14 USD** | **$6.51 USD** | **$38.65 USD** | 🔴 **-3.37%** ($-1.35) |
+| **$40.00 USD** | **$32.14 USD** | **$6.49 USD** | **$38.62 USD** | 🔴 **-3.45%** ($-1.38) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $346.14 | $6.51 | 📈 +0.23% | 10m |
+| `AAPL` | 0.018821 | $345.35 | $344.57 | $6.49 | 📉 -0.23% | 20m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 11h9m12.384703464s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '40152s'}]}}). Safety HOLD rule applied to protect positions."
+> "Wall Street is currently closed for the weekend (market status CERRADO), making equities untradeable. Cryptocurrencies remain open 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 in a clear downtrend with negative 1-hour momentum, failing the strict trend filter and reversal criteria. Our sole open position, AAPL, is an equity asset currently closed for the weekend; following the equity holding patience rule, we will hold AAPL as it remains above its SMA20 despite minor noise."
 
 **Cycle Actions:**
-- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
+- **[HOLD] AAPL** (Confidence: 80%): Holding AAPL in accordance with equity holding patience guidelines. The market is currently closed, and the stock is above its SMA20 trend line.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding positions and previous plan while connection with Gemini stabilizes."
+> "Holding AAPL position as equity markets are closed. Waiting for a proper confirmed pullback and positive 1h momentum before entering any crypto assets, as current crypto trends remain bearish below the SMA20."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
