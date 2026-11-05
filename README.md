@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 14:00:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 14:11:09`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Global equity and cryptocurrency markets are experiencing a severe correction, driven by a major unwinding of AI trades, massive long liquidations in crypto, and bearish macroeconomic sentiment. Major indices like SPY, QQQ, and NVDA are in clear downtrends below their SMA20 with collapsing momentum. Crypto assets (BTC, ETH, SOL) are heavily oversold with 1-hour RSIs deep in the teens, but remain firmly in downtrends (below SMA20) and lack any 1-hour green candle confirmation. Among equities, AAPL and MSFT remain in an uptrend above their SMA20, though their 1-hour changes are currently slightly negative. GLD is showing strength as a defensive asset in an uptrend, but its 1-hour RSI is extremely overbought at 93.7, ruling out immediate entry."
+> "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 14h48m50.735778021s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53330s'}]}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 80%): AAPL is in an uptrend above its SMA20, but the 1-hour change is currently negative (-0.52%) and waiting for a confirmed green 1-hour reversal candle before entry.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Preserving capital and maintaining cash reserve while the market flushes out excess leverage. Strictly adhering to quantitative rules: no buying of assets below SMA20 or without a confirmed 1-hour green candle (change_1h_pct > 0.0 and rsi_1h >= 32). Watching AAPL and MSFT for pullbacks that print a confirmed green 1-hour reversal. For crypto, waiting for a definitive reclaim of the SMA20 trend line before risking capital."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
