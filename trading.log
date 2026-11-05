@@ -1,37 +1,5 @@
  Initial Capital:     $40.00 USD
  Available Cash:      $31.78 USD
- Assets Value:        $7.00 USD
- Total Balance:       $38.78 USD
- Net PnL:             🔴 $-1.22 USD (-3.04%)
-
- 💼 Open Positions:
-   • ETH-USD: 0.002886 u. | Buy: $2425.59 | Now: $2425.7 | Total: $7.0 📈 (+0.00%) [Time: 59m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Wall Street markets are currently closed (CERRADO), leaving crypto as the only active liquidity source. Among cryptocurrencies, ETH-USD and BTC-USD are trading in confirmed uptrends above their SMA20. ETH-USD is currently held in the portfolio with stable price action and positive 1-hour momentum, meeting our trend and reversal confirmation criteria."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Currently holding ETH-USD in an uptrend with a target profit of +3.5% to +5.0% and a strict stop-loss at -2.0%. Will monitor volatility and maintain the anti-correlation constraint ensuring no additional crypto positions are opened."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] ETH-USD (Confidence: 80%)
-    Reason: ETH-USD is in a confirmed uptrend above the SMA20, showing healthy hourly momentum and positive change. Holding the position to capture target gains while strictly respecting the stop-loss and anti-correlation constraints.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.78 USD (Cash: $31.78 USD)
-
-[2026-11-05 02:50:36] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $31.78 USD
  Assets Value:        $6.98 USD
  Total Balance:       $38.76 USD
  Net PnL:             🔴 $-1.24 USD (-3.10%)
@@ -147,6 +115,38 @@ Final Cycle Balance: $38.76 USD (Cash: $31.78 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] ETH-USD (Confidence: 85%)
     Reason: ETH-USD remains in a confirmed uptrend above its SMA20 with positive hourly momentum. The position is well within risk parameters; we adhere to equity holding patience and asymmetric reward targets.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.78 USD (Cash: $31.78 USD)
+
+[2026-11-05 03:30:38] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.78 USD
+ Assets Value:        $7.00 USD
+ Total Balance:       $38.78 USD
+ Net PnL:             🔴 $-1.22 USD (-3.05%)
+
+ 💼 Open Positions:
+   • ETH-USD: 0.002886 u. | Buy: $2425.59 | Now: $2424.05 | Total: $7.0 📈 (-0.06%) [Time: 1h 49m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 1h28m43.883385387s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5323s'}]}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.

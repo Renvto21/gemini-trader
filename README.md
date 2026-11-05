@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 03:20:40`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 03:31:16`
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.002886 | $2425.59 | $2424.66 | $7.00 | 📉 -0.04% | 1h 39m |
+| `ETH-USD` | 0.002886 | $2425.59 | $2424.05 | $7.00 | 📉 -0.06% | 1h 50m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The portfolio currently holds an ETH-USD position opened during a confirmed uptrend with positive 1-hour momentum. Traditional equity markets remain closed (CERRADO), meaning active liquidity must remain focused on 24/7 crypto assets. BTC-USD and ETH-USD are both above their SMA20 with positive 1-hour percentage changes, satisfying trend and reversal filters. However, due to the anti-correlation constraint allowing only one active crypto position, we maintain our current ETH-USD holding and wait for it to reach its take-profit target (+3.0% to +5.0%) or hit the hard stop-loss circuit breaker."
+> "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 1h28m43.883385387s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5323s'}]}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] ETH-USD** (Confidence: 85%): ETH-USD remains in a confirmed uptrend above its SMA20 with positive hourly momentum. The position is well within risk parameters; we adhere to equity holding patience and asymmetric reward targets.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding ETH-USD. Monitor for take-profit between +3.0% and +5.0% or RSI > 72. Respect the strict -2.0% stop-loss circuit breaker. Maintain cash reserves and wait for traditional markets to open before evaluating equity assets such as AAPL or MSFT."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
