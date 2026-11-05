@@ -1938,7 +1938,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding positions and previous plan while connection with Gemini stabilizes.",
-    "updated_at": "2026-11-05T06:50:56.511084-03:00"
+    "notes": "Holding ETH-USD position currently down -0.33%. Will monitor ETH-USD for a clear 1-hour positive momentum confirmation (change_1h_pct > 0.0) with RSI >= 32 before adding to the position if capital allows. Target profit is +3.5% to +5.0%, with a strict stop-loss at -2.0%. Keep cash reserve above $4.00.",
+    "updated_at": "2026-11-05T07:00:59.533866-03:00"
   }
 }
