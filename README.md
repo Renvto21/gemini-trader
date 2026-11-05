@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 00:31:01`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 00:40:47`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO) for the weekend/night, freezing prices for equities and ETFs like AAPL, MSFT, and SPY. Crypto markets remain open 24/7. Among the open crypto assets, Bitcoin (BTC-USD) and Ethereum (ETH-USD) are in confirmed uptrends above their SMA20 and showing positive 1-hour momentum. However, BTC's 1-hour RSI is elevated at 78.6 and ETH's is at 77.4, indicating they are currently overbought after strong rallies. We must wait for a proper pullback to support levels with rsi_1h >= 32 and a green 1-hour candle before entering."
+> "Wall Street markets remain closed, so equity assets are inactive. In the crypto sector, BTC-USD and ETH-USD are trading in confirmed uptrends above their SMA20, but their 1-hour RSI values are currently extended well above 75 (BTC RSI is 79.0, ETH RSI is 77.6). This indicates overbought conditions rather than a healthy pullback entry. Following our strict trend and pullback rules, we must wait for a proper cool-down where the 1-hour RSI drops closer to 50-60 before showing a green reversal candle."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 80%): Asset is in a confirmed uptrend and open 24/7, but 1-hour RSI is overbought at 78.6. Awaiting a healthy pullback before deploying capital.
+- *No changes this cycle (HOLD)*
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained capital in cash ($38.78) after cutting MSFT on the stop-loss circuit breaker. Wall Street is closed, so no stock trades can occur. Monitoring BTC-USD and ETH-USD for minor pullbacks to enter on trend-following continuation when RSI cools down slightly while maintaining an uptrend above SMA20."
+> "Maintained capital in cash ($38.78). Wall Street is closed. Crypto assets (BTC, ETH) are strong and above SMA20 but overbought (1h RSI > 75). Will wait patiently for a pullback where RSI cools down to the 50-60 range followed by a positive 1-hour candle before entering."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
