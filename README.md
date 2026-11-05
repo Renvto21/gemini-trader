@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 01:00:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 01:10:49`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street is currently closed (market status CERRADO), meaning active capital deployment must focus exclusively on 24/7 crypto assets. Within the crypto complex, BTC-USD and ETH-USD are trading in confirmed uptrends above their SMA20. However, their 1-hour momentum indicators reflect slight downward drift (-0.06% and -0.15% over the past hour) with RSI values hovering near 64-68, which does not yet satisfy our strict reversal confirmation trigger (rsi_1h >= 32 and positive 1-hour green candle). Equities such as MSFT and AAPL show strong multi-day momentum but remain closed for trading today. We maintain our cash reserves and wait patiently for cleaner pullback entry conditions."
+> "Wall Street markets are currently closed (CERRADO), meaning no trades can be executed on equities or ETFs like AAPL or MSFT until the next session. Cryptocurrencies are operating normally on 24/7 markets. Within the crypto space, BTC-USD and ETH-USD are trading in confirmed uptrends above their SMA20. However, both currently exhibit negative 1-hour changes (change_1h_pct < 0), indicating ongoing minor pullbacks. Per quantitative rules, we must wait for a positive 1-hour reversal candle (change_1h_pct > 0) with an RSI >= 32 before entering. Cash reserves are intact at $38.78."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 50%): Asset is in an uptrend above SMA20, but the current 1-hour candle is negative (-0.06%), failing the mandatory reversal confirmation trigger. Maintaining cash and waiting for a confirmed green bounce.
+- **[HOLD] BTC-USD** (Confidence: 50%): Asset is in an uptrend above SMA20, but the 1-hour change is currently negative (-0.12%). Waiting for a confirmed green 1-hour candle (change_1h_pct > 0) to execute a pullback entry per quantitative rules.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained capital in cash ($38.78) while observing 24/7 crypto markets. BTC-USD and ETH-USD are holding above their SMA20 but lack a positive 1-hour confirmation candle (change_1h_pct > 0) to signal the end of their current hourly dip. Will continue to monitor crypto pullbacks for a standard position size ($6.00-$7.00 USD) once 1h RSI and green candle triggers align, maintaining strict anti-correlation rules by holding at most one crypto asset."
+> "Maintained capital in cash while monitoring crypto assets. BTC-USD and ETH-USD are above SMA20 but require a green 1-hour reversal candle (change_1h_pct > 0) to trigger a standard pullback entry ($6.00-$7.00 USD). Will continue to enforce strict anti-correlation rules by holding a maximum of one crypto asset at a time once entry triggers are met."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

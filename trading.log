@@ -1,36 +1,5 @@
 Final Cycle Balance: $38.78 USD (Cash: $38.78 USD)
 
-[2026-11-05 00:20:35] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $38.78 USD
- Assets Value:        $0.00 USD
- Total Balance:       $38.78 USD
- Net PnL:             🔴 $-1.22 USD (-3.04%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Temporary notice from Gemini (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}). Safety HOLD rule applied to protect positions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Holding positions and previous plan while connection with Gemini stabilizes."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
-    Reason: Temporary connection issue, safely holding current positions.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.78 USD (Cash: $38.78 USD)
-
 [2026-11-05 00:30:40] 🔍 Starting analysis cycle...
 📡 Downloading quotes & 1H intraday indicators for 9 assets...
 
@@ -147,6 +116,37 @@ Final Cycle Balance: $38.78 USD (Cash: $38.78 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] BTC-USD (Confidence: 50%)
     Reason: Asset is in an uptrend above SMA20, but the current 1-hour candle is negative (-0.06%), failing the mandatory reversal confirmation trigger. Maintaining cash and waiting for a confirmed green bounce.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.78 USD (Cash: $38.78 USD)
+
+[2026-11-05 01:10:44] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $38.78 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $38.78 USD
+ Net PnL:             🔴 $-1.22 USD (-3.04%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Wall Street markets are currently closed (CERRADO), meaning no trades can be executed on equities or ETFs like AAPL or MSFT until the next session. Cryptocurrencies are operating normally on 24/7 markets. Within the crypto space, BTC-USD and ETH-USD are trading in confirmed uptrends above their SMA20. However, both currently exhibit negative 1-hour changes (change_1h_pct < 0), indicating ongoing minor pullbacks. Per quantitative rules, we must wait for a positive 1-hour reversal candle (change_1h_pct > 0) with an RSI >= 32 before entering. Cash reserves are intact at $38.78."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintained capital in cash while monitoring crypto assets. BTC-USD and ETH-USD are above SMA20 but require a green 1-hour reversal candle (change_1h_pct > 0) to trigger a standard pullback entry ($6.00-$7.00 USD). Will continue to enforce strict anti-correlation rules by holding a maximum of one crypto asset at a time once entry triggers are met."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] BTC-USD (Confidence: 50%)
+    Reason: Asset is in an uptrend above SMA20, but the 1-hour change is currently negative (-0.12%). Waiting for a confirmed green 1-hour candle (change_1h_pct > 0) to execute a pullback entry per quantitative rules.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
