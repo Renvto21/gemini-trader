@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 22:20:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-04 22:30:43`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street and traditional equity/ETF markets are closed for the weekend (marked as 'CERRADO'), so all active trading must focus on 24/7 crypto assets. Among crypto, BTC-USD and ETH-USD are currently confirmed in uptrends (above SMA20). However, both assets are experiencing slight pulldowns with negative 1-hour changes (-0.31% and -0.41% respectively) and 1-hour RSIs hovering around 71.6 to 72.8, which have not yet formed the required green recovery candle ('change_1h_pct' > 0.0) nor cooled down to our ideal RSI entry window (32-65). Therefore, we maintain a defensive posture with $38.78 in cash and wait for a proper reversal confirmation before entering any positions."
+> "Wall Street markets are currently closed (CERRADO) for equities and ETFs, leaving attention focused exclusively on 24/7 crypto assets. BTC-USD and ETH-USD are currently trading above their SMA20 (confirmed uptrend), but both are exhibiting high 1h RSI levels (~73-74) and slightly negative 1-hour changes (-0.16% and -0.21%). They are currently lacking the healthy pullback depth and positive 1h candle confirmation trigger required to deploy capital safely. Maintaining a patient cash reserve."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 80%): Asset is in a confirmed uptrend and open 24/7, but the 1-hour change is negative (-0.31%) and 1-h RSI is still extended at 71.6. Awaiting a proper cooling of momentum and a confirmed green 1-hour candle before entry.
+- **[HOLD] BTC-USD** (Confidence: 80%): Asset is in an uptrend above SMA20, but the current 1-hour candle is red and RSI is elevated (~73.7). Waiting for a proper pullback and confirmed green 1h candle trigger.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Capital preservation remains strong with $38.78 in cash. BTC and ETH are in uptrends but currently lack the required pullback depth and green 1h candle trigger. We will monitor BTC-USD and ETH-USD for a healthy dip into the 35-65 RSI range, followed by a confirmed green 1h candle and 1h RSI >= 32, before deploying $6.00 to $8.00 into a single crypto position."
+> "We continue to maintain disciplined patience with $38.78 in cash reserves. BTC-USD and ETH-USD are trending above SMA20 but require a deeper pullback into the 45-60 RSI range alongside a confirmed green 1-hour candle and 1h RSI >= 32 before executing a buy order of $6.00 to $8.00. No crypto positions are currently active."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
