@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 04:20:41`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 04:30:50`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.78 USD** | **$7.00 USD** | **$38.78 USD** | 🔴 **-3.05%** ($-1.22) |
+| **$40.00 USD** | **$31.78 USD** | **$6.98 USD** | **$38.76 USD** | 🔴 **-3.09%** ($-1.24) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.002886 | $2425.59 | $2424.51 | $7.00 | 📉 -0.04% | 2h 39m |
+| `ETH-USD` | 0.002886 | $2425.59 | $2418.60 | $6.98 | 📉 -0.29% | 2h 49m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street traditional markets remain closed, keeping equities and ETFs untradeable. Active 24/7 crypto markets show ETH-USD consolidating just below entry levels with a small unrealized loss (-0.04%). ETH-USD remains in a confirmed daily uptrend above its SMA20 with neutral-to-bullish momentum (daily RSI 54.2), though the 1-hour candle is slightly negative (-0.13%). BTC-USD is also above its SMA20 but does not currently present an active green reversal trigger combined with a pullback. Per anti-correlation rules and capital preservation discipline, we maintain our single crypto position (ETH-USD) and hold cash."
+> "Wall Street markets are currently closed (CERRADO) for the weekend/night cycle, leaving only 24/7 crypto markets active. ETH-USD is currently held in the portfolio, showing stable consolidation near $2,418.60 in a confirmed uptrend above its SMA20. Its 1-hour change is slightly negative (-0.37%), meaning it has not yet triggered the bullish 1H candle reversal confirmation condition (>0.0%) required to add exposure, but it remains a strong hold. BTC-USD is also trading above its SMA20 in an uptrend, but due to our anti-correlation constraint allowing only one active crypto position, we maintain our focus exclusively on managing ETH-USD. Equities like MSFT and AAPL remain closed; we will wait for market hours to evaluate any quality pullbacks on equities."
 
 **Cycle Actions:**
-- **[HOLD] ETH-USD** (Confidence: 80%): ETH-USD remains in a confirmed uptrend above its SMA20 with healthy fundamentals. It has not triggered either our stop-loss (-2.0%) or take-profit (+3.0% to +5.0%) targets. Maintaining position per equity holding patience and trend-following rules.
+- **[HOLD] ETH-USD** (Confidence: 85%): ETH-USD is in a confirmed uptrend above its SMA20 and is currently experiencing a minor consolidation dip. It is well above the stop-loss threshold and below the take-profit target. Holding to let the position develop.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding ETH-USD. Maintain strict stop-loss protection between -1.8% and -2.0% ($2377-2380) and target take-profit levels at +3.0% to +5.0% ($2500-2540). Keep cash reserve above $4.00 USD ($31.78 current cash) and wait for Wall Street markets to reopen before evaluating quality equity pulldowns."
+> "Holding ETH-USD. Maintain strict stop-loss protection between -1.8% and -2.0% ($2377-2380) and target take-profit levels at +3.0% to +5.0% ($2500-2540). Keep cash reserve above $4.00 USD ($31.78 current cash) and wait for Wall Street markets to reopen before evaluating quality equity pullbacks."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
