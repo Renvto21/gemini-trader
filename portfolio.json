@@ -1943,7 +1943,7 @@
     }
   ],
   "memory": {
-    "notes": "Preserving capital with $38.64 USD cash. Cryptos and index ETFs are currently in downtrends or failing trend confirmations. GLD, MSFT, and AAPL are in uptrends but overextended or currently printing negative 1-hour candles. Will monitor GLD and AAPL for a healthy pullback to support levels with RSI >= 32 and a green 1-hour candle before executing a standard entry. Maintaining strict discipline regarding stop-losses and risk-reward parameters.",
-    "updated_at": "2026-11-05T12:10:54.003751-03:00"
+    "notes": "Preserving capital with $38.64 USD cash. Most assets are currently in downtrends or overextended uptrends. AAPL is in an uptrend above SMA20, but its 1-hour RSI is too high (79.3) to enter right now. Will patiently wait for a healthy pullback to support levels with RSI_1h >= 32 and a confirmed green 1-hour candle before deploying capital into quality uptrend equities or crypto.",
+    "updated_at": "2026-11-05T12:20:44.634919-03:00"
   }
 }

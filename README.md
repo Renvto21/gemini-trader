@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 12:10:54`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 12:20:44`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market is experiencing a severe pullback, with major indices like SPY and QQQ sliding below their SMA20 lines in a downtrend. Crypto assets (SOL-USD, ETH-USD, BTC-USD) are deep in a bear trend with extremely oversold 1-hour RSI metrics (near 10-21) and negative 1-hour and 24-hour returns, violating our strict trend-filter rules. Among equities, MSFT, GLD, and AAPL remain in uptrends above their SMA20, but GLD and AAPL/MSFT show extremely high 1-hour RSI levels (GLD at 91.6, AAPL at 76.1) or negative hourly momentum, indicating we must patiently wait for a proper pullback confirmation with an hourly RSI >= 32 and a positive 1-hour return before deployment."
+> "The broader market is experiencing a downward correction, with major indices like SPY, QQQ, and NVDA trading in bear trends below their SMA20. Cryptos (SOL-USD, ETH-USD, BTC-USD) are also in downtrends with severely oversold 1-hour RSI readings, presenting falling knife conditions rather than valid entry points. Among the assets in uptrends (GLD, MSFT, AAPL), GLD and MSFT have negative 1-hour changes or extremely high overextended RSI levels (GLD RSI_1h at 91.0). AAPL is in an uptrend above SMA20 with a slightly positive 1-hour change (+0.10%), but its 1-hour RSI is at 79.3, indicating it is overbought and not currently offering a clean pullback entry. Cash preservation is prioritized."
 
 **Cycle Actions:**
-- **[HOLD] GLD** (Confidence: 0%): GLD is in an uptrend above SMA20, but the 1-hour RSI is extremely overbought at 91.6. We wait for a healthy pullback and a confirmed green 1-hour reversal candle before deploying capital.
+- *No changes this cycle (HOLD)*
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Preserving capital with $38.64 USD cash. Cryptos and index ETFs are currently in downtrends or failing trend confirmations. GLD, MSFT, and AAPL are in uptrends but overextended or currently printing negative 1-hour candles. Will monitor GLD and AAPL for a healthy pullback to support levels with RSI >= 32 and a green 1-hour candle before executing a standard entry. Maintaining strict discipline regarding stop-losses and risk-reward parameters."
+> "Preserving capital with $38.64 USD cash. Most assets are currently in downtrends or overextended uptrends. AAPL is in an uptrend above SMA20, but its 1-hour RSI is too high (79.3) to enter right now. Will patiently wait for a healthy pullback to support levels with RSI_1h >= 32 and a confirmed green 1-hour candle before deploying capital into quality uptrend equities or crypto."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
