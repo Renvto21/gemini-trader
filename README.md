@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 11:10:52`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 11:20:58`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.78 USD** | **$6.89 USD** | **$38.67 USD** | 🔴 **-3.32%** ($-1.33) |
+| **$40.00 USD** | **$38.64 USD** | **$0.00 USD** | **$38.64 USD** | 🔴 **-3.41%** ($-1.36) |
 
 ---
 
@@ -16,40 +16,40 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.002886 | $2425.59 | $2386.42 | $6.89 | 📉 -1.61% | 9h 29m |
+| *(No open positions - 100% in cash)* | - | - | - | - | - | - |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 17h49m7.042363722s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '64147s'}]}}). Safety HOLD rule applied to protect positions."
+> "Wall Street equities and ETFs (AAPL, MSFT, SPY, QQQ, NVDA, GLD) are currently closed for the weekend (market_status: CERRADO). Among open 24/7 crypto assets, ETH-USD is in a confirmed uptrend above its SMA20 but its 1-hour RSI is at 27.6 and 1-hour change is negative (-0.45%), failing to meet our reversal confirmation trigger (rsi_1h >= 32 and change_1h_pct > 0.0). BTC-USD and SOL-USD are in downtrends below their SMA20. Therefore, no trades meet our strict quantitative criteria for trend-following pullbacks, and we remain in cash to preserve capital."
 
 **Cycle Actions:**
-- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
+- **[HOLD] ETH-USD** (Confidence: 0%): ETH-USD is in an uptrend, but current 1-hour RSI (27.6) and negative 1-hour change (-0.45%) do not meet the reversal confirmation trigger (rsi_1h >= 32 and change_1h_pct > 0.0). Holding cash until a valid bounce confirms.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding positions and previous plan while connection with Gemini stabilizes."
+> "We are currently sitting in cash ($38.64) following recent stop-loss liquidations. Traditional markets are closed. For crypto assets, we are monitoring ETH-USD and other uptrend candidates for a valid reversal confirmation trigger (rsi_1h >= 32 and change_1h_pct > 0.0). We will maintain discipline, avoid catching falling knives, and wait for high-quality setup pullbacks."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
 
 | Closed Trades | Win Rate | Realized PnL | Best Trade | Worst Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **88** | 🎯 **43.2%** (38W / 35L / 15BE) | 🔴 **$-1.08 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
+| **89** | 🎯 **42.7%** (38W / 36L / 15BE) | 🔴 **$-1.23 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
 ---
 
 ### 📜 Recent Trades
 
 | Date | Action | Asset | Amount | Price | Reasoning |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-11-05 11:20` | 🔴 SELL (-0.15$) | `ETH-USD` | $6.85 | $2374.60 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -2.10% hit safety limit (-2.0%). Liquidated by code... |
 | `2026-11-05 01:41` | 🟢 BUY | `ETH-USD` | $7.00 | $2425.59 | ETH-USD is in a confirmed uptrend above its SMA20, market status is open 24/7, 1-hour RSI ... |
 | `2026-11-04 22:00` | 🔴 SELL (-0.31$) | `MSFT` | $6.69 | $520.99 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -4.44% hit safety limit (-2.0%). Liquidated by code... |
 | `2026-11-04 11:30` | 🟢 BUY | `MSFT` | $7.00 | $545.20 | MSFT is currently the only asset trading above its SMA20 in a confirmed uptrend with stron... |
 | `2026-11-02 11:40` | 🔴 SELL (-0.13$) | `AAPL` | $6.87 | $340.69 | AAPL has slipped further into a bearish trend below its SMA20 with a 1-hour RSI of 24.8 an... |
-| `2026-10-28 13:21` | 🔴 SELL (-0.02$) | `MSFT` | $6.48 | $528.16 | MSFT has shifted to a bearish trend below its SMA20 and current performance is near our st... |
 
 ---
 
