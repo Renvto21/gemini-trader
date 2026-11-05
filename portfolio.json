@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding the AAPL position patiently as it is in an uptrend, adhering to equity holding patience rules. Crypto markets remain bearish and unsafe for entry due to failing the trend and 1-hour momentum confirmation triggers. Will continue monitoring crypto for a reversal confirmation (rsi >= 32 and change_1h_pct > 0) once trends stabilize above SMA20.",
-    "updated_at": "2026-11-05T18:10:43.862980-03:00"
+    "notes": "Maintain the AAPL position patiently as it is in a confirmed uptrend above its SMA20 and market status is closed. Keep monitoring crypto assets (BTC, ETH, SOL) for a solid reversal confirmation (rsi_1h >= 32 and change_1h_pct > 0) once trends stabilize above their SMA20. Strict capital preservation and risk management remain the top priorities.",
+    "updated_at": "2026-11-05T18:20:42.438062-03:00"
   }
 }
