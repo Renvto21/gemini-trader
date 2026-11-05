@@ -1,7 +1,13 @@
 {
   "initial_capital": 40.0,
-  "cash": 38.63656721208731,
-  "positions": {},
+  "cash": 32.13656721208731,
+  "positions": {
+    "AAPL": {
+      "shares": 0.01882148544954394,
+      "avg_price": 345.35,
+      "opened_at": "2026-11-05T17:40:44.128846-03:00"
+    }
+  },
   "history": [
     {
       "timestamp": "2026-10-07T20:09:58.250279",
@@ -1940,10 +1946,19 @@
       "pnl_usd": -0.15,
       "pnl_pct": -2.1,
       "reason": "🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -2.10% hit safety limit (-2.0%). Liquidated by code to protect capital."
+    },
+    {
+      "timestamp": "2026-11-05T17:40:44.128858-03:00",
+      "action": "BUY",
+      "ticker": "AAPL",
+      "amount_usd": 6.5,
+      "shares": 0.018821,
+      "price": 345.35,
+      "reason": "AAPL is in a confirmed uptrend above its SMA20, market status is open, and 1-hour momentum has turned positive (change_1h_pct > 0.0) with an RSI above 32, representing a high-quality pullback entry."
     }
   ],
   "memory": {
-    "notes": "Maintained capital preservation with 100% cash ($38.64) following recent strict stop-losses. Crypto and major tech sectors remain in downtrends. Will monitor MSFT and AAPL for a pullback entry once 1-hour momentum turns positive (change_1h_pct > 0.0 and rsi_1h >= 32).",
-    "updated_at": "2026-11-05T17:30:42.957733-03:00"
+    "notes": "Maintained discipline while most assets recovered or tested support. Evaluated AAPL for a pullback entry as it trades above its SMA20 with positive 1-hour momentum and healthy RSI. Will target a +3.5% gain with a strict -1.8% stop-loss.",
+    "updated_at": "2026-11-05T17:40:44.126257-03:00"
   }
 }

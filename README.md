@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 17:30:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 17:40:44`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$38.64 USD** | **$0.00 USD** | **$38.64 USD** | 🔴 **-3.41%** ($-1.36) |
+| **$40.00 USD** | **$32.14 USD** | **$6.50 USD** | **$38.64 USD** | 🔴 **-3.41%** ($-1.36) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| *(No open positions - 100% in cash)* | - | - | - | - | - | - |
+| `AAPL` | 0.018821 | $345.35 | $345.35 | $6.50 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market remains under heavy selling pressure, with major indices like QQQ, SPY, and high-beta assets such as NVDA trading firmly in a bear trend below their SMA20. Cryptocurrencies are also collapsing with negative 24h performance and RSI levels deeply depressed, failing the trend filter. Among equities, MSFT and AAPL remain in a confirmed uptrend (above SMA20) but are currently experiencing slight intraday weakness with negative 1-hour changes. GLD is also above SMA20 but shows an extremely overbought 1-hour RSI (89.6), failing our pullback criteria. Adhering strictly to quantitative rules, we avoid catching falling knives and remain patient for a confirmed positive 1-hour candle and healthy RSI on uptrend assets before deployment."
+> "The broader market remains fragile with several key tech assets and major crypto assets trading in a downtrend below their SMA20. However, MSFT, AAPL, and GLD are currently exhibiting bullish trends above their SMA20. Specifically, AAPL is showing positive 1-hour momentum (change_1h_pct > 0.0) with an hourly RSI above 32, fulfilling our pullback criteria in a confirmed uptrend."
 
 **Cycle Actions:**
-- **[HOLD] MSFT** (Confidence: 0%): MSFT is in an uptrend above SMA20, but the 1-hour candle is currently negative (change_1h_pct = -0.13), failing our reversal confirmation trigger. Holding cash until a confirmed green candle appears.
+- **[BUY] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20, market status is open, and 1-hour momentum has turned positive (change_1h_pct > 0.0) with an RSI above 32, representing a high-quality pullback entry.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained capital preservation with 100% cash ($38.64) following recent strict stop-losses. Crypto and major tech sectors remain in downtrends. Will monitor MSFT and AAPL for a pullback entry once 1-hour momentum turns positive (change_1h_pct > 0.0 and rsi_1h >= 32)."
+> "Maintained discipline while most assets recovered or tested support. Evaluated AAPL for a pullback entry as it trades above its SMA20 with positive 1-hour momentum and healthy RSI. Will target a +3.5% gain with a strict -1.8% stop-loss."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
@@ -45,11 +45,11 @@
 
 | Date | Action | Asset | Amount | Price | Reasoning |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-11-05 17:40` | 🟢 BUY | `AAPL` | $6.50 | $345.35 | AAPL is in a confirmed uptrend above its SMA20, market status is open, and 1-hour momentum... |
 | `2026-11-05 11:20` | 🔴 SELL (-0.15$) | `ETH-USD` | $6.85 | $2374.60 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -2.10% hit safety limit (-2.0%). Liquidated by code... |
 | `2026-11-05 01:41` | 🟢 BUY | `ETH-USD` | $7.00 | $2425.59 | ETH-USD is in a confirmed uptrend above its SMA20, market status is open 24/7, 1-hour RSI ... |
 | `2026-11-04 22:00` | 🔴 SELL (-0.31$) | `MSFT` | $6.69 | $520.99 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -4.44% hit safety limit (-2.0%). Liquidated by code... |
 | `2026-11-04 11:30` | 🟢 BUY | `MSFT` | $7.00 | $545.20 | MSFT is currently the only asset trading above its SMA20 in a confirmed uptrend with stron... |
-| `2026-11-02 11:40` | 🔴 SELL (-0.13$) | `AAPL` | $6.87 | $340.69 | AAPL has slipped further into a bearish trend below its SMA20 with a 1-hour RSI of 24.8 an... |
 
 ---
 
