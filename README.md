@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 10:50:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 11:01:11`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.78 USD** | **$6.90 USD** | **$38.68 USD** | 🔴 **-3.30%** ($-1.32) |
+| **$40.00 USD** | **$31.78 USD** | **$6.88 USD** | **$38.67 USD** | 🔴 **-3.33%** ($-1.33) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.002886 | $2425.59 | $2389.57 | $6.90 | 📉 -1.48% | 9h 9m |
+| `ETH-USD` | 0.002886 | $2425.59 | $2385.65 | $6.88 | 📉 -1.65% | 9h 20m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street traditional markets remain closed (CERRADO), leaving crypto as the only active liquidity vehicle (ABIERTO 24/7). ETH-USD is currently holding an open position in a confirmed uptrend (above SMA20), though its 1-hour RSI has dipped slightly to 31.4 with a minor negative 1-hour change (-0.07%). BTC-USD and SOL-USD remain in bearish trends below their SMA20, violating our strict trend-filter rule. MSFT and AAPL show bullish trends above SMA20 but cannot be traded due to market closures. We maintain our current ETH-USD position as it has not triggered our stop-loss nor reached our take-profit target, and we adhere to equity holding patience and anti-correlation constraints."
+> "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 17h58m48.786999869s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '64728s'}]}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] ETH-USD** (Confidence: 85%): ETH-USD remains in a confirmed uptrend above its SMA20. The current drawdown (-1.48%) is well within acceptable limits and above our hard stop-loss threshold (-2.0%). Maintaining position to let the trade play out toward our take-profit target.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding ETH-USD with stop-loss at -2.0% ($2377.00) and take-profit target at +3.5% ($2510.00). Will monitor 1-hour momentum to ensure RSI stabilizes above 32 and price action turns green. No new crypto positions will be opened due to the single crypto asset anti-correlation constraint. Wall Street assets will be re-evaluated upon market open."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
