@@ -1,37 +1,5 @@
  Initial Capital:     $40.00 USD
  Available Cash:      $31.78 USD
- Assets Value:        $6.98 USD
- Total Balance:       $38.76 USD
- Net PnL:             🔴 $-1.24 USD (-3.09%)
-
- 💼 Open Positions:
-   • ETH-USD: 0.002886 u. | Buy: $2425.59 | Now: $2418.6 | Total: $6.98 📉 (-0.29%) [Time: 2h 49m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Wall Street markets are currently closed (CERRADO) for the weekend/night cycle, leaving only 24/7 crypto markets active. ETH-USD is currently held in the portfolio, showing stable consolidation near $2,418.60 in a confirmed uptrend above its SMA20. Its 1-hour change is slightly negative (-0.37%), meaning it has not yet triggered the bullish 1H candle reversal confirmation condition (>0.0%) required to add exposure, but it remains a strong hold. BTC-USD is also trading above its SMA20 in an uptrend, but due to our anti-correlation constraint allowing only one active crypto position, we maintain our focus exclusively on managing ETH-USD. Equities like MSFT and AAPL remain closed; we will wait for market hours to evaluate any quality pullbacks on equities."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Holding ETH-USD. Maintain strict stop-loss protection between -1.8% and -2.0% ($2377-2380) and target take-profit levels at +3.0% to +5.0% ($2500-2540). Keep cash reserve above $4.00 USD ($31.78 current cash) and wait for Wall Street markets to reopen before evaluating quality equity pullbacks."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] ETH-USD (Confidence: 85%)
-    Reason: ETH-USD is in a confirmed uptrend above its SMA20 and is currently experiencing a minor consolidation dip. It is well above the stop-loss threshold and below the take-profit target. Holding to let the position develop.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.76 USD (Cash: $31.78 USD)
-
-[2026-11-05 04:40:37] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $31.78 USD
  Assets Value:        $6.97 USD
  Total Balance:       $38.75 USD
  Net PnL:             🔴 $-1.25 USD (-3.11%)
@@ -151,3 +119,35 @@ Final Cycle Balance: $38.76 USD (Cash: $31.78 USD)
 
 🏁 Cycle completed.
 Final Cycle Balance: $38.77 USD (Cash: $31.78 USD)
+
+[2026-11-05 05:20:35] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.78 USD
+ Assets Value:        $6.99 USD
+ Total Balance:       $38.78 USD
+ Net PnL:             🔴 $-1.22 USD (-3.06%)
+
+ 💼 Open Positions:
+   • ETH-USD: 0.002886 u. | Buy: $2425.59 | Now: $2423.13 | Total: $6.99 📉 (-0.10%) [Time: 3h 39m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.78 USD (Cash: $31.78 USD)
