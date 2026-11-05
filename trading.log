@@ -1,37 +1,5 @@
  Initial Capital:     $40.00 USD
  Available Cash:      $31.78 USD
- Assets Value:        $6.97 USD
- Total Balance:       $38.75 USD
- Net PnL:             🔴 $-1.25 USD (-3.13%)
-
- 💼 Open Positions:
-   • ETH-USD: 0.002886 u. | Buy: $2425.59 | Now: $2413.54 | Total: $6.97 📉 (-0.50%) [Time: 4h 39m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Temporary notice from Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Safety HOLD rule applied to protect positions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Holding positions and previous plan while connection with Gemini stabilizes."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
-    Reason: Temporary connection issue, safely holding current positions.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.75 USD (Cash: $31.78 USD)
-
-[2026-11-05 06:30:42] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $31.78 USD
  Assets Value:        $6.96 USD
  Total Balance:       $38.74 USD
  Net PnL:             🔴 $-1.26 USD (-3.15%)
@@ -147,6 +115,38 @@ Final Cycle Balance: $38.74 USD (Cash: $31.78 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] ETH-USD (Confidence: 85%)
     Reason: ETH-USD is in a confirmed uptrend above its SMA20 and is holding steady with a minor pullback. Traditional markets are closed, and our anti-correlation constraint allows only one crypto position. We hold to let the trend play out toward our +3.5% target while respecting the -2.0% stop-loss.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.76 USD (Cash: $31.78 USD)
+
+[2026-11-05 07:10:36] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.78 USD
+ Assets Value:        $6.97 USD
+ Total Balance:       $38.76 USD
+ Net PnL:             🔴 $-1.24 USD (-3.11%)
+
+ 💼 Open Positions:
+   • ETH-USD: 0.002886 u. | Buy: $2425.59 | Now: $2415.86 | Total: $6.97 📉 (-0.40%) [Time: 5h 29m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Wall Street markets are currently closed (CERRADO), leaving crypto as the only active asset class (ABIERTO 24/7). Among cryptocurrencies, ETH-USD and BTC-USD remain in confirmed uptrends above their SMA20. ETH-USD is currently holding steady in our portfolio with a minor -0.4% pullback, showing stable 1-hour RSI at 48.3. The 1-hour change for ETH is slightly negative (-0.08%), meaning the strict reversal trigger (change_1h_pct > 0.0) has not been met to add more funds yet, but existing equity holding patience applies as it respects the trend."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding ETH-USD position. Current 1-hour momentum is slightly negative (-0.08%), so waiting for a green 1-hour candle (change_1h_pct > 0.0) and RSI >= 32 before considering any size expansion. Profit target remains +3.5% to +5.0%, and stop-loss is strictly at -2.0%. Preserving minimum cash reserves above $4.00."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] ETH-USD (Confidence: 80%)
+    Reason: ETH-USD is in a confirmed uptrend above its SMA20 and our position is performing normally with only a -0.4% drawdown, well above our -2.0% strict stop-loss. Sticking to equity holding patience while awaiting a clear positive 1-hour momentum confirmation for any potential add.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
