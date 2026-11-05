@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position as it remains in an uptrend above its SMA20 despite a brief pullback. Market hours are closed for equities, and crypto assets fail trend filters. Will monitor AAPL for take-profit targets (+3% to +5%) or stop-loss protection (-2%) upon market reopening.",
-    "updated_at": "2026-11-05T19:20:41.613879-03:00"
+    "notes": "Holding AAPL in an uptrend above SMA20. Wall Street is currently closed; will wait for market reopening to evaluate take-profit targets (+3% to +5%) or enforce stop-loss protection (-2%). Crypto assets fail our trend and reversal confirmation criteria, so no crypto exposure will be opened at this time.",
+    "updated_at": "2026-11-05T19:30:47.943478-03:00"
   }
 }
