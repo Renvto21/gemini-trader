@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 15:40:56`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 15:50:43`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 13h19m3.269700574s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47943s'}]}}). Safety HOLD rule applied to protect positions."
+> "The broader market remains under heavy pressure with major equity indices (SPY, QQQ) and crypto assets (BTC, ETH, SOL, NVDA) trading in clear downtrends below their respective SMA20 levels. Broad risk-off sentiment persists following macro concerns and tech pullbacks. Although some individual tech stocks like AAPL and MSFT maintain a technical uptrend (above SMA20), their 1-hour RSI and short-term momentum do not yet offer an ideal low-risk entry pullback configuration per our strict quantitative rules. Cryptocurrencies are heavily oversold on daily frames, but their 1-hour RSIs are too low (<32) or 1-hour changes are negative, confirming they are still catching falling knives and failing the reversal trigger criteria."
 
 **Cycle Actions:**
-- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
+- **[HOLD] AAPL** (Confidence: 0%): Asset is in an uptrend, but 1-hour momentum and pullback depth do not meet ideal risk/reward confirmation triggers yet. Maintaining cash reserves.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding positions and previous plan while connection with Gemini stabilizes."
+> "Maintained capital in cash ($38.64) following the stop-loss exits. Strict trend-following rules prevented us from buying falling crypto knives and weak equities. Waiting patiently for confirmed uptrends, positive 1-hour momentum candles (change_1h_pct > 0), and RSIs >= 32 before deploying capital into quality pullbacks."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
