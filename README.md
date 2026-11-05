@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 06:10:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 06:22:49`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.78 USD** | **$6.96 USD** | **$38.74 USD** | 🔴 **-3.14%** ($-1.26) |
+| **$40.00 USD** | **$31.78 USD** | **$6.97 USD** | **$38.75 USD** | 🔴 **-3.13%** ($-1.25) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `ETH-USD` | 0.002886 | $2425.59 | $2411.75 | $6.96 | 📉 -0.57% | 4h 29m |
+| `ETH-USD` | 0.002886 | $2425.59 | $2413.54 | $6.97 | 📉 -0.50% | 4h 41m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Traditional equity and commodity markets are currently closed (CERRADO), leaving active trading opportunities restricted to 24/7 crypto assets. Within crypto, BTC-USD and ETH-USD maintain confirmed uptrends above their SMA20. ETH-USD is currently held in the portfolio, down slightly by 0.57%, but remains structurally sound above its moving average with a healthy 1-hour RSI. The 1-hour candle change for ETH-USD is currently slightly negative (-0.26%), meaning the reversal confirmation trigger is not yet met for adding more capital. Therefore, patience is required."
+> "Temporary notice from Gemini (504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] ETH-USD** (Confidence: 85%): ETH-USD remains in a valid uptrend above the SMA20 and is experiencing a minor consolidation. The position is small and well within risk limits, so we maintain the holding and wait for a clear green 1-hour candle confirmation to add or let it run toward target.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding existing ETH-USD position. Monitor ETH-USD for a positive 1-hour candle change (> 0.0) combined with an RSI >= 32 before considering any add-on buys. Respect the stop-loss level at -1.8% to -2.0% and take-profit targets between +3.0% and +5.0%. Keep cash reserve secure."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
