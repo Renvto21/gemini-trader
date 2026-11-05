@@ -1918,7 +1918,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding MSFT as it remains above its SMA20, maintaining strict stop-loss protection at -2.0% and targeting a +3.0% to +5.0% profit gain. For crypto assets (BTC-USD, ETH-USD), maintain patience and wait for 1H RSIs to cool down below 60 alongside a confirmed 1-hour green candle before considering any new positions under the anti-correlation constraint.",
-    "updated_at": "2026-11-04T21:20:41.537663-03:00"
+    "notes": "Continue holding MSFT as it remains above its SMA20 in a confirmed uptrend, respecting equity holding patience and protecting gains with our trailing stop-loss discipline. For crypto assets, BTC-USD and ETH-USD are above their SMA20s but feature overbought 1H RSIs (>75); wait for a healthy pullback to cool off RSI levels below 60 accompanied by a confirmed 1-hour green candle before opening a single crypto position.",
+    "updated_at": "2026-11-04T21:30:48.700405-03:00"
   }
 }
