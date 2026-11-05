@@ -1943,7 +1943,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding positions and previous plan while connection with Gemini stabilizes.",
-    "updated_at": "2026-11-05T16:21:13.005897-03:00"
+    "notes": "Preserve cash and maintain strict adherence to trend and reversal filters. Do not enter crypto until 1-hour candles show positive momentum (change_1h_pct > 0) and rsi_1h >= 32. Keep an eye on MSFT and AAPL for high-quality dip buying opportunities if they confirm bounces above their SMA20 support lines.",
+    "updated_at": "2026-11-05T16:30:49.593364-03:00"
   }
 }
