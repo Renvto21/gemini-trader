@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 12:20:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 12:30:56`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market is experiencing a downward correction, with major indices like SPY, QQQ, and NVDA trading in bear trends below their SMA20. Cryptos (SOL-USD, ETH-USD, BTC-USD) are also in downtrends with severely oversold 1-hour RSI readings, presenting falling knife conditions rather than valid entry points. Among the assets in uptrends (GLD, MSFT, AAPL), GLD and MSFT have negative 1-hour changes or extremely high overextended RSI levels (GLD RSI_1h at 91.0). AAPL is in an uptrend above SMA20 with a slightly positive 1-hour change (+0.10%), but its 1-hour RSI is at 79.3, indicating it is overbought and not currently offering a clean pullback entry. Cash preservation is prioritized."
+> "The broader market is undergoing a sharp corrective phase, with major equities (QQQ, NVDA, SPY) and cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) trading below their SMA20 lines in clear bear trends. Most 1-hour RSI indicators are heavily depressed or freefalling, reflecting ongoing panic selling in tech and risk-on assets. Only AAPL, MSFT, and GLD remain in confirmed uptrends above their SMA20. However, AAPL and GLD have elevated 1-hour RSIs (above 78), making them overextended in the short term, while MSFT shows strong resilience. In accordance with strict trend-following and pullback confirmation rules, we must avoid catching falling knives in downtrending assets and wait for green 1-hour candles with healthy RSI recovery before deploying capital."
 
 **Cycle Actions:**
-- *No changes this cycle (HOLD)*
+- **[HOLD] AAPL** (Confidence: 0%): AAPL is in an uptrend above SMA20, but its 1-hour RSI is currently 78.5 and change_1h_pct is negative (-0.02%). Awaiting a proper pullback and reversal confirmation before entering.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Preserving capital with $38.64 USD cash. Most assets are currently in downtrends or overextended uptrends. AAPL is in an uptrend above SMA20, but its 1-hour RSI is too high (79.3) to enter right now. Will patiently wait for a healthy pullback to support levels with RSI_1h >= 32 and a confirmed green 1-hour candle before deploying capital into quality uptrend equities or crypto."
+> "Preserving capital with $38.64 USD in cash. The market is currently experiencing widespread downward pressure. AAPL and MSFT remain in solid uptrends above the SMA20, but current short-term momentum lacks the proper pullback setup (RSI_1h >= 32 and change_1h_pct > 0). Will monitor MSFT and AAPL for a healthy dip to key support levels accompanied by a confirmed green 1-hour candle before executing any new long entries."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

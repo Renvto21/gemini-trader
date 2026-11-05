@@ -1,36 +1,5 @@
 Final Cycle Balance: $38.64 USD (Cash: $38.64 USD)
 
-[2026-11-05 11:40:30] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $38.64 USD
- Assets Value:        $0.00 USD
- Total Balance:       $38.64 USD
- Net PnL:             🔴 $-1.36 USD (-3.41%)
-
- 💼 Open Positions: (None, 100% in cash)
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Temporary notice from Gemini (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 17h19m8.619306942s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '62348s'}]}}). Safety HOLD rule applied to protect positions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Holding positions and previous plan while connection with Gemini stabilizes."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
-    Reason: Temporary connection issue, safely holding current positions.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.64 USD (Cash: $38.64 USD)
-
 [2026-11-05 11:50:34] 🔍 Starting analysis cycle...
 📡 Downloading quotes & 1H intraday indicators for 9 assets...
 
@@ -148,6 +117,37 @@ Final Cycle Balance: $38.64 USD (Cash: $38.64 USD)
 "Preserving capital with $38.64 USD cash. Most assets are currently in downtrends or overextended uptrends. AAPL is in an uptrend above SMA20, but its 1-hour RSI is too high (79.3) to enter right now. Will patiently wait for a healthy pullback to support levels with RSI_1h >= 32 and a confirmed green 1-hour candle before deploying capital into quality uptrend equities or crypto."
 
 ⚡ DECIDED ACTIONS:
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.64 USD (Cash: $38.64 USD)
+
+[2026-11-05 12:30:36] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $38.64 USD
+ Assets Value:        $0.00 USD
+ Total Balance:       $38.64 USD
+ Net PnL:             🔴 $-1.36 USD (-3.41%)
+
+ 💼 Open Positions: (None, 100% in cash)
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The broader market is undergoing a sharp corrective phase, with major equities (QQQ, NVDA, SPY) and cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) trading below their SMA20 lines in clear bear trends. Most 1-hour RSI indicators are heavily depressed or freefalling, reflecting ongoing panic selling in tech and risk-on assets. Only AAPL, MSFT, and GLD remain in confirmed uptrends above their SMA20. However, AAPL and GLD have elevated 1-hour RSIs (above 78), making them overextended in the short term, while MSFT shows strong resilience. In accordance with strict trend-following and pullback confirmation rules, we must avoid catching falling knives in downtrending assets and wait for green 1-hour candles with healthy RSI recovery before deploying capital."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Preserving capital with $38.64 USD in cash. The market is currently experiencing widespread downward pressure. AAPL and MSFT remain in solid uptrends above the SMA20, but current short-term momentum lacks the proper pullback setup (RSI_1h >= 32 and change_1h_pct > 0). Will monitor MSFT and AAPL for a healthy dip to key support levels accompanied by a confirmed green 1-hour candle before executing any new long entries."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 0%)
+    Reason: AAPL is in an uptrend above SMA20, but its 1-hour RSI is currently 78.5 and change_1h_pct is negative (-0.02%). Awaiting a proper pullback and reversal confirmation before entering.
+    ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
 Final Cycle Balance: $38.64 USD (Cash: $38.64 USD)
