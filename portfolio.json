@@ -1923,7 +1923,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained capital in cash ($38.78). Wall Street is closed. Crypto assets (BTC-USD, ETH-USD) remain strong in uptrends but overbought on the 1-hour timeframe (RSI > 75). Waiting patiently for a deeper pullback where 1h RSI cools down to the 50-60 range accompanied by a positive 1-hour confirmation candle before deploying standard capital ($6.00-$7.00 USD).",
-    "updated_at": "2026-11-05T00:50:45.420880-03:00"
+    "notes": "Maintained capital in cash ($38.78) while observing 24/7 crypto markets. BTC-USD and ETH-USD are holding above their SMA20 but lack a positive 1-hour confirmation candle (change_1h_pct > 0) to signal the end of their current hourly dip. Will continue to monitor crypto pullbacks for a standard position size ($6.00-$7.00 USD) once 1h RSI and green candle triggers align, maintaining strict anti-correlation rules by holding at most one crypto asset.",
+    "updated_at": "2026-11-05T01:00:44.694844-03:00"
   }
 }

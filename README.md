@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 00:50:45`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-05 01:00:44`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO) with prices frozen, leaving crypto assets as the only active liquidity channel (ABIERTO 24/7). Among crypto assets, both BTC-USD and ETH-USD are in confirmed uptrends (above SMA20), but their 1-hour RSI indicators remain elevated near 76-78. Although BTC-USD shows a tiny positive 1-hour change (+0.02%), the RSI has not cooled down sufficiently to a safer 50-60 range for a textbook pullback entry. Equities like MSFT and AAPL are in uptrends, but since the market is closed, no trading actions can be taken on them at this moment."
+> "Wall Street is currently closed (market status CERRADO), meaning active capital deployment must focus exclusively on 24/7 crypto assets. Within the crypto complex, BTC-USD and ETH-USD are trading in confirmed uptrends above their SMA20. However, their 1-hour momentum indicators reflect slight downward drift (-0.06% and -0.15% over the past hour) with RSI values hovering near 64-68, which does not yet satisfy our strict reversal confirmation trigger (rsi_1h >= 32 and positive 1-hour green candle). Equities such as MSFT and AAPL show strong multi-day momentum but remain closed for trading today. We maintain our cash reserves and wait patiently for cleaner pullback entry conditions."
 
 **Cycle Actions:**
-- **[HOLD] BTC-USD** (Confidence: 80%): BTC-USD is in an uptrend above SMA20, but the 1-hour RSI is still high at 78.2. Await a proper pullback with 1h RSI between 50-60 and a green 1h candle before entering.
+- **[HOLD] BTC-USD** (Confidence: 50%): Asset is in an uptrend above SMA20, but the current 1-hour candle is negative (-0.06%), failing the mandatory reversal confirmation trigger. Maintaining cash and waiting for a confirmed green bounce.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained capital in cash ($38.78). Wall Street is closed. Crypto assets (BTC-USD, ETH-USD) remain strong in uptrends but overbought on the 1-hour timeframe (RSI > 75). Waiting patiently for a deeper pullback where 1h RSI cools down to the 50-60 range accompanied by a positive 1-hour confirmation candle before deploying standard capital ($6.00-$7.00 USD)."
+> "Maintained capital in cash ($38.78) while observing 24/7 crypto markets. BTC-USD and ETH-USD are holding above their SMA20 but lack a positive 1-hour confirmation candle (change_1h_pct > 0) to signal the end of their current hourly dip. Will continue to monitor crypto pullbacks for a standard position size ($6.00-$7.00 USD) once 1h RSI and green candle triggers align, maintaining strict anti-correlation rules by holding at most one crypto asset."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
