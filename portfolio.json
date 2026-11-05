@@ -1938,7 +1938,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding ETH-USD within acceptable volatility limits. Stop-loss is set at -2.0% and take-profit target at +3.5% to +5.0%. When equities open, monitor MSFT and AAPL for high-quality pullbacks above SMA20 with confirmed green 1-hour candles.",
-    "updated_at": "2026-11-05T08:30:41.496137-03:00"
+    "notes": "Holding ETH-USD within acceptable volatility limits. Stop-loss remains at -2.0% and take-profit target at +3.5% to +5.0%. When equities reopen, continue to monitor AAPL and MSFT for optimal pullback entries above SMA20 with confirmed green 1-hour candles.",
+    "updated_at": "2026-11-05T08:40:48.012006-03:00"
   }
 }
