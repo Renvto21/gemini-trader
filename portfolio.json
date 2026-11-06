@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL patiently while markets are closed, monitoring for a take-profit target between +3.0% and +5.0% or a stop-loss trigger at -1.8% to -2.0% upon market reopening. Keep all crypto and downtrend assets excluded due to strict trend filters and lack of positive 1-hour reversal momentum. Maintain capital preservation and cash reserves above the $4.00 minimum.",
-    "updated_at": "2026-11-06T01:40:39.867537-03:00"
+    "notes": "Maintain AAPL position patiently while markets remain closed. Watch for profit target between +3.0% and +5.0% or protect capital via the hard circuit breaker stop-loss between -1.8% and -2.0% upon market reopening. Keep all crypto assets excluded due to persistent downtrends, low 1H RSI, and negative 1H returns. Ensure cash reserve remains above $4.00 minimum.",
+    "updated_at": "2026-11-06T01:50:41.823150-03:00"
   }
 }
