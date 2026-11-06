@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with the existing AAPL position while Wall Street is closed. Monitor AAPL closely for stop-loss triggers between -1.8% and -2.0% or take-profit targets between +3.0% and +5.0%. Avoid all crypto assets as they fail trend-following and reversal confirmation filters. Keep cash reserves safely above the $4.00 minimum threshold.",
-    "updated_at": "2026-11-06T01:10:46.745290-03:00"
+    "notes": "Maintain patience with the existing AAPL position through the weekend closure. Monitor AAPL for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%) once Wall Street reopens. Avoid all crypto assets as they fail both trend-following and 1-hour reversal confirmation filters (change_1h_pct is negative and RSI is weak). Keep cash reserves secure above the $4.00 minimum.",
+    "updated_at": "2026-11-06T01:20:37.845219-03:00"
   }
 }
