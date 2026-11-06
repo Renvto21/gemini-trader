@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position patiently as required by equity patience rules. Traditional markets are closed, preventing new equity executions. Crypto assets (BTC, ETH, SOL) show weak 1-hour momentum and remain below SMA20, so no crypto buys will be made. Will monitor GLD and MSFT for pullback entry opportunities when traditional market hours reopen, ensuring RSI remains healthy and 1-hour candles turn positive.",
-    "updated_at": "2026-11-06T04:40:36.778054-03:00"
+    "notes": "Holding AAPL position patiently as required by equity rules while markets are closed. Avoided crypto entries due to ongoing bearish trends below SMA20. When traditional market hours reopen, continue monitoring MSFT and GLD for pullback entries if confirmation criteria are met.",
+    "updated_at": "2026-11-06T04:50:33.755957-03:00"
   }
 }
