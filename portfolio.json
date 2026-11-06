@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position through the market closure, respecting equity holding patience and cutting losses strictly if it breaches -2.0%. Keep cash reserves secure ($32.14). Avoid all crypto assets as they are currently below the SMA20 trend filter. Once Wall Street reopens, monitor MSFT and AAPL for high-quality pullback entries meeting the 1-hour reversal trigger criteria (rsi_1h >= 32 and change_1h_pct > 0).",
-    "updated_at": "2026-11-06T07:40:46.536380-03:00"
+    "notes": "Maintain the current AAPL equity position through the market closure, adhering strictly to equity holding patience. Stop-loss remains set at -2.0%. Cash reserves are secure at $32.14. Avoid all crypto assets as none meet the trend filter (all are below SMA20). When Wall Street reopens, monitor AAPL and MSFT for further pullback opportunities if they remain in an uptrend with favorable momentum triggers.",
+    "updated_at": "2026-11-06T07:50:45.087148-03:00"
   }
 }
