@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position patiently while Wall Street is closed, respecting the equity holding patience rule. Keep monitoring the -1.8% to -2.0% stop-loss threshold and target a +3.0% to +5.0% gain. Keep cash reserves secure above $4.00 USD (currently $32.14). Avoid all crypto assets as long as they remain in a downtrend below the SMA20 and fail to show confirmed green 1-hour candles with RSI >= 32. Wait for market re-opening to evaluate new pullbacks in confirmed uptrend equities.",
-    "updated_at": "2026-11-06T00:00:48.317519-03:00"
+    "notes": "Maintain the current AAPL equity position patiently while Wall Street remains closed, honoring the equity holding patience rule. Monitor AAPL against the -1.8% to -2.0% stop-loss threshold and target a +3.0% to +5.0% gain. Keep cash reserves secure well above $4.00 USD (currently $32.14). Avoid all crypto assets as long as they are below the SMA20 and lack confirmed green 1-hour candles with RSI >= 32. Watch for market re-opening to evaluate new pullback setups in confirmed uptrend assets.",
+    "updated_at": "2026-11-06T00:10:47.875225-03:00"
   }
 }
