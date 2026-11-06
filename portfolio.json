@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT under the Equity Holding Patience rule as they remain above the hard -2.0% stop-loss limit despite temporary softness. Wall Street is closed, so no stock actions can be taken. In crypto, avoid entering any positions as all major tokens remain below their SMA20 trendlines. Monitor crypto and equity markets for trend reclamation when Wall Street reopens.",
-    "updated_at": "2026-11-06T19:00:51.794113-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT patiently as long as they stay above the -2.0% stop-loss threshold. Do not initiate any crypto positions because all major cryptocurrencies are currently below their SMA20 trendlines. When Wall Street reopens, monitor equities for trend reclamation above the SMA20 before considering new long entries.",
+    "updated_at": "2026-11-06T19:10:43.241246-03:00"
   }
 }
