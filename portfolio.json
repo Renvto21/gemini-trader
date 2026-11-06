@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL equity position in accordance with the equity holding patience rule since it remains in an uptrend above SMA20. Monitor AAPL upon market reopening for take-profit triggers (+3.0% to +5.0%) or strict stop-loss protection (-1.8% to -2.0%). Keep crypto sidelined as all available digital assets currently violate the trend filter rule by trading below their SMA20 lines. Preserve cash above the $4.00 USD minimum threshold.",
-    "updated_at": "2026-11-06T06:10:41.317085-03:00"
+    "notes": "Maintain the current AAPL equity position as the market remains closed and the asset is above its SMA20. Await market reopening to assess AAPL for take-profit targets (+3.0% to +5.0%) or stop-loss execution (-1.8% to -2.0%). Keep crypto sidelined entirely until a validated uptrend above SMA20 and positive hourly momentum triggers appear. Preserve cash above the $4.00 USD minimum.",
+    "updated_at": "2026-11-06T06:20:37.914054-03:00"
   }
 }
