@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT positions patiently per equity holding patience rule. Stop-loss triggers remain active near -2.0% for both positions, and take-profit targets are set at +3.5% to +5.0%. No new entries will be made until a high-quality asset meets the strict trend and reversal confirmation triggers.",
-    "updated_at": "2026-11-06T13:30:44.137032-03:00"
+    "notes": "Holding AAPL and MSFT patiently according to equity holding patience. Stop-loss triggers remain active near -2.0% for both positions, and take-profit targets are set at +3.5% to +5.0%. No new entries will be made until a high-quality asset meets the strict trend and reversal confirmation triggers (rsi_1h >= 32 and change_1h_pct > 0.0 in a confirmed uptrend).",
+    "updated_at": "2026-11-06T13:40:40.372798-03:00"
   }
 }
