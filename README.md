@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 19:40:39`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 19:50:44`
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $342.37 | $6.44 | 📉 -0.86% | 1d 1h |
-| `MSFT` | 0.013089 | $534.82 | $530.61 | $6.94 | 📉 -0.79% | 6h 29m |
+| `AAPL` | 0.018821 | $345.35 | $342.37 | $6.44 | 📉 -0.86% | 1d 2h |
+| `MSFT` | 0.013089 | $534.82 | $530.61 | $6.94 | 📉 -0.79% | 6h 39m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Major equities and cryptocurrencies remain under pressure, trading below their respective SMA20 trendlines with market status showing most traditional assets closed for the weekend/night. Although crypto markets are active 24/7, assets like BTC-USD, ETH-USD, and SOL-USD fail to meet the strict trend filter requirements since they are currently in a bearish trend below the SMA20. Existing equity holdings AAPL and MSFT are experiencing minor unrealized drawdowns but remain well above stop-loss thresholds (-1.8% to -2.0%). Adhering to the equity holding patience rule and market hours constraint, no forced liquidations or new entries are warranted at this stage."
+> "Wall Street markets are currently closed (CERRADO) for the weekend, and all tracked equities (AAPL, MSFT, QQQ, SPY, NVDA, GLD) are flagged as bearish below their SMA20 trendlines. Crypto markets are open 24/7, but major assets like SOL-USD, ETH-USD, and BTC-USD remain in downtrends below their SMA20 with negative or weak 1-hour momentum changes. Given our strict trend-following and pullback filters, no new positions can be opened safely at this time."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Holding AAPL per equity patience rule. Market is closed, and the current drawdown (-0.86%) is well within the acceptable limit before reaching the strict -1.8% to -2.0% stop-loss threshold.
-- **[HOLD] MSFT** (Confidence: 100%): Holding MSFT per equity patience rule. Market is closed, and the minor pullback (-0.79%) does not trigger the circuit breaker stop-loss rules.
+- **[HOLD] AAPL** (Confidence: 100%): Holding equity position patiently per rules as markets are closed and the position has not breached the stop-loss limit.
+- **[HOLD] MSFT** (Confidence: 100%): Holding equity position patiently per rules as markets are closed and the position remains well within acceptable risk boundaries.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain patience with AAPL and MSFT positions over the weekend while monitoring stop-losses strictly around -1.8% to -2.0%. Avoid entering new crypto trades due to ongoing bearish trends below the SMA20. Wait for markets to reopen and assets to reclaim their SMA20 trendlines with confirmed upward momentum before deploying additional capital."
+> "Holding AAPL and MSFT positions patiently through the weekend as per equity patience rules, monitoring stop-losses closely around the -1.8% to -2.0% circuit breaker threshold. Avoid crypto entries as all crypto assets remain below their SMA20. Wait for market reopening and clear trend reclaim confirmations before deploying additional capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
