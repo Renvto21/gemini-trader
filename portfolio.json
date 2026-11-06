@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT patiently during this flat/consolidating phase in accordance with equity patience rules. Do not rotate or sell prematurely. Crypto assets remain in downtrends below SMA20; avoid entering crypto until trends improve and reversal triggers (rsi_1h >= 32 and change_1h_pct > 0.0) are reliably met in confirmed uptrends. Maintain cash reserve above $4.00.",
-    "updated_at": "2026-11-06T18:20:38.870326-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT while monitoring for stop-loss limits (-1.8% to -2.0%). Avoid all crypto assets due to ongoing downtrends below the SMA20 and lack of positive 1-hour momentum confirmations. Wait for Wall Street markets to open and for trend filters to turn positive before seeking new deployment of the $25.14 cash reserve.",
+    "updated_at": "2026-11-06T18:30:49.614809-03:00"
   }
 }
