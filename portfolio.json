@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Currently holding AAPL and MSFT. Although AAPL shows a brief dip below its SMA20, equity patience rule applies (do not rotate or sell flat/minor drawdown positions prematurely without hitting the -1.8% to -2.0% stop-loss). Will continue monitoring for bounce confirmations on uptrend assets while preserving the $4.00 cash reserve floor.",
-    "updated_at": "2026-11-06T17:00:54.648510-03:00"
+    "notes": "Holding AAPL and MSFT patiently. Continue respecting equity patience rule (no selling flat/minor drawdown positions prematurely unless -1.8% stop-loss triggers). Watch for 1-hour green candle confirmation and RSI >= 32 on uptrend assets before adding further capital.",
+    "updated_at": "2026-11-06T17:10:42.660902-03:00"
   }
 }
