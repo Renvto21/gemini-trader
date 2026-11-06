@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT while monitoring for stop-loss limits (-1.8% to -2.0%). Avoid all crypto assets due to ongoing downtrends below the SMA20 and lack of positive 1-hour momentum confirmations. Wait for Wall Street markets to open and for trend filters to turn positive before seeking new deployment of the $25.14 cash reserve.",
-    "updated_at": "2026-11-06T18:30:49.614809-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT as they remain within acceptable drawdown limits and equity holding patience rules apply. Avoid opening crypto positions due to lack of bullish 1-hour momentum confirmations (change_1h_pct > 0.0) and bearish SMA20 trends. Monitor markets closely when Wall Street re-opens for potential trend reversals or stop-loss triggers.",
+    "updated_at": "2026-11-06T18:40:36.247863-03:00"
   }
 }
