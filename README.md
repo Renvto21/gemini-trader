@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 13:00:55`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 13:10:45`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$32.14 USD** | **$6.49 USD** | **$38.63 USD** | 🔴 **-3.43%** ($-1.37) |
+| **$40.00 USD** | **$25.14 USD** | **$13.49 USD** | **$38.63 USD** | 🔴 **-3.42%** ($-1.37) |
 
 ---
 
@@ -16,22 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $344.81 | $6.49 | 📉 -0.16% | 19h 20m |
+| `AAPL` | 0.018821 | $345.35 | $345.04 | $6.49 | 📉 -0.09% | 19h 30m |
+| `MSFT` | 0.013089 | $534.82 | $534.82 | $7.00 | 📈 +0.00% | 0m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Major equity indices like SPY, QQQ, and NVDA remain in a macro downtrend below their respective SMA20 lines despite short-term bounce attempts. Assets such as AAPL and MSFT are currently showing relative strength in a confirmed uptrend (above SMA20). Cryptocurrencies continue to exhibit high downside correlation and are currently trading below their SMA20 benchmarks, precluding new crypto entries per our strict anti-falling-knife rules. AAPL is holding steady inside our portfolio within a normal holding timeframe, while MSFT nears optimal pullback criteria as 1-hour momentum builds."
+> "The broader market remains mostly bearish with major indices like QQQ, SPY, and crypto assets trading below their respective SMA20 levels, signaling caution. However, selective equities such as AAPL and MSFT remain in a confirmed uptrend above the SMA20. AAPL is currently held in the portfolio while consolidating slightly near entry, respecting equity holding patience guidelines. MSFT is showing a bullish trend structure with a positive 1-hour percentage change of +0.41% and an increasing 1-hour RSI approaching the entry threshold, presenting a solid setup for a disciplined trend-following pullback entry."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20 and is performing well within equity holding patience limits. Current minor drawdown (-0.16%) does not trigger stop-loss constraints, and holding allows the trade time to reach the +3.5% to +5.0% profit target.
+- **[BUY] MSFT** (Confidence: 85%): MSFT is in a confirmed uptrend above its SMA20, market status is open, 1-hour RSI has recovered above 29 and ticked up with a positive 1-hour candle change (+0.41%), confirming a high-quality pullback entry.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL position with a tight stop-loss at -2.0% and monitoring for a take-profit target of +3.5% to +5.0%. MSFT is on active watch: trend is bullish above SMA20, 1-hour RSI is near 31.3 and ticking up, waiting for 1-hour RSI >= 32 with confirmed positive 1-hour change before executing a $7.00 allocation. Maintaining cash reserves above $4.00."
+> "Holding AAPL position while monitoring for take-profit targets between +3.5% and +5.0% and strict stop-loss protection near -2.0%. MSFT is in an uptrend (above SMA20) with a positive 1-hour change (+0.41%) and RSI ticking upwards, meeting our pullback criteria for a $7.00 allocation. Maintaining cash reserves above the $4.00 minimum."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
@@ -45,11 +46,11 @@
 
 | Date | Action | Asset | Amount | Price | Reasoning |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-11-06 13:10` | 🟢 BUY | `MSFT` | $7.00 | $534.82 | MSFT is in a confirmed uptrend above its SMA20, market status is open, 1-hour RSI has reco... |
 | `2026-11-05 17:40` | 🟢 BUY | `AAPL` | $6.50 | $345.35 | AAPL is in a confirmed uptrend above its SMA20, market status is open, and 1-hour momentum... |
 | `2026-11-05 11:20` | 🔴 SELL (-0.15$) | `ETH-USD` | $6.85 | $2374.60 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -2.10% hit safety limit (-2.0%). Liquidated by code... |
 | `2026-11-05 01:41` | 🟢 BUY | `ETH-USD` | $7.00 | $2425.59 | ETH-USD is in a confirmed uptrend above its SMA20, market status is open 24/7, 1-hour RSI ... |
 | `2026-11-04 22:00` | 🔴 SELL (-0.31$) | `MSFT` | $6.69 | $520.99 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -4.44% hit safety limit (-2.0%). Liquidated by code... |
-| `2026-11-04 11:30` | 🟢 BUY | `MSFT` | $7.00 | $545.20 | MSFT is currently the only asset trading above its SMA20 in a confirmed uptrend with stron... |
 
 ---
 
