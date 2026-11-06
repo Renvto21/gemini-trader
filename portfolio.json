@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL through market closure as it maintains an uptrend above SMA20. Will evaluate AAPL upon market reopening for take-profit targets between +3.0% and +5.0% or observe the strict -2.0% stop-loss threshold. Avoid opening any crypto positions due to prevailing downtrends below SMA20 and lack of confirmed bullish momentum triggers.",
-    "updated_at": "2026-11-06T11:10:35.894590-03:00"
+    "notes": "Holding AAPL position as it remains in an uptrend above SMA20 despite market closure. Awaiting market reopening to monitor AAPL for potential take-profit targets between +3.0% and +5.0% or to enforce the strict -2.0% stop-loss threshold. Avoid entering any crypto positions as all available options are currently in a bear trend below SMA20 without confirmed positive 1-hour bounce candles.",
+    "updated_at": "2026-11-06T11:20:37.087366-03:00"
   }
 }
