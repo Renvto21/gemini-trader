@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position through the market closure. Current PnL is minimal at -0.34%. Will monitor AAPL upon market reopening for take-profit targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%). Cryptocurrencies continue to be scanned for trend reversals, but none meet the strict entry criteria of being in an uptrend with confirmed 1-hour momentum.",
-    "updated_at": "2026-11-06T05:40:39.818576-03:00"
+    "notes": "Holding the AAPL position through market closure in accordance with the patience rule for equities. Will monitor AAPL upon market reopening for take-profit targets (+3.0% to +5.0%) or enforce the strict stop-loss limit (-1.8% to -2.0%). Cryptocurrencies are being actively scanned, but none currently meet the strict trend-following pullback and reversal trigger rules (RSI >= 32 and positive 1h change while above SMA20). Cash reserves remain healthy at $32.14 USD.",
+    "updated_at": "2026-11-06T05:50:37.316218-03:00"
   }
 }
