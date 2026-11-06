@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position patiently with current profit of +1.2%. Maintain strict risk management: take-profit target at +3.0% to +5.0% and hard stop-loss at -2.0%. Crypto assets remain in heavy downtrends below SMA20 and fail to meet entry criteria (rsi_1h >= 32 and positive 1h change). Continue to monitor MSFT for a potential pullback entry when markets reopen, as it is the only other asset currently in a confirmed uptrend.",
-    "updated_at": "2026-11-05T22:30:47.342909-03:00"
+    "notes": "Holding AAPL position patiently as it remains above its SMA20 with a +1.2% profit. Target profit remains at +3.0% to +5.0%, with a strict stop-loss at -2.0%. Crypto markets are in severe downtrends below SMA20 and do not meet entry criteria. Monitor MSFT and AAPL for potential activity when Wall Street reopens.",
+    "updated_at": "2026-11-05T22:40:41.832793-03:00"
   }
 }
