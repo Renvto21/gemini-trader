@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding the AAPL position through market closure in accordance with the patience rule for equities. Will monitor AAPL upon market reopening for take-profit targets (+3.0% to +5.0%) or enforce the strict stop-loss limit (-1.8% to -2.0%). Cryptocurrencies are being actively scanned, but none currently meet the strict trend-following pullback and reversal trigger rules (RSI >= 32 and positive 1h change while above SMA20). Cash reserves remain healthy at $32.14 USD.",
-    "updated_at": "2026-11-06T05:50:37.316218-03:00"
+    "notes": "Maintain the AAPL equity position in accordance with the equity holding patience rule. Monitor AAPL upon market reopening for take-profit triggers (+3.0% to +5.0%) or circuit-breaker stop-losses (-1.8% to -2.0%). Keep crypto sidelined until a confirmed uptrend above SMA20 materializes alongside positive 1h momentum and RSI >= 32. Preserve cash above $4.00 USD.",
+    "updated_at": "2026-11-06T06:00:45.834458-03:00"
   }
 }
