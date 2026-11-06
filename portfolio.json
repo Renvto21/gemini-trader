@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT patiently according to equity holding rules. Neither has breached stop-loss limits (-1.8% to -2.0%) or reached profit targets (+3.0% to +5.0%). Cash reserve is maintained at $25.14 USD. Continue to monitor 1-hour momentum and wait for confirmed pullbacks with positive 1-hour changes and RSI >= 32 before deploying additional capital.",
-    "updated_at": "2026-11-06T14:30:47.550928-03:00"
+    "notes": "Maintain patience with AAPL and MSFT holdings. Monitor for stop-loss at -1.8% and take-profit targets at +3.0% to +5.0%. Wait for positive 1-hour momentum confirmation (change_1h_pct > 0.0 and rsi_1h >= 32) before considering any new allocations. Keep cash reserves intact.",
+    "updated_at": "2026-11-06T14:40:37.685239-03:00"
   }
 }
