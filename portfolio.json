@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with AAPL and MSFT holdings. Monitor for stop-loss at -1.8% and take-profit targets at +3.0% to +5.0%. Wait for positive 1-hour momentum confirmation (change_1h_pct > 0.0 and rsi_1h >= 32) before considering any new allocations. Keep cash reserves intact.",
-    "updated_at": "2026-11-06T14:40:37.685239-03:00"
+    "notes": "Maintain patience with AAPL and MSFT holdings following strict risk parameters. Monitor stop-loss levels closely at -1.8% to -2.0% and keep take-profit targets between +3.0% and +5.0%. For any future allocation, ensure assets are in a confirmed uptrend (above SMA20) and display a positive 1-hour momentum bounce (change_1h_pct > 0.0 and rsi_1h >= 32). Preserve cash reserves above $4.00.",
+    "updated_at": "2026-11-06T14:50:44.272088-03:00"
   }
 }
