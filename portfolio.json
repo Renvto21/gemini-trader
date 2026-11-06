@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position as equity rules dictate patience despite the closed market status. Wall Street assets are closed, and crypto assets lack a confirmed 1-hour bullish reversal trigger (change_1h_pct > 0.0) alongside a bullish SMA20 trend, so no crypto trades will be executed. Monitor AAPL for take-profit targets between +3.0% and +5.0% or maintain strict adherence to the -2.0% circuit breaker stop-loss.",
-    "updated_at": "2026-11-05T21:10:41.232087-03:00"
+    "notes": "Holding the AAPL position patiently. Stop-loss remains protected near -2.0%, and take-profit targets are set between +3.0% and +5.0%. In crypto, Bitcoin showed a minor 1-hour positive change but remains below the SMA20 trendline, so no long entries are permitted yet. We will monitor crypto 1-hour candles for a legitimate trend recovery and RSI recovery above 32 before deploying capital into digital assets.",
+    "updated_at": "2026-11-05T21:20:40.225671-03:00"
   }
 }
