@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL position through the market closure, respecting equity holding patience and its status above the SMA20 trend line. Keep cash reserves secure ($32.14). Avoid all crypto assets and downtrended equities until they reclaim SMA20 and exhibit confirmed positive hourly momentum upon market re-opening. Look to evaluate GLD or MSFT for potential pullbacks once Wall Street reopens.",
-    "updated_at": "2026-11-06T07:10:40.412863-03:00"
+    "notes": "Maintain the AAPL position through the market closure, respecting equity holding patience and its status above the SMA20 trend line. Keep cash reserves secure ($32.14). Avoid all crypto assets and downtrended equities (like NVDA, SPY, QQQ) until they reclaim SMA20 and exhibit confirmed positive hourly momentum upon market re-opening. Continue to monitor MSFT and GLD for potential pullback entries once Wall Street reopens, ensuring all reversal triggers (rsi_1h >= 32 and change_1h_pct > 0.0) are met.",
+    "updated_at": "2026-11-06T07:20:45.567373-03:00"
   }
 }
