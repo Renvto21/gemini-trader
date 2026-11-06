@@ -5,38 +5,6 @@
  Net PnL:             🔴 $-1.39 USD (-3.46%)
 
  💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $344.17 | Total: $6.48 📉 (-0.34%) [Time: 14h 49m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Holding positions and previous plan while connection with Gemini stabilizes."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
-    Reason: Temporary connection issue, safely holding current positions.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.61 USD (Cash: $32.14 USD)
-
-[2026-11-06 08:40:33] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $32.14 USD
- Assets Value:        $6.48 USD
- Total Balance:       $38.61 USD
- Net PnL:             🔴 $-1.39 USD (-3.46%)
-
- 💼 Open Positions:
    • AAPL: 0.018821 u. | Buy: $345.35 | Now: $344.17 | Total: $6.48 📉 (-0.34%) [Time: 14h 59m]
 =======================================================
 
@@ -147,6 +115,38 @@ Final Cycle Balance: $38.61 USD (Cash: $32.14 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 85%)
     Reason: AAPL is currently in a confirmed uptrend above its SMA20, adhering to equity holding patience rules while markets are closed. The position is stable, and we are waiting for Wall Street to reopen to target +3% to +5% gains or protect capital with our hard stop-loss.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.61 USD (Cash: $32.14 USD)
+
+[2026-11-06 09:20:37] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $32.14 USD
+ Assets Value:        $6.48 USD
+ Total Balance:       $38.61 USD
+ Net PnL:             🔴 $-1.39 USD (-3.46%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $344.17 | Total: $6.48 📉 (-0.34%) [Time: 15h 39m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Wall Street markets are currently closed (CERRADO) with prices frozen following a severe tech sector sell-off. AAPL remains our sole active equity position, holding relatively stable above its SMA20 trend line with a minor pullback of -0.34%. Cryptocurrencies are active 24/7, but BTC-USD, ETH-USD, and SOL-USD continue to trade in bearish trends below their respective SMA20 lines, violating our strict trend filter rules. Therefore, no crypto trades will be opened. We maintain a patient holding stance on AAPL awaiting market re-opening."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding AAPL position during market closure. AAPL is still in a confirmed bullish trend above SMA20. Will monitor for take-profit targets (+3% to +5%) once Wall Street opens or enforce strict stop-loss protection if it breaches -2.0%. Crypto assets remain ineligible due to ongoing bearish trends below SMA20."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 85%)
+    Reason: AAPL is in a confirmed uptrend above its SMA20, and equities require holding patience while markets are closed. Position is currently down a negligible -0.34%, well within acceptable parameters.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.

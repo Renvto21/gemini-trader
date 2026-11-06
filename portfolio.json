@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position through market closure. AAPL remains above its SMA20 trend line. Will look for take-profit targets between +3% and +5% once Wall Street re-opens or cut immediately if the -2% stop-loss threshold is breached. Continue to avoid crypto assets as none meet the strict bullish trend and reversal trigger conditions.",
-    "updated_at": "2026-11-06T09:10:47.015718-03:00"
+    "notes": "Holding AAPL position during market closure. AAPL is still in a confirmed bullish trend above SMA20. Will monitor for take-profit targets (+3% to +5%) once Wall Street opens or enforce strict stop-loss protection if it breaches -2.0%. Crypto assets remain ineligible due to ongoing bearish trends below SMA20.",
+    "updated_at": "2026-11-06T09:20:42.725972-03:00"
   }
 }
