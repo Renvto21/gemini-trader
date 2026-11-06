@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT patiently as long as they stay above the -2.0% stop-loss threshold. Do not initiate any new crypto positions because available crypto assets do not meet the strict reversal and uptrend requirements simultaneously. Wait for Wall Street to reopen and for assets to reclaim their SMA20 trendlines before considering new long entries.",
-    "updated_at": "2026-11-06T19:20:38.566368-03:00"
+    "notes": "Maintain AAPL and MSFT positions patiently during the weekend closure, monitoring stop-losses strictly around the -1.8% to -2.0% level. Do not enter any new positions in crypto or stocks until markets reopen and assets clearly reclaim their SMA20 trendlines with confirmed upside momentum.",
+    "updated_at": "2026-11-06T19:30:45.306688-03:00"
   }
 }
