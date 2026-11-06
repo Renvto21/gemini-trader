@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position patiently as it stays above the SMA20. Monitor for take-profit opportunities between +3.0% and +5.0% or execute stop-loss if price drops below -1.8%. Avoid all crypto assets and closed stocks during this cycle as they fail our strict trend and market-status filters. Keep cash reserves secure above $4.00.",
-    "updated_at": "2026-11-05T23:20:45.410914-03:00"
+    "notes": "Hold current AAPL position patiently through the weekend/closed market hours as long as it remains above SMA20. Monitor stop-loss levels (-1.8% to -2.0%) and take-profit targets (+3.0% to +5.0%). Avoid all crypto assets due to the ongoing downtrend beneath the SMA20 and maintain cash reserves above $4.00 USD.",
+    "updated_at": "2026-11-05T23:30:45.960905-03:00"
   }
 }
