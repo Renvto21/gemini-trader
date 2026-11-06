@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position patiently as required by equity rules while markets are closed. Avoided crypto entries due to ongoing bearish trends below SMA20. When traditional market hours reopen, continue monitoring MSFT and GLD for pullback entries if confirmation criteria are met.",
-    "updated_at": "2026-11-06T04:50:33.755957-03:00"
+    "notes": "Holding AAPL position patiently as required by equity holding rules while traditional markets are closed. Avoided crypto entries entirely due to ongoing bearish trends below SMA20 and lack of positive 1-hour confirmation triggers. Will continue monitoring MSFT, GLD, and AAPL for pullback entries once market hours reopen.",
+    "updated_at": "2026-11-06T05:00:55.951880-03:00"
   }
 }
