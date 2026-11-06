@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding the AAPL position calmly, respecting the equity patience rule and watching the strict -1.8% to -2.0% stop-loss boundary. MSFT has shown promising green hourly momentum (change_1h_pct > 0), but its 1-hour RSI is currently 31.0, just below the 32 strict entry threshold. Will wait for MSFT to hit an rsi_1h >= 32 with sustained positive 1-hour movement before deploying additional cash reserves.",
-    "updated_at": "2026-11-06T12:40:47.125660-03:00"
+    "notes": "Holding AAPL with a strict stop-loss at -1.8% to -2.0% and monitoring for a take-profit target around +3.5% to +5.0%. MSFT is on active watchlist: waiting for rsi_1h to officially cross >= 32 with sustained green 1-hour momentum before deploying a $7.00 allocation. Maintaining cash reserves above $4.00 and respecting all trend-following rules.",
+    "updated_at": "2026-11-06T12:50:40.910906-03:00"
   }
 }
