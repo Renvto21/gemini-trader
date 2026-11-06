@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 03:00:52`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 03:10:51`
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $344.17 | $6.48 | 📉 -0.34% | 9h 20m |
+| `AAPL` | 0.018821 | $345.35 | $344.17 | $6.48 | 📉 -0.34% | 9h 30m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader equity market is currently closed (CERRADO) with major indices and stocks exhibiting negative 24-hour momentum following recent tech pullbacks and macro jitters. Key equities like AAPL remain above their SMA20 trend line, allowing our existing position to hold steady. Meanwhile, crypto markets are open 24/7, but major digital assets (BTC-USD, ETH-USD, SOL-USD) remain trapped in a bearish trend below their SMA20 with weak or negative 1-hour momentum changes, preventing any new crypto entries under our strict trend filter rules."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 and market status is currently closed. Per equity holding patience rules, we maintain the position without premature rotation while monitoring profit and loss targets for the upcoming session.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain the current AAPL position through the ongoing market closure, adhering to equity holding patience. Monitor AAPL upon market reopening for our take-profit target between +3.0% and +5.0% or execute a stop-loss if it drops past -1.8%. Continue to exclude all crypto assets due to ongoing downtrends below the SMA20 and lack of confirmed 1-hour green candle reversal triggers. Keep cash reserves well above the $4.00 USD minimum."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
