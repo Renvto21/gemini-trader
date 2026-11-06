@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position patiently per equity patience rules, keeping a strict eye on the -1.8% to -2.0% stop-loss threshold. MSFT is on active watch for a confirmed bullish reversal (rsi_1h >= 32 and change_1h_pct > 0.0) before deploying capital. No crypto positions will be opened until a robust trend forms above SMA20.",
-    "updated_at": "2026-11-06T12:30:49.496345-03:00"
+    "notes": "Holding the AAPL position calmly, respecting the equity patience rule and watching the strict -1.8% to -2.0% stop-loss boundary. MSFT has shown promising green hourly momentum (change_1h_pct > 0), but its 1-hour RSI is currently 31.0, just below the 32 strict entry threshold. Will wait for MSFT to hit an rsi_1h >= 32 with sustained positive 1-hour movement before deploying additional cash reserves.",
+    "updated_at": "2026-11-06T12:40:47.125660-03:00"
   }
 }
