@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL equity position as it remains above its SMA20 trend and well within the acceptable stop-loss boundary (-0.34% current PnL). Do not panic sell equities during flat or minor negative hourly movements. Keep all crypto assets sidelined until confirmed uptrends above SMA20 and positive hourly momentum triggers appear together. Maintain cash above the $4.00 USD minimum threshold and wait for market reopening to evaluate MSFT and GLD pullbacks.",
-    "updated_at": "2026-11-06T06:30:47.086571-03:00"
+    "notes": "Hold the AAPL equity position through the weekend / market closure as it remains above its SMA20 and unaffected by short-term noise. Keep crypto sidelined since BTC, ETH, and SOL are still trading below their SMA20 despite positive 1-hour flickers. Wait for market reopening to scan GLD and MSFT for valid pullback entries above SMA20 with positive hourly momentum triggers. Maintain cash well above the $4.00 USD minimum threshold.",
+    "updated_at": "2026-11-06T06:40:45.571417-03:00"
   }
 }
