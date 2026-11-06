@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL position patiently as it remains above the SMA20 trend line. Take-profit targets remain set at +3.0% to +5.0% and stop-loss is protected near -2.0%. Crypto markets are in severe downtrends with no valid 1-hour green candle confirmation or RSI recovery above 32, so crypto exposure continues to be avoided. Cash reserves remain well above the $4.00 minimum at $32.14.",
-    "updated_at": "2026-11-05T22:00:50.617517-03:00"
+    "notes": "Holding AAPL position patiently. Maintain take-profit target at +3.0% to +5.0% and stop-loss protection near -2.0%. Avoid all crypto positions until a confirmed uptrend and a positive 1-hour green candle with RSI >= 32 materialize.",
+    "updated_at": "2026-11-05T22:10:40.518193-03:00"
   }
 }
