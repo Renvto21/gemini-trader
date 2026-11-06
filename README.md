@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 00:10:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 00:20:41`
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $344.17 | $6.48 | 📉 -0.34% | 6h 30m |
+| `AAPL` | 0.018821 | $345.35 | $344.17 | $6.48 | 📉 -0.34% | 6h 39m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), so trading activity is restricted. Crypto markets remain open 24/7, but all major digital assets (ETH-USD, BTC-USD, SOL-USD) are currently in strict downtrends below their SMA20 with low 1-hour RSI levels and negative 24h momentum, violating our trend filters and reversal triggers. Among equities, AAPL is currently held in an uptrend above its SMA20 despite a temporary flat session. MSFT and GLD are also in uptrends above their SMA20 but their markets are closed. We maintain strict capital preservation, keeping our AAPL position steady and preserving our cash reserve."
+> "The broader equity and crypto markets remain under intense macroeconomic pressure, following massive tech liquidations and a severe market drawdown. Major crypto assets (BTC, ETH, SOL) are trading well below their respective SMA20 lines with depressed 1-hour RSI levels (< 30) and negative momentum, violating our strict trend-filter and reversal criteria. Wall Street assets are currently closed (CERRADO), and our sole existing equity position (AAPL) is comfortably above its SMA20 in a confirmed uptrend. In accordance with equity holding patience rules, we will hold AAPL through the weekend closure, monitoring its performance and adhering to our predefined stop-loss (-1.8% to -2.0%) and take-profit targets (+3.0% to +5.0%). Cash reserves are securely maintained above the $4.00 minimum at $32.14."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is held in a confirmed uptrend above its SMA20. Wall Street is currently closed, and per equity holding patience rules, we maintain the position while monitoring risk thresholds without premature rotation.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL remains in a confirmed uptrend above its SMA20. Wall Street is currently closed (CERRADO). Complying with equity holding patience rules, we maintain our position while monitoring the -2.0% stop-loss and +3.0% take-profit targets.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain the current AAPL equity position patiently while Wall Street remains closed, honoring the equity holding patience rule. Monitor AAPL against the -1.8% to -2.0% stop-loss threshold and target a +3.0% to +5.0% gain. Keep cash reserves secure well above $4.00 USD (currently $32.14). Avoid all crypto assets as long as they are below the SMA20 and lack confirmed green 1-hour candles with RSI >= 32. Watch for market re-opening to evaluate new pullback setups in confirmed uptrend assets."
+> "Maintain the current AAPL equity position patiently while Wall Street remains closed, respecting the equity holding patience rule. Monitor AAPL against the -1.8% stop-loss and +3.0% take-profit levels. Keep cash reserves secure ($32.14). Avoid all crypto assets as they remain in a strong downtrend (below SMA20) with negative 1-hour momentum, failing our reversal confirmation criteria. Continue to wait for market re-opening and confirmed uptrend pullback setups."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
