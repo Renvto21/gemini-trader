@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 13:40:40`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-06 13:51:01`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$25.14 USD** | **$13.51 USD** | **$38.65 USD** | 🔴 **-3.39%** ($-1.35) |
+| **$40.00 USD** | **$25.14 USD** | **$13.49 USD** | **$38.63 USD** | 🔴 **-3.43%** ($-1.37) |
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $344.76 | $6.49 | 📉 -0.17% | 19h 59m |
-| `MSFT` | 0.013089 | $534.82 | $536.34 | $7.02 | 📈 +0.28% | 29m |
+| `AAPL` | 0.018821 | $345.35 | $343.92 | $6.47 | 📉 -0.41% | 20h 10m |
+| `MSFT` | 0.013089 | $534.82 | $536.16 | $7.02 | 📈 +0.25% | 40m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market remains largely under pressure, with most assets trading below their SMA20 daily trend lines, indicating a persistent defensive backdrop. However, key mega-cap equities such as AAPL and MSFT remain resilient in confirmed uptrends above their SMA20. Cryptocurrencies like BTC-USD and ETH-USD are currently consolidating below their SMAs with negative or flat short-term momentum, meaning no high-quality crypto pullback criteria are met. Following the equity holding patience rule, our current open equity positions (AAPL and MSFT) are maintained as they are comfortably within normal noise ranges, well above stop-loss levels."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20. Following the equity holding patience rule, we hold the position steady and let it play out without premature rotation.
-- **[HOLD] MSFT** (Confidence: 90%): MSFT remains in a confirmed uptrend above its SMA20 with positive performance. Holding patiently per the equity holding patience rule.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL and MSFT patiently according to equity holding patience. Stop-loss triggers remain active near -2.0% for both positions, and take-profit targets are set at +3.5% to +5.0%. No new entries will be made until a high-quality asset meets the strict trend and reversal confirmation triggers (rsi_1h >= 32 and change_1h_pct > 0.0 in a confirmed uptrend)."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
