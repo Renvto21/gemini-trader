@@ -1958,7 +1958,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position patiently as it remains in an uptrend above the SMA20. Take-profit target is set between +3.0% and +5.0%, with a strict stop-loss at -2.0%. Do not engage with crypto assets while they remain below the SMA20 and lack a confirmed positive 1-hour candle bounce. Keep cash reserves secure above $4.00.",
-    "updated_at": "2026-11-05T23:10:35.988194-03:00"
+    "notes": "Maintain the current AAPL position patiently as it stays above the SMA20. Monitor for take-profit opportunities between +3.0% and +5.0% or execute stop-loss if price drops below -1.8%. Avoid all crypto assets and closed stocks during this cycle as they fail our strict trend and market-status filters. Keep cash reserves secure above $4.00.",
+    "updated_at": "2026-11-05T23:20:45.410914-03:00"
   }
 }
