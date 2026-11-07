@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience with current equity holdings AAPL and MSFT despite short-term downward pressure, as equity assets require time to play out and markets are currently closed. Avoid all new crypto and equity entries until they decisively reclaim their SMA20 trendlines and display verified positive 1-hour momentum candles. Keep cash reserves intact at $25.14 USD.",
-    "updated_at": "2026-11-07T12:50:48.549042-03:00"
+    "notes": "Maintain patience with current equity holdings AAPL and MSFT. Avoid all new equity and crypto entries until markets reopen and assets reclaim their SMA20 trendlines with confirmed positive 1-hour momentum (change_1h_pct > 0 and rsi_1h >= 32). Keep cash reserves secure at $25.14 USD and adhere strictly to stop-loss and take-profit parameters.",
+    "updated_at": "2026-11-07T13:00:42.908687-03:00"
   }
 }
