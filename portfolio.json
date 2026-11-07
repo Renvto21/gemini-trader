@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT holdings patiently through the weekend. Do not panic-sell on flat or minor negative drift unless the -2.0% circuit breaker is hit. For crypto markets, remain entirely on the sidelines as all assets are currently in a downtrend below the SMA20. Wait for market reopening and confirmed uptrend reversals before deploying any additional capital.",
-    "updated_at": "2026-11-07T15:30:42.558547-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT patiently through the weekend. Do not panic-sell on minor negative drift or flat action unless the stop-loss / circuit breaker threshold (-2.0%) is hit. Keep crypto exposure at zero as all coins remain below the SMA20 trend filter. Wait for Wall Street to reopen and for confirmed uptrend reversals before evaluating new capital allocation.",
+    "updated_at": "2026-11-07T15:40:41.415935-03:00"
   }
 }
