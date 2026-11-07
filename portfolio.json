@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT positions following equity holding patience rules. Both stocks are currently just under their entry prices but well above the -2.0% circuit breaker. No crypto positions are opened due to prevailing downtrends below the SMA20. Will continue holding equities through the weekend and evaluate re-entry or stop-loss triggers when Wall Street reopens.",
-    "updated_at": "2026-11-07T14:20:34.729665-03:00"
+    "notes": "Holding AAPL and MSFT positions through the weekend as they are below entry but safe from the -2.0% stop-loss limit. Crypto assets remain in downtrends and are avoided per the strict trend filter. Will re-evaluate equity trends and crypto pullback triggers once Wall Street reopens.",
+    "updated_at": "2026-11-07T14:30:44.956238-03:00"
   }
 }
