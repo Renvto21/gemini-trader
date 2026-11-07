@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity positions through the weekend and wait for market re-opening to evaluate price action and trend confirmation. Continue monitoring crypto assets (BTC-USD, ETH-USD, SOL-USD) for a genuine 1-hour momentum recovery above SMA20 before committing capital. Keep cash reserves protected at $25.14 USD.",
-    "updated_at": "2026-11-07T16:50:38.135337-03:00"
+    "notes": "Maintain current AAPL and MSFT equity positions patiently through the weekend closure according to equity holding rules, watching stop-loss limits near -1.8% to -2.0%. Monitor crypto assets for a genuine 1-hour momentum recovery where change_1h_pct > 0.0 and RSI_1h >= 32 above SMA20 before committing capital. Cash reserves remain safe at $25.14 USD.",
+    "updated_at": "2026-11-07T17:00:49.250437-03:00"
   }
 }
