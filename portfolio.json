@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT across the weekend market closure. Do not panic or sell based on temporary flat or negative price action while traditional markets are closed. Avoid all crypto assets due to bearish trends below the SMA20. Upon Wall Street reopening, re-evaluate trend recovery and momentum triggers for equity holdings.",
-    "updated_at": "2026-11-07T05:40:38.270276-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT through the weekend closure. Adhere strictly to stop-loss limits (-1.8% to -2.0%) and target +3% to +5% gains upon market reopening. Avoid all crypto assets as long as they trade below the SMA20 and lack confirmed reversal setups. Re-evaluate equity trend recovery once Wall Street reopens.",
+    "updated_at": "2026-11-07T05:50:45.778875-03:00"
   }
 }
