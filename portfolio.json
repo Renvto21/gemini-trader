@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT through the weekend freeze, monitoring their distance from the -2.0% stop-loss threshold. Keep cash reserves intact at $25.14. Avoid crypto exposure due to prevailing bearish trends below SMA20 across all major tokens. Wait for traditional markets to re-open and for confirmed UPTREND structures (above SMA20 with positive 1H momentum and RSI >= 32) before deploying additional capital into new setups.",
-    "updated_at": "2026-11-07T12:00:49.294996-03:00"
+    "notes": "Hold AAPL and MSFT positions through the weekend freeze while tracking distance to the -2.0% circuit breaker. Avoid all crypto entries until a confirmed uptrend (above SMA20 with positive 1H momentum and RSI >= 32) materializes once markets reopen or valid crypto setups emerge.",
+    "updated_at": "2026-11-07T12:10:41.607797-03:00"
   }
 }
