@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT positions through the weekend. Both equities are below entry price but far above the hard -2.0% stop-loss threshold. Do not sell equities prematurely due to short-term flat action per patience rules. Crypto assets remain suppressed in downtrends below the SMA20; avoid entering crypto until confirmed uptrends and proper pullback triggers materialize once Wall Street opens.",
-    "updated_at": "2026-11-07T14:40:45.272580-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions through the weekend. Do not sell equities prematurely due to flat action. Avoid crypto asset entries since all available coins are currently below their SMA20 in downtrends, violating the trend-following pullback rules. Wait for Wall Street to reopen and for confirmed uptrends to emerge before deploying additional capital.",
+    "updated_at": "2026-11-07T14:50:41.900896-03:00"
   }
 }
