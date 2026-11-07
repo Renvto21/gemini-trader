@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT positions over the weekend. All crypto assets remain below the SMA20 trend filter, precluding new buys despite brief 1-hour green candles. Will continue to hold current equity positions and preserve our $25.14 cash reserve until a high-quality asset breaks back above its SMA20 with confirmed reversal momentum.",
-    "updated_at": "2026-11-07T19:40:41.543637-03:00"
+    "notes": "Holding AAPL and MSFT through the weekend. Both positions remain within acceptable minor drawdowns (-0.86% and -0.79%) well above our strict -2.0% stop-loss circuit breaker. Wall Street is closed. Cryptocurrencies remain below their SMA20 trend lines with insufficient reversal signals. Will continue to preserve our $25.14 cash reserve and wait for equities to reopen and reclaim their SMA20 levels before deploying additional capital.",
+    "updated_at": "2026-11-07T19:50:42.406352-03:00"
   }
 }
