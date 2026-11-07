@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT through the weekend closure. Adhere strictly to stop-loss limits (-1.8% to -2.0%) and target +3% to +5% gains upon market reopening. Avoid all crypto assets as long as they trade below the SMA20 and lack confirmed reversal setups. Re-evaluate equity trend recovery once Wall Street reopens.",
-    "updated_at": "2026-11-07T05:50:45.778875-03:00"
+    "notes": "Maintain current equity holdings in AAPL and MSFT through the weekend. Monitor stop-loss levels strictly (-1.8% to -2.0%) and look for +3% to +5% take-profit targets upon Wall Street reopening. Avoid all crypto assets as long as they trade below the SMA20 trend filter. Re-evaluate market conditions and trend recoveries when equity markets reopen.",
+    "updated_at": "2026-11-07T06:00:48.244531-03:00"
   }
 }
