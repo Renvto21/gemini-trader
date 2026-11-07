@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 15:20:43`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 15:30:42`
 
 ---
 
@@ -23,17 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market remains defensive with all tracked assets currently positioned in a bearish trend below their respective SMA20 levels. Traditional equity markets (AAPL, MSFT, SPY, QQQ, NVDA, GLD) are closed for the weekend with frozen prices, and our current equity holdings in AAPL and MSFT are experiencing minor unrealized drawdowns (-0.86% and -0.79% respectively), well above our strict -2.0% circuit breaker stop-loss threshold. Cryptocurrencies are trading 24/7, but none currently meet our strict Trend-Filter and Reversal Confirmation requirements: despite positive 1-hour momentum on ETH-USD, BTC-USD, and SOL-USD, all crypto assets remain in a confirmed downtrend below SMA20. In accordance with quantitative capital preservation rules, no falling knives are being caught and no crypto positions are opened."
+> "All equity markets are currently closed (CERRADO) for the weekend, and all tracked equities (AAPL, MSFT, SPY, QQQ, NVDA, GLD) along with major cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) are currently trading below their respective SMA20 lines, indicating a persistent bearish macro trend. Cryptocurrencies are open 24/7, but none meet our strict breakout and reversal confirmation filters (change_1h_pct > 0.0 with RSI_1h >= 32 in a confirmed uptrend). Therefore, we maintain our current equity positions (AAPL and MSFT) in accordance with equity holding patience rules, as neither has breached the -2.0% stop-loss threshold."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): Holding current AAPL position during the weekend market closure. The asset is above our -2.0% stop-loss threshold (current PnL is -0.86%) and adheres to equity holding patience principles during flat or minor consolidation phases.
-- **[HOLD] MSFT** (Confidence: 85%): Holding current MSFT position during the weekend market closure. The asset is well above the strict -2.0% stop-loss circuit breaker (current PnL is -0.79%), respecting our rule to give equities sufficient time to play out without emotional rotation.
+- *No changes this cycle (HOLD)*
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain current AAPL and MSFT equity positions through the weekend shutdown without panic-selling, respecting equity holding patience while monitoring our -2.0% stop-loss limit. For cryptocurrencies, remain on the sidelines until an asset demonstrates a confirmed breakout above its SMA20 accompanied by strong reversal momentum. Preserve cash reserves and wait for market reopening to evaluate new setup quality."
+> "Maintain current AAPL and MSFT holdings patiently through the weekend. Do not panic-sell on flat or minor negative drift unless the -2.0% circuit breaker is hit. For crypto markets, remain entirely on the sidelines as all assets are currently in a downtrend below the SMA20. Wait for market reopening and confirmed uptrend reversals before deploying any additional capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

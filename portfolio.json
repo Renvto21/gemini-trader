@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity positions through the weekend shutdown without panic-selling, respecting equity holding patience while monitoring our -2.0% stop-loss limit. For cryptocurrencies, remain on the sidelines until an asset demonstrates a confirmed breakout above its SMA20 accompanied by strong reversal momentum. Preserve cash reserves and wait for market reopening to evaluate new setup quality.",
-    "updated_at": "2026-11-07T15:20:43.508698-03:00"
+    "notes": "Maintain current AAPL and MSFT holdings patiently through the weekend. Do not panic-sell on flat or minor negative drift unless the -2.0% circuit breaker is hit. For crypto markets, remain entirely on the sidelines as all assets are currently in a downtrend below the SMA20. Wait for market reopening and confirmed uptrend reversals before deploying any additional capital.",
+    "updated_at": "2026-11-07T15:30:42.558547-03:00"
   }
 }
