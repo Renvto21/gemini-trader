@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT through the weekend closure, respecting equity holding patience and our stop-loss thresholds (-2.0%). Continue monitoring crypto assets (BTC-USD, ETH-USD, SOL-USD) for genuine bullish reversal triggers where 1-hour momentum turns positive, RSI exceeds 32, and prices recover above the SMA20. Cash reserves remain healthy at $25.14 USD.",
-    "updated_at": "2026-11-07T18:10:45.615747-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT through the weekend closure while respecting the -2.0% stop-loss threshold and equity holding patience. Crypto assets (BTC-USD, ETH-USD, SOL-USD) are currently in downtrends below their SMA20 and lack the required reversal confirmation (positive 1h momentum and RSI >= 32). Cash reserves remain healthy at $25.14 USD. We will wait for confirmed uptrend pullbacks before deploying additional capital.",
+    "updated_at": "2026-11-07T18:20:40.625303-03:00"
   }
 }
