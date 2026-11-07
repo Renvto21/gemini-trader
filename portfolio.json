@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT patiently as per equity holding patience rules. Do not rotate or sell flat positions prematurely. Crypto assets fail trend filters (all under SMA20), so no new crypto orders will be placed. Continue to monitor market opening on Monday for trend reversals and potential pullback setups above SMA20.",
-    "updated_at": "2026-11-07T04:40:54.386023-03:00"
+    "notes": "Holding AAPL and MSFT patiently according to equity holding patience rules. Monitor equity market status upon reopening for potential trend recoveries above SMA20. For crypto, maintain discipline: no positions will be opened while trend filters fail and reversal confirmation triggers are unmet.",
+    "updated_at": "2026-11-07T04:50:35.519499-03:00"
   }
 }
