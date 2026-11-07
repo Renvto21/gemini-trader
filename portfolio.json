@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT through current market closure; monitor positions for stop-loss thresholds (-1.8% to -2.0%) upon market reopening. Avoid opening crypto positions as all cryptos remain in a downtrend below SMA20. Maintain cash reserves around $25.14 USD.",
-    "updated_at": "2026-11-07T07:20:43.880288-03:00"
+    "notes": "Holding AAPL and MSFT positions through the weekend/market closure. Monitor positions closely for stop-loss thresholds (-1.8% to -2.0%) upon Wall Street reopening. Avoid opening new crypto positions as they fail the trend filter (below SMA20). Maintain healthy cash reserves around $25.14 USD.",
+    "updated_at": "2026-11-07T07:30:44.517763-03:00"
   }
 }
