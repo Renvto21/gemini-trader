@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity holdings through the weekend closure. Monitor stop-losses strictly (-1.8% to -2.0%) and watch for reversal confirmations when Wall Street reopens. Avoid crypto exposure due to downtrends and failure to meet the 1-hour bounce trigger.",
-    "updated_at": "2026-11-07T06:10:37.197560-03:00"
+    "notes": "Maintain current AAPL and MSFT equity positions during market closure. Monitor positions closely for stop-loss limits (-1.8% to -2.0%) when Wall Street reopens. Avoid crypto exposure due to negative 1-hour momentum and failing trend filters. Continue holding cash reserves above $4.00 USD.",
+    "updated_at": "2026-11-07T06:20:39.634638-03:00"
   }
 }
