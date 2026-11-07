@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity holdings through the weekend closure. Monitor crypto assets for potential trend reversals above SMA20 backed by positive 1-hour momentum (rsi_1h >= 32 and change_1h_pct > 0.0), keeping the single-crypto anti-correlation constraint in mind. Respect stop-loss boundaries (-1.8% to -2.0%) when markets reopen if positions degrade further.",
-    "updated_at": "2026-11-07T08:00:51.600026-03:00"
+    "notes": "Maintain current AAPL and MSFT equity positions through the weekend while monitoring for any macro shifts or opening gaps. Continue to observe 24/7 crypto markets for high-quality uptrend recoveries above SMA20 backed by positive 1-hour momentum (rsi_1h >= 32 and change_1h_pct > 0.0), ensuring only one crypto position is opened if a valid pullback emerges. Strictly enforce the -1.8% to -2.0% stop-loss boundary and target +3.0% to +5.0% for taking profits.",
+    "updated_at": "2026-11-07T08:10:39.163549-03:00"
   }
 }
