@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 18:30:50`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 18:40:47`
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $342.37 | $6.44 | 📉 -0.86% | 2d 0h |
+| `AAPL` | 0.018821 | $345.35 | $342.37 | $6.44 | 📉 -0.86% | 2d 1h |
 | `MSFT` | 0.013089 | $534.82 | $530.61 | $6.94 | 📉 -0.79% | 1d 5h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market is currently in a bearish posture with all major assets and equities closed for the weekend or trading below their SMA20 lines. Crypto assets such as SOL-USD, ETH-USD, and BTC-USD remain in downtrends without the required reversal confirmation (1-hour positive momentum and RSI >= 32). Equity positions in AAPL and MSFT are currently held through the weekend closure while respecting the stop-loss thresholds and maintaining equity patience."
+> "All equity markets and ETFs (SPY, AAPL, MSFT, NVDA, QQQ, GLD) are currently closed (CERRADO) for the weekend. Across all crypto assets (BTC-USD, SOL-USD, ETH-USD), market status is open (ABIERTO 24/7), but all coins remain in a strict bear trend below their SMA20 with weak 1-hour momentum. Our current holdings AAPL and MSFT are locked in weekend status and are holding within normal volatility limits, well above our hard stop-loss threshold."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): Asset is currently held during weekend market closure. PnL is within acceptable limits (-0.86%), well above the -2.0% stop-loss threshold. Following equity holding patience.
-- **[HOLD] MSFT** (Confidence: 85%): Asset is currently held during weekend market closure. PnL is within acceptable limits (-0.79%), well above the -2.0% stop-loss threshold. Following equity holding patience.
+- **[HOLD] AAPL** (Confidence: 100%): Market is closed for the weekend and the position is within normal holding parameters.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing positions in AAPL and MSFT during the weekend closure, strictly monitoring the -2.0% stop-loss circuit breaker. Crypto markets remain unfavorable as all available coins are trading below their SMA20 trend filter with negative 1-hour momentum. Cash reserves are at $25.14 USD. We will wait for confirmed uptrend pullbacks and positive 1-hour momentum before allocating capital to new trades."
+> "Maintain existing positions in AAPL and MSFT through the weekend closure. Monitor open crypto assets (ETH-USD, SOL-USD, BTC-USD) for any reversal triggers (RSI >= 32 and positive 1-hour percentage change combined with trend confirmation) once market conditions improve. Cash reserves stand at $25.14 USD."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
