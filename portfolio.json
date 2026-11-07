@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT equity positions during weekend market closures following equity holding patience rules. Crypto assets (SOL, ETH, BTC) failed to meet the strict reversal criteria (rsi_1h >= 32 and change_1h_pct > 0.0), remaining in downtrends below the SMA20. For upcoming cycles, continue to sit on cash reserves ($25.14) and wait for confirmed bullish momentum and recovery above the SMA20 before deploying new capital.",
-    "updated_at": "2026-11-07T19:30:43.386580-03:00"
+    "notes": "Maintained AAPL and MSFT positions over the weekend. All crypto assets remain below the SMA20 trend filter, precluding new buys despite brief 1-hour green candles. Will continue to hold current equity positions and preserve our $25.14 cash reserve until a high-quality asset breaks back above its SMA20 with confirmed reversal momentum.",
+    "updated_at": "2026-11-07T19:40:41.543637-03:00"
   }
 }
