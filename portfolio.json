@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT positions through the weekend, respecting the -2.0% stop-loss circuit breaker. Do not open any crypto positions as none meet the strict trend-following criteria (all are below SMA20). Wait for Wall Street to reopen and for equities to reclaim their SMA20 trend lines before seeking new pullback entries.",
-    "updated_at": "2026-11-07T20:10:42.457999-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend shutdown. Do not execute any trades in crypto since current market conditions fail the strict trend filter (all assets remain below SMA20). Wait for Wall Street to reopen and for assets to reclaim their SMA20 trend lines before considering any new allocations.",
+    "updated_at": "2026-11-07T20:20:42.372328-03:00"
   }
 }
