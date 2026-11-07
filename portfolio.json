@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold existing positions in AAPL and MSFT while equities markets remain closed through the weekend. Monitor crypto assets (BTC-USD, SOL-USD, ETH-USD) for confirmed upside momentum, ensuring any future entry strictly meets the criteria of being above SMA20 (or wait for trend recovery), RSI >= 32, and a positive 1-hour change. Maintain cash reserves above $4.00 USD and adhere to strict stop-loss limits (-2.0%).",
-    "updated_at": "2026-11-07T16:20:40.034034-03:00"
+    "notes": "Hold existing positions in AAPL and MSFT through the weekend as per equity holding patience rules, since they have not hit stop-loss limits (-2.0%). Continue monitoring crypto assets for trend recovery above SMA20 and confirmed green 1-hour candles before considering new exposure. Cash reserves remain healthy at $25.14 USD.",
+    "updated_at": "2026-11-07T16:30:43.820691-03:00"
   }
 }
