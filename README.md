@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 20:30:39`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 20:40:38`
 
 ---
 
@@ -23,16 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets remain closed (CERRADO) with prices frozen over the weekend, preventing any trade execution on equities like AAPL and MSFT. Crypto markets remain open 24/7, but all available crypto assets (ETH-USD, SOL-USD, BTC-USD) are currently in a bearish trend (below SMA20) with weak momentum. Therefore, no crypto assets meet our strict trend-following pullback criteria. Existing equity positions in AAPL and MSFT are being held patiently in accordance with equity holding rules, as they have not hit stop-loss limits despite minor drawdowns."
+> "Wall Street markets are currently closed for the weekend, and all tracked equities (AAPL, MSFT, SPY, QQQ, NVDA) as well as GLD are positioned below their SMA20 trendlines in a bearish structure. Consequently, equity and ETF trading is restricted under our strict trend-following and market-hours rules. In the crypto markets, assets like SOL-USD, ETH-USD, and BTC-USD remain open 24/7. However, all major cryptos are currently in confirmed downtrends below their SMA20 lines, prohibiting new buy entries per the strict trend filter rule. Existing positions in AAPL and MSFT are being held patiently despite minor drawdowns, respecting the equity holding patience rule as they have not hit stop-loss levels and are waiting for Wall Street to reopen."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Holding equity position patiently according to holding rules as market is closed and stop-loss has not been triggered.
+- *No changes this cycle (HOLD)*
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Hold existing AAPL and MSFT equity positions through the weekend. Monitor Wall Street reopening on Monday. Wait for equity assets to reclaim their SMA20 trend lines and for crypto assets to form confirmed uptrends before deploying any additional capital from the $25.14 cash reserve."
+> "Maintain existing AAPL and MSFT equity positions through the weekend. Do not panic or sell equities for flat price action. For crypto (SOL, ETH, BTC), stay on the sidelines as all assets are currently trading below their SMA20 trend lines with bearish daily structures. Wait for a confirmed market recovery, reclaiming of SMA20, and positive 1-hour reversal triggers before allocating any of the $25.14 cash reserve."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
