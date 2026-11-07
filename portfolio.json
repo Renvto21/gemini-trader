@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience and hold existing AAPL and MSFT equity positions through the weekend closure, respecting the hard stop-loss circuit breaker at -2.0%. Avoid initiating crypto exposure as all assets remain below the SMA20 trendline. Wait for Wall Street to reopen and for assets to reclaim the SMA20 with positive hourly reversal confirmation before deploying additional capital.",
-    "updated_at": "2026-11-07T00:50:38.993297-03:00"
+    "notes": "Maintain patience and hold existing AAPL and MSFT equity positions through the weekend closure, respecting the hard stop-loss circuit breaker at -2.0%. Avoid initiating crypto exposure as all assets remain below the SMA20 trendline or lack clear 1-hour green candle reversal confirmation. Wait for Wall Street to reopen and for assets to reclaim the SMA20 with positive momentum before deploying additional capital.",
+    "updated_at": "2026-11-07T01:00:53.866720-03:00"
   }
 }
