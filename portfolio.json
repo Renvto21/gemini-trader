@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT patiently while the stock market is closed. Keep stop-losses strictly at -2.0% and target +3.5% for take-profit when markets reopen. Avoid all crypto assets as they remain below their SMA20 trend filter. Cash reserve is healthy at $25.14 USD.",
-    "updated_at": "2026-11-06T23:20:38.033778-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT patiently as equity markets are closed and stocks require time to play out per equity holding patience rules. Do not rotate or sell prematurely unless stop-losses (-2.0%) are triggered. Avoid all crypto assets as none meet the strict trend filter (all are below SMA20). Keep cash reserve secure at $25.14 USD and wait for market reopening and confirmed uptrend pullbacks.",
+    "updated_at": "2026-11-06T23:30:44.954395-03:00"
   }
 }
