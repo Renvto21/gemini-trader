@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain strict discipline holding AAPL and MSFT positions through the weekend close. Do not panic or sell on flat or mildly negative equity fluctuations unless the strict stop-loss threshold (-1.8% to -2.0%) is hit when markets reopen. For crypto, avoid all buy orders because all available crypto assets remain in a confirmed downtrend below SMA20. Continue preserving cash reserves above $4.00 USD and wait for a structural trend reversal and confirmed uptrends before deploying additional capital.",
-    "updated_at": "2026-11-07T10:50:42.339096-03:00"
+    "notes": "Hold existing AAPL and MSFT positions through the weekend since equities are closed and patience rule applies unless stop-loss thresholds (-1.8% to -2.0%) are breached upon market open. For crypto, avoid all deployment as no assets satisfy the uptrend requirement above the SMA20 combined with a confirmed 1-hour green candle bounce. Keep cash reserves well above the $4.00 minimum ($25.14 currently maintained).",
+    "updated_at": "2026-11-07T11:00:48.460736-03:00"
   }
 }
