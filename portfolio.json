@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT patiently according to equity holding patience rules. Monitor equity market status upon reopening for potential trend recoveries above SMA20. For crypto, maintain discipline: no positions will be opened while trend filters fail and reversal confirmation triggers are unmet.",
-    "updated_at": "2026-11-07T04:50:35.519499-03:00"
+    "notes": "Holding AAPL and MSFT patiently according to equity patience guidelines. Monitor equities upon reopening for trend recovery and reclaim of SMA20. In crypto, avoid entering positions as current assets fail trend filters. Maintain liquidity and enforce strict stop-loss and take-profit targets when active markets resume.",
+    "updated_at": "2026-11-07T05:00:48.944649-03:00"
   }
 }
