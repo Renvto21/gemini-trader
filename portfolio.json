@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT patiently through the market closure, respecting the equity holding patience rules. Do not sell unless stop-losses (-2.0%) are triggered. Avoid all crypto assets as none show a confirmed uptrend above the SMA20. Keep cash secure at $25.14 USD and wait for market reopening to look for high-quality uptrend pullbacks.",
-    "updated_at": "2026-11-06T23:50:47.166953-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT patiently through the weekend market closure without premature selling. Monitor stop-losses at -2.0% strictly. Avoid opening any crypto positions as no available asset satisfies the rule of gold (uptrend above SMA20). Wait for Monday's market reopening to evaluate trend recovery.",
+    "updated_at": "2026-11-07T00:00:53.747115-03:00"
   }
 }
