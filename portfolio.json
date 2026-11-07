@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT through the weekend closure. Monitor open crypto assets (ETH-USD, SOL-USD, BTC-USD) for any reversal triggers (RSI >= 32 and positive 1-hour percentage change combined with trend confirmation) once market conditions improve. Cash reserves stand at $25.14 USD.",
-    "updated_at": "2026-11-07T18:40:47.576829-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT through the weekend closure, monitoring their stop-loss levels closely (-1.8% to -2.0%). Keep cash reserves intact at $25.14 USD. For crypto assets (ETH-USD, SOL-USD, BTC-USD), wait for a confirmed daily and hourly trend reversal above the SMA20 with strong momentum before deploying new capital.",
+    "updated_at": "2026-11-07T18:50:40.331773-03:00"
   }
 }
