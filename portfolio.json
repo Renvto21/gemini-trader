@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT positions through the weekend market closure. Adhere to equity holding patience and avoid premature exits. Watch for stop-loss triggers between -1.8% and -2.0%. Do not enter any new crypto positions as they fail the trend filter (below SMA20). Keep cash reserves safe around $25.14 USD.",
-    "updated_at": "2026-11-07T07:40:42.725920-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend/market closure. Adhere to patience guidelines and avoid premature liquidation unless stop-loss triggers between -1.8% and -2.0% are hit once markets reopen. Monitor crypto markets for potential trend reversals above SMA20 with positive 1-hour momentum, but refrain from taking new trades due to lack of confirmation and anti-correlation constraints. Keep cash reserves secure.",
+    "updated_at": "2026-11-07T07:50:40.979556-03:00"
   }
 }
