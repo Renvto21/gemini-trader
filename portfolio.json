@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend shutdown. Do not execute any trades in crypto since current market conditions fail the strict trend filter (all assets remain below SMA20). Wait for Wall Street to reopen and for assets to reclaim their SMA20 trend lines before considering any new allocations.",
-    "updated_at": "2026-11-07T20:20:42.372328-03:00"
+    "notes": "Hold existing AAPL and MSFT equity positions through the weekend. Monitor Wall Street reopening on Monday. Wait for equity assets to reclaim their SMA20 trend lines and for crypto assets to form confirmed uptrends before deploying any additional capital from the $25.14 cash reserve.",
+    "updated_at": "2026-11-07T20:30:39.993937-03:00"
   }
 }
