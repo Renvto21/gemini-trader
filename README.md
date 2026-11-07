@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 19:00:48`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 19:10:35`
 
 ---
 
@@ -23,17 +23,17 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market remains under pressure with major indices and equities currently closed for the weekend and trading below their SMA20 lines. Equities like AAPL and MSFT are experiencing minor, controlled pullbacks well within acceptable holding parameters, and patience must be maintained given the equity holding rule. Cryptocurrencies are open 24/7, but none currently meet the strict trend and momentum reversal triggers (specifically, rsi_1h >= 32 and change_1h_pct > 0 while above the SMA20). With macro sentiment fragile and market breadth weak, capital preservation and patience are paramount."
+> "The overall market is currently closed for the weekend (Wall Street assets show 'CERRADO'), with macroeconomic sentiment remaining cautious following rate hike fears and a poor week for equities. Major indices and equities like AAPL and MSFT are currently in a bearish trend below their SMA20 lines. However, under Rule 6 (Equity Holding Patience) and Rule 1 (Market Hours), existing equity positions must be held through the weekend unless a circuit breaker stop-loss is breached. Current crypto assets are also in a downtrend and lack the required reversal confirmation trigger (rsi_1h >= 32 and positive 1-hour change), so no new trades should be executed at this time."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in an equity position and must be held patiently through temporary flat or minor consolidation phases per equity holding rules, provided stop-loss limits are not breached.
-- **[HOLD] MSFT** (Confidence: 90%): MSFT is holding steady within normal intraday ranges. Equity patience dictates maintaining the position through the weekend closure.
+- **[HOLD] AAPL** (Confidence: 100%): Holding AAPL under Equity Holding Patience rule while market is closed. PnL is within acceptable limits (-0.86%), and stocks should not be prematurely rotated.
+- **[HOLD] MSFT** (Confidence: 100%): Holding MSFT under Equity Holding Patience rule while market is closed. Position remains stable with minor drawdown (-0.79%), well clear of the stop-loss limit.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing positions in AAPL and MSFT through the weekend. Do not panic-sell on flat or minor negative price action unless the hard stop-loss of -1.8% to -2.0% is triggered. Keep cash reserves intact at $25.14 USD. For crypto, continue to monitor for a strong confirmed bounce reclaiming the SMA20 with RSI above 32 before deploying any capital."
+> "Maintain existing positions in AAPL and MSFT over the weekend. Do not panic-sell on minor negative price action as long as positions remain safely above the hard stop-loss threshold (-1.8% to -2.0%). Keep cash reserves intact at $25.14 USD. For crypto, continue to monitor ETH-USD, BTC-USD, and SOL-USD for a confirmed breakout above SMA20 with RSI above 32 and positive hourly momentum before deploying capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

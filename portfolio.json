@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT through the weekend. Do not panic-sell on flat or minor negative price action unless the hard stop-loss of -1.8% to -2.0% is triggered. Keep cash reserves intact at $25.14 USD. For crypto, continue to monitor for a strong confirmed bounce reclaiming the SMA20 with RSI above 32 before deploying any capital.",
-    "updated_at": "2026-11-07T19:00:48.358241-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT over the weekend. Do not panic-sell on minor negative price action as long as positions remain safely above the hard stop-loss threshold (-1.8% to -2.0%). Keep cash reserves intact at $25.14 USD. For crypto, continue to monitor ETH-USD, BTC-USD, and SOL-USD for a confirmed breakout above SMA20 with RSI above 32 and positive hourly momentum before deploying capital.",
+    "updated_at": "2026-11-07T19:10:35.645630-03:00"
   }
 }
