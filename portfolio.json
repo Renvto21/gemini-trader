@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained existing equity holdings in AAPL and MSFT despite short-term pullbacks, respecting equity holding patience since the market is closed and stop-losses have not been breached. Avoided crypto entries due to lack of confirmed uptrends above SMA20 and negative hourly momentum. Will continue to monitor crypto for structural bullish reversals and wait for market re-opening to assess equity positions.",
-    "updated_at": "2026-11-08T18:30:45.690617-03:00"
+    "notes": "Holding AAPL and MSFT positions through the weekend. Will monitor stop-loss limits strictly at -1.8% to -2.0%. For crypto, stay on the sidelines until an asset establishes a confirmed uptrend above its SMA20 and displays strong reversal confirmation triggers (rsi_1h >= 32 and positive 1h price change). Maintain a healthy cash reserve.",
+    "updated_at": "2026-11-08T18:40:42.353353-03:00"
   }
 }
