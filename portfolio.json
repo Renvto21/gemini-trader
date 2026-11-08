@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity positions through the weekend closure, adhering to equity patience rules. Continue scanning crypto markets (BTC-USD, ETH-USD) for a confirmed trend reclaim above SMA20 and positive 1-hour momentum before allocating additional capital. Ensure absolute compliance with the max 1 crypto position constraint and asymmetric risk/reward targets (+3% to +5% take profit, -2% stop loss).",
-    "updated_at": "2026-11-07T21:40:47.427338-03:00"
+    "notes": "Maintain current AAPL and MSFT equity positions through the weekend closure. Continue monitoring crypto markets (BTC-USD, ETH-USD, SOL-USD) for a reclaim of the SMA20 trendline combined with a positive 1-hour momentum trigger and RSI >= 32 before deploying any additional capital. Adhere strictly to the max 1 crypto position constraint and asymmetric risk/reward parameters.",
+    "updated_at": "2026-11-07T21:50:35.385192-03:00"
   }
 }
