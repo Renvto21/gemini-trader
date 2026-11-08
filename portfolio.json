@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold existing AAPL and MSFT equity positions through the weekend, monitoring distance to the -2.0% stop-loss threshold. Do not execute any trades in crypto or equities given that all assets remain below the SMA20 trend filter and lack green 1-hour reversal triggers. Wait for Wall Street to reopen next week and watch for confirmed trend breakouts and positive 1-hour momentum before deploying any cash reserves.",
-    "updated_at": "2026-11-08T09:30:45.156955-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity holdings through the weekend, keeping strict vigilance on the -2.0% stop-loss limits. Avoid opening new crypto or equity positions until the market reopens next week and strict trend-following pullback rules are met (confirmed uptrend above SMA20, 1-hour RSI >= 32, and positive 1-hour price change).",
+    "updated_at": "2026-11-08T09:40:40.796629-03:00"
   }
 }
