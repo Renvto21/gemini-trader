@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold AAPL and MSFT positions through the weekend under equity holding patience guidelines. Monitor stop-loss triggers upon market re-open. Keep crypto exposure at zero because no crypto asset satisfies the SMA20 uptrend requirement and positive reversal confirmation triggers. Wait for markets to open and for equities or cryptos to break back above SMA20 with positive 1-hour momentum before allocating additional cash reserves.",
-    "updated_at": "2026-11-08T11:30:40.882783-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions following equity holding patience guidelines as long as losses remain well within the -2.0% stop-loss threshold. Keep crypto exposure at zero since no digital asset meets the uptrend filter (above SMA20) and reversal trigger conditions. Monitor equities closely upon market re-opening for any sudden break below stop-loss levels.",
+    "updated_at": "2026-11-08T11:40:39.544907-03:00"
   }
 }
