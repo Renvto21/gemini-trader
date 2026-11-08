@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend freeze, respecting equity holding patience and monitoring stop-loss boundaries (-1.8% to -2.0%). Keep crypto exposure flat as none of the 24/7 assets meet our strict trend filter (above SMA20) and reversal trigger conditions simultaneously. Hold cash reserves securely above $4.00 USD.",
-    "updated_at": "2026-11-08T14:50:39.932336-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions through the weekend while monitoring stop-loss boundaries (-1.8% to -2.0%). Keep crypto exposure flat as all major coins remain below their SMA20 trend filters. Wait for Wall Street market re-open and confirmed uptrend reversals before initiating new trades.",
+    "updated_at": "2026-11-08T15:00:44.405414-03:00"
   }
 }
