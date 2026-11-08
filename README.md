@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 22:30:48`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 22:40:36`
 
 ---
 
@@ -23,16 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The traditional equity markets are currently closed for the weekend with prices frozen, and all monitored equities and ETFs (AAPL, MSFT, QQQ, SPY, NVDA, GLD) are exhibiting a bearish trend below their respective SMA20 lines. Similarly, cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) are trading in 24/7 markets but remain in downtrends below the SMA20 with negative or weak 1-hour momentum changes. Adhering strictly to the trend filter and reversal confirmation rules, no new positions can be initiated since all available assets lack positive 1-hour momentum confirmation in a confirmed uptrend."
+> "The broader traditional equity and crypto markets remain in a defensive posture, characterized by downtrends below the SMA20 across major assets such as AAPL, MSFT, SPY, QQQ, and crypto tokens. Wall Street is currently closed (CERRADO), meaning traditional equities cannot be traded. Cryptocurrencies are open (ABIERTO 24/7), but none currently meet the strict trend filter and reversal confirmation triggers (all are below SMA20 with negative or insufficient 1h price momentum). Our existing equity positions in AAPL and MSFT are being held patiently according to equity holding rules, as they have not hit stop-loss limits."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Holding current AAPL position as equities are closed for the weekend and stocks require patience despite short-term fluctuations, keeping risk managed above stop-loss levels.
+- **[HOLD] AAPL** (Confidence: 100%): Holding AAPL position according to equity holding patience guidelines while markets are closed, awaiting further price development.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing AAPL and MSFT equity positions through the weekend as per equity holding patience guidelines. Do not execute any new trades while markets are closed and crypto assets lack a confirmed uptrend above the SMA20 with positive 1-hour price action. Continue monitoring for trend reclaims and positive momentum triggers when markets reopen."
+> "Maintain existing AAPL and MSFT positions through the weekend under equity holding patience guidelines. Do not execute any new trades while traditional markets are closed and crypto assets fail to display confirmed uptrends above the SMA20 with positive 1-hour momentum. Continue monitoring for trend reclaims and confirmed bounces when markets reopen."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
