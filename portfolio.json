@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity positions through the weekend closure. Monitor positions closely upon Monday's open, respecting the hard stop-loss threshold at -1.8% to protect capital. Keep crypto exposure flat as all available coins are currently trading in a DOWNTREND (below SMA20), strictly violating our core trend filter rule. Wait for confirmed uptrends and positive 1-hour candles before deploying fresh capital.",
-    "updated_at": "2026-11-08T13:10:42.545721-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend. Monitor equity open closely on Monday, respecting the hard stop-loss threshold at -1.8%. Keep crypto exposure flat due to prevailing downtrends across all major coins. Wait for confirmed uptrends and positive 1-hour reversal candles before deploying fresh capital into any asset.",
+    "updated_at": "2026-11-08T13:20:41.922939-03:00"
   }
 }
