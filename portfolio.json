@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity holdings through the weekend, keeping strict vigilance on the -2.0% stop-loss limits. Avoid opening new crypto or equity positions until the market reopens next week and strict trend-following pullback rules are met (confirmed uptrend above SMA20, 1-hour RSI >= 32, and positive 1-hour price change).",
-    "updated_at": "2026-11-08T09:40:40.796629-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity holdings through the weekend, monitoring stop-loss limits strictly at -2.0%. Avoid entering new crypto trades as none show a confirmed positive 1-hour price change combined with an uptrend above SMA20. Wait for market open next week and ensure strict adherence to trend-following pullback rules before executing new purchases.",
+    "updated_at": "2026-11-08T09:50:38.759775-03:00"
   }
 }
