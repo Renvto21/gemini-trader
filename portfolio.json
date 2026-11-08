@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT positions through the weekend closure. Monitor stop-loss thresholds (-1.8% to -2.0%) when Wall Street re-opens. Avoid crypto deployments due to prevailing downtrends and lack of confirmed green candles. Preserve cash reserves at $25.14.",
-    "updated_at": "2026-11-08T16:00:49.324884-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions through the weekend market closure, monitoring stop-loss thresholds (-1.8% to -2.0%) for when Wall Street re-opens. Avoid crypto deployments due to prevailing downtrends below SMA20 and lack of clean reversal confirmation. Preserve cash reserves at $25.14.",
+    "updated_at": "2026-11-08T16:10:42.330123-03:00"
   }
 }
