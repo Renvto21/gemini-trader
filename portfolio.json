@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity positions during the weekend closure, respecting the rule to give equities time to play out unless stop-loss limits (-1.8% to -2.0%) are breached. Keep crypto exposure flat as digital assets fail the strict uptrend and reversal triggers. Monitor market reopenings for any shift in trend or momentum.",
-    "updated_at": "2026-11-08T14:10:41.272332-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions during weekend market closure. Do not open new crypto positions as digital assets fail the strict uptrend and reversal triggers (below SMA20 and lacking positive 1-hour momentum confirmation). Monitor equity market reopenings for any shift in trend or momentum.",
+    "updated_at": "2026-11-08T14:20:41.605527-03:00"
   }
 }
