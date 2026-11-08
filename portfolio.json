@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity positions during the weekend market closure. Monitor equity price action closely upon Monday market open, ensuring stops are respected if any sudden gap-downs occur. Avoid crypto entry since assets are in downtrends below SMA20. Wait for confirmed uptrends and positive 1-hour momentum before allocating remaining cash reserves.",
-    "updated_at": "2026-11-08T12:30:48.353751-03:00"
+    "notes": "Maintain AAPL and MSFT positions through the weekend. Monitor positions closely upon Monday market open for any gap-down or stop-loss triggers (-1.8% to -2.0%). Keep crypto exposure closed as all available coins are trading below their SMA20 trend line, violating the rule of never catching falling knives. Preserve cash reserves ($25.14) until confirmed uptrends and positive 1-hour momentum appear.",
+    "updated_at": "2026-11-08T12:40:41.064364-03:00"
   }
 }
