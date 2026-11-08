@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT positions through the weekend as per equity holding patience rules, monitoring closely for any approach to the -2.0% stop-loss threshold. Do not execute any trades in closed equities or in crypto assets that lack a confirmed uptrend above the SMA20. Re-evaluate market conditions, trend filters, and potential pullback opportunities upon Wall Street market open.",
-    "updated_at": "2026-11-08T10:10:42.003818-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions over the weekend. Monitor prices closely upon Wall Street opening for any approach toward the -2.0% stop-loss threshold. Do not execute any trades on closed equities or crypto assets lacking a confirmed uptrend above the SMA20.",
+    "updated_at": "2026-11-08T10:20:35.380173-03:00"
   }
 }
