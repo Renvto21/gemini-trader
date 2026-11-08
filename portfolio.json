@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT positions over the weekend. Continue to monitor stop-loss levels (-1.8% to -2.0%) closely upon market reopening. For crypto assets, remain on the sidelines since no asset currently meets the strict uptrend and positive momentum reversal triggers. Maintain a strong cash reserve of $25.14 USD.",
-    "updated_at": "2026-11-08T18:50:39.183087-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT during the weekend closure, closely monitoring their stop-loss levels (-1.8% to -2.0%) for market reopening. Avoid crypto entry until a confirmed uptrend above the SMA20 and proper reversal triggers (rsi_1h >= 32 and positive 1h change) materialize. Keep sufficient cash reserve above $4.00.",
+    "updated_at": "2026-11-08T19:00:46.005487-03:00"
   }
 }
