@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT through the weekend. Monitor stop-loss levels and wait for market re-opening on Monday. Do not deploy cash into crypto as trends remain bearish and below SMA20.",
-    "updated_at": "2026-11-08T08:10:41.740931-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT. Monitor stop-loss thresholds (-2.0%) closely upon Monday market re-opening. Avoid opening any crypto positions as all available assets are below their SMA20 trend filters, protecting capital from catching falling knives.",
+    "updated_at": "2026-11-08T08:20:42.825137-03:00"
   }
 }
