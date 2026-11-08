@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-08 18:00:53`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-08 18:10:35`
 
 ---
 
@@ -23,17 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market is currently closed for equities (Wall Street status is CERRADO), with major indices and stocks trading under their respective SMA20 levels, indicating a short-term bearish trend or consolidation phase. Cryptocurrencies are open 24/7, but none currently meet the strict trend filter and reversal confirmation triggers (all remain below SMA20). Our current equity positions in AAPL and MSFT are experiencing minor unrealized drawdowns but remain well within acceptable risk limits. Per equity holding rules and market closures, holding current positions is the optimal strategy."
+> "The broader market remains largely closed for the weekend with major equities (AAPL, MSFT, SPY, QQQ, NVDA, GLD) showing CERRADO status and all trading below their SMA20 trends. Cryptocurrencies are open (24/7) but are similarly exhibiting bearish trends below the SMA20, with lack of strong reversal momentum triggers (rsi_1h and change_1h_pct constraints not fully met for quality setups). Holding current equity positions per equity patience rule and preserving cash reserves."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Holding AAPL per equity patience rules and weekend market closure. Position drawdown is minor (-0.86%) and well above stop-loss thresholds.
-- **[HOLD] MSFT** (Confidence: 100%): Holding MSFT per equity patience rules and weekend market closure. Position drawdown is minor (-0.79%) and well above stop-loss thresholds.
+- **[HOLD] AAPL** (Confidence: 100%): Asset is currently closed for the weekend and held under the equity holding patience rule, avoiding premature rotational selling while awaiting market re-opening.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing positions in AAPL and MSFT during the weekend market closure, respecting equity holding patience. Continue monitoring crypto assets for future uptrend breakouts and RSI bounce confirmations above SMA20. Ensure cash reserves remain strictly protected above $4.00 USD."
+> "Maintain existing positions in AAPL and MSFT during weekend market closure. Continue to monitor crypto assets for trend reversals above SMA20 with RSI >= 32 and positive 1-hour momentum. Keep cash reserves strictly protected above $4.00 USD."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
