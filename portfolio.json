@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT patiently as per equity holding rules, keeping a watchful eye on the -2.0% stop-loss threshold. Avoid executing any new trades during the weekend closure for equities and the prevailing downtrend conditions across crypto assets. Wait for confirmed breakouts above the SMA20 and positive 1-hour momentum before entering new pullback setups in future cycles.",
-    "updated_at": "2026-11-08T08:30:47.150306-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT with strict adherence to the -2.0% circuit breaker stop-loss rule. Avoid opening any new crypto positions because all available crypto assets remain below the SMA20 trend filter. Wait for confirmed breakouts above the SMA20 and positive 1-hour momentum before executing new entries in future cycles.",
+    "updated_at": "2026-11-08T08:40:41.334504-03:00"
   }
 }
