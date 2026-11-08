@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity holdings in AAPL and MSFT through the weekend. Do not rotate or sell prematurely unless stop-loss triggers (-1.8% to -2.0%) are breached. Keep crypto exposure at zero since all cryptocurrencies are currently below their SMA20 or lacking proper reversal confirmation. Wait for market re-opening and genuine trend reclamation before deploying additional capital.",
-    "updated_at": "2026-11-08T07:30:44.551811-03:00"
+    "notes": "Maintain existing equity holdings in AAPL and MSFT through the weekend closure. Do not sell prematurely unless stop-loss levels (-1.8% to -2.0%) are breached. Keep crypto exposure at zero since all crypto assets remain in downtrends below their SMA20 or lack clean reversal triggers. Wait for market re-opening and genuine trend reclamation before deploying additional capital.",
+    "updated_at": "2026-11-08T07:40:34.673207-03:00"
   }
 }
