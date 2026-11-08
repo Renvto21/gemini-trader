@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-08 20:40:41`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-08 20:50:41`
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $342.37 | $6.44 | 📉 -0.86% | 3d 2h |
+| `AAPL` | 0.018821 | $345.35 | $342.37 | $6.44 | 📉 -0.86% | 3d 3h |
 | `MSFT` | 0.013089 | $534.82 | $530.61 | $6.94 | 📉 -0.79% | 2d 7h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), and all major equities (AAPL, MSFT, SPY, QQQ, NVDA) are exhibiting bearish trend characteristics below their respective SMA20 lines. Crypto markets are open 24/7, with ETH-USD, SOL-USD, and BTC-USD showing slight 1-hour bounce attempts, but all remain structurally in a broader downtrend below their SMA20. Per our strict trend-following and risk management rules, we must avoid catching falling knives or opening new crypto positions while below trend. Existing equity holdings (AAPL and MSFT) are currently experiencing minor drawdowns well within our stop-loss tolerance, and per equity holding patience rules, we will hold them through the weekend closure."
+> "The overall market is currently closed for equities, and all major instruments (AAPL, MSFT, SPY, QQQ, NVDA) as well as crypto assets are in a bearish trend below their respective SMA20 lines. Stock market status is 'CERRADO', meaning equity positions cannot be traded at this moment. Existing positions in AAPL and MSFT are experiencing minor unrealized drawdowns (-0.86% and -0.79% respectively), well above our hard stop-loss threshold of -1.8% to -2.0%. Cryptocurrencies show early green 1-hour candles, but fail our quantitative filters because their macro trend remains bearish and RSI parameters or trend confirmations do not meet our strict pullback buy criteria."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 80%): Holding AAPL per equity patience guidelines. The position is down -0.86%, well above our -2.0% circuit breaker stop-loss. Markets are closed.
-- **[HOLD] MSFT** (Confidence: 80%): Holding MSFT per equity patience guidelines. The position is down -0.79%, well above our -2.0% circuit breaker stop-loss. Markets are closed.
+- **[HOLD] AAPL** (Confidence: 100%): Market is closed for equities. Position is performing within normal equity fluctuation bounds (-0.86%), well above the stop-loss limit of -2.0%. Patient holding is required.
+- **[HOLD] MSFT** (Confidence: 100%): Market is closed for equities. Position drawdown is minor (-0.79%), adhering to equity patience rules. No action needed until market opens.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing AAPL and MSFT positions through the weekend market closure while monitoring stop-loss triggers (-1.8% to -2.0%). Avoid all crypto assets despite 1-hour green candles because they remain firmly below the SMA20 trend line. Keep cash reserves secure above the $4.00 minimum ($25.14 current cash)."
+> "Maintain current AAPL and MSFT equity holdings through the market closure, respecting equity holding patience rules unless stop-loss limits (-1.8%) are triggered upon reopening. Keep crypto exposure at zero since all digital assets remain below the SMA20 trend line. Ensure cash reserves stay above the $4.00 minimum ($25.14 current cash balance)."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

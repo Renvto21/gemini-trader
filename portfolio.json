@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT positions through the weekend market closure while monitoring stop-loss triggers (-1.8% to -2.0%). Avoid all crypto assets despite 1-hour green candles because they remain firmly below the SMA20 trend line. Keep cash reserves secure above the $4.00 minimum ($25.14 current cash).",
-    "updated_at": "2026-11-08T20:40:41.647767-03:00"
+    "notes": "Maintain current AAPL and MSFT equity holdings through the market closure, respecting equity holding patience rules unless stop-loss limits (-1.8%) are triggered upon reopening. Keep crypto exposure at zero since all digital assets remain below the SMA20 trend line. Ensure cash reserves stay above the $4.00 minimum ($25.14 current cash balance).",
+    "updated_at": "2026-11-08T20:50:41.149128-03:00"
   }
 }
