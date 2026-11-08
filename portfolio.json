@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT positions through the weekend under equity holding patience rules. Do not engage in crypto trading since available assets remain below their SMA20 trend filters. Prepare to evaluate equity setups for potential take-profit triggers or stop-loss management upon market re-open.",
-    "updated_at": "2026-11-08T11:10:44.219295-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend under the equity holding patience guidelines, monitoring for stop-loss triggers upon market re-open. Keep crypto exposure at zero since available assets fail the SMA20 trend filter. Wait for confirmed breakouts above SMA20 and positive 1-hour momentum before entering new setups.",
+    "updated_at": "2026-11-08T11:20:44.511105-03:00"
   }
 }
