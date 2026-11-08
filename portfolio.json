@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold current AAPL and MSFT equity positions through the weekend closure, respecting the hard stop-loss circuit breaker at -2.0% (-$0.14 per position from avg). Do not open crypto positions since all major cryptocurrencies remain below the SMA20 trend filter. Wait for Wall Street to reopen and for confirmed uptrend breakout signals before deploying any additional cash reserves.",
-    "updated_at": "2026-11-08T09:00:49.971707-03:00"
+    "notes": "Hold AAPL and MSFT equity positions through the weekend. Monitor the -2.0% stop-loss threshold strictly. Refrain from opening crypto positions since all major tokens remain below the SMA20 trend filter. Wait for Wall Street to reopen next week and check for confirmed uptrend breakout signals before deploying any additional cash reserves.",
+    "updated_at": "2026-11-08T09:10:41.341505-03:00"
   }
 }
