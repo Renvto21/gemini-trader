@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity positions through the weekend closure in adherence to equity holding patience rules. Both positions are experiencing minor unrealized drawdowns well above our hard -2.0% stop-loss threshold. Do not execute any trades while equities are closed and crypto assets lack a confirmed uptrend and positive 1-hour momentum. Prepare to monitor equity price action closely upon Monday market open.",
-    "updated_at": "2026-11-08T12:20:43.981114-03:00"
+    "notes": "Maintain current AAPL and MSFT equity positions during the weekend market closure. Monitor equity price action closely upon Monday market open, ensuring stops are respected if any sudden gap-downs occur. Avoid crypto entry since assets are in downtrends below SMA20. Wait for confirmed uptrends and positive 1-hour momentum before allocating remaining cash reserves.",
+    "updated_at": "2026-11-08T12:30:48.353751-03:00"
   }
 }
