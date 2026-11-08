@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions (AAPL and MSFT) unless stop-loss limits (-1.8% to -2.0%) are triggered. Avoid all crypto entries until a confirmed UPTREND above SMA20 materializes alongside positive 1-hour momentum (rsi_1h >= 32 and change_1h_pct > 0.0). Keep cash reserves safe above $4.00.",
-    "updated_at": "2026-11-08T00:00:51.838420-03:00"
+    "notes": "Maintain existing equity positions (AAPL and MSFT) through the weekend. Do not panic or sell on minor flat/negative fluctuations unless the -1.8% to -2.0% stop-loss threshold is breached. Avoid all crypto entries as current assets fail the SMA20 uptrend filter. Preserve cash reserves ($25.14) and wait for a confirmed uptrend reversal on equities upon market opening or clear bullish momentum on crypto.",
+    "updated_at": "2026-11-08T00:10:39.801113-03:00"
   }
 }
