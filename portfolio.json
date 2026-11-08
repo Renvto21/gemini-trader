@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity holdings (AAPL and MSFT) over the weekend. Do not sell unless the hard stop-loss of -1.8% to -2.0% is breached. Avoid all crypto entries because all available assets currently fail the SMA20 uptrend filter. Preserve cash reserves ($25.14) and wait for market re-opening and confirmed uptrend reversals before deploying additional capital.",
-    "updated_at": "2026-11-08T00:20:41.592848-03:00"
+    "notes": "Maintain existing equity holdings (AAPL and MSFT) through the weekend. Do not panic sell flat or mildly negative positions unless the stop-loss of -1.8% to -2.0% is triggered. Keep cash reserves secure ($25.14) and wait for Wall Street to reopen and assets to reclaim their SMA20 trend filters before deploying new capital.",
+    "updated_at": "2026-11-08T00:30:41.833691-03:00"
   }
 }
