@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT positions through the weekend. Do not panic or sell flat/slightly negative equities prematurely. Keep crypto exposure at zero as no digital asset meets the uptrend filter (above SMA20). Upon traditional market re-opening, monitor AAPL and MSFT closely for potential recovery or stop-loss hits at the -2.0% threshold.",
-    "updated_at": "2026-11-08T11:50:35.724995-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions through the weekend closure. Monitor positions upon Monday market open for potential recovery or stop-loss triggers at the -2.0% threshold. Keep crypto exposure at zero due to persistent downtrends across all digital assets. Wait for confirmed uptrends and green 1-hour candles before deploying fresh capital.",
+    "updated_at": "2026-11-08T12:00:49.369730-03:00"
   }
 }
