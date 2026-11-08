@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity positions during weekend market closure. Do not open new crypto positions as digital assets fail the strict uptrend and reversal triggers (below SMA20 and lacking positive 1-hour momentum confirmation). Monitor equity market reopenings for any shift in trend or momentum.",
-    "updated_at": "2026-11-08T14:20:41.605527-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions through the weekend market closure and monitor price action upon Monday's open. Do not enter any crypto positions as none meet the strict uptrend confirmation or positive 1-hour momentum bounce criteria. Keep a disciplined cash reserve above $4.00 and evaluate stop-loss or take-profit triggers strictly based on quantitative rules.",
+    "updated_at": "2026-11-08T14:30:35.447847-03:00"
   }
 }
