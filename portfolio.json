@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity positions during the weekend market closure and closely monitor stop-loss levels (-1.8% to -2.0%). Keep crypto exposure flat as digital assets fail to satisfy the strict trend filter (currently below SMA20 without confirmed hourly bounce triggers). Wait for Wall Street to reopen and for confirmed uptrend pullbacks before committing additional cash reserves.",
-    "updated_at": "2026-11-08T14:00:50.246309-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions during the weekend closure, respecting the rule to give equities time to play out unless stop-loss limits (-1.8% to -2.0%) are breached. Keep crypto exposure flat as digital assets fail the strict uptrend and reversal triggers. Monitor market reopenings for any shift in trend or momentum.",
+    "updated_at": "2026-11-08T14:10:41.272332-03:00"
   }
 }
