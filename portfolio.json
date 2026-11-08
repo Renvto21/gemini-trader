@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT equity holdings through the weekend closure as they remain well above the -2.0% stop-loss threshold. Do not execute any trades while equities are closed and crypto assets lack a robust confirmed uptrend. Monitor crypto markets (BTC, ETH, SOL) for potential trend reclaims when conditions improve, ensuring strict adherence to the max 1 crypto position constraint and positive 1-hour momentum confirmation.",
-    "updated_at": "2026-11-07T21:20:39.776483-03:00"
+    "notes": "Maintain current AAPL and MSFT equity holdings through the weekend closure, respecting the equity patience rule. Continue monitoring crypto markets (BTC, ETH, SOL) for genuine trend reclaims above the SMA20 line and confirmed 1-hour momentum triggers before committing capital. Ensure adherence to the maximum 1 crypto position constraint and target asymmetric risk/reward ratios when market conditions normalize.",
+    "updated_at": "2026-11-07T21:30:43.511674-03:00"
   }
 }
