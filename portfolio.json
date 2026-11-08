@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT positions patiently through the weekend closure, respecting the stop-loss limit at -2.0%. Do not enter crypto markets as no asset satisfies the trend-following pullback rules (all are below SMA20). Keep cash reserve secure at $25.14 USD and monitor market reopenings for trend reversals next week.",
-    "updated_at": "2026-11-08T05:00:48.097678-03:00"
+    "notes": "Maintain patience on current AAPL and MSFT equity positions through the weekend. Monitor for trend re-entry and SMA20 recovery upon market reopening. Keep cash reserve secure at $25.14 USD. Avoid crypto entries until strict pullback criteria (uptrend above SMA20, RSI >= 32, positive 1H momentum) are fully met.",
+    "updated_at": "2026-11-08T05:10:41.449360-03:00"
   }
 }
