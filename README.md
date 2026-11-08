@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 23:40:40`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 23:50:36`
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $342.37 | $6.44 | 📉 -0.86% | 2d 5h |
+| `AAPL` | 0.018821 | $345.35 | $342.37 | $6.44 | 📉 -0.86% | 2d 6h |
 | `MSFT` | 0.013089 | $534.82 | $530.61 | $6.94 | 📉 -0.79% | 1d 10h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Major equity markets are closed for the weekend, and all tracked assets (including AAPL and MSFT) are currently categorized in a bearish trend below their SMA20. In the crypto sector, ETH-USD, BTC-USD, and SOL-USD are open 24/7 but fail the quantitative reversal criteria, showing flat or negative 1-hour momentum changes. Adhering strictly to the trend filter and anti-catch-falling-knife rules, no new positions should be opened. Existing equity positions (AAPL and MSFT) are being held patiently as per the equity holding patience rule since stop-loss thresholds have not been breached."
+> "Traditional equity markets are currently closed (CERRADO) with prices frozen, and all monitored equities (AAPL, MSFT, NVDA, SPY, QQQ) as well as crypto assets are currently exhibiting bearish trends below their respective SMA20 levels. In accordance with the strict trend-following and risk management rules, no equity positions will be prematurely rotated or sold unless stop-loss thresholds are hit, and no crypto positions will be opened since none of the open crypto assets show a positive 1-hour candle change combined with an uptrend. Cash reserves remain secure."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Holding AAPL position patiently per equity holding patience rules. Stop-loss has not been hit.
-- **[HOLD] MSFT** (Confidence: 100%): Holding MSFT position patiently per equity holding patience rules. Stop-loss has not been hit.
+- *No changes this cycle (HOLD)*
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain patience on existing AAPL and MSFT holdings while traditional markets remain closed. Watch crypto assets for potential bullish reversal triggers (RSI >= 32 and positive 1-hour candle change), but refrain from entering until a confirmed uptrend above SMA20 is established. Cash reserves are safely maintained at $25.14 USD."
+> "Maintain current equity holdings (AAPL and MSFT) despite short-term consolidation, adhering to equity holding patience rules. Do not enter crypto markets until a confirmed UPTREND above SMA20 is established accompanied by a positive 1-hour momentum trigger (rsi_1h >= 32 and change_1h_pct > 0.0). Keep cash reserve protected above $4.00."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

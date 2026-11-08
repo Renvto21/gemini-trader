@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience on existing AAPL and MSFT holdings while traditional markets remain closed. Watch crypto assets for potential bullish reversal triggers (RSI >= 32 and positive 1-hour candle change), but refrain from entering until a confirmed uptrend above SMA20 is established. Cash reserves are safely maintained at $25.14 USD.",
-    "updated_at": "2026-11-07T23:40:40.677277-03:00"
+    "notes": "Maintain current equity holdings (AAPL and MSFT) despite short-term consolidation, adhering to equity holding patience rules. Do not enter crypto markets until a confirmed UPTREND above SMA20 is established accompanied by a positive 1-hour momentum trigger (rsi_1h >= 32 and change_1h_pct > 0.0). Keep cash reserve protected above $4.00.",
+    "updated_at": "2026-11-07T23:50:36.819167-03:00"
   }
 }
