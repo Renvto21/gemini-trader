@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT positions through the weekend closures. Do not execute any trades currently as equities are closed and crypto assets lack a confirmed uptrend above the SMA20 combined with positive 1-hour momentum. Keep cash reserves intact at $25.14 USD.",
-    "updated_at": "2026-11-08T10:40:39.494569-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend closures, respecting equity holding patience. Do not execute any trades in crypto since current crypto assets lack confirmed positive 1-hour momentum above SMA20. Keep cash reserves intact at $25.14 USD and wait for market open and proper pullback reversal triggers.",
+    "updated_at": "2026-11-08T10:50:30.880741-03:00"
   }
 }
