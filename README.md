@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 21:50:35`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-07 22:00:48`
 
 ---
 
@@ -23,16 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Major equity markets and tracked assets remain closed for the weekend, with all tracked assets currently showing a bearish trend below their SMA20 lines. Crypto assets such as BTC-USD, ETH-USD, and SOL-USD are currently open (24/7) but lack a confirmed trend reclaim (all are below SMA20) and are missing the positive 1-hour momentum trigger required for entry. Macro sentiment remains cautious following recent market pullbacks, and our existing equity positions in AAPL and MSFT are currently held through the weekend per equity patience guidelines."
+> "The broad market is currently closed for the weekend, and all monitored assets are displaying bearish trends below their respective SMA20 levels amid macro headwinds. Crypto markets (BTC-USD, ETH-USD, SOL-USD) are open 24/7 but lack the required 1-hour green candle confirmation and are trading under the SMA20 trendline. Existing equity positions in AAPL and MSFT are currently held through the weekend per patience rules, avoiding premature rotation."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Holding equity position during weekend market closure in accordance with equity holding patience guidelines.
+- **[HOLD] AAPL** (Confidence: 80%): Holding current AAPL position per equity holding patience rules. The market is closed and the position remains comfortably within risk limits.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain current AAPL and MSFT equity positions through the weekend closure. Continue monitoring crypto markets (BTC-USD, ETH-USD, SOL-USD) for a reclaim of the SMA20 trendline combined with a positive 1-hour momentum trigger and RSI >= 32 before deploying any additional capital. Adhere strictly to the max 1 crypto position constraint and asymmetric risk/reward parameters."
+> "Maintain current equity holdings AAPL and MSFT through the weekend closure, respecting equity holding patience rules unless stop-loss limits are breached. Continue monitoring crypto assets for an uptrend reclaim of the SMA20, RSI >= 32, and a positive 1-hour momentum trigger before deploying any additional capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
