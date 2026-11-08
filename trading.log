@@ -1,36 +1,3 @@
-"Maintain existing AAPL and MSFT equity positions through the weekend freeze, allowing them time to play out without emotional interference. Monitor market reopening for trend recovery above SMA20 and positive 1H momentum triggers. Avoid opening crypto trades due to bearish trends and lack of confirmed breakout triggers. Keep cash reserve safe at $25.14 USD."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 100%)
-    Reason: Asset is currently closed for the weekend. Adhering to the equity holding patience rule, minor unrealized losses do not warrant premature selling, and we must allow time for the position to recover toward profit targets.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.53 USD (Cash: $25.14 USD)
-
-[2026-11-08 05:40:37] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $25.14 USD
- Assets Value:        $13.39 USD
- Total Balance:       $38.53 USD
- Net PnL:             🔴 $-1.47 USD (-3.69%)
-
- 💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $342.37 | Total: $6.44 📉 (-0.86%) [Time: 2d 11h]
-   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $530.61 | Total: $6.94 📉 (-0.79%) [Time: 1d 16h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The overall market is currently closed for equities (Wall Street is CERRADO), and all available assets are currently trading in bearish trends below their respective SMA20 lines due to recent macro pressures, rate hike fears, and post-election shifts. Cryptocurrencies are open 24/7, but none meet our strict entry filters (they are either below the SMA20 trend or lack a confirmed positive 1-hour momentum bounce with RSI >= 32). Equity holdings AAPL and MSFT are currently held through the weekend freeze. Per rule #6 (Equity Holding Patience), we maintain these positions as they are minor drawdowns (-0.86% and -0.79%) well above our hard stop-loss threshold (-2.0%)."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
 "Maintained AAPL and MSFT equity positions through the weekend as required by holding patience rules. Neither position has hit the -2.0% stop-loss circuit breaker. Cash remains protected at $25.14 USD. For upcoming trading sessions, continue monitoring equity reopenings for trend recuperation and wait for strict pullback confirmation triggers before entering any new crypto or equity positions."
 
 ⚡ DECIDED ACTIONS:
@@ -147,6 +114,39 @@ Final Cycle Balance: $38.53 USD (Cash: $25.14 USD)
     ⏸️ Holding current position without changes.
   • Action: [HOLD] MSFT (Confidence: 100%)
     Reason: Asset is currently in a closed market state and holding within acceptable minor drawdown limits (-0.79%). Adhering to the Equity Holding Patience rule to allow the trade time to play out.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.53 USD (Cash: $25.14 USD)
+
+[2026-11-08 06:20:35] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $25.14 USD
+ Assets Value:        $13.39 USD
+ Total Balance:       $38.53 USD
+ Net PnL:             🔴 $-1.47 USD (-3.69%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $342.37 | Total: $6.44 📉 (-0.86%) [Time: 2d 12h]
+   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $530.61 | Total: $6.94 📉 (-0.79%) [Time: 1d 17h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
