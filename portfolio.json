@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT during the weekend closure while monitoring their stop-loss levels (-1.8% to -2.0%). Avoid crypto entries until a confirmed uptrend above the SMA20 and proper reversal triggers (rsi_1h >= 32 and positive 1h change) materialize upon market reopening. Cash reserve is well protected above the $4.00 minimum.",
-    "updated_at": "2026-11-08T19:10:51.938474-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT during weekend market closures while monitoring their stop-loss levels. Refrain from crypto entries despite temporary 1h bounces because all assets remain in a strict bearish trend below the SMA20. Wait for confirmed market reopenings and proper uptrend alignment before deploying additional capital. Cash reserves remain safe above the $4.00 minimum.",
+    "updated_at": "2026-11-08T19:20:39.532291-03:00"
   }
 }
