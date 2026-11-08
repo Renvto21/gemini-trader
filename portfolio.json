@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity positions in accordance with equity holding patience guidelines, monitoring stop-losses closely when markets reopen. For crypto, avoid entering positions as current assets fail to exhibit confirmed uptrends and positive 1-hour momentum. Keep cash reserves intact and wait for valid breakout or pullback triggers on active markets.",
-    "updated_at": "2026-11-07T23:00:46.579918-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions following the equity holding patience rule. Monitor positions closely against the -2.0% stop-loss threshold when standard market hours resume. For crypto, continue to sit on sidelines as no assets exhibit confirmed bullish reversal triggers (rsi_1h >= 32 and positive 1-hour change). Keep cash reserves at $25.14 and prepare for pullback buy setups only upon verified trend resumption.",
+    "updated_at": "2026-11-07T23:10:38.187738-03:00"
   }
 }
