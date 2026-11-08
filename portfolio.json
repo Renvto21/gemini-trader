@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity holdings (AAPL and MSFT) despite short-term consolidation, adhering to equity holding patience rules. Do not enter crypto markets until a confirmed UPTREND above SMA20 is established accompanied by a positive 1-hour momentum trigger (rsi_1h >= 32 and change_1h_pct > 0.0). Keep cash reserve protected above $4.00.",
-    "updated_at": "2026-11-07T23:50:36.819167-03:00"
+    "notes": "Maintain existing equity positions (AAPL and MSFT) unless stop-loss limits (-1.8% to -2.0%) are triggered. Avoid all crypto entries until a confirmed UPTREND above SMA20 materializes alongside positive 1-hour momentum (rsi_1h >= 32 and change_1h_pct > 0.0). Keep cash reserves safe above $4.00.",
+    "updated_at": "2026-11-08T00:00:51.838420-03:00"
   }
 }
