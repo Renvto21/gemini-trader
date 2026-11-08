@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT during weekend market closures while monitoring their stop-loss levels near -1.8%. Refrain from executing crypto trades because all digital assets remain below the SMA20 trend filter and lack proper reversal confirmation. Wait for Wall Street to reopen and for assets to reclaim their SMA20 uptrend before deploying additional capital from cash reserves.",
-    "updated_at": "2026-11-08T19:30:48.941195-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT over the weekend closure. Monitor current drawdowns against the hard stop-loss circuit breaker near -2.0% (AAPL currently at -0.86%, MSFT at -0.79%). Do not execute any trades in crypto since all digital assets are in a confirmed downtrend below SMA20 and lack 1-hour reversal confirmation. Wait for Wall Street to reopen and for assets to decisively reclaim their SMA20 uptrend before deploying additional capital from our $25.14 cash reserves.",
+    "updated_at": "2026-11-08T19:40:42.643579-03:00"
   }
 }
