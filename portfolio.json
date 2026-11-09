@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT positions through the weekend shutdown. Both equities are currently slightly below entry but well within normal volatility thresholds, and since market hours are closed, no exits or adjustments are permitted. For crypto (BTC-USD, ETH-USD, SOL-USD), all assets remain in a confirmed downtrend below SMA20 with weak hourly momentum; no crypto positions will be opened. Upon Wall Street reopening, closely monitor stop-losses on AAPL and MSFT (-1.8% to -2.0% threshold) and wait for a confirmed daily uptrend crossover before entertaining any new equity or crypto buys.",
-    "updated_at": "2026-11-09T01:30:47.362812-03:00"
+    "notes": "Maintain AAPL and MSFT positions through the weekend closure, monitoring their stop-loss thresholds (-1.8% to -2.0%) for when Wall Street reopens. For crypto, avoid entering BTC, ETH, or SOL due to persistent downtrends below SMA20 and lack of sustained reversal confirmation. Keep cash reserves intact above the $4.00 minimum threshold and wait for confirmed daily uptrends before deploying new capital.",
+    "updated_at": "2026-11-09T01:40:41.530853-03:00"
   }
 }
