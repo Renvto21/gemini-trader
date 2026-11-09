@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "All equity positions (AAPL, MSFT, GLD) are secure and behaving according to capital preservation and trend-following guidelines. Will wait for Wall Street to reopen to monitor for take-profit opportunities between +3.0% and +5.0% or execute strict stop-losses if any position drops below -2.0%. Crypto assets remain below SMA20 and will continue to be ignored until a structural trend reversal occurs.",
-    "updated_at": "2026-11-09T20:00:52.997139-03:00"
+    "notes": "All equity holdings (AAPL, MSFT, GLD) remain secure and are adhering to trend-following guidelines. Wall Street is currently closed, so no stock or ETF transactions can take place. Crypto assets continue to trade below their SMA20 benchmarks, keeping us sidelined on digital assets due to the anti-correlation rule and strict trend filter. We will wait for market re-openings to monitor for take-profit targets between +3.0% and +5.0% or execute stop-losses if any position breaches -2.0%.",
+    "updated_at": "2026-11-09T20:10:42.420420-03:00"
   }
 }
