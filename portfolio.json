@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience on existing equity positions AAPL and MSFT as markets remain closed. Monitor stop-loss thresholds closely upon market open. Refrain from initiating any crypto trades due to lack of positive 1-hour momentum and ongoing downtrends below SMA20 across all assets.",
-    "updated_at": "2026-11-09T00:10:40.704756-03:00"
+    "notes": "Maintain patience on existing equity positions AAPL and MSFT while traditional markets are closed, respecting the equity holding patience rule. Monitor stop-loss levels (-1.8% to -2.0%) for equity positions upon the next market open. Avoid crypto entries due to ongoing downtrends below SMA20 and lack of positive 1-hour momentum confirmation.",
+    "updated_at": "2026-11-09T00:20:44.882198-03:00"
   }
 }
