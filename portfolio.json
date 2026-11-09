@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL, MSFT, and GLD toward our +3.5% to +5.0% take-profit targets, keeping a strict stop-loss discipline at -1.8% to -2.0%. Do not enter any new equity or crypto trades until an asset demonstrates a confirmed uptrend above its SMA20, an RSI >= 32, and positive 1-hour momentum confirmation.",
-    "updated_at": "2026-11-09T14:00:57.026258-03:00"
+    "notes": "Maintain existing positions in AAPL, MSFT, and GLD toward our +3.5% to +5.0% take-profit targets. Adhere strictly to stop-loss levels at -1.8% to -2.0% for all holdings. Hold off on any new buys until market conditions provide a clean breakout or confirmed pullback above the SMA20 with positive 1-hour momentum.",
+    "updated_at": "2026-11-09T14:10:45.072708-03:00"
   }
 }
