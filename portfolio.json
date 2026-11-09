@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL, MSFT, and GLD toward our +3.5% to +5.0% take-profit targets. Adhere strictly to stop-loss levels at -1.8% to -2.0% for all holdings. Keep cash reserves intact as no new assets currently satisfy both the uptrend requirement and the 1-hour reversal confirmation trigger.",
-    "updated_at": "2026-11-09T14:20:43.445511-03:00"
+    "notes": "Maintain current holdings in AAPL, MSFT, and GLD. Patiently let them run toward our take-profit targets of +3.5% to +5.0%. Keep a close eye on stop-loss levels at -1.8% to -2.0%. Do not enter any new crypto or equity positions until the strict trend filter and 1-hour positive momentum triggers are fully met.",
+    "updated_at": "2026-11-09T14:30:47.443532-03:00"
   }
 }
