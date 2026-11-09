@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold current equity/ETF positions (AAPL, MSFT, GLD) through the weekend closure. Monitor take-profit targets between +3.0% and +5.0% or 1H RSI exceeding 72 once Wall Street reopens. Keep stop-losses firmly protected at -2.0%. Avoid all crypto assets as long as they stay below the SMA20 and lack clear reversal triggers.",
-    "updated_at": "2026-11-09T18:20:36.177495-03:00"
+    "notes": "Maintain current equity and ETF positions (AAPL, MSFT, GLD) as they remain above the SMA20 trend line. Continue holding through the weekend closure. Prepare to evaluate take-profit targets (+3.0% to +5.0% or 1H RSI > 72) once Wall Street reopens. Keep strict stop-losses protected at -2.0% and avoid all crypto assets due to the ongoing macro downtrend below SMA20.",
+    "updated_at": "2026-11-09T18:30:46.743102-03:00"
   }
 }
