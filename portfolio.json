@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity holdings in AAPL and MSFT during the weekend market closure. Do not panic-sell equities for being flat, as per equity holding patience rules. Avoid entering crypto despite intraday bounces because the broader trend remains bearish below SMA20. Keep cash reserves intact at $25.14 and prepare to look for confirmed breakout pullbacks once Wall Street reopens.",
-    "updated_at": "2026-11-09T05:40:43.681157-03:00"
+    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend. Do not rotate or panic-sell flat positions. Avoid 24/7 crypto assets (SOL-USD, BTC-USD) because they remain in a bearish trend below the SMA20. Wait for Wall Street to reopen and for assets to demonstrate confirmed breakouts above their SMA20 with positive 1-hour momentum before allocating additional cash reserves.",
+    "updated_at": "2026-11-09T05:50:37.744072-03:00"
   }
 }
