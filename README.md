@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 00:00:54`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 00:10:40`
 
 ---
 
@@ -23,17 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "All equities (AAPL, MSFT, SPY, QQQ, NVDA, GLD) are currently under market closure (CERRADO) over the weekend. Furthermore, all major assets including cryptocurrencies and stocks remain below their respective SMA20 lines in a bearish trend environment. Although SOL-USD shows a mild positive 1-hour change (+0.07%) and an RSI of 32.7, it fails to meet a strong confirmed breakout above SMA20, and capital preservation rules advise against entering counter-trend or marginal setups."
+> "All equities (AAPL, MSFT, QQQ, SPY, NVDA, GLD) are currently in closed market status over the weekend, exhibiting bearish trends below their respective SMA20 lines. Similarly, major cryptocurrencies (SOL-USD, BTC-USD, ETH-USD) remain below their SMA20 with negative 1-hour momentum, failing to meet the strict quantitative criteria for trend-following entries. Cash reserves are being strictly preserved."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Asset market status is closed (CERRADO) and holding period equity patience applies. PnL is currently within normal drawdown limits (-0.86%), well above the -2.0% circuit breaker threshold.
-- **[HOLD] MSFT** (Confidence: 100%): Asset market status is closed (CERRADO) and equity holding patience applies. PnL is currently within normal drawdown limits (-0.79%), well above the -2.0% hard stop-loss.
+- **[HOLD] AAPL** (Confidence: 100%): Market is closed over the weekend. Position remains within acceptable drawdown parameters and adheres to equity patience rules.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain patience on existing equity positions AAPL and MSFT over the weekend, monitoring stop-loss thresholds strictly between -1.8% and -2.0%. Refrain from executing any crypto trades because current cryptocurrency and equity trends remain strictly below SMA20. Wait for confirmed breakouts above SMA20 with positive 1-hour momentum before initiating new long exposures."
+> "Maintain patience on existing equity positions AAPL and MSFT as markets remain closed. Monitor stop-loss thresholds closely upon market open. Refrain from initiating any crypto trades due to lack of positive 1-hour momentum and ongoing downtrends below SMA20 across all assets."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
