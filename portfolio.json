@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions in AAPL and MSFT through the weekend closure, respecting the equity holding patience rule unless stop-loss limits (-1.8% to -2.0%) are breached upon market reopening. Remain completely sidelined on crypto assets due to ongoing downtrends and failure to meet the strict entry criteria (above SMA20 and positive 1-hour reversal candle). Cash reserves stand comfortably at $25.14 USD, keeping well above the $4.00 minimum.",
-    "updated_at": "2026-11-09T02:20:40.054533-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT through the weekend closure, monitoring stop-loss limits (-1.8% to -2.0%) upon market reopening. Stay completely sidelined on crypto assets as they are in strong downtrends below the SMA20 without confirmed 1-hour green candle bounces. Keep dry powder ready and wait for equities or crypto to establish solid uptrends and positive reversal triggers before deploying capital.",
+    "updated_at": "2026-11-09T02:30:51.899082-03:00"
   }
 }
