@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 17:50:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 18:00:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$18.14 USD** | **$20.80 USD** | **$38.94 USD** | 🔴 **-2.66%** ($-1.06) |
+| **$40.00 USD** | **$18.14 USD** | **$20.77 USD** | **$38.91 USD** | 🔴 **-2.74%** ($-1.09) |
 
 ---
 
@@ -16,24 +16,24 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $351.72 | $6.62 | 📈 +1.84% | 4d 0h |
-| `MSFT` | 0.013089 | $534.82 | $547.17 | $7.16 | 📈 +2.31% | 3d 4h |
-| `GLD` | 0.018501 | $378.35 | $379.30 | $7.02 | 📈 +0.25% | 6h 19m |
+| `AAPL` | 0.018821 | $345.35 | $350.97 | $6.61 | 📈 +1.63% | 4d 0h |
+| `MSFT` | 0.013089 | $534.82 | $545.53 | $7.14 | 📈 +2.00% | 3d 4h |
+| `GLD` | 0.018501 | $378.35 | $379.57 | $7.02 | 📈 +0.32% | 6h 29m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market shows mixed recovery signals, with major equity indices like SPY, QQQ, and NVDA remaining under their SMA20 (bearish trend). However, our core positions in AAPL, MSFT, and GLD continue to hold firm in confirmed uptrends above their SMA20. Specifically, MSFT shows a +2.31% return, and AAPL is up +1.84% with a 1-hour RSI near 71. GLD maintains stable performance. Given strict trend-following filters, we avoid opening any new positions in assets under SMA20 and maintain patience on our equity holdings as per the equity holding patience rule."
+> "Wall Street markets are currently closed (CERRADO) for the weekend/night cycle, meaning all equity and ETF assets like AAPL, MSFT, and GLD have frozen prices. Cryptocurrencies remain active 24/7, but major coins such as BTC-USD, ETH-USD, and SOL-USD are currently trading below their SMA20 with negative 7-day trends and lack strong bullish reversal confirmations on the 1-hour candle (change_1h_pct is flat or slightly negative). Our existing positions in AAPL (+1.63%), MSFT (+2.0%), and GLD (+0.32%) are performing well within confirmed uptrends and remain comfortably above stop-loss levels. In accordance with equity patience rules and weekend market closures, no tactical exits or entries are warranted at this moment."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above SMA20 with a solid +1.84% gain. Holding patiently toward the +3.0% to +5.0% profit target band without premature rotation.
+- **[HOLD] AAPL** (Confidence: 100%): Asset is in a confirmed uptrend and showing positive returns (+1.63%). Market is currently closed, and equity patience rules dictate holding quality positions until take-profit or stop-loss thresholds are met.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing positions in AAPL, MSFT, and GLD. Monitor AAPL and MSFT for take-profit opportunities if RSI exceeds 72 and returns hit the +3.0% to +5.0% target band. Keep strict stop-losses active at -2.0%. Avoid all crypto and assets in downtrends due to lack of valid trend confirmation."
+> "Maintain current equity positions (AAPL, MSFT, GLD) through the weekend closure. Monitor AAPL and MSFT for take-profit targets between +3.0% and +5.0% or if 1H RSI exceeds 72. Keep stop-losses firmly set at -2.0%. Avoid all crypto assets as they remain in a downtrend below the SMA20, and keep cash reserves ready for when Wall Street reopens."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
