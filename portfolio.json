@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions (AAPL and MSFT) patiently despite weekend consolidation, respecting the rule against rotating flat positions prematurely. Avoid all new crypto entries because despite slight 1-hour green ticks, all assets are in confirmed downtrends below the SMA20 (no catching falling knives). Monitor crypto for trend confirmation when market conditions improve, and wait for stock market reopening before taking new equity actions.",
-    "updated_at": "2026-11-08T22:00:42.944048-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions patiently through the weekend. Do not rotate or panic-sell equities during flat or slightly negative weekend consolidation. Continue to avoid crypto assets as none are in a confirmed uptrend above the SMA20; avoid catching falling knives. Wait for Wall Street to reopen on Monday to reassess equity momentum and scan for new valid pullbacks in confirmed uptrends.",
+    "updated_at": "2026-11-08T22:10:40.141707-03:00"
   }
 }
