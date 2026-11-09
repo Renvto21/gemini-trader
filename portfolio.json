@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "All open stock and gold positions (AAPL, MSFT, GLD) are adhering to equity holding patience and remain in confirmed uptrends. Wall Street is closed so no equity actions can be executed. Cryptos remain in a bearish trend below SMA20, blocking any new crypto entries. We will wait for stock markets to reopen to monitor for take-profit targets (+3.0% to +5.0%) or stop-losses at -2.0%.",
-    "updated_at": "2026-11-09T20:30:49.086922-03:00"
+    "notes": "All open positions (AAPL, MSFT, GLD) are performing well and respecting equity holding patience while Wall Street is closed. Monitor for take-profit targets (+3.0% to +5.0%) or stop-losses at -2.0% once markets reopen. Crypto markets remain bearish below SMA20, requiring us to stay on the sidelines until a confirmed uptrend and positive 1H momentum trigger appear.",
+    "updated_at": "2026-11-09T20:40:42.479018-03:00"
   }
 }
