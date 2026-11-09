@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT positions respecting equity holding patience, as markets are closed and current drawdowns remain manageable. Keep crypto exposure at zero due to persistent downtrends across BTC, ETH, and SOL. Wait for equity market reopening and confirmed uptrend breakouts with positive hourly momentum before considering further capital deployment.",
-    "updated_at": "2026-11-08T21:30:44.129628-03:00"
+    "notes": "Maintain current equity holdings in AAPL and MSFT patiently according to equity holding rules, as their drawdowns are manageable and markets are closed. Keep crypto allocation at zero due to broad bearish trends and lack of positive 1-hour momentum confirmation. Watch for market reopening and watch for confirmed trend breakouts before deploying further cash reserves.",
+    "updated_at": "2026-11-08T21:40:42.035669-03:00"
   }
 }
