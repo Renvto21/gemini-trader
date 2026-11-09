@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 10:10:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 10:20:42`
 
 ---
 
@@ -23,16 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), keeping equity prices frozen. Crypto markets are open 24/7, but major assets such as ETH-USD, BTC-USD, and SOL-USD remain in a bearish trend below their respective SMA20 lines with negative or flat 1-hour changes, failing to meet the strict reversal confirmation trigger. Existing equity holdings AAPL and MSFT are experiencing minor unrealized losses but remain within acceptable drawdown limits, well above the -2.0% hard stop-loss circuit breaker. Patient equity holding rules apply as markets are closed."
+> "The broader equity market and major cryptocurrency assets are currently closed (Wall Street) or showing weak, range-bound consolidation below their respective SMA20 trend filters. All tracked assets (AAPL, MSFT, QQQ, SPY, NVDA, BTC-USD, ETH-USD, SOL-USD) are currently in a bearish trend context below SMA20 with negative or flat short-term momentum. Given the strict trend filter and market hours restrictions, no trades can be executed during this cycle. Current equity positions in AAPL and MSFT remain stable despite minor unrealized drawdowns, well within our -2.0% hard stop-loss circuit breaker threshold."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): Market status is closed for equities. The position is down only -0.86%, remaining well above the -2.0% circuit breaker. Equity holding patience applies over the weekend.
+- *No changes this cycle (HOLD)*
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain current AAPL and MSFT positions during the weekend market shutdown. Adhere strictly to the -2.0% hard stop-loss limit. Avoid crypto positions until assets clear the SMA20 trend filter and demonstrate confirmed green 1-hour momentum bounces with RSI >= 32. Keep cash reserves protected above $4.00 USD."
+> "Maintain existing AAPL and MSFT positions through the weekend market closure, adhering strictly to the -2.0% stop-loss threshold. Do not execute any trades while Wall Street is closed. For crypto assets, avoid entry since none currently combine an established uptrend above SMA20 with a confirmed positive 1-hour momentum bounce (change_1h_pct > 0.0 and RSI_1h >= 32). Preserve cash reserves above $4.00 USD and wait for market reopening."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT positions during the weekend market shutdown. Adhere strictly to the -2.0% hard stop-loss limit. Avoid crypto positions until assets clear the SMA20 trend filter and demonstrate confirmed green 1-hour momentum bounces with RSI >= 32. Keep cash reserves protected above $4.00 USD.",
-    "updated_at": "2026-11-09T10:10:47.124992-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions through the weekend market closure, adhering strictly to the -2.0% stop-loss threshold. Do not execute any trades while Wall Street is closed. For crypto assets, avoid entry since none currently combine an established uptrend above SMA20 with a confirmed positive 1-hour momentum bounce (change_1h_pct > 0.0 and RSI_1h >= 32). Preserve cash reserves above $4.00 USD and wait for market reopening.",
+    "updated_at": "2026-11-09T10:20:42.654643-03:00"
   }
 }
