@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing patient posture on AAPL and MSFT equity positions through the weekend freeze. Do not intervene unless stop-loss limits (-2.0%) are breached when markets reopen. For crypto, avoid SOL-USD and other tokens as they remain under the SMA20 despite brief local ticks. Wait for confirmed daily/hourly uptrends above the SMA20 and positive momentum triggers when Wall Street opens next week.",
-    "updated_at": "2026-11-08T22:40:46.813354-03:00"
+    "notes": "Maintain patience on existing equity positions (AAPL and MSFT) through the weekend. Do not breach equity positions unless stop-loss targets (-2.0%) are triggered upon Monday's market open. Avoid all crypto entries as none meet the strict rule of gold (all are below SMA20 and lack clear, sustained reversal triggers). Continue monitoring for confirmed uptrends and positive hourly momentum triggers.",
+    "updated_at": "2026-11-08T22:50:43.709390-03:00"
   }
 }
