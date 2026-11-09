@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT positions patiently in accordance with equity holding rules since markets are closed and stop-losses have not been breached. For crypto, monitored BTC-USD and SOL-USD closely, but refrained from opening positions as they remain below their SMA20 trends and lack confirmed bullish momentum triggers. Keep cash reserves intact and wait for traditional market hours to resume or crypto trend reversals before taking new action.",
-    "updated_at": "2026-11-09T07:00:52.301346-03:00"
+    "notes": "Maintained AAPL and MSFT positions patiently in accordance with equity holding rules since traditional markets are closed and stop-losses have not been breached. For crypto, monitored BTC-USD and SOL-USD closely, but refrained from opening positions as they remain below their SMA20 trends and lack confirmed bullish momentum triggers (1-hour green candles and RSI >= 32). Keep cash reserves intact and wait for traditional market hours to resume or crypto trend reversals before taking new action.",
+    "updated_at": "2026-11-09T07:10:44.005753-03:00"
   }
 }
