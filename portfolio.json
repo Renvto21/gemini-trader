@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained existing AAPL and MSFT positions during weekend closures, respecting the equity holding patience rule. Both positions are currently sitting at small unrealized losses (-0.86% and -0.79% respectively), comfortably above the hard -2.0% circuit breaker. Crypto assets remain in downtrends below the SMA20 with negative or weak 1-hour momentum, so no crypto exposure will be added. Will continue to monitor markets for confirmed trend pullbacks once traditional exchanges reopen.",
-    "updated_at": "2026-11-09T11:10:46.911704-03:00"
+    "notes": "Holding AAPL and MSFT positions patiently through minor consolidation per equity holding patience rules. Will wait for traditional markets to open and for confirmed uptrends above the SMA20 before considering new equity entries. In crypto, avoid entering assets below the SMA20 despite oversold daily RSIs, respecting the strict trend filter rule to never catch falling knives.",
+    "updated_at": "2026-11-09T11:20:43.630656-03:00"
   }
 }
