@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT equity positions through the weekend closure, respecting the strict -2.0% stop-loss circuit breaker. Do not execute trades on closed equity markets. For crypto assets, avoid entry since none satisfy the trend filter (above SMA20) combined with a positive 1-hour momentum trigger. Preserve cash reserves above $4.00 USD and wait for market reopening.",
-    "updated_at": "2026-11-09T10:40:40.784922-03:00"
+    "notes": "Maintain existing AAPL and MSFT positions through the weekend closure, respecting the hard -2.0% stop-loss circuit breaker. Do not execute trades on closed equity markets. For crypto assets, avoid entry since none satisfy the trend filter (above SMA20). Preserve cash reserves above $4.00 USD and wait for market reopening.",
+    "updated_at": "2026-11-09T10:50:40.011126-03:00"
   }
 }
