@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT through the weekend closure as they have not hit the -1.8% to -2.0% stop-loss threshold. Do not rotate or sell equities prematurely due to holding patience rules. Remain on the sidelines regarding crypto assets until a confirmed uptrend above SMA20 and positive 1-hour momentum materialize. Keep cash reserves safely above $4.00 USD.",
-    "updated_at": "2026-11-09T02:00:51.578692-03:00"
+    "notes": "Maintain existing equity positions in AAPL and MSFT as they are currently held during the weekend market closure and have not breached the -1.8% to -2.0% stop-loss threshold, keeping in mind the equity holding patience rule. Stay entirely on the sidelines regarding crypto assets as none meet the requirement of being above SMA20 with a positive 1-hour momentum bounce (rsi_1h >= 32 and change_1h_pct > 0.0). Keep cash reserves at $25.14 USD, well above the $4.00 minimum.",
+    "updated_at": "2026-11-09T02:10:39.522778-03:00"
   }
 }
