@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold AAPL and MSFT positions through the weekend without panic-selling, respecting equity holding patience. Do not buy crypto or equities as market status is closed for stocks and crypto lacks reversal confirmation triggers (positive 1-hour momentum and RSI recovery). Wait for Wall Street to reopen and assets to establish confirmed uptrends above their SMA20 before deploying cash.",
-    "updated_at": "2026-11-09T06:10:41.612131-03:00"
+    "notes": "Maintain current AAPL and MSFT equity holdings through the weekend closure. Monitor crypto assets (BTC-USD, ETH-USD, SOL-USD) for any confirmed trend reversals above the SMA20 with positive 1-hour momentum once they display strong rebound characteristics. Ensure strict compliance with stop-loss limits (-2.0%) and target gains (+3.5%) when markets reopen.",
+    "updated_at": "2026-11-09T06:20:46.269733-03:00"
   }
 }
