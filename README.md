@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 09:00:54`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 09:10:40`
 
 ---
 
@@ -23,17 +23,17 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities (AAPL, MSFT, QQQ, SPY, NVDA, GLD) are currently closed ('CERRADO'), with prices frozen. Furthermore, all tracked equities and crypto assets are currently categorized as 'BAJISTA (bajo SMA20)' with prices below their 20-period SMA, meaning no valid trend-following buy setups are present according to our strict quantitative rules. Our existing positions in AAPL and MSFT are experiencing minor unrealized losses (-0.86% and -0.79% respectively), both well clear of our -1.8% to -2.0% stop-loss circuit breaker threshold. Since equities are closed and crypto assets fail our strict trend and reversal filters, patience and capital preservation dictate holding our current positions without interference."
+> "The current market environment reflects broad weakness across both equities and cryptocurrencies, with major assets sitting below their respective SMA20 trend lines in bearish daily structures. Wall Street is currently closed (market status CERRADO), meaning existing equity positions in AAPL and MSFT cannot be traded at this time. Meanwhile, cryptocurrencies like BTC-USD, ETH-USD, and SOL-USD show slight positive 1-hour momentum, but none currently meet all strict trend-following criteria as they remain below their SMA20 trend filters. Capital preservation and patience are paramount."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Position is in a minor drawdown (-0.86%), well within acceptable risk limits and far from the -2.0% stop-loss threshold. Wall Street is closed and equity holding patience rule applies.
-- **[HOLD] MSFT** (Confidence: 100%): Position is stable with a minor unrealized loss of -0.79%, safely above the stop-loss limit. Equity holding patience rule dictates holding through flat periods.
+- **[HOLD] AAPL** (Confidence: 80%): Position is currently held within acceptable drawdown limits (-0.86%), and the market is closed (CERRADO). Complying with equity holding patience rules to let the position play out.
+- **[HOLD] MSFT** (Confidence: 80%): Position is currently held within acceptable drawdown limits (-0.79%), and the market is closed (CERRADO). Complying with equity holding patience rules to let the position play out.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL and MSFT positions patiently as they remain safely above the -1.8% to -2.0% stop-loss threshold. Wall Street is currently closed; will wait for market reopening and look for assets to reclaim their SMA20 uptrends with confirmed positive 1-hour momentum before allocating remaining cash reserves ($25.14)."
+> "Holding AAPL and MSFT positions patiently as they remain close to current prices and safely above the strict -1.8% to -2.0% stop-loss threshold. Wall Street is closed; will wait for market reopening and look for equities or cryptocurrencies to reclaim their SMA20 uptrends with confirmed positive momentum before allocating remaining cash reserves ($25.14)."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
