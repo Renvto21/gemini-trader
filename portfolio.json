@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT positions through the weekend closure, monitoring their stop-loss thresholds (-1.8% to -2.0%) for when Wall Street reopens. For crypto, avoid entering BTC, ETH, or SOL due to persistent downtrends below SMA20 and lack of sustained reversal confirmation. Keep cash reserves intact above the $4.00 minimum threshold and wait for confirmed daily uptrends before deploying new capital.",
-    "updated_at": "2026-11-09T01:40:41.530853-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT through the weekend closure while closely monitoring their stop-loss limits (-1.8% to -2.0%). For crypto, stay on the sidelines as none of the assets meet the strict trend filter and positive 1-hour momentum confirmation. Keep cash reserves protected above $4.00 and wait for market reopening and confirmed uptrends before deploying new capital.",
+    "updated_at": "2026-11-09T01:50:40.565998-03:00"
   }
 }
