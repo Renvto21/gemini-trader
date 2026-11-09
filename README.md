@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 20:40:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 20:50:49`
 
 ---
 
@@ -16,26 +16,24 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $350.69 | $6.60 | 📈 +1.55% | 4d 2h |
+| `AAPL` | 0.018821 | $345.35 | $350.69 | $6.60 | 📈 +1.55% | 4d 3h |
 | `MSFT` | 0.013089 | $534.82 | $545.18 | $7.14 | 📈 +1.94% | 3d 7h |
-| `GLD` | 0.018501 | $378.35 | $379.53 | $7.02 | 📈 +0.31% | 9h 9m |
+| `GLD` | 0.018501 | $378.35 | $379.53 | $7.02 | 📈 +0.31% | 9h 19m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO) for the weekend/night, freezing prices for AAPL, MSFT, and GLD. All three equity/commodity positions are holding steady in confirmed uptrends above their SMA20 with positive unrealized gains, fully complying with equity holding patience. Cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) remain open 24/7 but are trading in bearish trends below their SMA20 with negative 7-day momentum, which blocks any crypto entry under our strict trend-following filters."
+> "Wall Street markets remain closed (CERRADO) with prices frozen. Existing equity positions (AAPL, MSFT, GLD) continue to perform well in established uptrends above their SMA20, adhering to our equity holding patience and asymmetric risk/reward mandate. Crypto markets (BTC-USD, ETH-USD, SOL-USD) are open 24/7 but are currently in a bearish trend below their SMA20 with negative or neutral hourly momentum, failing to meet our strict trend and reversal confirmation criteria. We will maintain all current equity positions and remain in cash for crypto until valid pullbacks and green hourly candles emerge in confirmed uptrend assets."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above SMA20, market status is closed, and the position has a positive unrealized gain of +1.55%. Holding per equity patience rules.
-- **[HOLD] MSFT** (Confidence: 100%): MSFT is in a confirmed uptrend above SMA20, market status is closed, and the position shows a solid unrealized gain of +1.94%. Holding patiently for the take-profit target.
-- **[HOLD] GLD** (Confidence: 100%): GLD is in a confirmed uptrend above SMA20, market status is closed, and holding steady with a minor positive return. Maintaining position until market reopens.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above SMA20 with positive unrealized gains (+1.55%). Adhering to equity holding patience while markets are closed.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "All open positions (AAPL, MSFT, GLD) are performing well and respecting equity holding patience while Wall Street is closed. Monitor for take-profit targets (+3.0% to +5.0%) or stop-losses at -2.0% once markets reopen. Crypto markets remain bearish below SMA20, requiring us to stay on the sidelines until a confirmed uptrend and positive 1H momentum trigger appear."
+> "All open positions (AAPL, MSFT, GLD) are profitable and stable. Maintain positions as long as they stay above stop-loss levels (-2.0%) and target +3.0% to +5.0% for profit-taking. Wall Street assets are currently closed; do not trade them. Crypto assets are in a bearish trend below SMA20—continue to exercise strict patience and wait for a confirmed uptrend and positive 1-hour momentum before considering any crypto allocation."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
