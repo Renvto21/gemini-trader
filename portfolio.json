@@ -1972,7 +1972,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing AAPL and MSFT positions while respecting equity holding patience, as their current drawdowns are well within acceptable limits and markets are closed. Keep crypto exposure at zero since all digital assets violate the strict trend filter (trading below SMA20 with negative hourly momentum). Upon market reopening, closely monitor AAPL and MSFT for any trend recovery or stop-loss breaches, and wait for confirmed uptrends with positive momentum before deploying any additional capital.",
-    "updated_at": "2026-11-08T21:20:45.174298-03:00"
+    "notes": "Maintain current AAPL and MSFT positions respecting equity holding patience, as markets are closed and current drawdowns remain manageable. Keep crypto exposure at zero due to persistent downtrends across BTC, ETH, and SOL. Wait for equity market reopening and confirmed uptrend breakouts with positive hourly momentum before considering further capital deployment.",
+    "updated_at": "2026-11-08T21:30:44.129628-03:00"
   }
 }
