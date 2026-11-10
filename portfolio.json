@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT adhering to equity holding patience. Monitor MSFT and AAPL for take-profit targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%). Keep crypto exposure at zero due to persistent downtrends below SMA20 across all major tokens. Preserve cash above the minimum reserve limit.",
-    "updated_at": "2026-11-10T19:30:50.404836-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT. Monitor for take-profit targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%). Keep crypto exposure at zero as all digital assets remain below their SMA20 trend lines with negative short-term momentum. Do not execute any trades while core assets are closed and trend filters are not met.",
+    "updated_at": "2026-11-10T19:40:42.240636-03:00"
   }
 }
