@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience on existing positions (AAPL, MSFT, GLD) during the weekend market closure. Monitor for take-profit levels (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%) upon the reopening of Wall Street. Continue to avoid crypto due to ongoing downtrends and lack of bullish reversal confirmation triggers.",
-    "updated_at": "2026-11-10T06:40:55.867351-03:00"
+    "notes": "Maintain patience on existing equity positions (AAPL, MSFT, GLD) during the weekend market closure. Monitor for take-profit levels (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%) upon the reopening of Wall Street. Continue to avoid crypto due to ongoing downtrends and lack of bullish reversal confirmation triggers (positive 1-hour candle change required).",
+    "updated_at": "2026-11-10T06:50:42.279686-03:00"
   }
 }
