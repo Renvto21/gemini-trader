@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL, MSFT, and GLD positions following equity holding patience rules. Continue to monitor ETH-USD, BTC-USD, and SOL-USD for a reclaim of the SMA20 trend combined with a confirmed green 1-hour candle (change_1h_pct > 0.0) before considering any crypto deployment. Keep cash reserves safely above $4.00.",
-    "updated_at": "2026-11-09T23:40:39.908278-03:00"
+    "notes": "Maintained AAPL, MSFT, and GLD positions following equity holding patience rules as they remain in stable uptrends above the SMA20. Crypto markets are open but currently lack a confirmed uptrend and green 1-hour momentum trigger, so no crypto exposure is taken to avoid falling knives. Will continue to monitor Bitcoin, Ethereum, and Solana for a reclaim of the SMA20 trend combined with change_1h_pct > 0.0 before deployment. Cash reserves remain safe at $18.14.",
+    "updated_at": "2026-11-09T23:50:44.729815-03:00"
   }
 }
