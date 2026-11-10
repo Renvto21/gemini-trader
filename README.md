@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 21:40:39`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-09 21:50:38`
 
 ---
 
@@ -16,15 +16,15 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $350.69 | $6.60 | 📈 +1.55% | 4d 3h |
+| `AAPL` | 0.018821 | $345.35 | $350.69 | $6.60 | 📈 +1.55% | 4d 4h |
 | `MSFT` | 0.013089 | $534.82 | $545.18 | $7.14 | 📈 +1.94% | 3d 8h |
-| `GLD` | 0.018501 | $378.35 | $379.53 | $7.02 | 📈 +0.31% | 10h 9m |
+| `GLD` | 0.018501 | $378.35 | $379.53 | $7.02 | 📈 +0.31% | 10h 19m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The traditional stock and commodity markets (AAPL, MSFT, GLD, SPY, QQQ, NVDA) are currently closed for the weekend/night with prices frozen. Our open equity and commodity positions (AAPL, MSFT, GLD) are stable, profitable, and maintained above their respective SMA20 trends. In the crypto markets, which remain active 24/7, major assets like BTC-USD, ETH-USD, and SOL-USD continue to exhibit bearish trends below their SMA20 with mixed hourly momentum. Given our strict trend-following and pullback entry rules (avoiding falling knives and requiring positive 1-hour momentum on assets above SMA20), no new crypto entries meet our criteria at this hour. Cash reserves remain healthy at $18.14 USD."
+> "Wall Street markets are currently closed (CERRADO), meaning equity and ETF positions (AAPL, MSFT, GLD) are frozen and should be held patiently according to equity patience rules. Crypto assets (BTC, ETH, SOL) are open 24/7, but all of them remain in a bearish trend (below their respective SMA20) with negative or flat 1-hour momentum, failing to meet the strict entry criteria for pullback buy triggers. No new crypto positions can be opened since none are in a confirmed uptrend, and anti-correlation constraints prevent holding multiple crypto assets simultaneously anyway. The existing portfolio is well-positioned with positive unrealized gains across AAPL, MSFT, and GLD, maintaining disciplined adherence to target profit objectives and risk controls."
 
 **Cycle Actions:**
 - *No changes this cycle (HOLD)*
@@ -33,7 +33,7 @@
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "All open positions (AAPL, MSFT, GLD) are performing well and held patiently toward +3.0% to +5.0% profit targets while stop-losses are strictly guarded at -2.0%. Wall Street is closed; focus remains on maintaining equity patience and waiting for crypto assets to cleanly reclaim their SMA20 trends before deploying additional capital."
+> "All open positions (AAPL, MSFT, GLD) are maintained with patience while Wall Street remains closed. No crypto entries are warranted because all available coins are trading below their SMA20 trends and lack positive 1-hour reversal momentum. Cash is kept at a safe reserve above $4.00 USD. Continue monitoring crypto assets for a clean reclaiming of SMA20 and positive 1-hour momentum candles before deploying fresh capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
