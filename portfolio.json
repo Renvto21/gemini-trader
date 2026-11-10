@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL, MSFT, and GLD. Monitor stop-loss thresholds closely (-1.8% to -2.0%). Keep waiting for equities to reopen and reclaim the SMA20, or for crypto assets to form a confirmed uptrend with positive 1-hour momentum before allocating remaining cash reserves ($18.14 USD).",
-    "updated_at": "2026-11-09T22:50:40.529326-03:00"
+    "notes": "Currently holding AAPL, MSFT, and GLD. All positions are below their entry prices due to broader after-hours/weekend consolidation, but none have breached the -1.8% to -2.0% stop-loss threshold. Patience is maintained for equities given they are closed ('CERRADO'). For crypto, no actions are taken as assets remain under the SMA20 trend line. Cash reserves are kept at $18.14 USD. We will wait for regular market hours to resume and for assets to reclaim their SMA20 trend filters before allocating additional capital.",
+    "updated_at": "2026-11-09T23:00:43.912149-03:00"
   }
 }
