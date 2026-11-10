@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT as they sustain their confirmed uptrends. AAPL's 1-hour RSI is elevated at 72.5, so we will monitor for potential take-profit targets if momentum extends toward a +3% to +5% gain. MSFT is stable with positive unrealized gains. Avoid all crypto assets as they are currently trading below their SMA20 trend filters and do not meet pullback criteria. Maintain cash reserves above $4.00.",
-    "updated_at": "2026-11-10T11:41:03.087380-03:00"
+    "notes": "Holding AAPL and MSFT as they remain in confirmed uptrends above their SMA20. Will monitor AAPL and MSFT for take-profit targets between +3.0% and +5.0% or if RSI 1h climbs above 72. All crypto assets and other equities remain in downtrends or fail to meet the strict pullback confirmation rules (change_1h_pct > 0.0), so no new trades are initiated. Cash reserves remain healthy at $25.01.",
+    "updated_at": "2026-11-10T11:50:41.581053-03:00"
   }
 }
