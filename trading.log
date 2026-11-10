@@ -1,39 +1,5 @@
    • AAPL: 0.018821 u. | Buy: $345.35 | Now: $350.69 | Total: $6.6 📈 (+1.55%) [Time: 4d 10h]
    • MSFT: 0.013089 u. | Buy: $534.82 | Now: $545.18 | Total: $7.14 📈 (+1.94%) [Time: 3d 14h]
-   • GLD: 0.018501 u. | Buy: $378.35 | Now: $379.53 | Total: $7.02 📈 (+0.31%) [Time: 16h 29m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Wall Street markets are currently closed (CERRADO), meaning traditional equities and ETFs such as AAPL, MSFT, and GLD are locked in their previous closing states. All open equity positions (AAPL, MSFT, GLD) remain well-positioned in confirmed uptrends above their SMA20, showing healthy positive returns. Cryptocurrencies are open 24/7, but all major crypto assets (BTC-USD, ETH-USD, SOL-USD) are currently trading below their SMA20 in bearish trends with flat or weak 1-hour momentum, failing to meet our strict trend and reversal confirmation criteria for new entries."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained all existing positions (AAPL, MSFT, GLD) as they are holding steady in confirmed uptrends with no stop-loss breaches. Crypto assets remain in bear trends below the SMA20, so no crypto exposure was added. Will continue to hold current equity positions through the weekend and wait for Wall Street market reopening or proper bullish pullback confirmations before deploying additional capital."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 100%)
-    Reason: Asset is in a confirmed uptrend above its SMA20 and markets are closed. Adhering to patience rules for equity holdings.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
-
-[2026-11-10 04:10:35] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $18.14 USD
- Assets Value:        $20.76 USD
- Total Balance:       $38.89 USD
- Net PnL:             🔴 $-1.11 USD (-2.76%)
-
- 💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $350.69 | Total: $6.6 📈 (+1.55%) [Time: 4d 10h]
-   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $545.18 | Total: $7.14 📈 (+1.94%) [Time: 3d 14h]
    • GLD: 0.018501 u. | Buy: $378.35 | Now: $379.53 | Total: $7.02 📈 (+0.31%) [Time: 16h 39m]
 =======================================================
 
@@ -147,6 +113,40 @@ Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 100%)
     Reason: Market is closed for equities. AAPL is in a confirmed uptrend above SMA20 with positive PnL (+1.55%), adhering to equity holding patience rules.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
+
+[2026-11-10 04:50:36] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $18.14 USD
+ Assets Value:        $20.76 USD
+ Total Balance:       $38.89 USD
+ Net PnL:             🔴 $-1.11 USD (-2.76%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $350.69 | Total: $6.6 📈 (+1.55%) [Time: 4d 11h]
+   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $545.18 | Total: $7.14 📈 (+1.94%) [Time: 3d 15h]
+   • GLD: 0.018501 u. | Buy: $378.35 | Now: $379.53 | Total: $7.02 📈 (+0.31%) [Time: 17h 19m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Wall Street markets are currently closed (CERRADO) with prices frozen. Existing equity positions (AAPL, MSFT, GLD) are holding well above their SMA20 uptrends with positive floating returns, adhering to the equity holding patience rule. Cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) remain open 24/7, but all are trading below their SMA20 lines in a bearish trend filter state. Consequently, no new positions will be opened today to avoid catching falling knives or violating the anti-correlation crypto rules."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintain existing equity positions (AAPL, MSFT, GLD) as they remain in a confirmed uptrend above SMA20. Avoid all crypto assets due to bearish trends and failing the trend filter. Continue to monitor for take-profit targets (+3% to +5%) and stop-loss levels (-1.8% to -2.0%) when Wall Street reopens."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 100%)
+    Reason: Asset is in a confirmed uptrend above SMA20 with a positive PnL. Adhering to equity holding patience.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.

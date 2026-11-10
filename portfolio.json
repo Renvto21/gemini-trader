@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain patience on existing equity positions (AAPL, MSFT, GLD) as they remain above their SMA20 lines. Avoid all crypto assets since they are in bear trends. Wait for Wall Street to reopen to monitor take-profit targets (+3% to +5%) and stop-loss levels (-1.8% to -2.0%).",
-    "updated_at": "2026-11-10T04:40:36.495794-03:00"
+    "notes": "Maintain existing equity positions (AAPL, MSFT, GLD) as they remain in a confirmed uptrend above SMA20. Avoid all crypto assets due to bearish trends and failing the trend filter. Continue to monitor for take-profit targets (+3% to +5%) and stop-loss levels (-1.8% to -2.0%) when Wall Street reopens.",
+    "updated_at": "2026-11-10T04:50:46.893800-03:00"
   }
 }
