@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity and commodity holdings (AAPL, MSFT, GLD) in line with equity holding patience rules. Monitor positions for profit-taking targets (+3% to +5%) or circuit-breaker stop-losses (-2%) when standard market hours resume. Keep cash reserves safely above $4.00 USD. Avoid opening crypto positions due to bearish SMA20 conditions and insufficient reversal confirmation triggers.",
-    "updated_at": "2026-11-10T08:30:50.090020-03:00"
+    "notes": "Maintain current equity and commodity holdings (AAPL, MSFT, GLD). Continue monitoring positions for profit-taking targets (+3.0% to +5.0%) or stop-loss triggers (-2.0%) when standard market hours resume. Keep cash reserves above $4.00 USD. Avoid crypto exposure until a clear breakout above SMA20 with strong reversal confirmation occurs.",
+    "updated_at": "2026-11-10T08:40:44.411891-03:00"
   }
 }
