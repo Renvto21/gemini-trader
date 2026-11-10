@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 12:01:01`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 12:10:50`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$25.01 USD** | **$13.65 USD** | **$38.66 USD** | 🔴 **-3.34%** ($-1.34) |
+| **$40.00 USD** | **$25.01 USD** | **$13.65 USD** | **$38.66 USD** | 🔴 **-3.35%** ($-1.34) |
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $348.20 | $6.55 | 📈 +0.83% | 4d 18h |
-| `MSFT` | 0.013089 | $534.82 | $542.37 | $7.10 | 📈 +1.41% | 3d 22h |
+| `AAPL` | 0.018821 | $345.35 | $347.58 | $6.54 | 📈 +0.65% | 4d 18h |
+| `MSFT` | 0.013089 | $534.82 | $542.99 | $7.11 | 📈 +1.53% | 3d 23h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Major equity indices like SPY and QQQ, alongside crypto assets (BTC, ETH, SOL) and tech leaders like NVDA, are currently trading below their SMA20 lines in a broader macro correction driven by hotter inflation data and rising rate hike bets. Meanwhile, AAPL and MSFT remain resilient, maintaining confirmed uptrends above their SMA20 lines despite minor intraday pullbacks. Cryptos continue to show high downside correlation and bearish trends, ruling out new crypto entries under strict quantitative trend filters."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20 line. Adhering to the equity holding patience rule, holding steady toward the +3.0% to +5.0% take-profit target.
-- **[HOLD] MSFT** (Confidence: 85%): MSFT is holding nicely above its SMA20 with solid weekly performance. Maintaining the position until take-profit thresholds or stop-loss limits are met.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL and MSFT in confirmed uptrends. Current PnLs are positive (+0.83% and +1.41% respectively). Patiently waiting for take-profit targets between +3.0% and +5.0% or 1-hour RSI climbing above 72. Cash reserves are strong at $25.01. No new buy signals triggered as market conditions remain largely defensive."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
