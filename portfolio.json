@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity and commodity holdings (AAPL, MSFT, GLD) as they remain in a confirmed uptrend and have not hit profit targets (+3.0% to +5.0%) or stop-loss limits (-2.0%). Keep crypto exposure strictly at zero because all cryptocurrencies remain in a downtrend below their SMA20 and fail the 1-hour reversal confirmation trigger. Preserve cash reserves above $4.00 USD and wait for traditional market hours to resume for any potential rebalancing.",
-    "updated_at": "2026-11-10T09:10:51.398174-03:00"
+    "notes": "Maintain current equity and commodity holdings (AAPL, MSFT, GLD) as they remain in confirmed uptrends. Keep crypto exposure at zero since all crypto assets are in downtrends below their SMA20 with negative 1-hour momentum. Continue to preserve cash reserves above $4.00 USD and wait for traditional market hours to reopen before considering any profit-taking or portfolio rebalancing.",
+    "updated_at": "2026-11-10T09:20:43.603034-03:00"
   }
 }
