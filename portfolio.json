@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT. Monitor equity markets upon reopening for potential profit-taking targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%). Keep crypto exposure at zero as all digital assets remain below their SMA20 trend lines and fail to meet the reversal trigger criteria.",
-    "updated_at": "2026-11-10T19:50:47.504160-03:00"
+    "notes": "Maintain existing holdings in AAPL and MSFT as per the equity holding patience rule since markets are closed and positions are not hitting stop-loss thresholds. Keep crypto exposure at zero due to persistent bearish trends below SMA20 and lack of confirmed upward reversal triggers. Monitor equity markets upon reopening for potential profit-taking targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%).",
+    "updated_at": "2026-11-10T20:00:46.394671-03:00"
   }
 }
