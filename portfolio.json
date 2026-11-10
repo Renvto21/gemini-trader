@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT positions following equity patience rules as they remain above the SMA20 trend line. Monitor MSFT (-0.31% PnL) and AAPL (+0.92% PnL) for standard take-profit targets (+3% to +5%) or stop-loss triggers (-1.8% to -2.0%). Keep crypto exposure at zero since all crypto assets are under their respective SMA20 lines despite being open 24/7. Continue to preserve cash reserves above $25.00 USD.",
-    "updated_at": "2026-11-10T19:20:39.880617-03:00"
+    "notes": "Maintain current equity positions in AAPL and MSFT adhering to equity holding patience. Monitor MSFT and AAPL for take-profit targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%). Keep crypto exposure at zero due to persistent downtrends below SMA20 across all major tokens. Preserve cash above the minimum reserve limit.",
+    "updated_at": "2026-11-10T19:30:50.404836-03:00"
   }
 }
