@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 04:30:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 04:40:36`
 
 ---
 
@@ -18,22 +18,22 @@
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | `AAPL` | 0.018821 | $345.35 | $350.69 | $6.60 | 📈 +1.55% | 4d 10h |
 | `MSFT` | 0.013089 | $534.82 | $545.18 | $7.14 | 📈 +1.94% | 3d 15h |
-| `GLD` | 0.018501 | $378.35 | $379.53 | $7.02 | 📈 +0.31% | 16h 59m |
+| `GLD` | 0.018501 | $378.35 | $379.53 | $7.02 | 📈 +0.31% | 17h 9m |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), meaning equity holdings (AAPL, MSFT, GLD) are locked at their current prices and cannot be traded. All major cryptocurrencies (BTC, ETH, SOL) continue to trade 24/7, but they remain strictly in a downtrend below their respective SMA20 lines and do not satisfy the Reversal Confirmation Trigger (rsi_1h >= 32 and change_1h_pct > 0 with a confirmed uptrend). Existing equity holdings are stable, showing minor positive PnL and respecting structural trend lines."
+> "Wall Street markets are currently closed (CERRADO), meaning equity holdings (AAPL, MSFT, GLD) are frozen and should be held patiently according to equity holding rules. All current equity positions remain in confirmed uptrends above their SMA20 and are performing positively. Crypto assets (SOL-USD, ETH-USD, BTC-USD) are open 24/7, but they remain in macro bear trends (below SMA20) and are thus disqualified from purchase under the strict trend-following rules."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Asset is in a confirmed uptrend and market is closed. Maintaining position according to equity holding patience rules.
+- **[HOLD] AAPL** (Confidence: 100%): Market is closed for equities. AAPL is in a confirmed uptrend above SMA20 with positive PnL (+1.55%), adhering to equity holding patience rules.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "All current equity positions (AAPL, MSFT, GLD) remain well-positioned in confirmed uptrends above their SMA20 lines and are being held patiently according to equity holding rules. Crypto assets remain in bear trends and should be avoided entirely. Monitor stop-loss and take-profit targets for equities when Wall Street reopens."
+> "Maintain patience on existing equity positions (AAPL, MSFT, GLD) as they remain above their SMA20 lines. Avoid all crypto assets since they are in bear trends. Wait for Wall Street to reopen to monitor take-profit targets (+3% to +5%) and stop-loss levels (-1.8% to -2.0%)."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
