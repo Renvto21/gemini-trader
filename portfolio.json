@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT holdings as both remain in healthy uptrends above their SMA20 despite minor daily fluctuations. Avoided falling knives in crypto and oversold equities since they fail our trend filter and reversal trigger criteria. Will continue to monitor for high-quality pullbacks in confirmed uptrend assets that satisfy rsi_1h >= 32 and positive 1-hour momentum.",
-    "updated_at": "2026-11-10T16:30:47.487190-03:00"
+    "notes": "Maintained existing AAPL and MSFT positions as both stay above their SMA20 lines in healthy uptrends. Avoided all crypto and downtrending equities due to failure of trend and reversal triggers (negative 1-hour momentum or below SMA20). Will continue to hold current positions targeting +3.0% to +5.0% gains and monitoring strictly against the -2.0% stop-loss threshold.",
+    "updated_at": "2026-11-10T16:40:51.898959-03:00"
   }
 }
