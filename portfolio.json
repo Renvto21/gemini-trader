@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT. Monitor for take-profit targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%). Keep crypto exposure at zero as all digital assets remain below their SMA20 trend lines with negative short-term momentum. Do not execute any trades while core assets are closed and trend filters are not met.",
-    "updated_at": "2026-11-10T19:40:42.240636-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT. Monitor equity markets upon reopening for potential profit-taking targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%). Keep crypto exposure at zero as all digital assets remain below their SMA20 trend lines and fail to meet the reversal trigger criteria.",
+    "updated_at": "2026-11-10T19:50:47.504160-03:00"
   }
 }
