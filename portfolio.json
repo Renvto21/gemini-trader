@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity and commodity positions in AAPL, MSFT, and GLD as they remain stable above the SMA20. Continue to monitor stop-loss levels at -2.0% and take-profit thresholds between +3.0% and +5.0%. Keep crypto sidelined until a confirmed daily trend reversal and sustained positive 1-hour momentum bounce appear above the SMA20 during active trading hours. Respect market closures for equities.",
-    "updated_at": "2026-11-10T02:30:47.930008-03:00"
+    "notes": "Maintain current equity and commodity positions (AAPL, MSFT, GLD) as equity markets are closed and positions remain stable above SMA20. Monitor stop-loss thresholds (-2.0%) and target profits (+3.0% to +5.0%). Keep crypto sidelined until a confirmed daily trend reversal above the SMA20 occurs.",
+    "updated_at": "2026-11-10T02:40:43.633122-03:00"
   }
 }
