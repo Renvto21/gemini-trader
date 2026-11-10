@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current holdings in AAPL and MSFT as they remain in a confirmed uptrend above the SMA20. Monitor MSFT closely since its current PnL is near -0.71%; prepare to cut losses if it approaches the strict -1.8% to -2.0% stop-loss threshold. Do not enter any new crypto or equity positions until clear reversal confirmations (1-hour candle turns green with RSI >= 32) emerge within confirmed uptrends.",
-    "updated_at": "2026-11-10T15:00:58.078564-03:00"
+    "notes": "Maintain current holdings in AAPL and MSFT as they remain in a confirmed uptrend above the SMA20. MSFT's current PnL is down slightly at -0.62%, well above the strict -1.8% to -2.0% stop-loss floor; give equities patience to play out. AAPL is showing positive performance (+0.74%). Do not initiate any new crypto or equity positions until strict trend-following pullback criteria and reversal confirmation triggers (1-hour candle green with RSI >= 32) are fully met.",
+    "updated_at": "2026-11-10T15:10:40.881097-03:00"
   }
 }
