@@ -1,38 +1,4 @@
 
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 100%)
-    Reason: Asset is in a confirmed uptrend above SMA20, markets are closed, and the position is profitable. Patiently holding per equity holding guidelines.
-    ⏸️ Holding current position without changes.
-  • Action: [HOLD] MSFT (Confidence: 100%)
-    Reason: Asset remains stable in an uptrend above SMA20 during market closure. Holding to let winners run.
-    ⏸️ Holding current position without changes.
-  • Action: [HOLD] GLD (Confidence: 100%)
-    Reason: Market is closed and GLD is above SMA20. Maintaining position per capital preservation rules.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
-
-[2026-11-10 02:50:36] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $18.14 USD
- Assets Value:        $20.76 USD
- Total Balance:       $38.89 USD
- Net PnL:             🔴 $-1.11 USD (-2.76%)
-
- 💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $350.69 | Total: $6.6 📈 (+1.55%) [Time: 4d 9h]
-   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $545.18 | Total: $7.14 📈 (+1.94%) [Time: 3d 13h]
-   • GLD: 0.018501 u. | Buy: $378.35 | Now: $379.53 | Total: $7.02 📈 (+0.31%) [Time: 15h 19m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
 🧠 GEMINI MARKET ANALYSIS:
 "Traditional equity and commodity markets (AAPL, MSFT, GLD) are currently closed for the weekend (market status CERRADO), and existing positions remain stable in a confirmed uptrend above the SMA20. Cryptocurrencies like BTC-USD, ETH-USD, and SOL-USD are open 24/7 but remain in a bearish trend below their respective SMA20 levels, failing our strict trend filter. Therefore, we preserve capital and maintain our patient stance."
 
@@ -147,6 +113,40 @@ Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
     ⏸️ Holding current position without changes.
   • Action: [HOLD] GLD (Confidence: 100%)
     Reason: Asset is in an uptrend above SMA20 with positive PnL. Holding steady through market closure.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
+
+[2026-11-10 03:30:35] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $18.14 USD
+ Assets Value:        $20.76 USD
+ Total Balance:       $38.89 USD
+ Net PnL:             🔴 $-1.11 USD (-2.76%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $350.69 | Total: $6.6 📈 (+1.55%) [Time: 4d 9h]
+   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $545.18 | Total: $7.14 📈 (+1.94%) [Time: 3d 14h]
+   • GLD: 0.018501 u. | Buy: $378.35 | Now: $379.53 | Total: $7.02 📈 (+0.31%) [Time: 15h 59m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Traditional equity and commodity markets (AAPL, MSFT, GLD) are currently closed (market status 'CERRADO') with frozen prices, maintaining solid positions above their SMA20 uptrends. Cryptocurrencies (BTC-USD, ETH-USD, SOL-USD) are open 24/7 but remain structurally weak, trading below their SMA20 with negative 1-hour changes and lacking the required 1-hour green candle confirmation for entry. Given the weekend market conditions and adherence to trend-following pullbacks and risk management rules, no new trades are warranted at this moment."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintain existing positions in AAPL, MSFT, and GLD as they continue to hold steady above the SMA20 trend line. Cash reserves stand safely at $18.14, preserving capital above the $4.00 minimum. Keep monitoring crypto assets for a shift above SMA20 with 1-hour RSI >= 32 and positive 1-hour momentum, or wait for Wall Street markets to reopen to scan for equity pullbacks meeting entry criteria."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 100%)
+    Reason: Asset is in a confirmed uptrend above SMA20 and market is currently closed. Holding per equity patience rule.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
