@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 20:00:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 20:10:44`
 
 ---
 
@@ -23,17 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The traditional stock market is currently closed ('CERRADO'), with prices frozen across all equity assets and ETFs (AAPL, MSFT, NVDA, SPY, QQQ). Cryptocurrencies remain open (24/7) but are locked in a heavy downtrend following recent hot inflation data and broad macroeconomic weakness, with ETH, SOL, and BTC trading below their respective SMA20 lines and negative 24-hour momentum. Our equity positions in AAPL and MSFT remain stable; AAPL is showing positive returns (+0.92%) while MSFT is slightly negative (-0.31%), both well within acceptable tolerance thresholds and safely above the strict -1.8% to -2.0% stop-loss limits. No stocks or crypto assets currently fulfill both the structural uptrend filter (above SMA20) and the mandatory reversal confirmation trigger (positive 1-hour candle and RSI >= 32)."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20 and is currently profitable (+0.92%). Market is closed (CERRADO) and equity holding patience dictates letting the position run toward the +3% to +5% profit target without premature rotation.
-- **[HOLD] MSFT** (Confidence: 100%): MSFT is in a confirmed uptrend above its SMA20 with minor drawdown (-0.31%), well above the -1.8% stop-loss threshold. Market is closed (CERRADO) and equity holding patience applies.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain existing holdings in AAPL and MSFT as per the equity holding patience rule since markets are closed and positions are not hitting stop-loss thresholds. Keep crypto exposure at zero due to persistent bearish trends below SMA20 and lack of confirmed upward reversal triggers. Monitor equity markets upon reopening for potential profit-taking targets (+3% to +5%) or stop-loss limits (-1.8% to -2.0%)."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
