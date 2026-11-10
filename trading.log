@@ -1,34 +1,3 @@
- Net PnL:             🔴 $-1.11 USD (-2.76%)
-
- 💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $350.69 | Total: $6.6 📈 (+1.55%) [Time: 4d 11h]
-   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $545.18 | Total: $7.14 📈 (+1.94%) [Time: 3d 16h]
-   • GLD: 0.018501 u. | Buy: $378.35 | Now: $379.53 | Total: $7.02 📈 (+0.31%) [Time: 18h 9m]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Wall Street is currently closed (market_status 'CERRADO'), holding all equity positions (AAPL, MSFT, GLD) steady in line with patience rules. Cryptocurrencies are open (24/7) but remain in a confirmed bear trend below their respective SMA20 levels with negative 1-hour momentum, precluding any crypto entries. Existing portfolio positions remain safely above stop-loss levels and below take-profit thresholds."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintain existing positions in AAPL, MSFT, and GLD patiently during the weekend market closure. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%) upon Wall Street reopening. Continue to stay out of crypto assets as they lack confirmed uptrends and positive 1-hour reversal triggers."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 100%)
-    Reason: Asset is in an uptrend and held patiently while markets are closed, adhering to equity holding patience and strict trend rules.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
-
-[2026-11-10 05:50:35] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
  Available Cash:      $18.14 USD
  Assets Value:        $20.76 USD
  Total Balance:       $38.89 USD
@@ -148,6 +117,37 @@ Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
   • Action: [HOLD] AAPL (Confidence: 100%)
     Reason: Asset is in a confirmed uptrend and currently closed for the weekend. Holding position to let winners run toward the +3.0% to +5.0% target.
     ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
+
+[2026-11-10 06:30:40] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $18.14 USD
+ Assets Value:        $20.76 USD
+ Total Balance:       $38.89 USD
+ Net PnL:             🔴 $-1.11 USD (-2.76%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $350.69 | Total: $6.6 📈 (+1.55%) [Time: 4d 12h]
+   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $545.18 | Total: $7.14 📈 (+1.94%) [Time: 3d 17h]
+   • GLD: 0.018501 u. | Buy: $378.35 | Now: $379.53 | Total: $7.02 📈 (+0.31%) [Time: 18h 59m]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Wall Street markets are currently closed (CERRADO) for the weekend, with prices frozen. Key equity positions (AAPL, MSFT, GLD) are holding steady in confirmed uptrends above their SMA20 with positive unrealized gains, fully respecting equity holding patience rules. Crypto assets (SOL-USD, BTC-USD, ETH-USD) remain open 24/7 but are failing quantitative filters, trading in clear downtrends below their SMA20 with negative 1-hour momentum, precluding any entry."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Maintain patience on existing equity and commodity positions (AAPL, MSFT, GLD) during the weekend market closure. Continue to monitor positions for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%) upon Wall Street reopening. Keep avoiding crypto as all available assets are below their SMA20 and lack positive 1-hour momentum confirmation triggers."
+
+⚡ DECIDED ACTIONS:
 
 🏁 Cycle completed.
 Final Cycle Balance: $38.89 USD (Cash: $18.14 USD)
