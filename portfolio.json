@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT as they continue to respect their uptrends. GLD is nearing our stop-loss parameter (-1.78% PnL); will monitor closely and cut if it breaches -1.8% to preserve capital. No new entries today as most candidates are below SMA20 or lack the required 1-hour green candle confirmation.",
-    "updated_at": "2026-11-10T11:31:03.293909-03:00"
+    "notes": "Holding AAPL and MSFT as they sustain their confirmed uptrends. AAPL's 1-hour RSI is elevated at 72.5, so we will monitor for potential take-profit targets if momentum extends toward a +3% to +5% gain. MSFT is stable with positive unrealized gains. Avoid all crypto assets as they are currently trading below their SMA20 trend filters and do not meet pullback criteria. Maintain cash reserves above $4.00.",
+    "updated_at": "2026-11-10T11:41:03.087380-03:00"
   }
 }
