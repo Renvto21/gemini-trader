@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained existing AAPL and MSFT positions as both stay above their SMA20 lines in healthy uptrends. Avoided all crypto and downtrending equities due to failure of trend and reversal triggers (negative 1-hour momentum or below SMA20). Will continue to hold current positions targeting +3.0% to +5.0% gains and monitoring strictly against the -2.0% stop-loss threshold.",
-    "updated_at": "2026-11-10T16:40:51.898959-03:00"
+    "notes": "Maintained existing AAPL and MSFT positions following the equity holding patience rule since both continue to trade above their SMA20 lines with positive hourly momentum. Avoided entering new crypto positions as BTC-USD, ETH-USD, and SOL-USD remain in clear downtrends below their SMA20 lines. Continuing to monitor positions for the +3.0% to +5.0% take-profit target while respecting the strict -2.0% stop-loss threshold.",
+    "updated_at": "2026-11-10T16:50:45.245905-03:00"
   }
 }
