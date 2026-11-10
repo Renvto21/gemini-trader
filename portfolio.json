@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL, MSFT, and GLD as they remain safely above the hard stop-loss circuit breaker (-1.8%). Continue to monitor crypto assets (BTC, ETH, SOL) for a reclaim of the SMA20 combined with a confirmed positive 1-hour momentum trigger before deploying any additional capital. Keep a strict minimum cash reserve of $4.00 USD.",
-    "updated_at": "2026-11-09T23:30:50.578722-03:00"
+    "notes": "Maintain AAPL, MSFT, and GLD positions following equity holding patience rules. Continue to monitor ETH-USD, BTC-USD, and SOL-USD for a reclaim of the SMA20 trend combined with a confirmed green 1-hour candle (change_1h_pct > 0.0) before considering any crypto deployment. Keep cash reserves safely above $4.00.",
+    "updated_at": "2026-11-09T23:40:39.908278-03:00"
   }
 }
