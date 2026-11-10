@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT according to equity patience rules as both remain in confirmed uptrends above their SMA20. Crypto assets are currently all in bearish trends below SMA20; will strictly avoid opening crypto positions until structural trend recovery occurs accompanied by required RSI and momentum confirmation triggers (rsi_1h >= 32 and change_1h_pct > 0.0). Continue preserving liquidity with over $25 USD in cash.",
-    "updated_at": "2026-11-10T19:00:53.445826-03:00"
+    "notes": "Holding AAPL and MSFT pursuant to equity patience rules. Both continue to display stability above their respective SMA20 lines. Crypto assets remain bearish under their SMA20, so all crypto buy triggers are on hold despite open market status. Maintain robust cash reserves above $25 USD and await structural trend recoveries before considering new capital deployment.",
+    "updated_at": "2026-11-10T19:10:49.881990-03:00"
   }
 }
