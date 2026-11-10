@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions (AAPL, MSFT, GLD) in accordance with the patience rule for stocks. Do not touch crypto as all assets remain in a downtrend. Monitor open positions for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%) when standard market hours resume.",
-    "updated_at": "2026-11-10T05:00:45.689818-03:00"
+    "notes": "Maintain current stock and gold positions (AAPL, MSFT, GLD) in line with the equity patience rule while markets are closed. Monitor for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-1.8% to -2.0%) when standard sessions resume. Avoid crypto as all assets remain below the SMA20 trend line.",
+    "updated_at": "2026-11-10T05:10:49.373230-03:00"
   }
 }
