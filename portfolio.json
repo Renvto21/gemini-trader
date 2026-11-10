@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT pursuant to equity patience rules. Both continue to display stability above their respective SMA20 lines. Crypto assets remain bearish under their SMA20, so all crypto buy triggers are on hold despite open market status. Maintain robust cash reserves above $25 USD and await structural trend recoveries before considering new capital deployment.",
-    "updated_at": "2026-11-10T19:10:49.881990-03:00"
+    "notes": "Maintain AAPL and MSFT positions following equity patience rules as they remain above the SMA20 trend line. Monitor MSFT (-0.31% PnL) and AAPL (+0.92% PnL) for standard take-profit targets (+3% to +5%) or stop-loss triggers (-1.8% to -2.0%). Keep crypto exposure at zero since all crypto assets are under their respective SMA20 lines despite being open 24/7. Continue to preserve cash reserves above $25.00 USD.",
+    "updated_at": "2026-11-10T19:20:39.880617-03:00"
   }
 }
