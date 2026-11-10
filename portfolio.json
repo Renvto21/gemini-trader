@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity and commodity holdings (AAPL, MSFT, GLD) through the weekend and market closure, respecting equity holding patience. Monitor positions for profit-taking targets (+3% to +5%) or circuit-breaker stop-losses (-2%) upon market reopening. Remain completely out of crypto markets due to bearish SMA20 trends and lack of strong reversal triggers. Cash reserves are well protected above $4.00 USD.",
-    "updated_at": "2026-11-10T08:10:46.130589-03:00"
+    "notes": "Maintain current equity and commodity positions (AAPL, MSFT, GLD) in accordance with equity holding patience rules. Monitor for profit-taking targets (+3% to +5%) or circuit-breaker stop-losses (-2%) when standard market hours resume. Keep remaining capital in cash reserves above $4.00 USD. Avoid crypto markets completely due to bearish SMA20 trends and lack of robust reversal triggers.",
+    "updated_at": "2026-11-10T08:20:45.293206-03:00"
   }
 }
