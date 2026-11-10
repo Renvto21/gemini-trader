@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions (AAPL, MSFT, GLD) as they display stability in confirmed uptrends. Patiently hold through minor hourly fluctuations while monitoring for our take-profit targets (+3% to +5%) or circuit-breaker stop-losses (-2%). Avoid all crypto assets due to ongoing bearish trends and lack of confirmed 1-hour reversal triggers. Preserve cash reserves above $4.00 USD.",
-    "updated_at": "2026-11-10T07:50:44.094868-03:00"
+    "notes": "Maintain current equity holdings (AAPL, MSFT, GLD) through the weekend and market closure, respecting the equity holding patience rule. Monitor for take-profit opportunities (+3% to +5%) upon market reopening or circuit-breaker stop-losses at -2%. Stay completely out of crypto markets as they lack confirmed uptrends above SMA20 and fail to meet the 1-hour green candle reversal trigger. Keep cash reserves protected above $4.00 USD.",
+    "updated_at": "2026-11-10T08:00:57.404350-03:00"
   }
 }
