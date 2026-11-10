@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing positions in AAPL and MSFT according to equity holding patience rules. AAPL is showing positive performance (+0.81%), while MSFT is slightly down (-0.47%) but remains above the SMA20 trend line and safely away from the strict -1.8% to -2.0% stop-loss threshold. Keep cash reserves intact at $25.01 and remain sidelined from any new entries until assets meet all stringent trend-following and reversal confirmation criteria.",
-    "updated_at": "2026-11-10T15:30:57.987704-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT. Monitor stop-loss thresholds closely (-1.8% to -2.0%) and target take-profit levels between +3.0% and +5.0% for both equities. Keep cash reserves intact at $25.01, remaining strictly sidelined from new asset entries until trend-following pullbacks and reversal confirmations are fully met.",
+    "updated_at": "2026-11-10T15:40:42.633843-03:00"
   }
 }
