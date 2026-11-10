@@ -1986,7 +1986,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL, MSFT, and GLD as they remain above their SMA20 trend filters and Wall Street is closed. Crypto assets are currently in a downtrend below SMA20 with negative 1-hour changes; we will wait for a confirmed pullback with RSI >= 32 and a positive 1-hour candle before entering any crypto position. Maintain strict risk management and keep cash reserves above $4.00.",
-    "updated_at": "2026-11-10T00:40:41.418276-03:00"
+    "notes": "Holding AAPL, MSFT, and GLD as they remain in healthy uptrends above SMA20. Wall Street is closed, so no equity adjustments can be made. Crypto assets (BTC, ETH, SOL) remain below SMA20 in a downtrend with negative 1-hour momentum; we will continue to wait patiently for a confirmed trend reversal with RSI >= 32 and a positive 1-hour candle before risking capital on crypto. Cash reserves are safely above the $4.00 minimum at $18.14.",
+    "updated_at": "2026-11-10T00:50:44.815358-03:00"
   }
 }
