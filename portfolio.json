@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT patiently according to equity holding rules. Monitor crypto assets for structural trend recovery above SMA20 before considering any 24/7 exposure. Take-profit targets for equities remain at +3.0% to +5.0%, with strict stop-losses at -2.0%.",
-    "updated_at": "2026-11-10T18:40:42.755992-03:00"
+    "notes": "Holding AAPL and MSFT per equity holding rules as they remain above SMA20. Will continue monitoring crypto assets for structural trend recovery above SMA20 and confirmation triggers (rsi_1h >= 32 and change_1h_pct > 0.0) before executing any 24/7 exposure. Strict stop-losses at -2.0% and profit targets at +3.0% to +5.0% remain in place.",
+    "updated_at": "2026-11-10T18:50:50.306319-03:00"
   }
 }
