@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under the equity holding patience rule. Monitor AAPL closely for take-profit execution if it achieves +3.0% to +5.0% gain or if rsi_1h exceeds 72. Maintain strict discipline on trend-following filters: do not open new long positions on any asset trading below its SMA20. Keep cash reserves secure above the $4.00 minimum threshold.",
-    "updated_at": "2026-11-11T17:10:45.462764-03:00"
+    "notes": "Continue holding AAPL in accordance with equity holding patience rules, targeting a take-profit execution if the position achieves a +3.0% to +5.0% gain or if rsi_1h exceeds 72. Monitor the stop-loss strictly at -2.0%. Avoid entering new long positions unless assets demonstrate confirmed uptrends above their SMA20 with positive hourly momentum.",
+    "updated_at": "2026-11-11T17:58:02.611827-03:00"
   }
 }
