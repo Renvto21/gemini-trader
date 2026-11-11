@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 18:10:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 18:20:37`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), leaving stock and ETF prices frozen with most major indices trading below their SMA20 trend lines in a broader macro correction context. Cryptocurrencies remain active 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD are also currently in bearish trends (below SMA20) and lack the clean reversal confirmation required by our strict pullback rules. Our existing equity holding AAPL is closed for the weekend but continues to show strong resilience, sitting at a +2.98% PnL close to our take-profit target zone while maintaining its position above the SMA20 uptrend filter."
+> "Wall Street markets are currently closed (CERRADO), meaning traditional equities and ETFs such as AAPL, MSFT, SPY, QQQ, and NVDA are frozen and cannot be traded during this cycle. Cryptocurrencies remain open 24/7, but all major crypto assets (BTC-USD, ETH-USD, SOL-USD) are currently trading below their SMA20 trend lines in a bear trend, failing our strict trend filter against catching falling knives. Furthermore, 1-hour momentum for these crypto assets shows negative or flat price changes, failing our reversal confirmation trigger. Our open equity position in AAPL is performing well with a +2.98% profit, nearing our +3.0% to +5.0% take-profit objective while markets are closed, adhering to equity holding patience rules."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 and is currently up +2.98%, nearing our profit target. Adhering to the equity holding patience rule, we continue to hold while markets are closed, awaiting a take-profit opportunity upon market reopening.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 and is currently up +2.98%, nearing our profit target of +3.0% to +5.0%. Since the market is closed, we maintain the position patiently per equity holding rules.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL under the equity holding patience rule. Monitor AAPL closely when markets reopen for a take-profit execution if it crosses the +3.0% to +5.0% target or if rsi_1h surpasses 72. Maintain strict stop-loss discipline at -2.0%. Refrain from opening new crypto positions as current available crypto assets are in downtrends below their SMA20 lines, violating our rule against catching falling knives."
+> "Maintain the current AAPL holding as it approaches our take-profit target of +3.0% to +5.0%. Prepare to execute a take-profit order if AAPL opens higher or hits the threshold when markets reopen. Do not enter any crypto positions since all available options remain below their SMA20 lines and lack positive 1-hour reversal confirmation. Keep strict stop-loss discipline at -2.0% and preserve cash reserves."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
