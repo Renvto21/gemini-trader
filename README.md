@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 22:00:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 22:10:43`
 
 ---
 
@@ -23,17 +23,17 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities (AAPL, MSFT, GLD, QQQ, SPY, NVDA) are currently closed ('CERRADO'), with prices frozen. Cryptocurrencies are trading live 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD remain in confirmed downtrends below their SMA20 with negative 24-hour performance, failing our strict trend-following pullback rules. Our existing equity positions in AAPL and MSFT remain healthy, above their SMA20 trend lines, and showing positive gains. We maintain our cash buffer and hold our current positions."
+> "Wall Street equities (AAPL, MSFT) remain closed with prices frozen, holding steady above their respective SMA20 trend lines and delivering positive unrealized gains. Crypto markets (BTC-USD, ETH-USD, SOL-USD) are open 24/7 but continue to trade in severe downtrends below their SMA20 with negative 24h/7d momentum, violating our strict trend-following pullback rules. Consequently, we maintain our equity positions and stay out of crypto."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is above the SMA20 trend line, showing positive PnL (+1.55%), and markets are currently closed. Adhering to equity holding patience rules.
-- **[HOLD] MSFT** (Confidence: 100%): MSFT is above the SMA20 trend line, showing positive PnL (+1.94%), and markets are currently closed. Adhering to equity holding patience rules.
+- **[HOLD] AAPL** (Confidence: 85%): Asset is in an uptrend, currently closed, and showing positive PnL (+1.55%). Patiently holding as per equity patience rules.
+- **[HOLD] MSFT** (Confidence: 85%): Asset is in an uptrend, currently closed, and showing positive PnL (+1.94%). Patiently holding as per equity patience rules.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained existing positions in AAPL and MSFT as they continue to hold above the SMA20 trend line in positive territory. Kept crypto positions closed due to bearish trends and market status restrictions. Will patiently hold equities and look for high-quality pullbacks on Wall Street re-opening or confirmed crypto trend reversals."
+> "Holding AAPL and MSFT patiently as per equity holding patience rules. Crypto is currently in a confirmed downtrend with negative momentum and 1-hour candles showing no clear reversal trigger; will wait for trend reclaim and green 1-hour candles before entering any crypto or additional equity pullbacks."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

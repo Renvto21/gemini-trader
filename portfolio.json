@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained existing positions in AAPL and MSFT as they continue to hold above the SMA20 trend line in positive territory. Kept crypto positions closed due to bearish trends and market status restrictions. Will patiently hold equities and look for high-quality pullbacks on Wall Street re-opening or confirmed crypto trend reversals.",
-    "updated_at": "2026-11-10T22:00:49.198562-03:00"
+    "notes": "Holding AAPL and MSFT patiently as per equity holding patience rules. Crypto is currently in a confirmed downtrend with negative momentum and 1-hour candles showing no clear reversal trigger; will wait for trend reclaim and green 1-hour candles before entering any crypto or additional equity pullbacks.",
+    "updated_at": "2026-11-10T22:10:43.569372-03:00"
   }
 }
