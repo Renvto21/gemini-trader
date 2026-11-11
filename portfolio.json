@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT long positions adhering to equity patience principles as both continue trading above SMA20. No crypto entries were made due to bearish trend structures and lack of positive 1-hour reversal confirmation. Will closely monitor crypto for a breakout above SMA20 with RSI >= 32 and positive hourly candles, while maintaining strict stop-loss and take-profit targets across all active holdings.",
-    "updated_at": "2026-11-11T08:10:43.835488-03:00"
+    "notes": "Maintained AAPL and MSFT long positions following equity holding patience. No crypto trades were executed because all available crypto assets remain in a DOWNTREND (below SMA20), violating our trend filter rules. Will continue to monitor crypto assets for a decisive reclaim of the SMA20 trend line combined with RSI >= 32 and positive hourly confirmation before committing any capital from our $25.01 cash reserve.",
+    "updated_at": "2026-11-11T08:20:42.923238-03:00"
   }
 }
