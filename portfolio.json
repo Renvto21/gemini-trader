@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold existing positions in AAPL and MSFT, respecting the equity holding patience rule and monitoring stop-losses near -1.8% to -2.0%. Keep cash reserves safe. Sidelined on crypto due to ongoing downtrends and absence of robust reversal confirmation. Wait for strong bullish trend alignment and positive 1-hour momentum before entering new trades.",
-    "updated_at": "2026-11-10T21:10:53.213679-03:00"
+    "notes": "Maintain existing positions in AAPL and MSFT following equity holding patience rules. Monitor stop-losses strictly around -1.8% to -2.0%. Keep cash reserves safe ($25.01 USD). Avoid all crypto assets as they lack confirmed trend alignment above the SMA20. Wait for market reopening and strong bullish reversal confirmations before deploying new capital.",
+    "updated_at": "2026-11-10T21:20:47.209762-03:00"
   }
 }
