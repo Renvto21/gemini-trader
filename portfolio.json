@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT long positions adhering to equity holding patience. Wall Street is currently closed; no stock executions are permitted. Crypto assets remain in a DOWNTREND below their SMA20 lines, failing our trend filter rule despite hourly momentum recovering. Will maintain current positions and preserve cash reserves until a confirmed uptrend breakout and valid pullback confirmation occur.",
-    "updated_at": "2026-11-11T08:30:43.603320-03:00"
+    "notes": "Holding AAPL and MSFT long positions with strict stop-losses at -2.0% and profit targets at +4.0%. Wall Street is closed; monitor crypto for potential trend reversals above SMA20 with positive 1-hour momentum, but maintain cash reserves and zero exposure until strict trend and confirmation filters align.",
+    "updated_at": "2026-11-11T08:40:46.413015-03:00"
   }
 }
