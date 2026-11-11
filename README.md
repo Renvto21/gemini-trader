@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 19:20:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 19:30:47`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), meaning traditional equities and ETFs such as AAPL, MSFT, SPY, and NVDA are frozen and cannot be traded. Cryptocurrencies operate 24/7, but all major crypto assets (BTC-USD, ETH-USD, SOL-USD) remain in a bearish trend below their respective SMA20 lines, failing our strict trend-following filter. Our sole open position is AAPL, which is showing positive momentum with a current gain of +2.98% and is in a confirmed uptrend (above SMA20)."
+> "Wall Street markets remain closed (CERRADO), freezing equity prices. AAPL continues to hold a strong uptrend above its SMA20 with a solid PnL of +2.98%, approaching our take-profit target zone (+3.0% to +5.0%). Cryptocurrencies are open (ABIERTO 24/7), but all major crypto assets (ETH-USD, SOL-USD, BTC-USD) are currently in a bearish trend below their SMA20, failing the strict trend filter and reversal confirmation triggers. Therefore, no new crypto purchases will be made."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed uptrend above its SMA20 with a +2.98% PnL, approaching our target profit range of +3.0% to +5.0%. Per equity holding patience guidelines, we will maintain the position while markets are closed and wait for market open to execute a profitable exit or let winners run.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL remains in a confirmed uptrend above its SMA20 with a +2.98% PnL. Adhering to equity holding patience rules and asymmetric risk/reward targets, we hold position while awaiting Wall Street reopening to target +3.0% to +5.0% profit.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL as instructed by equity holding patience rules. Monitor AAPL closely when Wall Street reopens for profit-taking targets (+3.0% to +5.0% or RSI > 72). Do not open crypto positions due to bearish trend status across the board. Maintain strong cash reserves."
+> "Continue holding AAPL patiently according to equity holding patience rules. Monitor AAPL when Wall Street reopens for profit-taking targets (+3.0% to +5.0% or RSI 1h > 72). Do not open crypto positions as all available options remain in a bearish trend below their SMA20. Maintain cash reserves above $4.00."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
