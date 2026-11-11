@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 15:10:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 15:20:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.84 USD** | **$6.68 USD** | **$38.52 USD** | 🔴 **-3.70%** ($-1.48) |
+| **$40.00 USD** | **$31.84 USD** | **$6.68 USD** | **$38.52 USD** | 🔴 **-3.69%** ($-1.48) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $354.85 | $6.68 | 📈 +2.75% | 5d 21h |
+| `AAPL` | 0.018821 | $345.35 | $354.96 | $6.68 | 📈 +2.78% | 5d 21h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market remains mixed with several major assets trading below their SMA20, signaling caution and strict adherence to trend-following rules. AAPL remains our only active holding, sitting comfortably in an established uptrend above its SMA20 with positive PnL (+2.75%), demonstrating good patience as per our holding rules. Other high-profile equities and cryptos like NVDA, QQQ, GLD, MSFT, BTC-USD, and ETH-USD are currently below their SMA20 trend lines, ruling out new long entries according to our strict trend and reversal trigger filters."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in a confirmed uptrend above its SMA20 and showing a healthy profit of +2.75%. In accordance with equity holding patience guidelines, we hold the position to let winners run toward our profit target.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain AAPL long position and let the winner run toward the +3.5% to +5.0% take-profit zone, keeping stop-loss strictly guarded at -1.8%. Avoid catching falling knives on assets trading below their SMA20. Continue monitoring crypto and equity pullbacks for confirmed reversals (rsi_1h >= 32 and positive 1h price change) before deploying additional capital."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
