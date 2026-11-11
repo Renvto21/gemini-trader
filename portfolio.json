@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing equity positions (AAPL, MSFT) through market closure, targeting +3.0% to +5.0% for profit-taking while strictly respecting the -2.0% stop-loss threshold. Keep crypto sidelined due to ongoing downtrends (trading below SMA20) and lack of verified positive 1-hour momentum triggers. Wait for market reopening or verified breakout signals before deploying additional capital.",
-    "updated_at": "2026-11-11T07:10:47.975942-03:00"
+    "notes": "Maintain existing equity positions (AAPL, MSFT) through market closure, targeting +3.0% to +5.0% for profit-taking while strictly respecting the -2.0% stop-loss threshold. Keep crypto sidelined due to ongoing downtrends trading below the SMA20 and a lack of verified positive 1-hour momentum triggers meeting our entry requirements. Wait for traditional market reopening or confirmed breakout signals before deploying further cash reserves.",
+    "updated_at": "2026-11-11T07:20:43.633036-03:00"
   }
 }
