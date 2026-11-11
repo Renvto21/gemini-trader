@@ -1,37 +1,5 @@
  Initial Capital:     $40.00 USD
  Available Cash:      $31.84 USD
- Assets Value:        $6.65 USD
- Total Balance:       $38.49 USD
- Net PnL:             🔴 $-1.51 USD (-3.77%)
-
- 💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $353.35 | Total: $6.65 📈 (+2.32%) [Time: 5d 18h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Holding positions and previous plan while connection with Gemini stabilizes."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
-    Reason: Temporary connection issue, safely holding current positions.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.49 USD (Cash: $31.84 USD)
-
-[2026-11-11 12:30:40] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $31.84 USD
  Assets Value:        $6.66 USD
  Total Balance:       $38.50 USD
  Net PnL:             🔴 $-1.50 USD (-3.75%)
@@ -151,3 +119,35 @@ Final Cycle Balance: $38.49 USD (Cash: $31.84 USD)
 
 🏁 Cycle completed.
 Final Cycle Balance: $38.50 USD (Cash: $31.84 USD)
+
+[2026-11-11 13:10:36] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.84 USD
+ Assets Value:        $6.65 USD
+ Total Balance:       $38.49 USD
+ Net PnL:             🔴 $-1.51 USD (-3.77%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $353.29 | Total: $6.65 📈 (+2.30%) [Time: 5d 19h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The current market environment shows broad weakness with most assets trading below their SMA20, signaling a prevailing bearish trend. However, AAPL remains a notable exception, maintaining a confirmed bullish trend above its SMA20 with strong weekly performance and positive momentum. Other major indices and tech names are experiencing corrective pressures. Adhering to quantitative rules, we avoid buying falling knives and concentrate on preserving existing positions in confirmed uptrends."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding AAPL position as it remains in a strong uptrend above its SMA20. Monitor stop-loss and take-profit targets closely. Do not enter any new equity or crypto trades until a confirmed pullback above SMA20 with positive 1-hour momentum materializes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 85%)
+    Reason: AAPL is currently in a confirmed uptrend (above SMA20) with positive PnL (+2.3%). Complying with equity holding patience, we maintain the position to let winners run.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.49 USD (Cash: $31.84 USD)
