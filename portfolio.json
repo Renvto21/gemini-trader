@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current AAPL and MSFT positions and observe equity performance upon market reopening. Monitor for take-profit targets between +3.0% and +5.0% or hard stop-losses at -2.0%. Keep crypto assets sidelined due to ongoing downtrends below the SMA20. Await official Wall Street trading hours before scanning for new pullback entries in verified uptrend equity assets.",
-    "updated_at": "2026-11-11T06:20:46.579688-03:00"
+    "notes": "Maintain AAPL and MSFT equity positions through the closed market hours, monitoring for take-profit targets between +3.0% and +5.0% or stop-losses at -2.0% upon market reopening. Keep crypto sidelined due to persistent bear trends below SMA20. Await official market hours for any new equity pullback setups.",
+    "updated_at": "2026-11-11T06:30:48.220772-03:00"
   }
 }
