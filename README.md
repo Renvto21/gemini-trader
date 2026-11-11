@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 06:50:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 07:00:50`
 
 ---
 
@@ -23,17 +23,17 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street equities (AAPL, MSFT) are currently closed (CERRADO), so their prices and positions remain frozen. Both AAPL and MSFT remain in confirmed uptrends above their SMA20, and per our operational rules, they should be held patiently rather than rotated prematurely. In the cryptocurrency markets (which are open 24/7), major assets like SOL-USD, BTC-USD, and ETH-USD are currently trading below their SMA20 trend lines (BAJISTA), failing our strict trend filter. Furthermore, SOL-USD lacks the necessary 1-hour bounce confirmation where change_1h_pct > 0.0 combined with strong trend reversal triggers. Therefore, no crypto trades will be initiated today, preserving our cash buffer."
+> "Major equity indices (SPY, QQQ) and crypto assets (BTC, ETH, SOL) are currently exhibiting a general downtrend below their respective SMA20 lines, accompanied by market closures for traditional equities. Cryptocurrencies remain open 24/7 but are currently showing downward trend pressure and lack confirmed positive 1-hour reversal triggers with RSI >= 32 and positive 1-hour changes. Existing equity holdings AAPL and MSFT remain stable above their SMA20 uptrend lines despite market closures, complying with equity holding patience guidelines. Capital is protected with a strong cash reserve above the minimum threshold."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): Asset is in a confirmed uptrend above SMA20 and market status is closed. Adhering to equity holding patience to let the position develop.
-- **[HOLD] MSFT** (Confidence: 100%): Asset is in a confirmed uptrend above SMA20 and market status is closed. Maintaining position while monitoring target profit zones.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 with positive weekly performance. Adhering to equity holding patience guidelines while monitoring for the +3.0% to +5.0% profit-taking target.
+- **[HOLD] MSFT** (Confidence: 85%): MSFT is in a confirmed uptrend above its SMA20. Holding through market closure to let the position play out toward the profit target, well above the strict stop-loss level.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Hold existing AAPL and MSFT positions through the weekend/market closure, targeting +3.0% to +5.0% for profit-taking and respecting the strict -2.0% stop-loss threshold. Keep crypto sidelined until a major asset reclaims its SMA20 trend line and demonstrates verified positive 1-hour momentum."
+> "Maintain existing AAPL and MSFT positions through market closure, targeting +3.0% to +5.0% for profit-taking while adhering to the strict -2.0% stop-loss threshold. Keep crypto sidelined due to persistent downtrends (trading below SMA20) and lack of verified positive 1-hour momentum triggers. Wait for market reopening or verified breakout signals before deploying additional capital."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
