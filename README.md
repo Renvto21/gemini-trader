@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 01:50:43`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 02:00:42`
 
 ---
 
@@ -23,16 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The US equity markets are currently closed (CERRADO), and existing positions in AAPL and MSFT remain stable above their SMA20 trend lines, showing strong structural uptrends despite minor daily fluctuations. In the crypto markets, assets like ETH-USD and SOL-USD are currently trading in a bearish trend below their respective SMA20 lines, failing to meet the strict quantitative reversal trigger criteria (change_1h_pct > 0.0 with RSI >= 32). Consequently, no new trades are executed, and current cash reserves are preserved."
+> "The traditional US equity markets are closed (CERRADO), meaning existing equity positions in AAPL and MSFT must be held according to equity patience rules. Both AAPL and MSFT remain in confirmed uptrends above their SMA20. In the crypto sector (ABIERTO 24/7), major assets such as BTC, SOL, and ETH are currently in bearish trends (below SMA20) with negative 24-hour momentum and failing to meet the reversal confirmation triggers (specifically, lack of positive 1-hour percentage change during this cycle). Therefore, no new crypto trades will be executed."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed structural uptrend above the SMA20 and market status is closed. Adhering to the equity holding patience rule, holding the position as it remains within normal parameters.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 with positive weekly performance. Market status is currently closed, and equity holding patience dictates maintaining the position.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain current equity holdings in AAPL and MSFT as they continue to hold above the SMA20. Avoid all crypto assets due to ongoing bearish trends below the SMA20 and lack of solid reversal confirmation. Keep cash reserves intact ($25.01) and wait for Wall Street markets to reopen before assessing new pullback entries. Monitor stop-loss thresholds strictly at -2.0% and take-profit targets between +3.0% and +5.0%."
+> "Maintain current equity holdings in AAPL and MSFT as they remain in a bullish trend above the SMA20. Continue to avoid crypto due to ongoing bearish trends and lack of robust bounce confirmations. Keep cash reserves intact ($25.01) and wait for Wall Street markets to reopen before considering new pullback entries. Strict stop-loss levels remain at -2.0% and take-profit targets between +3.0% and +5.0%."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
