@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL as our core equity position. It remains above its SMA20 with positive momentum, so we will let the winner run per equity holding patience rules. No new buys executed as SPY and other potential candidates lack strong pullback confirmation or remain in a downtrend. We will maintain cash reserves well above the $4.00 minimum threshold and wait for higher quality setups meeting both trend-following and momentum trigger rules.",
-    "updated_at": "2026-11-11T16:30:52.051013-03:00"
+    "notes": "Holding AAPL position per equity holding patience rules as it maintains an uptrend above SMA20 with solid momentum. Monitor AAPL for take-profit opportunities if it approaches +3.0% to +5.0% or if RSI 1h exceeds 72. Keep cash reserves secure well above the $4.00 minimum threshold and wait for strict pullback confirmations (RSI 1h >= 32 and change_1h_pct > 0.0) in confirmed UPTREND assets before deploying new capital.",
+    "updated_at": "2026-11-11T16:40:45.680891-03:00"
   }
 }
