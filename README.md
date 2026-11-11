@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 15:40:42`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 15:50:42`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.84 USD** | **$6.68 USD** | **$38.53 USD** | 🔴 **-3.69%** ($-1.47) |
+| **$40.00 USD** | **$31.84 USD** | **$6.68 USD** | **$38.53 USD** | 🔴 **-3.68%** ($-1.47) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $355.08 | $6.68 | 📈 +2.82% | 5d 21h |
+| `AAPL` | 0.018821 | $345.35 | $355.16 | $6.68 | 📈 +2.84% | 5d 22h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The broader market shows mixed conditions with several key indices and assets remaining below their SMA20 trend lines, signaling ongoing caution. AAPL maintains a strong UPTREND (above SMA20) with a solid current profit (+2.82%), while other candidates like SPY show positive daily performance and an uptrend status. Most crypto assets and major tech equities are either range-bound or under their SMA20 lines, requiring strict adherence to trend filtering and reversal triggers. No immediate buy triggers with green 1h candles are present for potential dip buys right now, and current equity holding patience applies to AAPL."
+> "The overall market is showing mixed recovery signals. Key equity indices like SPY and AAPL remain in confirmed uptrends above their SMA20, with AAPL currently sitting at a +2.84% gain, nearing our +3.5% to +5.0% profit-taking target. Conversely, most tech names, crypto assets, and commodities remain in bearish trends below their SMA20 or exhibit weak pullback confirmations. Adhering strictly to our trend-filtering and anti-catch-falling-knife rules, we avoid buying assets in downtrends. SPY is above SMA20 with a positive 1-hour candle and an RSI of 68.9, presenting a potential secondary entry opportunity, but we keep our cash reserves stable while letting our core AAPL winner run."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 with a positive unrealized gain of +2.82%. Per equity holding patience rules, we do not rotate or sell flat/winning positions prematurely and will let the trade run toward the +3.5% to +5.0% target.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above SMA20 with a current PnL of +2.84%. Adhering to equity holding patience and asymmetric risk/reward principles, we hold the position as it approaches the +3.5% to +5.0% profit target window.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL position as it approaches the +3.5% to +5.0% profit target window, keeping patience per equity rules. Monitor SPY for a pullback entry if a clear positive 1h candle confirmation materializes while above SMA20. Maintain strict discipline regarding downtrends and crypto restrictions."
+> "Holding AAPL position as it approaches the +3.5% to +5.0% profit target window, maintaining discipline per equity patience rules. Keep monitoring SPY for potential pullback additions if market conditions remain favorable. Respect strict stop-loss levels (-1.8% to -2.0%) and avoid crypto or downtrend assets."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
