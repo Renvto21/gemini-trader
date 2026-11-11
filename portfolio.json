@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL per equity holding patience rules. Monitor AAPL closely for take-profit opportunities if it reaches +3.0% to +5.0% gains or if RSI 1h exceeds 72. Maintain strict discipline on trend-following filters: do not open new long positions on any asset trading below its SMA20. For future equity deployment, look for confirmed uptrends like SPY or AAPL experiencing a healthy pullback where RSI 1h >= 32 and change_1h_pct > 0.0. Keep cash reserves secure above the $4.00 minimum threshold.",
-    "updated_at": "2026-11-11T17:00:52.851635-03:00"
+    "notes": "Continue holding AAPL under the equity holding patience rule. Monitor AAPL closely for take-profit execution if it achieves +3.0% to +5.0% gain or if rsi_1h exceeds 72. Maintain strict discipline on trend-following filters: do not open new long positions on any asset trading below its SMA20. Keep cash reserves secure above the $4.00 minimum threshold.",
+    "updated_at": "2026-11-11T17:10:45.462764-03:00"
   }
 }
