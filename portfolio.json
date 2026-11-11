@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained current holdings in AAPL and MSFT as they remain resilient and above or near trend lines, respecting equity patience. Avoided crypto exposure due to mixed trend filters and lack of definitive 1-hour breakout confirmations. Will monitor equity market openings for bounce continuations and strict stop-loss management (-1.8% to -2.0%).",
-    "updated_at": "2026-11-11T07:50:42.304545-03:00"
+    "notes": "Maintained current holdings in AAPL and MSFT following equity patience rules. No crypto trades executed due to negative or flat 1-hour momentum and positioning below SMA20 trend filters. Will continue to monitor crypto for potential pullback setups meeting the RSI >= 32 and positive 1h change criteria, while keeping a close watch on equity market openings for stop-loss management and trend continuation.",
+    "updated_at": "2026-11-11T08:00:50.496686-03:00"
   }
 }
