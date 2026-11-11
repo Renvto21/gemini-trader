@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under the equity holding patience rule, monitoring closely for a take-profit execution if it reaches the +3.0% to +5.0% target range or if rsi_1h surpasses 72. Enforce the stop-loss strictly at -2.0%. Keep capital reserves secure and refrain from entering new positions until clear uptrend confirmations appear.",
-    "updated_at": "2026-11-11T18:00:54.447715-03:00"
+    "notes": "Continue holding AAPL under the equity holding patience rule. Monitor AAPL closely when markets reopen for a take-profit execution if it crosses the +3.0% to +5.0% target or if rsi_1h surpasses 72. Maintain strict stop-loss discipline at -2.0%. Refrain from opening new crypto positions as current available crypto assets are in downtrends below their SMA20 lines, violating our rule against catching falling knives.",
+    "updated_at": "2026-11-11T18:10:47.131271-03:00"
   }
 }

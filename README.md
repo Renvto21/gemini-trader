@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 18:00:54`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 18:10:47`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market continues to exhibit broad weakness with many equities and crypto assets trading below their respective SMA20 trend lines. Wall Street assets are currently closed (CERRADO). AAPL remains the sole bright spot, maintaining a confirmed bullish trend above its SMA20 with positive momentum, currently showing a +2.98% unrealized gain. Cryptocurrencies remain open 24/7, but none currently meet the strict pullback entry criteria of an established uptrend above SMA20 combined with constructive hourly momentum."
+> "Wall Street markets are currently closed (CERRADO), leaving stock and ETF prices frozen with most major indices trading below their SMA20 trend lines in a broader macro correction context. Cryptocurrencies remain active 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD are also currently in bearish trends (below SMA20) and lack the clean reversal confirmation required by our strict pullback rules. Our existing equity holding AAPL is closed for the weekend but continues to show strong resilience, sitting at a +2.98% PnL close to our take-profit target zone while maintaining its position above the SMA20 uptrend filter."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 and is currently up +2.98%, approaching the take-profit target zone of +3.0% to +5.0%. Adhering to the equity holding patience rule to let the winning position run.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 and is currently up +2.98%, nearing our profit target. Adhering to the equity holding patience rule, we continue to hold while markets are closed, awaiting a take-profit opportunity upon market reopening.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL under the equity holding patience rule, monitoring closely for a take-profit execution if it reaches the +3.0% to +5.0% target range or if rsi_1h surpasses 72. Enforce the stop-loss strictly at -2.0%. Keep capital reserves secure and refrain from entering new positions until clear uptrend confirmations appear."
+> "Continue holding AAPL under the equity holding patience rule. Monitor AAPL closely when markets reopen for a take-profit execution if it crosses the +3.0% to +5.0% target or if rsi_1h surpasses 72. Maintain strict stop-loss discipline at -2.0%. Refrain from opening new crypto positions as current available crypto assets are in downtrends below their SMA20 lines, violating our rule against catching falling knives."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
