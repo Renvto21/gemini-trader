@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity positions in AAPL and MSFT through market closure, monitoring take-profit zones (+3.0% to +5.0%) and strict stop-loss levels (-2.0%). Keep crypto sidelined as all primary coins remain below their SMA20 trend line.",
-    "updated_at": "2026-11-11T06:40:56.711683-03:00"
+    "notes": "Hold existing AAPL and MSFT positions through the weekend/market closure, targeting +3.0% to +5.0% for profit-taking and respecting the strict -2.0% stop-loss threshold. Keep crypto sidelined until a major asset reclaims its SMA20 trend line and demonstrates verified positive 1-hour momentum.",
+    "updated_at": "2026-11-11T06:50:42.220554-03:00"
   }
 }
