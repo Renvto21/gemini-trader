@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing long positions in AAPL and MSFT as they remain safely above their SMA20 trend lines, respecting equity holding patience and our asymmetric risk profile. Do not touch closed equity markets. For crypto markets, continue to sit on hands and wait for a confirmed daily uptrend and a positive 1-hour reversal trigger (RSI >= 32 and change_1h_pct > 0.0) before deploying any cash. Keep cash reserve strictly above $4.00.",
-    "updated_at": "2026-11-11T09:20:43.629581-03:00"
+    "notes": "Maintain existing long positions in AAPL and MSFT as they continue to respect equity holding patience and remain above the SMA20 trendline. Do not trade closed equity markets. For crypto, wait patiently for a confirmed daily uptrend and a positive 1-hour reversal trigger (RSI >= 32 and change_1h_pct > 0.0) before deployment. Keep cash reserves strictly above $4.00.",
+    "updated_at": "2026-11-11T09:30:47.136123-03:00"
   }
 }
