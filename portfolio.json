@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL and MSFT under equity holding patience guidelines. Watch stop-loss limits closely (-2.0%). Keep crypto exposure strictly at zero because all tokens fail the strict trend filter (trading below SMA20). Wait for Wall Street to reopen before evaluating new pullback entries.",
-    "updated_at": "2026-11-11T02:50:41.039980-03:00"
+    "notes": "Maintain current positions in AAPL and MSFT. Monitor stop-loss thresholds strictly at -2.0% and take-profit targets between +3.0% and +5.0%. Keep crypto exposure at zero due to persistent downtrends across all tokens. Wait for Wall Street to reopen before evaluating new equity pullbacks.",
+    "updated_at": "2026-11-11T03:00:46.395504-03:00"
   }
 }
