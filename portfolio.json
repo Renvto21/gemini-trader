@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current positions in AAPL and MSFT. Monitor stop-loss thresholds strictly at -2.0% and take-profit targets between +3.0% and +5.0%. Keep crypto exposure at zero due to persistent downtrends across all tokens. Wait for Wall Street to reopen before evaluating new equity pullbacks.",
-    "updated_at": "2026-11-11T03:10:39.738269-03:00"
+    "notes": "Holding positions in AAPL and MSFT as they remain in confirmed uptrends above their SMA20 lines, despite being temporarily closed for the weekend/night. Patience is maintained for equities per portfolio rules. Crypto assets remain completely avoided due to persistent downtrends. Will re-evaluate equity pullbacks and monitor stop-loss limits as soon as Wall Street reopens.",
+    "updated_at": "2026-11-11T03:20:40.863295-03:00"
   }
 }
