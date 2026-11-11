@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold existing positions in AAPL and MSFT as they remain in confirmed uptrends above their SMA20, respecting equity holding patience. Do not buy any crypto assets as they are currently in a market-wide downtrend below SMA20. Wait for Wall Street markets to reopen to monitor AAPL and MSFT for take-profit targets (+3.5% to +5.0%) or strict stop-losses if the -2.0% threshold is breached.",
-    "updated_at": "2026-11-11T01:10:37.378426-03:00"
+    "notes": "Maintain existing holdings in AAPL and MSFT as they remain in confirmed uptrends above SMA20. Do not execute trades on closed Wall Street assets. Avoid crypto due to persistent downtrends below SMA20 and lack of solid reversal confirmation. Prepare to take profits if AAPL or MSFT hit +3.0% to +5.0% or cut losses if they breach the -2.0% circuit breaker once markets reopen.",
+    "updated_at": "2026-11-11T01:20:46.639574-03:00"
   }
 }
