@@ -1,38 +1,3 @@
-   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $533.26 | Total: $6.98 📉 (-0.29%) [Time: 4d 22h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The broader equity market is showing mixed recovery signals with tech futures and indices like QQQ and SPY ticking upward on the day, but many major tickers remain below their crucial SMA20 trend lines, categorizing them as downtrending for strict rule adherence. Our active holdings, AAPL and MSFT, are both currently open, in confirmed uptrends above their SMA20, and displaying resilience. AAPL is holding a positive PnL (+1.47%), while MSFT is flat/slightly negative (-0.29%) but well within acceptable holding patience parameters. Cryptocurrencies and other assets like GLD, NVDA, and QQQ are either below SMA20 or failing to meet the rigorous buy trigger criteria (positive 1h change and RSI >= 32 simultaneously with confirmed uptrends). We continue to prioritize capital preservation and equity patience."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained AAPL and MSFT positions, respecting equity holding patience for slower-moving equities. AAPL is approaching profitable territory (+1.47%), and we will monitor for take-profit opportunities if RSI rises above 72 with gains reaching the +3.0% to +5.0% threshold. MSFT is holding steady near support. Keep cash reserves intact above $4.00 USD and avoid crypto or downtrending assets until strict trend filters and reversal confirmation triggers align."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 85%)
-    Reason: AAPL is in a confirmed uptrend above its SMA20 with a positive PnL (+1.47%). Adhering to the equity holding patience rule, we will let the winner run rather than prematurely exiting, targeting a +3.0% to +5.0% gain.
-    ⏸️ Holding current position without changes.
-  • Action: [HOLD] MSFT (Confidence: 85%)
-    Reason: MSFT remains in a confirmed uptrend above its SMA20. Despite minor fluctuations (-0.29%), equity patience dictates holding unless stop-loss limits (-1.8% to -2.0%) are breached or take-profit targets are reached.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.59 USD (Cash: $25.01 USD)
-
-[2026-11-11 11:40:42] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $25.01 USD
- Assets Value:        $13.61 USD
- Total Balance:       $38.62 USD
- Net PnL:             🔴 $-1.38 USD (-3.45%)
-
- 💼 Open Positions:
    • AAPL: 0.018821 u. | Buy: $345.35 | Now: $352.29 | Total: $6.63 📈 (+2.01%) [Time: 5d 18h]
    • MSFT: 0.013089 u. | Buy: $534.82 | Now: $533.02 | Total: $6.98 📉 (-0.34%) [Time: 4d 22h]
 =======================================================
@@ -151,3 +116,38 @@ Final Cycle Balance: $38.57 USD (Cash: $25.01 USD)
 
 🏁 Cycle completed.
 Final Cycle Balance: $38.54 USD (Cash: $25.01 USD)
+
+[2026-11-11 12:20:41] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+🚨 AUTOMATIC CIRCUIT BREAKER TRIGGERED:
+   • 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -2.41% hit safety limit (-2.0%). Liquidated by code to protect capital.
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.84 USD
+ Assets Value:        $6.65 USD
+ Total Balance:       $38.49 USD
+ Net PnL:             🔴 $-1.51 USD (-3.77%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $353.35 | Total: $6.65 📈 (+2.32%) [Time: 5d 18h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.49 USD (Cash: $31.84 USD)

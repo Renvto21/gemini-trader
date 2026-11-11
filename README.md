@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 12:10:43`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 12:20:55`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$25.01 USD** | **$13.53 USD** | **$38.54 USD** | 🔴 **-3.64%** ($-1.46) |
+| **$40.00 USD** | **$31.84 USD** | **$6.65 USD** | **$38.49 USD** | 🔴 **-3.77%** ($-1.51) |
 
 ---
 
@@ -16,41 +16,40 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $353.20 | $6.65 | 📈 +2.27% | 5d 18h |
-| `MSFT` | 0.013089 | $534.82 | $525.88 | $6.88 | 📉 -1.67% | 4d 22h |
+| `AAPL` | 0.018821 | $345.35 | $353.35 | $6.65 | 📈 +2.32% | 5d 18h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Major equity indices like SPY and QQQ show partial recoveries following positive tech earnings (CoreWeave), but most underlying assets remain below their SMA20 trend lines, classified as bearish or consolidating. AAPL maintains a solid uptrend above its SMA20 with positive 1-hour and 7-day momentum (+6.42%). MSFT has slipped below its SMA20 with a 1-hour RSI dropping to 30.2, bringing its PnL close to the stop-loss limit (-1.67%). Cryptocurrencies remain under pressure, generally situated below their daily SMA20 lines without meeting the strict pullback reversal criteria."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 80%): AAPL is in a confirmed uptrend above its SMA20 with positive momentum and a 2.27% profit. Sticking to the equity holding patience rule to let winners run.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "AAPL is performing well and holding steady above its SMA20; I will let winners run toward the +3% to +5% take-profit target. MSFT is currently hovering near the -1.67% mark; if it dips further toward -1.8% or lower, the stop-loss circuit breaker will execute. Cash reserves are healthy at $25.01 USD. No new buys executed as no assets currently meet all strict quantitative trend and reversal triggers simultaneously."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
 
 | Closed Trades | Win Rate | Realized PnL | Best Trade | Worst Trade |
 | :---: | :---: | :---: | :---: | :---: |
-| **90** | 🎯 **42.2%** (38W / 37L / 15BE) | 🔴 **$-1.35 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
+| **91** | 🎯 **41.8%** (38W / 38L / 15BE) | 🔴 **$-1.52 USD** | 🏆 `+$0.56 (+2.8%) on SOL-USD` | 🛡️ `$-0.97 (-2.5%) on SOL-USD` |
 ---
 
 ### 📜 Recent Trades
 
 | Date | Action | Asset | Amount | Price | Reasoning |
 | :--- | :---: | :---: | :---: | :---: | :--- |
+| `2026-11-11 12:20` | 🔴 SELL (-0.17$) | `MSFT` | $6.83 | $521.92 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -2.41% hit safety limit (-2.0%). Liquidated by code... |
 | `2026-11-10 11:31` | 🔴 SELL (-0.12$) | `GLD` | $6.87 | $371.60 | GLD has fallen below its SMA20 trend line and its current PnL is approaching the strict st... |
 | `2026-11-09 11:30` | 🟢 BUY | `GLD` | $7.00 | $378.35 | GLD is in a confirmed uptrend above its SMA20, market status is open, 1-hour momentum is s... |
 | `2026-11-06 13:10` | 🟢 BUY | `MSFT` | $7.00 | $534.82 | MSFT is in a confirmed uptrend above its SMA20, market status is open, 1-hour RSI has reco... |
 | `2026-11-05 17:40` | 🟢 BUY | `AAPL` | $6.50 | $345.35 | AAPL is in a confirmed uptrend above its SMA20, market status is open, and 1-hour momentum... |
-| `2026-11-05 11:20` | 🔴 SELL (-0.15$) | `ETH-USD` | $6.85 | $2374.60 | 🚨 STOP-LOSS (CIRCUIT BREAKER): Loss of -2.10% hit safety limit (-2.0%). Liquidated by code... |
 
 ---
 
