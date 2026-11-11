@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT in accordance with equity holding patience rules. Wall Street is closed. Crypto markets remain in a downtrend below the SMA20, so no crypto entries are justified. We will monitor our existing positions for profit targets (+3.5% to +5.0%) and protect against the strict -2.0% stop-loss threshold.",
-    "updated_at": "2026-11-10T23:50:55.880512-03:00"
+    "notes": "Maintained AAPL and MSFT positions following equity patience rules while Wall Street remains closed. Crypto assets remain in downtrends below SMA20 with negative momentum, so no crypto exposure will be added. We will continue monitoring AAPL and MSFT for profit-taking zones (+3.5% to +5.0%) when markets reopen, and stand ready to cut losses if positions breach the -2.0% circuit breaker.",
+    "updated_at": "2026-11-11T00:00:54.694194-03:00"
   }
 }
