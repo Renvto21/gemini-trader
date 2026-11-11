@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain existing long positions in AAPL and MSFT as they hold steady above the SMA20 trendline. Avoid any crypto exposure for now since all major cryptocurrencies (SOL, BTC, ETH) remain in a structural downtrend below the SMA20, despite short-term bounces. Wait for confirmed daily uptrends and strict 1-hour reversal triggers before deploying liquidity into crypto. Keep cash reserves well above the $4.00 minimum threshold.",
-    "updated_at": "2026-11-11T09:50:45.673421-03:00"
+    "notes": "Maintain existing long positions in AAPL and MSFT as they remain in a confirmed uptrend above the SMA20. Avoid all crypto exposure due to structural downtrends below the SMA20. Keep cash reserves secure ($25.01 USD) and wait for Wall Street market hours to reopen and for confirmed pullback reversal triggers before executing new equity trades.",
+    "updated_at": "2026-11-11T10:00:55.187693-03:00"
   }
 }
