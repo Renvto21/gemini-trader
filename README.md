@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 23:20:47`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-10 23:30:56`
 
 ---
 
@@ -23,16 +23,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed, rendering equity assets inactive for trading. Cryptocurrencies are open (24/7) but remain in a severe downtrend (below SMA20) with negative 24-hour momentum and failing 1-hour candles, violating the trend filter and reversal confirmation triggers. Existing equity holdings AAPL and MSFT remain in confirmed uptrends above their SMA20 and are holding steady within acceptable risk parameters, thus preserving positions according to equity holding patience rules."
+> "Wall Street markets remain closed (CERRADO) with prices frozen, meaning equity assets like AAPL and MSFT cannot be traded at this moment. Cryptocurrencies are open (24/7), but all major crypto assets (SOL-USD, ETH-USD, BTC-USD) are currently in clear downtrends (below SMA20) with negative 1-hour changes, failing to meet the strict reversal trigger criteria (rsi_1h >= 32 and change_1h_pct > 0.0). Our existing equity holdings AAPL (+0.92% PnL) and MSFT (-0.31% PnL) remain healthy within their uptrends and well above stop-loss levels."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL remains in a confirmed uptrend above its SMA20. Adhering to equity holding patience, we maintain the position while monitoring take-profit and stop-loss levels.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL remains in a confirmed uptrend above SMA20 with positive PnL. Adhering to the equity holding patience rule while markets are closed.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL and MSFT as they remain in confirmed uptrends above SMA20. Wall Street is closed, and crypto markets show no valid bullish reversal triggers (negative 1-hour changes and downtrends below SMA20), so no new trades will be initiated. Continue to monitor stop-loss levels at -2.0% and profit targets between +3.5% and +5.0% for open positions."
+> "Holding AAPL and MSFT securely within confirmed uptrends above SMA20. Wall Street is closed, and crypto markets lack valid bullish reversal triggers under our trend filter rules. We will continue to hold current positions, maintaining patience and monitoring stop-loss thresholds at -2.0% and profit targets between +3.5% and +5.0%."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
