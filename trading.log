@@ -1,37 +1,5 @@
  Initial Capital:     $40.00 USD
  Available Cash:      $31.84 USD
- Assets Value:        $6.66 USD
- Total Balance:       $38.50 USD
- Net PnL:             🔴 $-1.50 USD (-3.75%)
-
- 💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $353.77 | Total: $6.66 📈 (+2.44%) [Time: 5d 19h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Holding positions and previous plan while connection with Gemini stabilizes."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
-    Reason: Temporary connection issue, safely holding current positions.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.50 USD (Cash: $31.84 USD)
-
-[2026-11-11 13:10:36] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $31.84 USD
  Assets Value:        $6.65 USD
  Total Balance:       $38.49 USD
  Net PnL:             🔴 $-1.51 USD (-3.77%)
@@ -147,6 +115,38 @@ Final Cycle Balance: $38.50 USD (Cash: $31.84 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 85%)
     Reason: AAPL is currently in a confirmed uptrend above its SMA20 and yielding a positive PnL (+2.51%). Sticking to equity holding patience rules, we maintain the position while monitoring for the +3% to +5% take-profit target or strict stop-loss levels.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.51 USD (Cash: $31.84 USD)
+
+[2026-11-11 13:50:37] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.84 USD
+ Assets Value:        $6.66 USD
+ Total Balance:       $38.51 USD
+ Net PnL:             🔴 $-1.49 USD (-3.74%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $353.99 | Total: $6.66 📈 (+2.50%) [Time: 5d 20h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"The overall market remains in a corrective phase with most assets currently trading below their SMA20 trend lines (BAJISTA). Notable exceptions like AAPL continue to show strong resilience, staying above SMA20 with positive weekly performance (+6.66%) and maintaining a profitable position (+2.5%). Cryptocurrencies and major index ETFs are experiencing mixed short-term recovery attempts, but strict quantitative rules forbid catching falling knives or entering assets below SMA20 without confirmed trend reversals. Cash is preserved above the minimum threshold."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding AAPL in line with equity holding patience rules. AAPL is showing positive momentum and sits securely above its SMA20. We will continue monitoring AAPL for take-profit targets (+3.0% to +5.0%) or stop-loss limits (-2.0%). We remain disciplined, avoiding all downtrend assets and waiting for confirmed uptrends before deploying additional capital."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] AAPL (Confidence: 85%)
+    Reason: AAPL is currently in an uptrend (above SMA20) with a profit of +2.5%, near our take-profit target range (+3.0% to +5.0%). Per equity holding patience rules, we maintain the position and do not prematurely liquidate stable winning assets.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
