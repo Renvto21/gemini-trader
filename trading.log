@@ -1,36 +1,3 @@
-"Wall Street equities (AAPL, MSFT, GLD, QQQ, SPY, NVDA) are currently closed ('CERRADO'), with prices frozen. Cryptocurrencies are trading live 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD remain in confirmed downtrends below their SMA20 with negative 24-hour performance, failing our strict trend-following pullback rules. Our existing equity positions in AAPL and MSFT remain healthy, above their SMA20 trend lines, and showing positive gains. We maintain our cash buffer and hold our current positions."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintained existing positions in AAPL and MSFT as they continue to hold above the SMA20 trend line in positive territory. Kept crypto positions closed due to bearish trends and market status restrictions. Will patiently hold equities and look for high-quality pullbacks on Wall Street re-opening or confirmed crypto trend reversals."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 100%)
-    Reason: AAPL is above the SMA20 trend line, showing positive PnL (+1.55%), and markets are currently closed. Adhering to equity holding patience rules.
-    ⏸️ Holding current position without changes.
-  • Action: [HOLD] MSFT (Confidence: 100%)
-    Reason: MSFT is above the SMA20 trend line, showing positive PnL (+1.94%), and markets are currently closed. Adhering to equity holding patience rules.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.75 USD (Cash: $25.01 USD)
-
-[2026-11-10 22:10:38] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $25.01 USD
- Assets Value:        $13.74 USD
- Total Balance:       $38.75 USD
- Net PnL:             🔴 $-1.25 USD (-3.13%)
-
- 💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $350.69 | Total: $6.6 📈 (+1.55%) [Time: 5d 4h]
-   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $545.18 | Total: $7.14 📈 (+1.94%) [Time: 4d 8h]
-=======================================================
-
 🤖 Consulting Gemini for market analysis and trading decisions...
 
 🧠 GEMINI MARKET ANALYSIS:
@@ -147,6 +114,39 @@ Final Cycle Balance: $38.75 USD (Cash: $25.01 USD)
     ⏸️ Holding current position without changes.
   • Action: [HOLD] MSFT (Confidence: 100%)
     Reason: MSFT remains in a confirmed uptrend above SMA20 with minimal drawdown. Traditional markets are closed and the position is protected from premature rotation.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.55 USD (Cash: $25.01 USD)
+
+[2026-11-10 22:50:37] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $25.01 USD
+ Assets Value:        $13.54 USD
+ Total Balance:       $38.55 USD
+ Net PnL:             🔴 $-1.45 USD (-3.63%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $348.51 | Total: $6.56 📈 (+0.92%) [Time: 5d 5h]
+   • MSFT: 0.013089 u. | Buy: $534.82 | Now: $533.16 | Total: $6.98 📉 (-0.31%) [Time: 4d 9h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.
