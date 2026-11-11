@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 16:00:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 16:10:48`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.84 USD** | **$6.68 USD** | **$38.53 USD** | 🔴 **-3.68%** ($-1.47) |
+| **$40.00 USD** | **$31.84 USD** | **$6.68 USD** | **$38.52 USD** | 🔴 **-3.71%** ($-1.48) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $355.11 | $6.68 | 📈 +2.83% | 5d 22h |
+| `AAPL` | 0.018821 | $345.35 | $354.66 | $6.68 | 📈 +2.70% | 5d 22h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The market shows mixed conditions with major indices rebounding, but several key assets remain under their SMA20 trend lines. AAPL continues to perform well, maintaining a confirmed uptrend and approaching our profit target. Most crypto assets and growth stocks are currently trading below their SMA20 or failing to meet the strict reversal confirmation triggers (1-hour RSI and positive 1h price change), keeping us on the sidelines for new entries."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL remains in a confirmed uptrend above its SMA20 with solid momentum and a current PnL of +2.83%. Per equity holding patience and asymmetric risk/reward rules, we will let this winner run closer to our +3.5% to +5.0% take-profit target rather than selling prematurely.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding AAPL position as it nears the +3.5% to +5.0% profit target zone. Keep exercising patience per equity holding rules. Monitor SPY and other uptrend candidates for a valid pullback setup that satisfies both SMA20 and 1-hour reversal triggers. Maintain strict risk management and avoid catching falling knives."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
