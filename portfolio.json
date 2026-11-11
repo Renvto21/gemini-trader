@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT long positions with strict stop-losses at -2.0% and profit targets at +4.0%. Wall Street is closed; monitor crypto for potential trend reversals above SMA20 with positive 1-hour momentum, but maintain cash reserves and zero exposure until strict trend and confirmation filters align.",
-    "updated_at": "2026-11-11T08:40:46.413015-03:00"
+    "notes": "Holding AAPL and MSFT long positions with strict stop-losses near -2.0% and targets at +4.0%. Wall Street is closed; monitor crypto for potential trend reversals above SMA20 with positive 1-hour momentum and RSI >= 32, but maintain cash reserves and zero crypto exposure until strict trend and confirmation filters align.",
+    "updated_at": "2026-11-11T08:50:46.635448-03:00"
   }
 }
