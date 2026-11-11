@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 00:50:49`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 01:00:53`
 
 ---
 
@@ -23,11 +23,11 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market is currently closed for equities, showing frozen prices with major indices and stocks under varying conditions. Cryptocurrencies remain open (24/7), but all primary crypto assets (SOL-USD, BTC-USD, ETH-USD) are in clear downtrends below their SMA20 with negative 24h performance, violating our strict trend filter. Our equity holdings AAPL and MSFT remain in closed status; AAPL is in a confirmed uptrend (above SMA20) with a positive PnL of +0.92%, while MSFT is also in a confirmed uptrend with a minor PnL of -0.31%, well within normal equity fluctuation bounds and far above the strict -2.0% stop-loss circuit breaker."
+> "All equity markets are currently closed (CERRADO) with prices frozen. Cryptocurrencies are open 24/7, but all major crypto assets (SOL-USD, BTC-USD, ETH-USD) are in clear downtrends (below SMA20), violating the strict trend filter rule. Our existing equity positions (AAPL and MSFT) are currently held during weekend/closed hours; both remain in confirmed uptrends above their SMA20 with stable performance. AAPL is showing positive PnL (+0.92%) while MSFT is slightly down (-0.31%), well within normal holding tolerances. No crypto actions can be taken due to the downtrend filter, and no equity actions can be executed while the market is closed."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above SMA20 and is currently profitable (+0.92%). Equity holding patience dictates maintaining the position during closed market hours until take-profit or stop-loss parameters are reached.
-- **[HOLD] MSFT** (Confidence: 100%): MSFT is in a confirmed uptrend above SMA20 with a minor drawdown (-0.31%), well above the -2.0% stop-loss threshold. Equity holding patience applies during closed market hours.
+- **[HOLD] AAPL** (Confidence: 100%): Asset is in a confirmed uptrend above SMA20 and market status is closed. Adhering to equity holding patience until market reopening.
+- **[HOLD] MSFT** (Confidence: 100%): Asset is in a confirmed uptrend above SMA20 and market status is closed. Adhering to equity holding patience until market reopening.
 
 ---
 
