@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL as our sole equity position in a confirmed uptrend with a positive unrealized gain. Will let the winner run while monitoring trailing stop-loss levels and looking for green 1-hour reversal candles on other quality assets before adding exposure. Maintain cash reserves above $4.00.",
-    "updated_at": "2026-11-11T16:20:44.279868-03:00"
+    "notes": "Holding AAPL as our core equity position. It remains above its SMA20 with positive momentum, so we will let the winner run per equity holding patience rules. No new buys executed as SPY and other potential candidates lack strong pullback confirmation or remain in a downtrend. We will maintain cash reserves well above the $4.00 minimum threshold and wait for higher quality setups meeting both trend-following and momentum trigger rules.",
+    "updated_at": "2026-11-11T16:30:52.051013-03:00"
   }
 }
