@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL and MSFT positions, exercising equity holding patience as they develop. Monitor AAPL for take-profit targets (+3.0% to +5.0%) if RSI extends past 72. Keep strict stop-loss rules active (-1.8% to -2.0%). Refrain from buying new positions until assets fulfill all strict trend filters and reversal confirmation triggers (above SMA20, 1H RSI >= 32, and 1H change > 0.0%). Maintain cash reserves above $4.00 USD.",
-    "updated_at": "2026-11-11T11:40:51.076420-03:00"
+    "notes": "Maintain AAPL and MSFT positions, exercising equity holding patience. Monitor AAPL closely for take-profit targets (+3.0% to +5.0%) if RSI extends past 72. Keep strict stop-loss rules active (-1.8% to -2.0%) for MSFT and overall capital protection. Refrain from opening new positions until target assets fulfill all strict quantitative filters (above SMA20, 1H RSI >= 32, and 1H change > 0.0%). Maintain cash reserves above $4.00 USD.",
+    "updated_at": "2026-11-11T11:50:40.954136-03:00"
   }
 }
