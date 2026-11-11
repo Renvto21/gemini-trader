@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain current equity holdings in AAPL and MSFT as they remain in a bullish trend above the SMA20. Continue to avoid crypto due to ongoing bearish trends and lack of robust bounce confirmations. Keep cash reserves intact ($25.01) and wait for Wall Street markets to reopen before considering new pullback entries. Strict stop-loss levels remain at -2.0% and take-profit targets between +3.0% and +5.0%.",
-    "updated_at": "2026-11-11T02:00:42.407385-03:00"
+    "notes": "Maintain current equity holdings in AAPL and MSFT as they remain in a bullish trend above the SMA20, respecting equity holding patience rules. Continue to avoid crypto assets due to ongoing bearish trends below SMA20 and lack of robust bounce confirmations. Keep cash reserves intact ($25.01) and wait for Wall Street markets to reopen before considering new pullback entries. Strict stop-loss levels remain at -2.0% and take-profit targets between +3.0% and +5.0%.",
+    "updated_at": "2026-11-11T02:10:41.992482-03:00"
   }
 }
