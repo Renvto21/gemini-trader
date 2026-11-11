@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 11:50:40`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 12:01:23`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$25.01 USD** | **$13.59 USD** | **$38.60 USD** | 🔴 **-3.50%** ($-1.40) |
+| **$40.00 USD** | **$25.01 USD** | **$13.56 USD** | **$38.57 USD** | 🔴 **-3.56%** ($-1.43) |
 
 ---
 
@@ -16,24 +16,23 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $353.65 | $6.66 | 📈 +2.40% | 5d 18h |
-| `MSFT` | 0.013089 | $534.82 | $529.72 | $6.93 | 📉 -0.95% | 4d 22h |
+| `AAPL` | 0.018821 | $345.35 | $353.70 | $6.66 | 📈 +2.42% | 5d 18h |
+| `MSFT` | 0.013089 | $534.82 | $527.62 | $6.91 | 📉 -1.35% | 4d 22h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The equity market is showing mixed recovery signals, with tech rebounding following strong earnings sentiment from infrastructure plays like CoreWeave. AAPL remains exceptionally strong, maintaining a confirmed uptrend above its SMA20 with solid positive momentum (+1.44% 1h change, RSI 1H at 60.3), approaching our early take-profit objective. MSFT has slipped slightly below its SMA20 trend line with a negative 1h change, placing its PnL near our tactical threshold, but we exercise equity holding patience per our core rules. Cryptocurrencies and several major index ETFs remain under their respective SMA20 lines, failing strict trend filters. No new buy signals satisfy all strict pullback rules across the board today."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 with strong positive momentum. PnL is currently +2.4%, approaching our target of +3.0% to +5.0%. Exercising equity holding patience and letting the winner run.
-- **[HOLD] MSFT** (Confidence: 80%): MSFT is currently experiencing a minor dip below its SMA20 trend line with a PnL of -0.95%. Per our equity holding patience and risk rules, we do not panic sell on flat or minor noise unless the hard circuit breaker (-1.8% to -2.0%) is hit.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain AAPL and MSFT positions, exercising equity holding patience. Monitor AAPL closely for take-profit targets (+3.0% to +5.0%) if RSI extends past 72. Keep strict stop-loss rules active (-1.8% to -2.0%) for MSFT and overall capital protection. Refrain from opening new positions until target assets fulfill all strict quantitative filters (above SMA20, 1H RSI >= 32, and 1H change > 0.0%). Maintain cash reserves above $4.00 USD."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
