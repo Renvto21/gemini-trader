@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding AAPL and MSFT as they remain in confirmed uptrends above their SMA20. Will continue to strictly monitor stop-loss levels at -2.0% and take profits between +3.5% and +5.0%. Crypto assets and other equities like NVDA, SPY, and QQQ remain in downtrends below SMA20, so no new positions will be opened until a confirmed trend reversal and positive 1-hour momentum trigger appear.",
-    "updated_at": "2026-11-10T23:10:49.907137-03:00"
+    "notes": "Holding AAPL and MSFT as they remain in confirmed uptrends above SMA20. Wall Street is closed, and crypto markets show no valid bullish reversal triggers (negative 1-hour changes and downtrends below SMA20), so no new trades will be initiated. Continue to monitor stop-loss levels at -2.0% and profit targets between +3.5% and +5.0% for open positions.",
+    "updated_at": "2026-11-10T23:20:47.926603-03:00"
   }
 }
