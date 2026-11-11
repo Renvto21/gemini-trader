@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL in accordance with equity holding patience rules, targeting a take-profit execution if the position achieves a +3.0% to +5.0% gain or if rsi_1h exceeds 72. Monitor the stop-loss strictly at -2.0%. Avoid entering new long positions unless assets demonstrate confirmed uptrends above their SMA20 with positive hourly momentum.",
-    "updated_at": "2026-11-11T17:58:02.611827-03:00"
+    "notes": "Continue holding AAPL under the equity holding patience rule, monitoring closely for a take-profit execution if it reaches the +3.0% to +5.0% target range or if rsi_1h surpasses 72. Enforce the stop-loss strictly at -2.0%. Keep capital reserves secure and refrain from entering new positions until clear uptrend confirmations appear.",
+    "updated_at": "2026-11-11T18:00:54.447715-03:00"
   }
 }
