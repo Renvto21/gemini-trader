@@ -1992,7 +1992,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained AAPL and MSFT positions, respecting equity holding patience for slower-moving equities. AAPL is approaching profitable territory (+1.47%), and we will monitor for take-profit opportunities if RSI rises above 72 with gains reaching the +3.0% to +5.0% threshold. MSFT is holding steady near support. Keep cash reserves intact above $4.00 USD and avoid crypto or downtrending assets until strict trend filters and reversal confirmation triggers align.",
-    "updated_at": "2026-11-11T11:31:06.890588-03:00"
+    "notes": "Maintain AAPL and MSFT positions, exercising equity holding patience as they develop. Monitor AAPL for take-profit targets (+3.0% to +5.0%) if RSI extends past 72. Keep strict stop-loss rules active (-1.8% to -2.0%). Refrain from buying new positions until assets fulfill all strict trend filters and reversal confirmation triggers (above SMA20, 1H RSI >= 32, and 1H change > 0.0%). Maintain cash reserves above $4.00 USD.",
+    "updated_at": "2026-11-11T11:40:51.076420-03:00"
   }
 }
