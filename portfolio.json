@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "We will hold our AAPL position patiently in accordance with equity holding patience guidelines, eyeing a take-profit target between +3.5% and +5.0% or if rsi_1h pushes above 72 with sufficient gains. We maintain strict risk management and await market reopening or valid crypto pullback confirmations while keeping cash reserves protected.",
-    "updated_at": "2026-11-12T04:50:53.340543-03:00"
+    "notes": "Continue to hold AAPL patiently while monitoring its proximity to the take-profit target (+3.5% to +5.0% or rsi_1h > 72). Avoid entering crypto markets until clear trend reversals and valid pullback confirmations (rsi_1h >= 32 and change_1h_pct > 0.0) materialize. Maintain disciplined cash reserves.",
+    "updated_at": "2026-11-12T05:00:48.987413-03:00"
   }
 }
