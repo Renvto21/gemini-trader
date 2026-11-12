@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 12:00:53`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 12:11:01`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.84 USD** | **$6.75 USD** | **$38.59 USD** | 🔴 **-3.52%** ($-1.41) |
+| **$40.00 USD** | **$31.84 USD** | **$6.74 USD** | **$38.58 USD** | 🔴 **-3.54%** ($-1.42) |
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $358.60 | $6.75 | 📈 +3.84% | 6d 18h |
+| `AAPL` | 0.018821 | $345.35 | $358.12 | $6.74 | 📈 +3.70% | 6d 18h |
 
 ---
 
