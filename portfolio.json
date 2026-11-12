@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL patiently according to equity holding rules, targeting a take-profit gain between +3.5% and +5.0% or an exit if rsi_1h exceeds 72. Keep crypto assets completely sidelined as they are in downtrends below SMA20 with negative 1-hour momentum. Maintain strict stop-loss rules for all open and future positions and preserve our cash reserve above the $4.00 minimum.",
-    "updated_at": "2026-11-12T07:50:48.520316-03:00"
+    "notes": "Continue holding AAPL patiently. Monitor its 1-hour RSI for a potential exit if it exceeds 72 or if total profit hits our +3.5% to +5.0% target window. Keep all crypto assets sidelined since they are below SMA20 and fail reversal filters. Maintain cash reserves above $4.00.",
+    "updated_at": "2026-11-12T08:00:45.277115-03:00"
   }
 }
