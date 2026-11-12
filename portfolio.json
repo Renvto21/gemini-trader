@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL while monitoring for market reopening to execute take-profit targets (+3.5% to +5.0% or RSI_1h > 72). Keep crypto assets sidelined as they do not meet the SMA20 trend filter or the reversal confirmation triggers (rsi_1h >= 32 and change_1h_pct > 0.0). Maintain strict stop-loss and risk management protocols.",
-    "updated_at": "2026-11-12T07:40:44.414783-03:00"
+    "notes": "Continue holding AAPL patiently according to equity holding rules, targeting a take-profit gain between +3.5% and +5.0% or an exit if rsi_1h exceeds 72. Keep crypto assets completely sidelined as they are in downtrends below SMA20 with negative 1-hour momentum. Maintain strict stop-loss rules for all open and future positions and preserve our cash reserve above the $4.00 minimum.",
+    "updated_at": "2026-11-12T07:50:48.520316-03:00"
   }
 }

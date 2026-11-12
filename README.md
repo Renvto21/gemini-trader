@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 07:40:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 07:50:48`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets remain closed, keeping traditional equities and ETFs frozen while cryptocurrencies trade actively 24/7. Major crypto assets (BTC, ETH, SOL) continue to exhibit bearish trends below their respective SMA20 lines with weak 1-hour RSI indicators below 32, failing the strict trend and reversal filters. AAPL is our sole active position, currently showing a solid gain of +2.98% with an RSI_1h of 70.4 approaching our target take-profit zone of +3.5% to +5.0%. Given that equities are closed and AAPL has not yet breached our target or stop-loss limits, patience is maintained."
+> "The overall market shows major indices and equities under downward pressure with most tracked assets trading below their SMA20, signaling a prevailing bearish trend. Wall Street is currently closed (market status CERRADO), freezing equity prices. AAPL remains our sole active position, currently showing a solid unrealized profit of +2.98% while maintaining an uptrend above its SMA20 and an elevated 1H RSI near 70.4. Cryptocurrencies are open 24/7 but continue to trade in bearish trends below their SMA20 lines with weak momentum, failing to meet our strict pullback entry criteria (rsi_1h >= 32 and change_1h_pct > 0.0), keeping us sidelined on crypto assets to avoid falling knives."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend and approaching the take-profit target zone (+2.98% currently). Following equity holding patience rules, we hold the position as Wall Street is closed.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is maintaining a strong uptrend above its SMA20 with a +2.98% unrealized gain. Sticking to equity holding patience principles, we will not sell prematurely and will hold until the take-profit target (+3.5% to +5.0% or RSI > 72) is achieved.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL while monitoring for market reopening to execute take-profit targets (+3.5% to +5.0% or RSI_1h > 72). Keep crypto assets sidelined as they do not meet the SMA20 trend filter or the reversal confirmation triggers (rsi_1h >= 32 and change_1h_pct > 0.0). Maintain strict stop-loss and risk management protocols."
+> "Continue holding AAPL patiently according to equity holding rules, targeting a take-profit gain between +3.5% and +5.0% or an exit if rsi_1h exceeds 72. Keep crypto assets completely sidelined as they are in downtrends below SMA20 with negative 1-hour momentum. Maintain strict stop-loss rules for all open and future positions and preserve our cash reserve above the $4.00 minimum."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
