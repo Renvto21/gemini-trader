@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Holding our single winning position in AAPL in accordance with equity patience rules, monitoring its high 1H RSI for potential take-profit triggers if it exceeds +3.0% to +5.0% or hits RSI > 72 with strong profit. No crypto or new equity buys are executed at this time due to strict trend filters and lack of confirmed pullbacks meeting our reversal triggers across other assets.",
-    "updated_at": "2026-11-12T11:30:52.021074-03:00"
+    "notes": "Holding our single winning position in AAPL in adherence with equity holding patience rules. AAPL's profit is currently +3.4% with an overbought 1H RSI of 96.5; we will monitor closely to lock in profits if momentum stalls or take-profit targets between +3.0% and +5.0% are fully realized. No new buys are executed as all other market assets remain below the SMA20 trend filter or fail to confirm safe pullback criteria.",
+    "updated_at": "2026-11-12T11:41:04.956014-03:00"
   }
 }
