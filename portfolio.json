@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintained the profitable AAPL position as it remains in a healthy uptrend above the SMA20, respecting our equity patience rule. Crypto assets are all under their respective SMA20 lines with low daily RSIs, failing our trend filter and reversal confirmation criteria; hence, no crypto exposure was initiated. We will wait for Wall Street to reopen and for crypto assets to reclaim their SMA20 trend lines before deploying additional capital.",
-    "updated_at": "2026-11-12T04:00:40.381408-03:00"
+    "notes": "We are maintaining the AAPL position in line with equity patience rules and strict adherence to the trend filter. All crypto assets remain in downtrends below the SMA20 with low RSIs, making them falling knives. We will wait for market reopening and valid pullback reversal confirmations before taking new positions.",
+    "updated_at": "2026-11-12T04:10:44.381084-03:00"
   }
 }

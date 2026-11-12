@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 04:00:40`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 04:10:44`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street is currently closed (market_status: CERRADO), meaning traditional equities and ETFs like AAPL, MSFT, and SPY cannot be traded. In the crypto markets (ABIERTO 24/7), digital assets such as BTC-USD, ETH-USD, and SOL-USD continue to trade, but all remain firmly in a DOWNTREND (below their SMA20) with daily RSIs indicating weak or depressed momentum. Our single open position, AAPL, is performing well in an established uptrend (+2.98% PnL) and remains safely above our stop-loss thresholds. Following our strict equity holding patience rule and trend filter rules, no new positions will be opened today."
+> "Wall Street markets are currently closed (CERRADO) with prices frozen, meaning equities and ETFs like AAPL, MSFT, SPY, QQQ, NVDA, and GLD cannot be traded. Among crypto assets (ABIERTO 24/7), BTC-USD, ETH-USD, and SOL-USD are all exhibiting bearish trends below their respective SMA20 lines, failing our strict trend filter. AAPL remains our sole open position, performing well with a +2.98% gain and staying above its SMA20 line in a confirmed uptrend."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above the SMA20, showing a positive PnL of +2.98%. In accordance with equity holding patience guidelines, we are holding the position and letting the winner run while monitoring it against the strict -2.0% stop-loss limit.
+- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above its SMA20 with a healthy profit of +2.98%. Following equity patience rules, we maintain the position and let our winners run until targets or stop-loss limits are reached.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintained the profitable AAPL position as it remains in a healthy uptrend above the SMA20, respecting our equity patience rule. Crypto assets are all under their respective SMA20 lines with low daily RSIs, failing our trend filter and reversal confirmation criteria; hence, no crypto exposure was initiated. We will wait for Wall Street to reopen and for crypto assets to reclaim their SMA20 trend lines before deploying additional capital."
+> "We are maintaining the AAPL position in line with equity patience rules and strict adherence to the trend filter. All crypto assets remain in downtrends below the SMA20 with low RSIs, making them falling knives. We will wait for market reopening and valid pullback reversal confirmations before taking new positions."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
