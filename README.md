@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 03:10:38`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 03:20:34`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), meaning equity positions like AAPL are frozen until market reopens. Crypto markets remain open (ABIERTO 24/7) but are currently displaying bearish structures below their SMA20 lines with weak or unconfirmed momentum, failing to meet our strict pullback filter criteria. AAPL sits nicely at +2.98% near our profit target, and patient holding is maintained in accordance with equity holding rules."
+> "Wall Street markets are currently closed (CERRADO), meaning traditional equities and ETFs such as AAPL cannot be traded at this moment. AAPL remains our sole active position, showing a healthy +2.98% unrealized gain with an hourly RSI approaching the take-profit target zone. Crypto assets (BTC, ETH, SOL) are trading 24/7 but remain firmly in a BAJISTA (bearish) trend below their SMA20 lines, failing our strict quantitative trend filters. Consequently, no new trades are initiated, and we maintain capital preservation while holding AAPL patiently."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 and is currently up +2.98%, approaching our +3.5% take-profit target. Since markets are currently closed, we hold patiently according to equity holding guidelines.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a closed market state and maintains a solid +2.98% unrealized gain. Following the equity holding patience rule, we give the stock room to reach our +3.5% to +5.0% take-profit target without premature rotation.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Hold the AAPL position patiently as it nears the +3.5% take-profit zone with an hourly RSI of 70.4. When Wall Street opens, monitor AAPL for an hourly RSI push > 72 to lock in gains. Keep crypto assets sidelined due to downtrends and lack of clear uptrend alignment. Continue enforcing strict risk controls and capital preservation."
+> "Continue holding the AAPL position patiently as it sits near the +3.0% to +5.0% profit target. When Wall Street reopens, monitor AAPL closely for an hourly RSI push > 72 to lock in gains. Keep crypto assets sidelined due to downtrend conditions. Maintain strict risk parameters and cash reserve limits."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
