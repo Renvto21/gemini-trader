@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL holding under equity patience rules. Keep monitoring for take-profit execution if AAPL hits the +3.5% to +5.0% PnL range or its 1-hour RSI crosses above 72. All crypto assets (SOL-USD, ETH-USD, BTC-USD) remain sidelined due to bearish trends and lack of confirmed positive momentum triggers (rsi_1h >= 32 and positive 1-hour candle). Keep cash reserves protected at $31.84.",
-    "updated_at": "2026-11-12T06:40:44.035168-03:00"
+    "notes": "Maintain the AAPL holding under equity holding patience and monitor for take-profit execution if PnL reaches +3.5% to +5.0% or 1-hour RSI exceeds 72 upon market reopening. Keep all crypto assets sidelined as they remain in downtrends below SMA20 without positive momentum triggers (rsi_1h >= 32 and positive 1-hour candle). Cash reserves remain protected at $31.84.",
+    "updated_at": "2026-11-12T06:50:36.787216-03:00"
   }
 }
