@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 04:30:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 04:40:36`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO), meaning traditional equities and ETFs like AAPL, MSFT, and SPY have frozen prices and cannot be traded right now. Crypto assets are open 24/7, but all major coins (BTC-USD, ETH-USD, SOL-USD) remain in a strict downtrend below their SMA20 with low 1-hour RSI readings, violating our strict trend-following pullback rules. Our single open position, AAPL, continues to perform well with a +2.98% profit and is being held patiently according to equity holding patience rules."
+> "Traditional equity markets are currently closed (CERRADO), with AAPL maintaining a strong bullish trend above its SMA20 showing a gain of +2.98% and an hourly RSI nearing 70.4. Other major equities and gold are currently bearish or closed. Crypto assets (SOL-USD, ETH-USD, BTC-USD) are open 24/7 but remain firmly in a downtrend below their respective SMA20 levels with daily and 1-hour RSIs failing to clear our strict pullback criteria (rsi_1h remains below 32 for crypto options), so no crypto entries are triggered."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently up +2.98% and remains in a confirmed uptrend above its SMA20. Because equity holding rules dictate patience and the market is closed, we will continue holding the position until profit targets or stop-loss triggers are met.
+- **[HOLD] AAPL** (Confidence: 85%): AAPL is in a confirmed uptrend above its SMA20 and is currently up +2.98%. Following our rule of equity patience and asymmetric risk/reward, we continue to let the winner run while monitoring for a take-profit target of +3.5% to +5.0%.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "We are maintaining our AAPL position as it stays strong in an uptrend with +2.98% profit. We will watch for rsi_1h to cross 72 with gains exceeding +3.5% to take profit. Crypto markets remain unfavorable due to bearish trends and weak momentum. We will maintain cash reserves and await market reopening for fresh pullback setups."
+> "We will hold our AAPL position as it continues to perform well in an uptrend, eyeing a take-profit target at +3.5% to +5.0% or if rsi_1h crosses above 72 with sufficient gains. We maintain strict risk management and await market reopening or valid crypto pullback confirmations."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
