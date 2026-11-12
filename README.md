@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 06:20:52`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 06:30:52`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The overall market condition remains cautious with major equities and commodities currently sitting below their SMA20 trend lines while Wall Street is closed (market status CERRADO). Cryptocurrencies (SOL-USD, ETH-USD, BTC-USD) are trading 24/7 but remain in a strong downtrend (below SMA20) with negative 1-hour momentum, preventing any new buy entries under strict trend filters. Our sole open position, AAPL, is in a confirmed uptrend (above SMA20) with a healthy PnL of +2.98% and a 1-hour RSI of 70.4. Equity holding patience rules apply, and we will hold AAPL until take-profit conditions (+3.5% to +5.0% or 1H RSI > 72) are met."
+> "The broader equity and crypto markets remain in a defensive posture with most key assets trading below their SMA20 lines, indicating ongoing consolidation or bear trends. Stock markets (AAPL, SPY, QQQ, MSFT, GLD, NVDA) are currently closed (market status: CERRADO), preventing any stock actions. Cryptocurrencies (SOL-USD, BTC-USD, ETH-USD) remain open 24/7 but are failing to show confirmed bullish reversal triggers (rsi_1h remains below 32 and 1-hour changes are flat or negative), confirming we must avoid catching falling knives. Our sole open position, AAPL, continues to hold a solid profit of +2.98% while staying above its SMA20 trend line in an uptrend, with its 1-hour RSI nearing overbought levels (70.4). Adhering to equity holding patience and asymmetric reward targets, we maintain the AAPL position while preserving cash."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 95%): AAPL is in a confirmed uptrend above SMA20 with a solid PnL of +2.98%. Following equity holding patience rules, we maintain the position as it approaches take-profit territory without triggering any stop-loss criteria.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20, currently showing a +2.98% profit. Sticking to equity holding patience rules, we allow the winning trade room to develop toward our +3.5% to +5.0% take-profit target or an RSI > 72 reading.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL under equity holding patience rules, targeting a take-profit execution if 1-hour RSI exceeds 72 or PnL hits +3.5% to +5.0%. Maintain strict discipline on crypto and closed-market assets: do not enter any positions until they reclaim their SMA20 and exhibit confirmed positive reversal candles. Cash reserves remain safe at $31.84."
+> "Maintain the AAPL holding under equity patience rules. Watch for take-profit execution if AAPL's 1-hour RSI crosses above 72 or PnL hits the +3.5% to +5.0% range. Keep all closed-market assets and crypto sidelined until they cleanly reclaim their SMA20 lines and show confirmed positive momentum triggers (rsi_1h >= 32 and positive 1-hour candles). Cash reserves remain well-protected at $31.84."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats

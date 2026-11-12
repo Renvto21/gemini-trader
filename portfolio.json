@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Continue holding AAPL under equity holding patience rules, targeting a take-profit execution if 1-hour RSI exceeds 72 or PnL hits +3.5% to +5.0%. Maintain strict discipline on crypto and closed-market assets: do not enter any positions until they reclaim their SMA20 and exhibit confirmed positive reversal candles. Cash reserves remain safe at $31.84.",
-    "updated_at": "2026-11-12T06:20:52.049344-03:00"
+    "notes": "Maintain the AAPL holding under equity patience rules. Watch for take-profit execution if AAPL's 1-hour RSI crosses above 72 or PnL hits the +3.5% to +5.0% range. Keep all closed-market assets and crypto sidelined until they cleanly reclaim their SMA20 lines and show confirmed positive momentum triggers (rsi_1h >= 32 and positive 1-hour candles). Cash reserves remain well-protected at $31.84.",
+    "updated_at": "2026-11-12T06:30:52.032524-03:00"
   }
 }
