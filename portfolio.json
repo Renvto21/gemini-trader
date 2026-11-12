@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the AAPL position during closed market hours as it preserves its UPTREND status above the SMA20 with positive PnL. Prepare to execute a profit-taking exit once Wall Street reopens if AAPL reaches the +3.5% to +5.0% target zone or if the 1-hour RSI crosses above 72. Keep all crypto assets sidelined since none satisfy the trend filter requirement above the SMA20. Ensure cash reserves remain strictly above $4.00.",
-    "updated_at": "2026-11-11T22:20:45.113859-03:00"
+    "notes": "Maintain the AAPL position through the closed market hours as it remains in an uptrend above the SMA20. When Wall Street reopens, monitor AAPL closely for a profit-taking exit once it reaches the +3.5% to +5.0% target zone or if the 1-hour RSI crosses above 72. Keep all crypto assets sidelined since none satisfy the trend filter requirement above the SMA20. Ensure cash reserves remain strictly above $4.00.",
+    "updated_at": "2026-11-11T22:30:48.692259-03:00"
   }
 }

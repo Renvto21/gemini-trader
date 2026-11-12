@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 22:20:45`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-11 22:30:48`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets remain closed with prices frozen, showing broad macroeconomic consolidation and multiple indices trading below their SMA20 trend lines. Cryptocurrencies are trading actively 24/7, but major assets like BTC-USD, ETH-USD, and SOL-USD remain in bearish trends below their respective SMA20 lines and show negative 7-day performance, failing the strict trend filter criteria. AAPL is currently held in an ongoing profitable position above the SMA20, but because the market status is closed, no trades can be executed on equities at this moment."
+> "Wall Street markets remain closed (CERRADO) with prices frozen, meaning active execution must respect market hours and avoid equities or commodities. Cryptocurrencies are trading 24/7, but none meet our strict trend-following pullback criteria: SOL-USD, BTC-USD, and ETH-USD are all trading below their SMA20 with negative 1-hour changes, failing the rule of gold and reversal trigger. AAPL is currently our only open position, holding steady in an uptrend above the SMA20 with positive PnL (+0.92%). Per equity holding patience rules, we will maintain the AAPL position while markets are closed and wait for the opening bell to evaluate profit-taking."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 85%): AAPL is currently in an uptrend above its SMA20 and market status is closed. Complying with equity holding patience and market hours rules, we hold the position until a profit target or stop-loss is met upon market reopening.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 with positive PnL and market status is currently closed. Maintaining position per equity patience rules.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain the AAPL position during closed market hours as it preserves its UPTREND status above the SMA20 with positive PnL. Prepare to execute a profit-taking exit once Wall Street reopens if AAPL reaches the +3.5% to +5.0% target zone or if the 1-hour RSI crosses above 72. Keep all crypto assets sidelined since none satisfy the trend filter requirement above the SMA20. Ensure cash reserves remain strictly above $4.00."
+> "Maintain the AAPL position through the closed market hours as it remains in an uptrend above the SMA20. When Wall Street reopens, monitor AAPL closely for a profit-taking exit once it reaches the +3.5% to +5.0% target zone or if the 1-hour RSI crosses above 72. Keep all crypto assets sidelined since none satisfy the trend filter requirement above the SMA20. Ensure cash reserves remain strictly above $4.00."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
