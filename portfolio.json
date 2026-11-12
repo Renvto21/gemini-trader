@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain AAPL holding under equity holding patience while markets remain closed. Watch for take-profit execution if AAPL reaches +3.5% to +5.0% or if 1-hour RSI crosses 72 when Wall Street reopens. Keep all crypto assets sidelined as they are below SMA20 and lack confirmed positive 1-hour momentum. Maintain strict adherence to stop-loss rules (-2.0%) and cash reserve minimums.",
-    "updated_at": "2026-11-12T07:10:45.522255-03:00"
+    "notes": "Maintain the AAPL holding as markets are closed and the position is approaching our +3.5% to +5.0% take-profit target zone (current 1h RSI is 70.4). Monitor AAPL closely when Wall Street reopens for potential take-profit execution if momentum peaks or RSI crosses 72. Keep all crypto assets sidelined since they remain in downtrends below SMA20. Continue respecting stop-loss guidelines (-2.0% circuit breaker) and maintain cash reserves.",
+    "updated_at": "2026-11-12T07:20:50.231217-03:00"
   }
 }
