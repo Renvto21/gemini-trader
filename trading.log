@@ -1,37 +1,5 @@
  Initial Capital:     $40.00 USD
  Available Cash:      $31.84 USD
- Assets Value:        $6.73 USD
- Total Balance:       $38.57 USD
- Net PnL:             🔴 $-1.43 USD (-3.57%)
-
- 💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $357.53 | Total: $6.73 📈 (+3.53%) [Time: 6d 18h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The broader market remains largely under selling pressure with most assets trading below their SMA20 trend lines, reflecting ongoing macro uncertainty and headline-driven volatility, particularly in tech following recent executive shakeups. AAPL is the notable exception, displaying relative strength in an confirmed uptrend above its SMA20 with a high profit margin, currently exhibiting strong overbought conditions on the 1H RSI. Cryptocurrencies and other major equities remain in downtrends or fail to meet strict pullback and confirmation triggers."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Maintain our single equity holding in AAPL in alignment with equity holding patience rules, closely monitoring its overbought 1H RSI (96.6) to lock in profits between +3.0% and +5.0% if momentum shows signs of exhaustion. No crypto or new equity buys will be executed due to the strict trend filter and lack of confirmed bullish reversal triggers across the rest of the board."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 90%)
-    Reason: AAPL remains in a confirmed uptrend above the SMA20 with a positive PnL of +3.53%. Adhering to the equity holding patience rule, we continue holding this position to let the winner run while monitoring take-profit criteria.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.57 USD (Cash: $31.84 USD)
-
-[2026-11-12 12:00:41] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $31.84 USD
  Assets Value:        $6.75 USD
  Total Balance:       $38.59 USD
  Net PnL:             🔴 $-1.41 USD (-3.52%)
@@ -134,6 +102,38 @@ Final Cycle Balance: $38.56 USD (Cash: $31.84 USD)
 
  💼 Open Positions:
    • AAPL: 0.018821 u. | Buy: $345.35 | Now: $357.51 | Total: $6.73 📈 (+3.52%) [Time: 6d 18h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.57 USD (Cash: $31.84 USD)
+
+[2026-11-12 12:40:33] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.84 USD
+ Assets Value:        $6.73 USD
+ Total Balance:       $38.57 USD
+ Net PnL:             🔴 $-1.43 USD (-3.57%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $357.44 | Total: $6.73 📈 (+3.50%) [Time: 6d 18h]
 =======================================================
 
 🤖 Consulting Gemini for market analysis and trading decisions...
