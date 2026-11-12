@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 13:31:05`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 13:40:52`
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Initial Capital | Free Cash | Assets Value | Total Balance | Net Return |
 | :---: | :---: | :---: | :---: | :---: |
-| **$40.00 USD** | **$31.84 USD** | **$6.74 USD** | **$38.58 USD** | 🔴 **-3.54%** ($-1.42) |
+| **$40.00 USD** | **$31.84 USD** | **$6.73 USD** | **$38.58 USD** | 🔴 **-3.56%** ($-1.42) |
 
 ---
 
@@ -16,22 +16,22 @@
 
 | Asset | Shares | Buy Price | Current Price | Total Value | PnL % | Holding Time |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| `AAPL` | 0.018821 | $345.35 | $358.13 | $6.74 | 📈 +3.70% | 6d 19h |
+| `AAPL` | 0.018821 | $345.35 | $357.80 | $6.73 | 📈 +3.61% | 6d 20h |
 
 ---
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
+> "The broader market is exhibiting heightened volatility and downside pressure following leadership changes at NVIDIA, dragging major tech indices and crypto assets into short-term corrections. Cryptocurrencies remain in a strict downtrend with RSI levels deeply oversold but failing to show the required green 1-hour bounce trigger. AAPL is holding its position above the SMA20 uptrend line with strong momentum and positive PnL (+3.61%), validating the equity holding patience rule. SPY is above SMA20 but showing mixed short-term indicators. We continue to prioritize capital preservation and strictly adhere to trend-following pullback rules."
 
 **Cycle Actions:**
-- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed uptrend above its SMA20 and is our only open profitable position (+3.61%). Following equity holding patience rules, we do not rotate or sell flat/winning positions prematurely.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Holding positions and previous plan while connection with Gemini stabilizes."
+> "Holding AAPL position as it remains in an established uptrend above SMA20. Monitor stop-loss closely around -1.8% to -2.0% from entry, and let profits run toward the +3% to +5% target range. Do not open new crypto positions until they reverse cleanly above SMA20 with 1H RSI >= 32 and positive 1H change. Maintain minimum cash reserves."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
