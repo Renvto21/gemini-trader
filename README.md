@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 07:00:44`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 07:10:45`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "The traditional stock market is closed (CERRADO), meaning active liquidity cannot be deployed into equities like AAPL or SPY at this hour. AAPL remains our sole active holding in a confirmed uptrend (above SMA20) with a healthy +2.98% PnL, adhering to equity holding patience. Crypto assets (SOL-USD, BTC-USD, ETH-USD) are open 24/7, but all of them remain in a strict downtrend (below SMA20) with 1-hour RSI values failing to meet our Reversal Confirmation Trigger (rsi_1h >= 32 and positive 1-hour momentum). Therefore, no crypto trades are justified."
+> "The overall market is currently closed for equities (AAPL, SPY, QQQ, NVDA, MSFT, GLD show 'CERRADO'), with prices frozen. Cryptocurrencies (SOL-USD, BTC-USD, ETH-USD) are open 24/7, but all remain in a bearish trend below their respective SMA20 lines with weak 1-hour momentum, failing to meet our rigorous trend and reversal filters. Our sole active position, AAPL, is holding steady in an uptrend above its SMA20 with a +2.98% PnL, approaching our take-profit threshold (+3.5% to +5.0% or 1h RSI > 72). Cash reserves are maintained safely at $31.84."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 100%): AAPL is in a confirmed uptrend above SMA20 with a profitable position (+2.98%). Following equity holding patience rules, we do not rotate or sell flat/winning stocks prematurely while markets are closed.
+- **[HOLD] AAPL** (Confidence: 90%): AAPL is currently in a confirmed uptrend above its SMA20 with a +2.98% PnL. In accordance with equity holding patience and take-profit targets (+3.5% to +5.0%), we hold the position while markets are closed.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Maintain the AAPL holding under equity holding patience, monitoring for take-profit execution if PnL targets of +3.5% to +5.0% or 1-hour RSI > 72 are reached upon market reopening. Keep all crypto assets sidelined since they are below SMA20 and lack confirmed reversal momentum (rsi_1h >= 32). Cash reserves remain stable at $31.84."
+> "Maintain AAPL holding under equity holding patience while markets remain closed. Watch for take-profit execution if AAPL reaches +3.5% to +5.0% or if 1-hour RSI crosses 72 when Wall Street reopens. Keep all crypto assets sidelined as they are below SMA20 and lack confirmed positive 1-hour momentum. Maintain strict adherence to stop-loss rules (-2.0%) and cash reserve minimums."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
