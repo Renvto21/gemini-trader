@@ -5,38 +5,6 @@
  Net PnL:             🔴 $-1.46 USD (-3.66%)
 
  💼 Open Positions:
-   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $355.63 | Total: $6.69 📈 (+2.98%) [Time: 6d 16h]
-=======================================================
-
-🤖 Consulting Gemini for market analysis and trading decisions...
-
-🧠 GEMINI MARKET ANALYSIS:
-"The traditional stock market is currently closed (market status CERRADO) with prices frozen, while cryptocurrencies remain open 24/7. Major crypto assets (BTC-USD, ETH-USD, SOL-USD) are in clear downtrends below their SMA20 with negative 24-hour momentum and low 1-hour RSI readings, presenting no valid reversal confirmation trigger (change_1h_pct is negative). Our only active position is AAPL, which is currently closed but holding a strong profit of +2.98%, remaining above its SMA20 in a confirmed uptrend. Given the rules of equity holding patience and strict trend filters, AAPL should be held, and crypto assets should be avoided due to the lack of bullish setups."
-
-📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
-"Continue holding AAPL as it maintains its uptrend above SMA20 with a current gain of +2.98%. Monitor AAPL closely for take-profit execution if 1h RSI exceeds 72 or price reaches the +3.5% to +5.0% target zone upon market open. Keep all crypto assets sidelined due to bearish structures and failing reversal confirmation triggers. Maintain the $31.84 cash reserve and wait for Wall Street market hours to resume for new high-quality equity pullback opportunities."
-
-⚡ DECIDED ACTIONS:
-  • Action: [HOLD] AAPL (Confidence: 90%)
-    Reason: AAPL is in a confirmed uptrend above its SMA20 with a positive PnL of +2.98%. Following equity holding patience rules, we maintain the position as market hours are closed and the target take-profit zone has not yet been reached.
-    ⏸️ Holding current position without changes.
-
-🏁 Cycle completed.
-Final Cycle Balance: $38.54 USD (Cash: $31.84 USD)
-
-[2026-11-12 10:40:44] 🔍 Starting analysis cycle...
-📡 Downloading quotes & 1H intraday indicators for 9 assets...
-
-=======================================================
- 📊 CURRENT PORTFOLIO STATUS
-=======================================================
- Initial Capital:     $40.00 USD
- Available Cash:      $31.84 USD
- Assets Value:        $6.69 USD
- Total Balance:       $38.54 USD
- Net PnL:             🔴 $-1.46 USD (-3.66%)
-
- 💼 Open Positions:
    • AAPL: 0.018821 u. | Buy: $345.35 | Now: $355.63 | Total: $6.69 📈 (+2.98%) [Time: 6d 17h]
 =======================================================
 
@@ -147,6 +115,38 @@ Final Cycle Balance: $38.54 USD (Cash: $31.84 USD)
 ⚡ DECIDED ACTIONS:
   • Action: [HOLD] AAPL (Confidence: 90%)
     Reason: AAPL is in a confirmed uptrend above its SMA20 with a positive PnL of +2.98%. Following equity holding patience and trend-following rules, we hold the position as market hours are closed and wait for target profit levels upon market reopening.
+    ⏸️ Holding current position without changes.
+
+🏁 Cycle completed.
+Final Cycle Balance: $38.54 USD (Cash: $31.84 USD)
+
+[2026-11-12 11:20:39] 🔍 Starting analysis cycle...
+📡 Downloading quotes & 1H intraday indicators for 9 assets...
+
+=======================================================
+ 📊 CURRENT PORTFOLIO STATUS
+=======================================================
+ Initial Capital:     $40.00 USD
+ Available Cash:      $31.84 USD
+ Assets Value:        $6.69 USD
+ Total Balance:       $38.54 USD
+ Net PnL:             🔴 $-1.46 USD (-3.66%)
+
+ 💼 Open Positions:
+   • AAPL: 0.018821 u. | Buy: $345.35 | Now: $355.63 | Total: $6.69 📈 (+2.98%) [Time: 6d 17h]
+=======================================================
+
+🤖 Consulting Gemini for market analysis and trading decisions...
+
+🧠 GEMINI MARKET ANALYSIS:
+"Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
+
+📝 OPERATIONAL JOURNAL / NOTES FOR NEXT CYCLES:
+"Holding positions and previous plan while connection with Gemini stabilizes."
+
+⚡ DECIDED ACTIONS:
+  • Action: [HOLD] PORTFOLIO (Confidence: 100%)
+    Reason: Temporary connection issue, safely holding current positions.
     ⏸️ Holding current position without changes.
 
 🏁 Cycle completed.

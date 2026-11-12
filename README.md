@@ -1,6 +1,6 @@
 # 🤖 Gemini Autonomous Trader
 
-> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 11:10:46`
+> **Status:** 🟢 Cloud Active | **Last Updated:** `2026-11-12 11:21:53`
 
 ---
 
@@ -22,16 +22,16 @@
 
 ### 🧠 Latest Gemini Market Analysis (Current Cycle)
 
-> "Wall Street markets are currently closed (CERRADO) with prices frozen. Cryptocurrencies are trading 24/7, but all major crypto assets (BTC, ETH, SOL) remain in a strong downtrend below their respective SMA20 lines with 1-hour changes negative and low RSI values, failing our strict trend filter and reversal confirmation triggers. Within our portfolio, AAPL is currently the only asset showing an active uptrend above its SMA20 with solid gains (+2.98%). Since AAPL market status is closed and no crypto setup meets our criteria, we maintain our holding patience on AAPL and keep cash reserves untouched."
+> "Temporary notice from Gemini (404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-flash-latest is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}). Safety HOLD rule applied to protect positions."
 
 **Cycle Actions:**
-- **[HOLD] AAPL** (Confidence: 90%): AAPL is in a confirmed uptrend above its SMA20 with a positive PnL of +2.98%. Following equity holding patience and trend-following rules, we hold the position as market hours are closed and wait for target profit levels upon market reopening.
+- **[HOLD] PORTFOLIO** (Confidence: 100%): Temporary connection issue, safely holding current positions.
 
 ---
 
 ### 📝 Operational Memory & Journal (Next Cycles)
 
-> "Continue holding AAPL as it maintains its bullish structure above the SMA20 trend line. Prepare to monitor AAPL closely when Wall Street reopens for a take-profit execution if 1h RSI exceeds 72 or total gain reaches the +3.0% to +5.0% target window. Keep all crypto and closed-market assets sidelined until valid uptrend pullbacks and positive 1-hour momentum confirmations materialize."
+> "Holding positions and previous plan while connection with Gemini stabilizes."
 ---
 
 ### 📈 Quantitative Performance & Historical Stats
