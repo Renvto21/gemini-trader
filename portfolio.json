@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Maintain the current AAPL position as equity holding patience dictates letting quality stocks play out while markets are closed. Monitor AAPL closely upon market open for potential profit-taking targets between +3.0% and +5.0% or if 1-hour RSI exceeds 72. Keep all crypto assets sidelined since they remain in bear trends below the SMA20, despite short-term 1-hour green candles. Ensure cash reserves remain above the $4.00 minimum.",
-    "updated_at": "2026-11-11T23:30:45.437679-03:00"
+    "notes": "Maintain the current AAPL position in accordance with equity holding patience. Monitor AAPL closely when markets reopen for profit-taking targets between +3.0% and +5.0% or if RSI_1h exceeds 72. Keep all crypto assets sidelined as they remain below their SMA20 trend lines. Ensure strict adherence to stop-loss levels and cash reserve minimums.",
+    "updated_at": "2026-11-11T23:40:39.845942-03:00"
   }
 }
