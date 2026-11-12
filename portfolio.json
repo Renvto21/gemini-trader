@@ -1998,7 +1998,7 @@
     }
   ],
   "memory": {
-    "notes": "Hold AAPL position as market is closed. Monitor AAPL upon market reopening to secure profits if it reaches +3.0% to +5.0% or if rsi_1h surpasses 72. Keep crypto sidelined due to persistent downtrends below SMA20. Maintain cash reserve discipline above $4.00.",
-    "updated_at": "2026-11-12T00:20:46.667578-03:00"
+    "notes": "Hold AAPL position as markets are closed and the asset remains in a confirmed uptrend above SMA20. Monitor AAPL upon market reopening to secure profits once the +3.0% to +5.0% target zone is reached or if rsi_1h surpasses 72. Keep all crypto assets sidelined due to persistent downtrends below SMA20. Maintain cash reserve discipline above $4.00.",
+    "updated_at": "2026-11-12T00:30:48.936441-03:00"
   }
 }
